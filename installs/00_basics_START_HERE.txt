@@ -1,0 +1,94 @@
+
+#######################################################
+# NOTE ON SCIENTIFIC COMPUTING
+#
+# Any time you get an error message, ***GOOGLE IT FIRST***.
+# This will usually save you lots of time. 
+# Most issues are commonly-encountered and there 
+# will be some simple solution.
+#######################################################
+
+
+
+#######################################################
+# NOTE ON PERMISSIONS ON A MAC
+#######################################################
+On Macs, newly downloaded software will often give messages like this:
+
+=========
+Apple could not verify “famsa2” is free of malware that may harm your Mac or compromise your privacy.
+=========
+
+You need to give your computer permission to run this file.  Go to:
+
+System Settings -> Privacy & Security -> scroll to bottom -> "'famsa2' was blocked to protect your Mac." -> Allow Anyway (put in password if needed)
+#######################################################
+
+
+
+#######################################################
+# BASICS
+#######################################################
+# 
+# Code editor: 
+# - You need a good text editor for code (NOT WORD, NOTEPAD, Google Docs etc.)
+# - Good options: RStudio's code editor (see RStudio, below); BBedit (for Macs); Visual Studio code (VS code)
+# 
+# GitHub: 
+# - Get a free GitHub account
+# - Install GitHub Desktop: https://desktop.github.com/download/
+# - File -> Clone Repository -> URL -> https://github.com/nmatzke/str2phyw
+# 
+# - Also, create a symbolic link (or shortcut) so that your GitHub directory
+#   is accessible at ~/GitHub/ .  (~ is your home directory)
+# 
+# e.g.:
+#         ln -s /path/to/original /path/to/link 
+#         ln -s /Users/nmat471/Documents/GitHub /Users/nmat471/GitHub
+# 
+# Terminal commands to change directory to home (cd ~), 
+# check working directory (pwd)
+# list directories (ls -d)
+# 
+# cd ~
+# pwd
+# ls -d G*
+# 
+
+
+# On Macs:
+# Xcode Developer Tools
+xcode-select --install 
+
+
+
+#######################################################
+# More on symbolic paths / shortcut links
+#######################################################
+
+
+II. Getting simple symbolic paths on the laptop:
+
+Since my code often refers to files on GitHub and the like, I want all my machines (and yours!) to be
+able to refer to the same file paths on your machines.
+
+I also want these file paths to be fairly short.  E.g.,
+
+Good: ~/GitHub/str2phy/Rsrc/str2phy_v1.R
+Bad:  /Systems/Volumes/Data/GitHub/str2phy/Rsrc/str2phy_v1.R
+
+The simplest way to do this is to put your GitHub local repository in your default user directory (represented by "~"),
+or create a symbolic link (see below) in your user directory to wherever you have stored your GitHub local repository.
+
+
+
+III. Command-line shortcut for ChimeraX
+
+Once you have ChimeraX downloaded and running, you can make a shortcut to run it from the Command-line:
+
+cd /usr/local/bin
+ln -s /Applications/ChimeraX-1.7.1.app/Contents/bin/ChimeraX chimerax 
+ln -s /Applications/ChimeraX-1.7.1.app/Contents/bin/ChimeraX chimx   
+ln -s /Applications/ChimeraX-1.7.1.app/Contents/bin/ChimeraX cx 
+
+Similar shortcuts should be done for e.g. famsa3di, foldseek, etc. (unless those programs have already been copied to /usr/local/bin/)

@@ -1,0 +1,181 @@
+
+#######################################################
+# bioinformatics_command-line_tools.txt -- programs to download/install
+#######################################################
+
+#######################################################
+# NOTE ON SCIENTIFIC COMPUTING
+#
+# Any time you get an error message, ***GOOGLE IT FIRST***.
+# This will usually save you lots of time. 
+# Most issues are commonly-encountered and there 
+# will be some simple solution.
+#######################################################
+
+#######################################################
+# NOTE ON PERMISSIONS ON A MAC
+#######################################################
+On Macs, newly downloaded software will often give messages like this:
+
+=========
+Apple could not verify “famsa2” is free of malware that may harm your Mac or compromise your privacy.
+=========
+
+You need to give your computer permission to run this file.  Go to:
+
+System Settings -> Privacy & Security -> scroll to bottom -> "'famsa2' was blocked to protect your Mac." -> Allow Anyway (put in password if needed)
+#######################################################
+
+
+
+
+#######################################################
+# IMPORTANT - TRY TO INSTALL THESE
+#######################################################
+# Tools required for workshop -- check if you have these by typing at the 
+# command line.
+# If not found, google each of these to download/install
+#######################################################
+# Most important are: R, wget, foldseek, famsa, famsa3di if possible (can be hard), 
+# foldmason, AliView, ChimeraX (1 GB install), trimAL, IQ-TREE, FigTree
+#######################################################
+
+# Generic unix/mac terminal tools
+wget - google it if you don't have it
+
+
+#######################################################
+# Searching sequences
+#######################################################
+HMMer - http://hmmer.org/download.html
+Foldseek - https://github.com/steineggerlab/foldseek
+
+
+#######################################################
+# Sequence manipulation
+#######################################################
+mmseqs2 - https://dev.mmseqs.com/latest/
+seqkit - https://bioinf.shenwei.me/seqkit/
+Meme Suite - https://meme-suite.org/meme/doc/download.html (eg for clustalw2fasta)
+easel (ESL) - https://github.com/EddyRivasLab/easel
+
+# NCBI/genbank NCBI Datasets command-line tools:
+https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/
+# (includes dataformat, datasets )
+
+# Format changing
+stockholm2fasta.pl - Perl script at ~/GitHub/str2phyw/cmds_archived/
+
+
+#######################################################
+# Aligning sequences
+#######################################################
+mafft
+- also regionalrealignment.rb , see https://mafft.cbrc.jp/alignment/software/regionalrealignment.html
+
+famsa
+famsa3di -- try the custom compilations here: 
+https://github.com/nmatzke/AA_to_3Di/tree/main/src
+
+Also try FAMSA2:
+https://github.com/refresh-bio/FAMSA/releases
+
+foldmason - https://github.com/steineggerlab/foldmason
+
+USalign - Universal Structural alignment - https://aideepmed.com/US-align/
+
+
+#######################################################
+# Alignment viewing
+#######################################################
+AliView
+ChimeraX
+
+
+
+#######################################################
+# Trimming sequences
+#######################################################
+TrimAL - https://trimal.readthedocs.io/en/latest/installation.html
+# (includes trimal, statal, readal )
+
+
+
+#######################################################
+# Phylogenetics
+#######################################################
+IQ-TREE - https://iqtree.github.io/
+FoldTree - https://github.com/DessimozLab/fold_tree
+FoldTree2 - https://github.com/DessimozLab/foldtree2
+
+
+
+#######################################################
+# Viewing trees
+#######################################################
+FigTree - https://github.com/rambaut/figtree/releases
+
+
+
+
+
+
+
+#######################################################
+# OPTIONAL - LOW PRIORITY
+#######################################################
+# Install rBLAST
+# https://github.com/mhahsler/rBLAST
+# 1. Get BLAST tools from:
+#    https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download
+#
+# 2. Install .dmg to: 
+#    cd /usr/local/ncbi/blast/bin
+#
+# blast_formatter		deltablast		rpsblast
+# blastdb_aliastool	dustmasker		rpstblastn
+# blastdbcheck		get_species_taxids.sh	segmasker
+# blastdbcmd		legacy_blast.pl		tblastn
+# blastn			makeblastdb		tblastx
+# blastp			makembindex		update_blastdb.pl
+# blastx			makeprofiledb		windowmasker
+# convert2blastmask	psiblast
+#
+# 3. Install rBLAST:
+library(devtools)
+install_github("mhahsler/rBLAST") 
+library(rBLAST)
+
+
+
+
+#######################################################
+# Things Nick uses; you won't need for the workshop (I think)
+#######################################################
+
+Julia
+Java
+GNA code compilers
+gcc
+gfortran
+
+File / program installation:
+
+Others Nick uses
+curl
+conda
+port / macports
+apt-get
+
+
+Phylogenetics:
+MrBayes
+PhyloBayes
+TNT
+Beast2
+burntrees.pl
+
+
+Fasttree
+Muscle
+

@@ -1,0 +1,256 @@
+
+
+# Copy GH24_3DI_Qmat_AlphaFold.txt and 3DI to all subdirectories
+cd ~/GitHub/str2phy/ex/MitoCOGs/_03_foldmason_v2_GH3di/
+find . -type d
+find . -type d -exec cp GH24_3DI_Qmat_AlphaFold.txt {} ';'
+find . -type d -exec cp 3DI {} ';'
+
+
+
+#######################################################
+# Change all the /GitHub/ to ~/GitHub/
+#######################################################
+find . -iname _05b_aln_trim_6iqtrees_v2.R
+
+find . -iname _05b_aln_trim_6iqtrees_v2.R -print0 | xargs -0 sed -i 's@/GitHub/@=~/GitHub/@g'
+
+find ~+ -type f -iname _05b_aln_trim_6iqtrees_v2.R > Rfiles.txt
+head Rfiles.txt
+
+while read file; do
+    sed -i -e 's@=~/GitHub/@~/GitHub/@g' "$file"
+done < Rfiles.txt
+
+
+
+# Run IQtree on all subdirectories
+cd ~/GitHub/str2phy/ex/MitoCOGs/_03_foldmason_v2_GH3di/ATP1/
+
+cd ../ATP1
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../ATP3
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+
+# Skip -- run ATP4_8 separately, with mafft run
+cd ../ATP4
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../ATP8
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+
+# Running
+cd ../ATP9
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../COB
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../COX2
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../COX3
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../EFTU
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD1
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD10
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD11
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+
+
+
+
+
+
+cd ../NAD2
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD3
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD4
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD4L
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD5
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD6
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD7
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD8
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../NAD9
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL1
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL10
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL11
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL14
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL16
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL18
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL19
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL2
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL20
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL27
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL31
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL32
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL34
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL35
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL36
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL5
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPL6
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS1
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS10
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS11
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS12
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS13
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS14
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS16
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS19
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS2
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS3
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS4
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS7
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../RPS8
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../SDH2
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+cd ../SDH3
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+
+# Running:
+
+cd ../SDH4
+cp ../ATP1/_05b_aln_trim_6iqtrees_v2.R .
+Rscript _05b_aln_trim_6iqtrees_v2.R
+

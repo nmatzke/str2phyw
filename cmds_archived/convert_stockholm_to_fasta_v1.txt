@@ -1,0 +1,11 @@
+# Convert stockholm format to FASTA
+# -g to include gaps
+perl /usr/local/bin/stockholm2fasta.pl -g FliMN_C_hmmeralign.sto > FliMN_C_hmmeralign.fasta
+perl /usr/local/bin/stockholm2fasta.pl -g FliMN_C_hmmeralign.sto > FliMN_C_hmmeralign.fasta
+perl /usr/local/bin/stockholm2fasta.pl -g FliMN_C_hmmeralign.sto > FliMN_C_hmmeralign.fasta
+
+# Convert to aligned clustal format, then to FASTA
+esl-reformat --informat stockholm clustal FliMN_C_hmmeralign.sto | tee FliMN_C_hmmeralign.sto.clustal
+clustalw2fasta FliMN_C_hmmeralign.sto.clustal > FliMN_C_hmmeralign.sto.fasta
+
+# (clustalw2fasta is part of the Meme Suite - https://meme-suite.org/meme/doc/clustalw2fasta.html )
