@@ -63,6 +63,11 @@ easel (ESL) - https://github.com/EddyRivasLab/easel
 https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/
 # (includes dataformat, datasets )
 
+# esearch 
+# (from Edirect -- Entrez Direct: E-utilities on the Unix Command Line )
+# https://www.ncbi.nlm.nih.gov/books/NBK179288/
+
+
 # Format changing
 stockholm2fasta.pl - Perl script at ~/GitHub/str2phyw/cmds_archived/
 
