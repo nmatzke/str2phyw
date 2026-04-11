@@ -9,6 +9,7 @@ HELIX    8   8 SER A  220  PHE A  244  1                                  25
 HELIX    9   9 LEU A  245  GLY A  262  1                                  18
 HELIX   10  10 SER A  272  VAL A  283  1                                  12
 HELIX   11  11 GLY A  285  LEU A  293  1                                   9
+ATOM      1  N   LEU A 109     127.408 131.359  80.357  1.00 57.08           N  
 ATOM      2  CA  LEU A 109     127.290 132.570  79.551  1.00 57.08           C  
 ATOM      3  C   LEU A 109     126.028 132.616  78.673  1.00 57.08           C  
 ATOM      4  O   LEU A 109     125.413 133.673  78.553  1.00 57.08           O  
