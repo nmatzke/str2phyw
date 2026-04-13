@@ -1,0 +1,31 @@
+# Assembly name:  ASM1066v1
+# Organism name:  Solidesulfovibrio magneticus RS-1 (bacteria)
+# Infraspecific name:  strain=RS-1
+# Taxid:          573370
+# BioSample:      SAMD00060954
+# BioProject:     PRJDA32105
+# Submitter:      National Institute of Technology and Evaluation
+# Date:           2009-06-11
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Relation to type material: assembly from type material
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_000010665.1
+# RefSeq assembly accession: GCF_000010665.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000010675.1	GCF_000010675.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+AP010904.1	assembled-molecule	na	Chromosome	AP010904.1	=	NC_012796.1	Primary Assembly	5248049	na
+pDMC1	assembled-molecule	pDMC1	Plasmid	AP010905.1	=	NC_012797.1	Primary Assembly	58704	na
+pDMC2	assembled-molecule	pDMC2	Plasmid	AP010906.1	=	NC_012795.1	Primary Assembly	8867	na

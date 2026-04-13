@@ -1,0 +1,24 @@
+ANI report for assembly: GCA_000008625.1
+Submitted organism: Aquifex aeolicus VF5 (taxid = 224324, rank = no rank, lineage = Bacteria; Pseudomonadati; Aquificota; Aquificia; Aquificales; Aquificaceae; Aquifex)
+Best match: Aquifex pyrophilus (taxid = 2714, rank = species, lineage = Bacteria; Pseudomonadati; Aquificota; Aquificia; Aquificales; Aquificaceae; Aquifex)
+Submitted organism has type: Yes
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 80.925 ( 11.6  11.4)   183894   183894  80858228     Aquifex pyrophilus (GCA_054656935.1, ASM5465693v1)
+ 85.301 (   .4    .4)        0        0    199818     Hydrogenobacter thermophilus TK-6 (GCA_000164905.1, ASM16490v1)
+ 85.194 (   .4    .4)     3186     3186    885428     Thermocrinis ruber (GCA_000512735.1, ASM51273v1)
+ 85.273 (   .4    .4)      451      451     11588     Hydrogenobacter thermophilus TK-6 (GCA_000010785.1, ASM1078v1)
+ 82.521 (  1.5   1.4)    12723    12723   7591418     Hydrogenivirga caldilitoris (GCA_003664005.1, ASM366400v1)

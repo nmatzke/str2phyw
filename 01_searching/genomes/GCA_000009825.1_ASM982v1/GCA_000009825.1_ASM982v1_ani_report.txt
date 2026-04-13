@@ -1,0 +1,24 @@
+ANI report for assembly: GCA_000009825.1
+Submitted organism: Shouchella clausii KSM-K16 (taxid = 66692, rank = no rank, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Shouchella)
+Best match: Shouchella clausii (taxid = 79880, rank = species, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Shouchella)
+Submitted organism has type: Yes
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 95.449 ( 90.7  86.8)  3892931  3892931  51299018     Shouchella clausii (GCA_034479305.1, ASM3447930v1)
+ 95.454 ( 90.6  86.3)     4492     4492   4918998     Shouchella clausii (GCA_002250115.1, ASM225011v1)
+ 93.280 ( 87.4  81.4)   109194   109194  36810798     Shouchella tritolerans (GCA_025770735.1, ASM2577073v1)
+ 83.485 (  2.5   2.7)      527      527  40923178     Shouchella hunanensis (GCA_028735875.1, ASM2873587v1)
+ 80.529 (  4.4   4.1)     3991     3991   4182888     Shouchella patagoniensis (GCA_002019705.1, ASM201970v1)

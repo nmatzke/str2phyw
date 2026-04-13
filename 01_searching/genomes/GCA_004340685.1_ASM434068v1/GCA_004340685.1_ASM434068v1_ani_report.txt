@@ -1,0 +1,24 @@
+ANI report for assembly: GCA_004340685.1
+Submitted organism: Hydrogenispora ethanolica (taxid = 1082276, rank = species, lineage = Bacteria; Bacillati; Bacillota; Hydrogenispora)
+Best match: (none)
+Submitted organism has type: Yes
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 83.541 (   .0    .0)        0        0  25497248     Actinocatenispora comari (GCA_017312725.1, ASM1731272v1)
+ 81.822 (   .0    .0)     2117     2117  21607568     Nonomuraea endophytica (GCA_014203235.1, ASM1420323v1)
+ 81.553 (   .0    .0)        0        0   2888408     Micromonospora rosaria (GCA_001567585.1, ASM156758v1)
+ 81.508 (   .0    .0)        0        0   3706148     Streptomyces aidingensis (GCA_900112355.1, IMG-taxon 2675903061 annotated assembly)
+ 81.380 (   .0    .0)        0        0  53503268     Plantactinospora veratri (GCA_036421995.1, ASM3642199v1)

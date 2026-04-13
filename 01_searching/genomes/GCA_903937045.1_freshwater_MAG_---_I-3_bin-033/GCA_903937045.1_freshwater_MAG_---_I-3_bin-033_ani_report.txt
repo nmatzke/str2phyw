@@ -1,0 +1,24 @@
+ANI report for assembly: GCA_903937045.1
+Submitted organism: uncultured Verrucomicrobium sp. (taxid = 114704, rank = species, lineage = Bacteria; Pseudomonadati; Verrucomicrobiota; Verrucomicrobiia; Verrucomicrobiales; Verrucomicrobiaceae; Verrucomicrobium; environmental samples)
+Best match: (none)
+Submitted organism has type: No
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 80.042 (   .0    .0)        0        0   7823188     Pseudokineococcus lusitanus (GCA_003751265.1, ASM375126v1)
+ 79.288 (   .2    .0)     3202     3202  22193378     Streptomyces termitum (GCA_014650175.1, ASM1465017v1)
+ 78.351 (   .0    .0)        0        0  47869348     Streptomyces evansiae (GCA_031845585.1, ASM3184558v1)
+ 77.337 (   .1    .0)      414      414  11777838     Lapillicoccus jejuensis (GCA_006715055.1, ASM671505v1)
+ 77.370 (   .1    .0)        0        0  58713958     Lapillicoccus jejuensis (GCA_039531245.1, ASM3953124v1)

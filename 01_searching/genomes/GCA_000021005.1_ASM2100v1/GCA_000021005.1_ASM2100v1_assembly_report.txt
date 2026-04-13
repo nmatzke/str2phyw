@@ -1,0 +1,30 @@
+# Assembly name:  ASM2100v1
+# Organism name:  Cereibacter sphaeroides KD131 (a-proteobacteria)
+# Infraspecific name:  strain=KD131; KCTC 12085
+# Taxid:          557760
+# BioSample:      SAMN02603252
+# BioProject:     PRJNA31111
+# Submitter:      GenoTech corp.
+# Date:           2009-01-22
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# GenBank assembly accession: GCA_000021005.1
+# RefSeq assembly accession: GCF_000021005.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000021015.1	GCF_000021015.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+1	assembled-molecule	1	Chromosome	CP001150.1	=	NC_011963.1	Primary Assembly	3152792	na
+2	assembled-molecule	2	Chromosome	CP001151.1	=	NC_011958.1	Primary Assembly	1297647	na
+pRSKD131A	assembled-molecule	pRSKD131A	Plasmid	CP001152.1	=	NC_011962.1	Primary Assembly	157345	na
+pRSKD131B	assembled-molecule	pRSKD131B	Plasmid	CP001153.1	=	NC_011960.1	Primary Assembly	103355	na

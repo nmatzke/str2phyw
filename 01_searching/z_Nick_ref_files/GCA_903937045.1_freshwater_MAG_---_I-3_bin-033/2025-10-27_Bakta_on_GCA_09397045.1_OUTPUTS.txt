@@ -1,0 +1,13 @@
+Bakta on data 30: Summary,
+Bakta on data 30: Annotation and sequences (GFF3),
+Bakta on data 30: Annotations and sequences (GenBank format),
+Bakta on data 30: Annotations and sequences (EMBL format),
+Bakta on data 30: Replicon/contig DNA sequences,
+Bakta on data 30: Feature nucleotide sequences,
+Bakta on data 30: CDS/sORF amino acid sequences,
+Bakta on data 30: Hypothetical protein CDS summary,
+Bakta on data 30: Hypothetical protein CDS amino sequences,
+Bakta on data 30: Summary (TXT),
+Bakta on data 30: Information on each annotated feature (JSON),
+Bakta on data 30: Plot of the annotation,
+Bakta on data 30: Log file

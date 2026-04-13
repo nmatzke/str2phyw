@@ -1,0 +1,6 @@
+organism: Verrucomicrobium  spcaizxv01 I-3_bin-033 
+contigs: 707
+bases: 1899636
+CDS: 1926
+gene: 1956
+tRNA: 30

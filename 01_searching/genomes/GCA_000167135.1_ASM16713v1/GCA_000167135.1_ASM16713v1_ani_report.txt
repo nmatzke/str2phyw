@@ -1,0 +1,57 @@
+ANI report for assembly: GCA_000167135.1
+Submitted organism: Listeria monocytogenes serotype 1/2a str. F6854 (taxid = 267409, rank = no rank, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Listeriaceae; Listeria)
+Best match: Listeria monocytogenes (taxid = 1639, rank = species, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Listeriaceae; Listeria)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 98.604 ( 92.6  96.0)  1679776  1679776    899558     Listeria monocytogenes FSL F6-684 (GCA_000525815.1, LmonocytogenesType)
+ 98.639 ( 92.8  96.0)   268501   268501   1191688     Listeria monocytogenes FSL F6-684 (GCA_000743465.1, LMD)
+ 98.641 ( 93.0  95.7)    88741    88741   4960548     Listeria monocytogenes (GCA_900187225.1, 51881_G01)
+ 98.641 ( 92.3  95.5)     2802     2802  66074358     Listeria monocytogenes (GCA_045319795.1, PDT002493384.1)
+ 94.917 ( 92.4  91.4)   758231   758231   2722728     Listeria monocytogenes (GCA_001466295.1, ASM146629v1)
+ 93.694 ( 88.2  92.1)    28577    28577  20675168     Listeria monocytogenes (GCA_013625995.1, ASM1362599v1)
+ 93.362 ( 84.1  88.6)     3091     3091  20675338     Listeria monocytogenes (GCA_013626145.1, ASM1362614v1)
+ 92.623 ( 83.0  90.1)     8742     8742  20674998     Listeria monocytogenes (GCA_013625895.1, ASM1362589v1)
+ 90.172 ( 77.5  83.3)     6149     6149    237778     Listeria marthii FSL S4-120 (GCA_000183865.1, ASM18386v1)
+ 89.776 ( 82.2  86.5)     3920     3920  21665368     Listeria cossartiae subsp. cayugensis (GCA_014225985.1, ASM1422598v1)
+ 89.886 ( 83.1  87.6)     1977     1977  21669048  E  Listeria swaminathanii (GCA_014229645.1, ASM1422964v1)
+ 89.814 ( 81.9  85.8)     1839     1839  21663508     Listeria cossartiae subsp. cossartiae (GCA_014224155.1, ASM1422415v1)
+ 88.810 ( 83.3  81.5)    12838    12838  21668648     Listeria farberi (GCA_014229245.1, ASM1422924v1)
+ 88.423 ( 84.8  88.9)    20937    20937  32880598     Listeria innocua (GCA_017363615.2, ASM1736361v2)
+ 88.468 ( 83.7  88.4)      783      783  32880638     Listeria innocua (GCA_017363655.2, ASM1736365v2)
+ 88.342 ( 83.5  86.2)      109      109  22053458     Listeria innocua (GCA_014527425.1, ASM1452742v1)
+ 88.404 ( 84.0  85.8)        0        0  35276718     Listeria innocua (GCA_024721565.1, ASM2472156v1)
+ 88.405 ( 84.0  85.8)        0        0  40741198     Listeria innocua (GCA_028596125.1, ASM2859612v1)
+ 88.334 ( 83.4  86.2)        0        0  62876718     Listeria innocua (GCA_042660525.1, ASM4266052v1)
+ 88.404 ( 84.0  85.8)        0        0  80233628     Listeria innocua (GCA_054208815.1, ASM5420881v1)
+ 86.962 ( 77.5  81.3)     2116     2116    353788   T Listeria welshimeri serovar 6b str. SLCC5334 (GCA_000060285.1, ASM6028v1)
+ 86.962 ( 77.5  81.3)        0        0   4960448   T Listeria welshimeri (GCA_900187315.1, 52087_C01)
+ 86.962 ( 77.5  81.3)        0        0  66747028   T Listeria welshimeri (GCA_045689465.1, ATCC_35897__202309)
+ 86.883 ( 77.0  81.6)        0        0  62627908   T Listeria welshimeri (GCA_042434595.1, ASM4243459v1)
+ 86.894 ( 77.0  81.7)        0        0  70247118   T Listeria welshimeri (GCA_965138045.1, CIP81.49T)
+ 83.764 ( 70.9  69.6)     3202     3202   8123638     Listeria ivanovii subsp. londoniensis (GCA_900637745.1, 52551_F01)
+ 83.815 ( 71.0  74.8)        0        0     27948   T Listeria seeligeri serovar 1/2b str. SLCC3954 (GCA_000027145.1, ASM2714v1)
+ 83.723 ( 70.1  70.6)        0        0    362688     Listeria ivanovii subsp. ivanovii PAM 55 (GCA_000252975.1, ASM25297v1)
+ 83.738 ( 70.1  70.8)        0        0   1349918     Listeria ivanovii subsp. ivanovii (GCA_000763515.1, ASM76351v1)
+ 83.738 ( 70.1  70.8)        0        0   4960248     Listeria ivanovii subsp. ivanovii (GCA_900187195.1, 51485_F01)
+ 83.738 ( 70.1  70.8)        0        0   4960328     Listeria ivanovii subsp. ivanovii (GCA_900187025.1, 49923_F01)
+ 83.736 ( 70.1  70.8)        0        0  61063318     Listeria ivanovii (GCA_041222755.1, ASM4122275v1)
+ 83.721 ( 70.5  75.1)        0        0  62627958   T Listeria seeligeri (GCA_042434655.1, ASM4243465v1)
+ 83.738 ( 70.1  70.8)        0        0  66030598     Listeria ivanovii (GCA_045288005.1, ATCC_19119__202309)
+ 83.736 ( 70.6  75.2)        0        0  69779638   T Listeria seeligeri (GCA_965119545.1, CIP100100T)
+ 83.647 ( 69.6  71.0)        0        0  73441148     Listeria ivanovii (GCA_049897925.1, ASM4989792v1)
+ 83.425 ( 63.4  61.0)        0        0  21808428     Listeria immobilis (GCA_014322765.1, ASM1432276v1)
+ 82.113 (  3.6   3.7)        0        0    554238     Listeria fleischmannii subsp. fleischmannii LU2006-1 (GCA_000344175.1, ASM34417v1)

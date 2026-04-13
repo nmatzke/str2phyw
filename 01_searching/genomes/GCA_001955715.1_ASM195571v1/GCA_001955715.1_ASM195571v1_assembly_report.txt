@@ -1,0 +1,33 @@
+# Assembly name:  ASM195571v1
+# Organism name:  Rhodoferax saidenbachensis (b-proteobacteria)
+# Infraspecific name:  strain=DSM 22694
+# Taxid:          1484693
+# BioSample:      SAMN06130150
+# BioProject:     PRJNA361194
+# Submitter:      Korea University
+# Date:           2017-01-18
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: PacBio SMRT Analysis v. v2.3
+# Expected final version: Yes
+# Genome coverage: 288.0x
+# Sequencing technology: PacBio
+# Relation to type material: assembly from type material
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_001955715.1
+# RefSeq assembly accession: GCF_001955715.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001955725.1	GCF_001955725.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+CP019239.1	assembled-molecule	na	Chromosome	CP019239.1	=	NZ_CP019239.1	Primary Assembly	4264855	na

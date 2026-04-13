@@ -1,0 +1,8 @@
+# Feature	Class	Full Assembly	Assembly-unit accession	Assembly-unit name	Unique Ids	Placements
+CDS	with_protein	GCA_000008425.1	GCA_000008435.1	Primary Assembly	4172	4172
+gene	protein_coding	GCA_000008425.1	GCA_000008435.1	Primary Assembly	4172	4172
+gene	pseudogene	GCA_000008425.1	GCA_000008435.1	Primary Assembly	32	32
+gene	rRNA	GCA_000008425.1	GCA_000008435.1	Primary Assembly	21	21
+gene	tRNA	GCA_000008425.1	GCA_000008435.1	Primary Assembly	72	72
+rRNA		GCA_000008425.1	GCA_000008435.1	Primary Assembly	na	21
+tRNA		GCA_000008425.1	GCA_000008435.1	Primary Assembly	na	72

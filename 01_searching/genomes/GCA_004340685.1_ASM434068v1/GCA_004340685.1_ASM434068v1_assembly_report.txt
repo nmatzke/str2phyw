@@ -1,0 +1,134 @@
+# Assembly name:  ASM434068v1
+# Organism name:  Hydrogenispora ethanolica (firmicutes)
+# Infraspecific name:  strain=LX-B
+# Taxid:          1082276
+# BioSample:      SAMN10363346
+# BioProject:     PRJNA500298
+# Submitter:      DOE Joint Genome Institute
+# Date:           2019-03-11
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    SLUN01
+# Assembly method: SPAdes v. 3.11.0
+# Expected final version: No
+# Genome coverage: 251.0x
+# Sequencing technology: Illumina HiSeq
+# Relation to type material: assembly from type material
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_004340685.1
+# RefSeq assembly accession: GCF_004340685.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_004340705.1	GCF_004340705.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+Ga0244694_1001	unplaced-scaffold	na	na	SLUN01000001.1	=	NZ_SLUN01000001.1	Primary Assembly	364188	na
+Ga0244694_1002	unplaced-scaffold	na	na	SLUN01000002.1	=	NZ_SLUN01000002.1	Primary Assembly	364062	na
+Ga0244694_1003	unplaced-scaffold	na	na	SLUN01000003.1	=	NZ_SLUN01000003.1	Primary Assembly	269942	na
+Ga0244694_1004	unplaced-scaffold	na	na	SLUN01000004.1	=	NZ_SLUN01000004.1	Primary Assembly	236856	na
+Ga0244694_1005	unplaced-scaffold	na	na	SLUN01000005.1	=	NZ_SLUN01000005.1	Primary Assembly	235278	na
+Ga0244694_1006	unplaced-scaffold	na	na	SLUN01000006.1	=	NZ_SLUN01000006.1	Primary Assembly	204969	na
+Ga0244694_1007	unplaced-scaffold	na	na	SLUN01000007.1	=	NZ_SLUN01000007.1	Primary Assembly	170823	na
+Ga0244694_1008	unplaced-scaffold	na	na	SLUN01000008.1	=	NZ_SLUN01000008.1	Primary Assembly	157895	na
+Ga0244694_1009	unplaced-scaffold	na	na	SLUN01000009.1	=	NZ_SLUN01000009.1	Primary Assembly	152478	na
+Ga0244694_1010	unplaced-scaffold	na	na	SLUN01000010.1	=	NZ_SLUN01000010.1	Primary Assembly	142127	na
+Ga0244694_1011	unplaced-scaffold	na	na	SLUN01000011.1	=	NZ_SLUN01000011.1	Primary Assembly	141275	na
+Ga0244694_1012	unplaced-scaffold	na	na	SLUN01000012.1	=	NZ_SLUN01000012.1	Primary Assembly	141125	na
+Ga0244694_1013	unplaced-scaffold	na	na	SLUN01000013.1	=	NZ_SLUN01000013.1	Primary Assembly	140136	na
+Ga0244694_1014	unplaced-scaffold	na	na	SLUN01000014.1	=	NZ_SLUN01000014.1	Primary Assembly	133825	na
+Ga0244694_1015	unplaced-scaffold	na	na	SLUN01000015.1	=	NZ_SLUN01000015.1	Primary Assembly	124632	na
+Ga0244694_1016	unplaced-scaffold	na	na	SLUN01000016.1	=	NZ_SLUN01000016.1	Primary Assembly	123918	na
+Ga0244694_1017	unplaced-scaffold	na	na	SLUN01000017.1	=	NZ_SLUN01000017.1	Primary Assembly	121579	na
+Ga0244694_1018	unplaced-scaffold	na	na	SLUN01000018.1	=	NZ_SLUN01000018.1	Primary Assembly	118708	na
+Ga0244694_1019	unplaced-scaffold	na	na	SLUN01000019.1	=	NZ_SLUN01000019.1	Primary Assembly	112855	na
+Ga0244694_1020	unplaced-scaffold	na	na	SLUN01000020.1	=	NZ_SLUN01000020.1	Primary Assembly	110748	na
+Ga0244694_1021	unplaced-scaffold	na	na	SLUN01000021.1	=	NZ_SLUN01000021.1	Primary Assembly	103792	na
+Ga0244694_1022	unplaced-scaffold	na	na	SLUN01000022.1	=	NZ_SLUN01000022.1	Primary Assembly	95669	na
+Ga0244694_1023	unplaced-scaffold	na	na	SLUN01000023.1	=	NZ_SLUN01000023.1	Primary Assembly	94680	na
+Ga0244694_1024	unplaced-scaffold	na	na	SLUN01000024.1	=	NZ_SLUN01000024.1	Primary Assembly	91885	na
+Ga0244694_1025	unplaced-scaffold	na	na	SLUN01000025.1	=	NZ_SLUN01000025.1	Primary Assembly	88675	na
+Ga0244694_1026	unplaced-scaffold	na	na	SLUN01000026.1	=	NZ_SLUN01000026.1	Primary Assembly	88377	na
+Ga0244694_1027	unplaced-scaffold	na	na	SLUN01000027.1	=	NZ_SLUN01000027.1	Primary Assembly	79019	na
+Ga0244694_1028	unplaced-scaffold	na	na	SLUN01000028.1	=	NZ_SLUN01000028.1	Primary Assembly	75576	na
+Ga0244694_1029	unplaced-scaffold	na	na	SLUN01000029.1	=	NZ_SLUN01000029.1	Primary Assembly	74500	na
+Ga0244694_1030	unplaced-scaffold	na	na	SLUN01000030.1	=	NZ_SLUN01000030.1	Primary Assembly	73744	na
+Ga0244694_1031	unplaced-scaffold	na	na	SLUN01000031.1	=	NZ_SLUN01000031.1	Primary Assembly	70046	na
+Ga0244694_1032	unplaced-scaffold	na	na	SLUN01000032.1	=	NZ_SLUN01000032.1	Primary Assembly	69988	na
+Ga0244694_1033	unplaced-scaffold	na	na	SLUN01000033.1	=	NZ_SLUN01000033.1	Primary Assembly	68407	na
+Ga0244694_1034	unplaced-scaffold	na	na	SLUN01000034.1	=	NZ_SLUN01000034.1	Primary Assembly	67783	na
+Ga0244694_1035	unplaced-scaffold	na	na	SLUN01000035.1	=	NZ_SLUN01000035.1	Primary Assembly	66666	na
+Ga0244694_1036	unplaced-scaffold	na	na	SLUN01000036.1	=	NZ_SLUN01000036.1	Primary Assembly	63173	na
+Ga0244694_1037	unplaced-scaffold	na	na	SLUN01000037.1	=	NZ_SLUN01000037.1	Primary Assembly	57212	na
+Ga0244694_1038	unplaced-scaffold	na	na	SLUN01000038.1	=	NZ_SLUN01000038.1	Primary Assembly	56646	na
+Ga0244694_1039	unplaced-scaffold	na	na	SLUN01000039.1	=	NZ_SLUN01000039.1	Primary Assembly	54066	na
+Ga0244694_1040	unplaced-scaffold	na	na	SLUN01000040.1	=	NZ_SLUN01000040.1	Primary Assembly	52805	na
+Ga0244694_1041	unplaced-scaffold	na	na	SLUN01000041.1	=	NZ_SLUN01000041.1	Primary Assembly	51505	na
+Ga0244694_1042	unplaced-scaffold	na	na	SLUN01000042.1	=	NZ_SLUN01000042.1	Primary Assembly	48905	na
+Ga0244694_1043	unplaced-scaffold	na	na	SLUN01000043.1	=	NZ_SLUN01000043.1	Primary Assembly	46797	na
+Ga0244694_1044	unplaced-scaffold	na	na	SLUN01000044.1	=	NZ_SLUN01000044.1	Primary Assembly	45805	na
+Ga0244694_1045	unplaced-scaffold	na	na	SLUN01000045.1	=	NZ_SLUN01000045.1	Primary Assembly	42431	na
+Ga0244694_1046	unplaced-scaffold	na	na	SLUN01000046.1	=	NZ_SLUN01000046.1	Primary Assembly	41852	na
+Ga0244694_1047	unplaced-scaffold	na	na	SLUN01000047.1	=	NZ_SLUN01000047.1	Primary Assembly	41766	na
+Ga0244694_1048	unplaced-scaffold	na	na	SLUN01000048.1	=	NZ_SLUN01000048.1	Primary Assembly	37110	na
+Ga0244694_1049	unplaced-scaffold	na	na	SLUN01000049.1	=	NZ_SLUN01000049.1	Primary Assembly	33850	na
+Ga0244694_1050	unplaced-scaffold	na	na	SLUN01000050.1	=	NZ_SLUN01000050.1	Primary Assembly	33843	na
+Ga0244694_1051	unplaced-scaffold	na	na	SLUN01000051.1	=	NZ_SLUN01000051.1	Primary Assembly	33442	na
+Ga0244694_1052	unplaced-scaffold	na	na	SLUN01000052.1	=	NZ_SLUN01000052.1	Primary Assembly	33040	na
+Ga0244694_1053	unplaced-scaffold	na	na	SLUN01000053.1	=	NZ_SLUN01000053.1	Primary Assembly	32514	na
+Ga0244694_1054	unplaced-scaffold	na	na	SLUN01000054.1	=	NZ_SLUN01000054.1	Primary Assembly	29381	na
+Ga0244694_1055	unplaced-scaffold	na	na	SLUN01000055.1	=	NZ_SLUN01000055.1	Primary Assembly	28426	na
+Ga0244694_1056	unplaced-scaffold	na	na	SLUN01000056.1	=	NZ_SLUN01000056.1	Primary Assembly	27214	na
+Ga0244694_1057	unplaced-scaffold	na	na	SLUN01000057.1	=	NZ_SLUN01000057.1	Primary Assembly	25169	na
+Ga0244694_1058	unplaced-scaffold	na	na	SLUN01000058.1	=	NZ_SLUN01000058.1	Primary Assembly	25145	na
+Ga0244694_1059	unplaced-scaffold	na	na	SLUN01000059.1	=	NZ_SLUN01000059.1	Primary Assembly	24738	na
+Ga0244694_1060	unplaced-scaffold	na	na	SLUN01000060.1	=	NZ_SLUN01000060.1	Primary Assembly	22868	na
+Ga0244694_1061	unplaced-scaffold	na	na	SLUN01000061.1	=	NZ_SLUN01000061.1	Primary Assembly	21239	na
+Ga0244694_1062	unplaced-scaffold	na	na	SLUN01000062.1	=	NZ_SLUN01000062.1	Primary Assembly	20698	na
+Ga0244694_1063	unplaced-scaffold	na	na	SLUN01000063.1	=	NZ_SLUN01000063.1	Primary Assembly	17759	na
+Ga0244694_1064	unplaced-scaffold	na	na	SLUN01000064.1	=	NZ_SLUN01000064.1	Primary Assembly	15634	na
+Ga0244694_1065	unplaced-scaffold	na	na	SLUN01000065.1	=	NZ_SLUN01000065.1	Primary Assembly	14343	na
+Ga0244694_1066	unplaced-scaffold	na	na	SLUN01000066.1	=	NZ_SLUN01000066.1	Primary Assembly	12207	na
+Ga0244694_1067	unplaced-scaffold	na	na	SLUN01000067.1	=	NZ_SLUN01000067.1	Primary Assembly	12054	na
+Ga0244694_1068	unplaced-scaffold	na	na	SLUN01000068.1	=	NZ_SLUN01000068.1	Primary Assembly	11778	na
+Ga0244694_1069	unplaced-scaffold	na	na	SLUN01000069.1	=	NZ_SLUN01000069.1	Primary Assembly	10054	na
+Ga0244694_1070	unplaced-scaffold	na	na	SLUN01000070.1	=	NZ_SLUN01000070.1	Primary Assembly	9054	na
+Ga0244694_1071	unplaced-scaffold	na	na	SLUN01000071.1	=	NZ_SLUN01000071.1	Primary Assembly	8775	na
+Ga0244694_1072	unplaced-scaffold	na	na	SLUN01000072.1	=	NZ_SLUN01000072.1	Primary Assembly	8113	na
+Ga0244694_1073	unplaced-scaffold	na	na	SLUN01000073.1	=	NZ_SLUN01000073.1	Primary Assembly	4729	na
+Ga0244694_1074	unplaced-scaffold	na	na	SLUN01000074.1	=	NZ_SLUN01000074.1	Primary Assembly	3718	na
+Ga0244694_1075	unplaced-scaffold	na	na	SLUN01000075.1	=	NZ_SLUN01000075.1	Primary Assembly	3117	na
+Ga0244694_1076	unplaced-scaffold	na	na	SLUN01000076.1	=	NZ_SLUN01000076.1	Primary Assembly	3080	na
+Ga0244694_1077	unplaced-scaffold	na	na	SLUN01000077.1	=	NZ_SLUN01000077.1	Primary Assembly	3032	na
+Ga0244694_1078	unplaced-scaffold	na	na	SLUN01000078.1	=	NZ_SLUN01000078.1	Primary Assembly	2905	na
+Ga0244694_1079	unplaced-scaffold	na	na	SLUN01000079.1	=	NZ_SLUN01000079.1	Primary Assembly	2202	na
+Ga0244694_1080	unplaced-scaffold	na	na	SLUN01000080.1	=	NZ_SLUN01000080.1	Primary Assembly	2202	na
+Ga0244694_1081	unplaced-scaffold	na	na	SLUN01000081.1	=	NZ_SLUN01000081.1	Primary Assembly	2177	na
+Ga0244694_1082	unplaced-scaffold	na	na	SLUN01000082.1	=	NZ_SLUN01000082.1	Primary Assembly	2023	na
+Ga0244694_1083	unplaced-scaffold	na	na	SLUN01000083.1	=	NZ_SLUN01000083.1	Primary Assembly	1760	na
+Ga0244694_1084	unplaced-scaffold	na	na	SLUN01000084.1	=	NZ_SLUN01000084.1	Primary Assembly	1699	na
+Ga0244694_1085	unplaced-scaffold	na	na	SLUN01000085.1	=	NZ_SLUN01000085.1	Primary Assembly	1673	na
+Ga0244694_1086	unplaced-scaffold	na	na	SLUN01000086.1	=	NZ_SLUN01000086.1	Primary Assembly	1613	na
+Ga0244694_1087	unplaced-scaffold	na	na	SLUN01000087.1	=	NZ_SLUN01000087.1	Primary Assembly	1589	na
+Ga0244694_1088	unplaced-scaffold	na	na	SLUN01000088.1	=	NZ_SLUN01000088.1	Primary Assembly	1558	na
+Ga0244694_1089	unplaced-scaffold	na	na	SLUN01000089.1	=	NZ_SLUN01000089.1	Primary Assembly	1557	na
+Ga0244694_1090	unplaced-scaffold	na	na	SLUN01000090.1	=	NZ_SLUN01000090.1	Primary Assembly	1489	na
+Ga0244694_1091	unplaced-scaffold	na	na	SLUN01000091.1	=	NZ_SLUN01000091.1	Primary Assembly	1457	na
+Ga0244694_1092	unplaced-scaffold	na	na	SLUN01000092.1	=	NZ_SLUN01000092.1	Primary Assembly	1417	na
+Ga0244694_1093	unplaced-scaffold	na	na	SLUN01000093.1	=	NZ_SLUN01000093.1	Primary Assembly	1358	na
+Ga0244694_1094	unplaced-scaffold	na	na	SLUN01000094.1	=	NZ_SLUN01000094.1	Primary Assembly	1320	na
+Ga0244694_1095	unplaced-scaffold	na	na	SLUN01000095.1	=	NZ_SLUN01000095.1	Primary Assembly	1288	na
+Ga0244694_1096	unplaced-scaffold	na	na	SLUN01000096.1	=	NZ_SLUN01000096.1	Primary Assembly	1271	na
+Ga0244694_1097	unplaced-scaffold	na	na	SLUN01000097.1	=	NZ_SLUN01000097.1	Primary Assembly	1207	na
+Ga0244694_1098	unplaced-scaffold	na	na	SLUN01000098.1	=	NZ_SLUN01000098.1	Primary Assembly	1207	na
+Ga0244694_1099	unplaced-scaffold	na	na	SLUN01000099.1	=	NZ_SLUN01000099.1	Primary Assembly	1123	na
+Ga0244694_1100	unplaced-scaffold	na	na	SLUN01000100.1	=	NZ_SLUN01000100.1	Primary Assembly	1061	na
+Ga0244694_1101	unplaced-scaffold	na	na	SLUN01000101.1	=	NZ_SLUN01000101.1	Primary Assembly	1021	na

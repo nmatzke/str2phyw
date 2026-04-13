@@ -1,0 +1,60 @@
+ANI report for assembly: GCA_000238915.2
+Submitted organism: Arthrobacter globiformis NBRC 12137 (taxid = 1077972, rank = no rank, lineage = Bacteria; Bacillati; Actinomycetota; Actinomycetes; Micrococcales; Micrococcaceae; Arthrobacter)
+Best match: Arthrobacter ipis (taxid = 2716202, rank = species, lineage = Bacteria; Bacillati; Actinomycetota; Actinomycetes; Micrococcales; Micrococcaceae; Arthrobacter)
+Submitted organism has type: Yes
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+CntmSeqANI : ANI value of the CntmSeq portion against the type
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  CntmSeqANI Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- ---------- --------- --- --------------------------------------------------------------------
+ 89.961 ( 69.9  76.9)  3364406  3364406         91  22251198     Arthrobacter ipis (GCA_014694315.1, ASM1469431v1)
+ 85.115 ( 42.4  43.7)   179924   179924         87  25209718     Arthrobacter pascens (GCA_017052465.1, ASM1705246v1)
+ 85.054 ( 41.2  45.4)    21458    21458         83  58708818     Arthrobacter pascens (GCA_039526125.1, ASM3952612v1)
+ 84.350 ( 20.2  23.2)    32089    32089         88   7561118     Arthrobacter oryzae (GCA_003634095.1, ASM363409v1)
+ 84.468 ( 22.1  23.8)    27499    27499         85  58714158     Arthrobacter humicola (GCA_039531445.1, ASM3953144v1)
+ 84.107 ( 23.7  26.7)    19439    19439         86    527008  E  Arthrobacter nitrophenolicus (GCA_000332815.1, Whole genome assembly)
+ 84.198 ( 21.7  23.5)    11210    11210         85  26556208     Pseudarthrobacter albicanus (GCA_018224015.1, ASM1822401v1)
+ 83.920 ( 24.0  25.0)    27150    27150         87   1855758     Pseudarthrobacter siccitolerans (GCA_001046895.1, ASM104689v1)
+ 84.005 ( 24.4  27.5)    19135    19135         83  60101378  E  Arthrobacter nitrophenolicus (GCA_040546185.1, ASM4054618v1)
+ 83.954 ( 21.7  23.7)     8899     8899         88    245918     Pseudarthrobacter phenanthrenivorans Sphe3 (GCA_000189535.1, ASM18953v1)
+ 83.961 ( 19.8  25.0)     6585     6585         85  69612188     Arthrobacter phoenicis (GCA_047238215.1, ASM4723821v1)
+ 83.833 ( 20.9  25.4)    24204    24204         85  25568248     Arthrobacter cavernae (GCA_017368795.1, ASM1736879v1)
+ 83.870 ( 23.4  23.5)    23266    23266         87  22269628     Pseudarthrobacter sulfonivorans (GCA_014712225.1, ASM1471222v1)
+ 83.775 ( 17.9  20.4)    17609    17609         85   7055838     Arthrobacter silvisoli (GCA_003369445.1, ASM336944v1)
+ 83.803 ( 22.9  25.7)    12131    12131         84  34726678     Pseudarthrobacter humi (GCA_024294965.1, ASM2429496v1)
+ 83.847 ( 19.4  21.6)     9413     9413         85   7536918     Arthrobacter celericrescens (GCA_003614925.1, ASM361492v1)
+ 83.756 ( 22.7  25.3)     8909     8909         82   3638568     Pseudarthrobacter equi (GCA_900105535.1, IMG-taxon 2634166282 annotated assembly)
+ 83.779 ( 21.7  24.7)     7536     7536         80  22187638     Pseudarthrobacter polychromogenes (GCA_014644495.1, ASM1464449v1)
+ 83.830 ( 21.8  25.7)     5932     5932         85  22187658     Pseudarthrobacter scleromae (GCA_014644515.1, ASM1464451v1)
+ 83.883 ( 23.3  23.4)     3087     3087         85  58711748     Pseudarthrobacter sulfonivorans (GCA_039529035.1, ASM3952903v1)
+ 83.827 ( 23.2  24.3)     3055     3055         87  82096588     Pseudarthrobacter oxydans (GCA_055379115.1, ASM5537911v1)
+ 83.823 ( 23.1  24.7)     1285     1285         87  62622148     Pseudarthrobacter oxydans (GCA_042428825.1, ASM4242882v1)
+ 83.834 ( 20.8  23.9)     1204     1204         82  34136258  E  Pseudarthrobacter cellobiosi (GCA_023913755.1, ASM2391375v1)
+ 83.842 ( 21.8  25.8)      499      499         93  62627118     Pseudarthrobacter scleromae (GCA_042433805.1, ASM4243380v1)
+ 83.757 ( 21.8  24.6)        0        0          0  58718048     Pseudarthrobacter polychromogenes (GCA_039535255.1, ASM3953525v1)
+ 83.759 ( 21.8  24.7)        0        0          0  62622158     Pseudarthrobacter polychromogenes (GCA_042428835.1, ASM4242883v1)
+ 83.626 ( 23.4  23.2)    33485    33485         92     22828     Pseudarthrobacter chlorophenolicus A6 (GCA_000022025.1, ASM2202v1)
+ 83.618 ( 23.4  23.1)    14520    14520         87   3635948     Pseudarthrobacter chlorophenolicus (GCA_900104315.1, IMG-taxon 2634166551 annotated assembly)
+ 83.557 ( 21.1  21.7)    11542    11542         85  22182408     Arthrobacter liuii (GCA_014639275.1, ASM1463927v1)
+ 83.616 ( 23.8  27.9)    11384    11384         81   2703648     Pseudarthrobacter enclensis (GCA_001457025.1, ASM145702v1)
+ 83.688 ( 23.2  22.3)    10402    10402         86  15881308     Pseudarthrobacter psychrotolerans (GCA_009911795.1, ASM991179v1)
+ 83.700 ( 20.2  21.9)     9527     9527         82  41310038     Pseudarthrobacter naphthalenicus (GCA_029076445.1, ASM2907644v1)
+ 83.596 ( 21.8  25.4)     6807     6807         82  62868238     Arthrobacter sedimenti (GCA_042652025.1, ASM4265202v1)
+ 83.665 ( 22.6  25.4)     6695     6695         83  34136298  E  Pseudarthrobacter raffinosi (GCA_023913835.1, ASM2391383v1)
+ 83.596 ( 18.9  22.9)     6300     6300         84  20326608     Arthrobacter cupressi (GCA_013409905.1, ASM1340990v1)
+ 83.562 ( 21.1  21.5)     1645     1645         90  62627248     Arthrobacter liuii (GCA_042433935.1, ASM4243393v1)
+ 83.611 ( 18.9  23.1)      570      570         82   3630168     Arthrobacter cupressi (GCA_900099975.1, IMG-taxon 2663762744 annotated assembly)
+ 83.600 ( 21.3  24.4)      361      361         92  82190918     Pseudarthrobacter defluvii (GCA_055412705.1, ASM5541270v1)
+ 83.616 ( 23.8  27.9)        0        0          0   3377818     Pseudarthrobacter enclensis (GCA_900094675.1, IMG-taxon 2615840696 annotated assembly)
+ 82.618 ( 13.4  18.8)     1546     1546         83  70248458     Arthrobacter ulcerisalmonis (GCA_965137025.1, CIP111621T)

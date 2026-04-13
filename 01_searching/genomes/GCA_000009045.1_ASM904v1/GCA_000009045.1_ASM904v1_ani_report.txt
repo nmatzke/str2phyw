@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_000009045.1
+Submitted organism: Bacillus subtilis subsp. subtilis str. 168 (trusted species) (taxid = 224308, rank = no rank, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Bacillus)
+Best match: Bacillus subtilis (trusted species) (taxid = 1423, rank = species, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Bacillus)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 99.997 (100.0 100.0)  4215568  4215568    555328   T Bacillus subtilis subsp. subtilis 6051-HGW (GCA_000344745.1, ASM34474v1)
+ 99.975 (100.0 100.0)        0        0    181578   T Bacillus subtilis subsp. subtilis str. 168 (GCA_000155325.1, ASM15532v1)
+ 99.976 (100.0  98.2)        0        0    239888   T Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 (GCA_000186085.1, ASM18608v1)
+ 99.997 ( 98.9  99.9)        0        0   1086988   T Bacillus subtilis subsp. subtilis str. 168 (GCA_000696635.1, ASM69663v1)
+ 99.999 (100.0 100.0)        0        0   1401338   T Bacillus subtilis subsp. subtilis str. 168 (GCA_000789275.1, ASM78927v1)
+ 99.996 ( 99.9 100.0)        0        0   3370188   T Bacillus subtilis subsp. subtilis (GCA_001697265.1, ASM169726v1)
+ 99.995 ( 99.8  99.8)        0        0   4164268   T Bacillus subtilis subsp. subtilis str. 168 (GCA_002009095.1, ASM200909v1)
+ 99.994 ( 99.9  99.9)        0        0   4164308   T Bacillus subtilis subsp. subtilis str. 168 (GCA_002009135.1, ASM200913v1)
+ 99.996 (100.0  98.0)        0        0   4268168   T Bacillus subtilis (GCA_002055965.1, ASM205596v1)
+ 99.949 ( 99.9  97.3)        0        0   6755668   T Bacillus subtilis (GCA_900445475.1, 27294_A01)
+ 99.996 ( 99.9  98.0)        0        0  10954178   T Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 (GCA_006088795.1, ASM608879v1)
+ 99.996 ( 99.9  98.0)        0        0  11804788   T Bacillus subtilis subsp. subtilis (GCA_006741845.1, ASM674184v1)
+ 99.992 ( 99.2  96.9)        0        0  19479768   T Bacillus subtilis subsp. subtilis str. 168 (GCA_013009385.1, ASM1300938v1)
+ 99.963 ( 98.5  98.2)        0        0  24347478   T Bacillus subtilis subsp. subtilis str. 168 (GCA_012931705.2, ASM1293170v2)
+ 99.997 ( 98.8 100.0)        0        0  24783028   T Bacillus subtilis subsp. subtilis (GCA_014389245.2, ASM1438924v2)
+ 99.998 (100.0 100.0)        0        0  35511828   T Bacillus subtilis subsp. subtilis str. 168 (GCA_024917115.1, ASM2491711v1)
+ 99.996 ( 99.9  98.0)        0        0  41261438   T Bacillus subtilis (GCA_029027845.1, ASM2902784v1)
+ 99.992 ( 98.8  97.7)        0        0  47175778   T Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 (GCA_031316525.1, ASM3131652v1)
+ 99.997 (100.0  99.9)        0        0  48918738   T Bacillus subtilis subsp. subtilis str. 168 (GCA_032681245.1, ASM3268124v1)
+ 99.997 (100.0  99.9)        0        0  55312188   T Bacillus subtilis subsp. subtilis str. 168 (GCA_037414465.1, ASM3741446v1)
+100.000 (100.0 100.0)        0        0  55411128   T Bacillus subtilis subsp. subtilis str. 168 (GCA_964017255.1, ASM904v2)
+ 99.996 ( 99.9  98.0)        0        0  55868598   T Bacillus subtilis (GCA_037914925.1, ASM3791492v1)
+ 99.995 ( 98.8  98.0)        0        0  70320758   T Bacillus subtilis (GCA_965139425.1, CIP52.65T)
+ 99.995 (100.0  98.0)        0        0  73224498   T Bacillus subtilis (GCA_029537415.2, ASM2953741v2)
+ 98.778 ( 88.8  95.1)        0        0  79107088   T Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 (GCA_053713335.1, ASM5371333v1)
+ 95.359 ( 88.5  91.4)        0        0   1185868     Bacillus stercoris (GCA_000738015.1, ASM73801v1)
+ 93.124 ( 87.9  88.1)        0        0    306268   T Bacillus spizizenii TU-B-10 (GCA_000227465.1, ASM22746v1)
+ 93.004 ( 88.1  85.5)        0        0    526758   T Bacillus inaquosorum KCTC 13429 (GCA_000332645.1, BSI1.0)
+ 93.067 ( 89.0  86.3)        0        0   6535928   T Bacillus inaquosorum (GCA_003148415.1, ASM314841v1)
+ 93.058 ( 86.9  89.5)        0        0  13181908   T Bacillus spizizenii (GCA_007989785.1, ASM798978v1)
+ 92.729 ( 89.4  83.5)        0        0  20100758     Bacillus rugosus (GCA_011745685.2, ASM1174568v2)
+ 92.515 ( 89.4  91.4)        0        0  33166888     Bacillus cabrialesii (GCA_004124315.2, ASM412431v2)
+ 92.446 ( 89.8  88.1)        0        0  46117018     Bacillus cabrialesii subsp. tritici (GCA_018390475.2, ASM1839047v2)
+ 91.767 ( 80.6  85.3)        0        0    875308     Bacillus tequilensis KCTC 13622 (GCA_000507145.1, KCTC_13622_01)
+ 91.890 ( 71.7  81.7)        0        0   6755588     Bacillus tequilensis (GCA_900445435.1, 59178_C01)
+ 91.767 ( 80.7  84.9)        0        0  47176778     Bacillus tequilensis (GCA_031317525.1, ASM3131752v1)
+ 91.214 ( 83.2  81.9)        0        0   8359568     Bacillus vallismortis (GCA_004116955.1, ASM411695v1)
+ 91.087 ( 75.2  81.9)        0        0    404738     Bacillus vallismortis DV1-F-3 (GCA_000245315.1, ASM24531v1)
+ 93.123 ( 86.2  89.8)        0        0   4198748   T Bacillus spizizenii (GCA_002027305.1, ASM202730v1)
+ 87.552 ( 83.7  86.2)        0        0   2793648     Bacillus halotolerans (GCA_001517115.1, ASM151711v1)

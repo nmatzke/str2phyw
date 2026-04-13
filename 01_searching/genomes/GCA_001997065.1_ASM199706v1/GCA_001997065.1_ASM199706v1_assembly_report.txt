@@ -1,0 +1,129 @@
+# Assembly name:  ASM199706v1
+# Organism name:  Escherichia coli ATCC 8739 (E. coli)
+# Infraspecific name:  strain=ATCC 8739
+# Taxid:          481805
+# BioSample:      SAMN05721769
+# BioProject:     PRJNA341407
+# Submitter:      California Department of Public Health
+# Date:           2017-02-13
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    MTFT01
+# Assembly method: CLCbio Genomic Workbench v. 8.0.2
+# Genome coverage: 86x
+# Sequencing technology: Illumina MiSeq
+# GenBank assembly accession: GCA_001997065.1
+# RefSeq assembly accession: GCF_001997065.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001997085.1	GCF_001997085.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+contig1	unplaced-scaffold	na	na	MTFT01000001.1	=	NZ_MTFT01000001.1	Primary Assembly	113914	na
+contig2	unplaced-scaffold	na	na	MTFT01000002.1	=	NZ_MTFT01000002.1	Primary Assembly	208609	na
+contig3	unplaced-scaffold	na	na	MTFT01000003.1	=	NZ_MTFT01000003.1	Primary Assembly	107465	na
+contig4	unplaced-scaffold	na	na	MTFT01000004.1	=	NZ_MTFT01000004.1	Primary Assembly	215699	na
+contig5	unplaced-scaffold	na	na	MTFT01000005.1	=	NZ_MTFT01000005.1	Primary Assembly	121365	na
+contig6	unplaced-scaffold	na	na	MTFT01000006.1	=	NZ_MTFT01000006.1	Primary Assembly	357923	na
+contig7	unplaced-scaffold	na	na	MTFT01000007.1	=	NZ_MTFT01000007.1	Primary Assembly	53428	na
+contig8	unplaced-scaffold	na	na	MTFT01000008.1	=	NZ_MTFT01000008.1	Primary Assembly	83568	na
+contig9	unplaced-scaffold	na	na	MTFT01000009.1	=	NZ_MTFT01000009.1	Primary Assembly	110628	na
+contig10	unplaced-scaffold	na	na	MTFT01000010.1	=	NZ_MTFT01000010.1	Primary Assembly	178726	na
+contig11	unplaced-scaffold	na	na	MTFT01000011.1	=	NZ_MTFT01000011.1	Primary Assembly	140531	na
+contig12	unplaced-scaffold	na	na	MTFT01000012.1	=	NZ_MTFT01000012.1	Primary Assembly	140009	na
+contig13	unplaced-scaffold	na	na	MTFT01000013.1	=	NZ_MTFT01000013.1	Primary Assembly	103185	na
+contig14	unplaced-scaffold	na	na	MTFT01000014.1	=	NZ_MTFT01000014.1	Primary Assembly	41508	na
+contig15	unplaced-scaffold	na	na	MTFT01000015.1	=	NZ_MTFT01000015.1	Primary Assembly	86385	na
+contig16	unplaced-scaffold	na	na	MTFT01000016.1	=	NZ_MTFT01000016.1	Primary Assembly	221107	na
+contig17	unplaced-scaffold	na	na	MTFT01000017.1	=	NZ_MTFT01000017.1	Primary Assembly	35758	na
+contig18	unplaced-scaffold	na	na	MTFT01000018.1	=	NZ_MTFT01000018.1	Primary Assembly	1551	na
+contig19	unplaced-scaffold	na	na	MTFT01000019.1	=	NZ_MTFT01000019.1	Primary Assembly	32848	na
+contig20	unplaced-scaffold	na	na	MTFT01000020.1	=	NZ_MTFT01000020.1	Primary Assembly	101793	na
+contig21	unplaced-scaffold	na	na	MTFT01000021.1	=	NZ_MTFT01000021.1	Primary Assembly	50039	na
+contig22	unplaced-scaffold	na	na	MTFT01000022.1	=	NZ_MTFT01000022.1	Primary Assembly	51709	na
+contig23	unplaced-scaffold	na	na	MTFT01000023.1	=	NZ_MTFT01000023.1	Primary Assembly	44233	na
+contig24	unplaced-scaffold	na	na	MTFT01000024.1	=	NZ_MTFT01000024.1	Primary Assembly	81576	na
+contig25	unplaced-scaffold	na	na	MTFT01000025.1	=	NZ_MTFT01000025.1	Primary Assembly	30040	na
+contig26	unplaced-scaffold	na	na	MTFT01000026.1	=	NZ_MTFT01000026.1	Primary Assembly	82325	na
+contig27	unplaced-scaffold	na	na	MTFT01000027.1	=	NZ_MTFT01000027.1	Primary Assembly	311805	na
+contig28	unplaced-scaffold	na	na	MTFT01000028.1	=	NZ_MTFT01000028.1	Primary Assembly	194749	na
+contig29	unplaced-scaffold	na	na	MTFT01000029.1	=	NZ_MTFT01000029.1	Primary Assembly	71766	na
+contig30	unplaced-scaffold	na	na	MTFT01000030.1	=	NZ_MTFT01000030.1	Primary Assembly	40591	na
+contig31	unplaced-scaffold	na	na	MTFT01000031.1	=	NZ_MTFT01000031.1	Primary Assembly	149663	na
+contig32	unplaced-scaffold	na	na	MTFT01000032.1	=	NZ_MTFT01000032.1	Primary Assembly	110692	na
+contig33	unplaced-scaffold	na	na	MTFT01000033.1	=	NZ_MTFT01000033.1	Primary Assembly	147796	na
+contig34	unplaced-scaffold	na	na	MTFT01000034.1	=	NZ_MTFT01000034.1	Primary Assembly	78358	na
+contig35	unplaced-scaffold	na	na	MTFT01000035.1	=	NZ_MTFT01000035.1	Primary Assembly	201739	na
+contig36	unplaced-scaffold	na	na	MTFT01000036.1	=	NZ_MTFT01000036.1	Primary Assembly	42607	na
+contig37	unplaced-scaffold	na	na	MTFT01000037.1	=	NZ_MTFT01000037.1	Primary Assembly	27887	na
+contig38	unplaced-scaffold	na	na	MTFT01000038.1	=	NZ_MTFT01000038.1	Primary Assembly	2399	na
+contig39	unplaced-scaffold	na	na	MTFT01000039.1	=	NZ_MTFT01000039.1	Primary Assembly	57672	na
+contig40	unplaced-scaffold	na	na	MTFT01000040.1	=	NZ_MTFT01000040.1	Primary Assembly	8811	na
+contig41	unplaced-scaffold	na	na	MTFT01000041.1	=	NZ_MTFT01000041.1	Primary Assembly	2863	na
+contig42	unplaced-scaffold	na	na	MTFT01000042.1	=	NZ_MTFT01000042.1	Primary Assembly	41245	na
+contig43	unplaced-scaffold	na	na	MTFT01000043.1	=	NZ_MTFT01000043.1	Primary Assembly	3995	na
+contig44	unplaced-scaffold	na	na	MTFT01000044.1	=	NZ_MTFT01000044.1	Primary Assembly	491	na
+contig45	unplaced-scaffold	na	na	MTFT01000045.1	=	NZ_MTFT01000045.1	Primary Assembly	1450	na
+contig46	unplaced-scaffold	na	na	MTFT01000046.1	=	NZ_MTFT01000046.1	Primary Assembly	43849	na
+contig47	unplaced-scaffold	na	na	MTFT01000047.1	=	NZ_MTFT01000047.1	Primary Assembly	2476	na
+contig48	unplaced-scaffold	na	na	MTFT01000048.1	=	NZ_MTFT01000048.1	Primary Assembly	212	na
+contig49	unplaced-scaffold	na	na	MTFT01000049.1	=	NZ_MTFT01000049.1	Primary Assembly	45402	na
+contig50	unplaced-scaffold	na	na	MTFT01000050.1	=	NZ_MTFT01000050.1	Primary Assembly	59684	na
+contig51	unplaced-scaffold	na	na	MTFT01000051.1	=	NZ_MTFT01000051.1	Primary Assembly	40012	na
+contig52	unplaced-scaffold	na	na	MTFT01000052.1	=	NZ_MTFT01000052.1	Primary Assembly	10096	na
+contig53	unplaced-scaffold	na	na	MTFT01000053.1	=	NZ_MTFT01000053.1	Primary Assembly	15892	na
+contig54	unplaced-scaffold	na	na	MTFT01000054.1	=	NZ_MTFT01000054.1	Primary Assembly	44405	na
+contig55	unplaced-scaffold	na	na	MTFT01000055.1	=	NZ_MTFT01000055.1	Primary Assembly	19329	na
+contig56	unplaced-scaffold	na	na	MTFT01000056.1	=	NZ_MTFT01000056.1	Primary Assembly	1321	na
+contig57	unplaced-scaffold	na	na	MTFT01000057.1	=	NZ_MTFT01000057.1	Primary Assembly	1232	na
+contig58	unplaced-scaffold	na	na	MTFT01000058.1	=	NZ_MTFT01000058.1	Primary Assembly	4423	na
+contig59	unplaced-scaffold	na	na	MTFT01000059.1	=	NZ_MTFT01000059.1	Primary Assembly	766	na
+contig60	unplaced-scaffold	na	na	MTFT01000060.1	=	NZ_MTFT01000060.1	Primary Assembly	297	na
+contig61	unplaced-scaffold	na	na	MTFT01000061.1	=	NZ_MTFT01000061.1	Primary Assembly	2212	na
+contig62	unplaced-scaffold	na	na	MTFT01000062.1	=	NZ_MTFT01000062.1	Primary Assembly	305	na
+contig63	unplaced-scaffold	na	na	MTFT01000063.1	=	NZ_MTFT01000063.1	Primary Assembly	15792	na
+contig64	unplaced-scaffold	na	na	MTFT01000064.1	=	NZ_MTFT01000064.1	Primary Assembly	931	na
+contig65	unplaced-scaffold	na	na	MTFT01000065.1	=	NZ_MTFT01000065.1	Primary Assembly	1230	na
+contig66	unplaced-scaffold	na	na	MTFT01000066.1	=	NZ_MTFT01000066.1	Primary Assembly	1849	na
+contig67	unplaced-scaffold	na	na	MTFT01000067.1	=	NZ_MTFT01000067.1	Primary Assembly	236	na
+contig68	unplaced-scaffold	na	na	MTFT01000068.1	=	NZ_MTFT01000068.1	Primary Assembly	27949	na
+contig69	unplaced-scaffold	na	na	MTFT01000069.1	=	NZ_MTFT01000069.1	Primary Assembly	1895	na
+contig70	unplaced-scaffold	na	na	MTFT01000070.1	=	NZ_MTFT01000070.1	Primary Assembly	5093	na
+contig71	unplaced-scaffold	na	na	MTFT01000071.1	=	NZ_MTFT01000071.1	Primary Assembly	2360	na
+contig72	unplaced-scaffold	na	na	MTFT01000072.1	=	NZ_MTFT01000072.1	Primary Assembly	1603	na
+contig73	unplaced-scaffold	na	na	MTFT01000073.1	=	NZ_MTFT01000073.1	Primary Assembly	2273	na
+contig74	unplaced-scaffold	na	na	MTFT01000074.1	=	NZ_MTFT01000074.1	Primary Assembly	7012	na
+contig75	unplaced-scaffold	na	na	MTFT01000075.1	=	NZ_MTFT01000075.1	Primary Assembly	365	na
+contig76	unplaced-scaffold	na	na	MTFT01000076.1	=	NZ_MTFT01000076.1	Primary Assembly	884	na
+contig77	unplaced-scaffold	na	na	MTFT01000077.1	=	NZ_MTFT01000077.1	Primary Assembly	4182	na
+contig78	unplaced-scaffold	na	na	MTFT01000078.1	=	NZ_MTFT01000078.1	Primary Assembly	200	na
+contig79	unplaced-scaffold	na	na	MTFT01000079.1	=	NZ_MTFT01000079.1	Primary Assembly	3046	na
+contig80	unplaced-scaffold	na	na	MTFT01000080.1	=	NZ_MTFT01000080.1	Primary Assembly	257	na
+contig81	unplaced-scaffold	na	na	MTFT01000081.1	=	NZ_MTFT01000081.1	Primary Assembly	882	na
+contig82	unplaced-scaffold	na	na	MTFT01000082.1	=	NZ_MTFT01000082.1	Primary Assembly	295	na
+contig83	unplaced-scaffold	na	na	MTFT01000083.1	=	NZ_MTFT01000083.1	Primary Assembly	1221	na
+contig84	unplaced-scaffold	na	na	MTFT01000084.1	=	NZ_MTFT01000084.1	Primary Assembly	818	na
+contig85	unplaced-scaffold	na	na	MTFT01000085.1	=	NZ_MTFT01000085.1	Primary Assembly	1236	na
+contig86	unplaced-scaffold	na	na	MTFT01000086.1	=	NZ_MTFT01000086.1	Primary Assembly	219	na
+contig87	unplaced-scaffold	na	na	MTFT01000087.1	=	NZ_MTFT01000087.1	Primary Assembly	1857	na
+contig88	unplaced-scaffold	na	na	MTFT01000088.1	=	NZ_MTFT01000088.1	Primary Assembly	220	na
+contig89	unplaced-scaffold	na	na	MTFT01000089.1	=	NZ_MTFT01000089.1	Primary Assembly	386	na
+contig90	unplaced-scaffold	na	na	MTFT01000090.1	=	NZ_MTFT01000090.1	Primary Assembly	526	na
+contig91	unplaced-scaffold	na	na	MTFT01000091.1	=	NZ_MTFT01000091.1	Primary Assembly	381	na
+contig92	unplaced-scaffold	na	na	MTFT01000092.1	=	NZ_MTFT01000092.1	Primary Assembly	317	na
+contig93	unplaced-scaffold	na	na	MTFT01000093.1	=	NZ_MTFT01000093.1	Primary Assembly	332	na
+contig94	unplaced-scaffold	na	na	MTFT01000094.1	=	NZ_MTFT01000094.1	Primary Assembly	227	na
+contig95	unplaced-scaffold	na	na	MTFT01000095.1	=	NZ_MTFT01000095.1	Primary Assembly	325	na
+contig96	unplaced-scaffold	na	na	MTFT01000096.1	=	NZ_MTFT01000096.1	Primary Assembly	368	na
+contig97	unplaced-scaffold	na	na	MTFT01000097.1	=	NZ_MTFT01000097.1	Primary Assembly	220	na
+contig98	unplaced-scaffold	na	na	MTFT01000098.1	=	NZ_MTFT01000098.1	Primary Assembly	215	na
+contig99	unplaced-scaffold	na	na	MTFT01000099.1	=	NZ_MTFT01000099.1	Primary Assembly	668	na

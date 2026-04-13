@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_000012685.1
+Submitted organism: Myxococcus xanthus DK 1622 (taxid = 246197, rank = no rank, lineage = Bacteria; Pseudomonadati; Myxococcota; Myxococcia; Myxococcales; Cystobacterineae; Myxococcaceae; Myxococcus)
+Best match: Myxococcus xanthus (taxid = 34, rank = species, lineage = Bacteria; Pseudomonadati; Myxococcota; Myxococcia; Myxococcales; Cystobacterineae; Myxococcaceae; Myxococcus)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 99.974 ( 99.5  98.1)  9065379  9065379   3641658     Myxococcus xanthus (GCA_900106535.1, IMG-taxon 2693429903 annotated assembly)
+ 99.972 ( 99.5  97.9)    45018    45018  70315038     Myxococcus xanthus (GCA_965140065.1, CIP107069T)
+ 97.098 ( 89.3  88.4)     2460     2460   3637888     Myxococcus virescens (GCA_900101905.1, IMG-taxon 2619619029 annotated assembly)
+ 97.096 ( 89.2  88.6)     1856     1856  13181528     Myxococcus virescens (GCA_007989405.1, ASM798940v1)
+ 93.896 ( 78.6  79.9)        0        0  17043698     Myxococcus vastator (GCA_010894475.1, ASM1089447v1)
+ 90.715 ( 79.3  80.7)     7287     7287   5017248     Corallococcus macrosporus DSM 14697 (GCA_002305895.1, ASM230589v1)
+ 88.762 ( 75.5  72.6)     7544     7544  73610908     Pseudomyxococcus flavus (GCA_050038885.1, ASM5003888v1)
+ 87.728 ( 74.7  71.9)      627      627   2031178     Pseudomyxococcus hansupus (GCA_000280925.3, ASM28092v3)
+ 84.539 ( 52.3  37.7)      597      597  17043658     Pyxidicoccus trucidator (GCA_010894435.1, ASM1089443v1)
+ 84.543 ( 51.0  34.5)        0        0  19357928     Pyxidicoccus fallax (GCA_012933655.1, ASM1293365v1)
+ 84.540 ( 51.9  37.4)        0        0  34596788     Pyxidicoccus xibeiensis (GCA_024198175.1, ASM2419817v1)
+ 84.358 ( 51.5  35.1)        0        0  17043638     Pyxidicoccus caerfyrddinensis (GCA_010894405.1, ASM1089440v1)
+ 84.114 ( 49.2  34.0)      597      597  25481278  E  Pyxidicoccus parkwayensis (GCA_017301735.1, ASM1730173v1)
+ 83.362 ( 45.2  35.8)      175      175  34596828     Myxococcus qinghaiensis (GCA_024198215.1, ASM2419821v1)
+ 83.462 ( 45.1  33.2)      114      114  11696838     Myxococcus llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochensis (GCA_006636215.1, ASM663621v1)
+ 83.120 ( 43.4  36.7)        0        0   3696408     Myxococcus fulvus (GCA_900111765.1, IMG-taxon 2693429886 annotated assembly)
+ 83.122 ( 43.3  36.7)        0        0  13183968     Myxococcus fulvus (GCA_007991095.1, ASM799109v1)
+ 83.213 ( 44.6  39.2)        0        0  34596848     Myxococcus dinghuensis (GCA_024198235.1, ASM2419823v1)
+ 83.125 ( 42.7  34.9)        0        0  34596868     Myxococcus guangdongensis (GCA_024198255.1, ASM2419825v1)
+ 83.227 ( 44.9  37.3)        0        0  73612258     Myxococcus faecalis (GCA_050039385.1, ASM5003938v1)
+ 83.059 ( 44.4  35.6)        0        0  17043678     Myxococcus eversor (GCA_010894455.1, ASM1089445v1)
+ 82.805 ( 41.1  36.3)        0        0    524338     Myxococcus stipitatus DSM 14675 (GCA_000331735.1, ASM33173v1)
+ 82.303 ( 31.2  27.4)      847      847   7523218     Corallococcus sicarius (GCA_003611735.1, ASM361173v1)
+ 82.365 ( 30.1  27.1)        0        0   7523038     Corallococcus exercitus (GCA_003611585.1, ASM361158v1)
+ 82.404 ( 31.0  26.2)        0        0   7523118     Corallococcus carmarthensis (GCA_003611695.1, ASM361169v1)
+ 82.459 ( 30.9  26.9)        0        0   7523518     Corallococcus llansteffanensis (GCA_003612055.1, ASM361205v1)
+ 82.305 ( 30.6  28.0)        0        0   7523578     Corallococcus aberystwythensis (GCA_003612165.1, ASM361216v1)
+ 82.397 ( 31.5  27.4)        0        0   7523598     Corallococcus praedator (GCA_003612125.1, ASM361212v1)
+ 82.326 ( 31.6  27.7)        0        0  15864118     Corallococcus exiguus (GCA_009909105.1, ASM990910v1)
+ 82.304 ( 30.3  30.0)        0        0  15864168     Corallococcus silvisoli (GCA_009909145.1, ASM990914v1)
+ 82.442 ( 30.7  29.9)        0        0  70309938     Corallococcus soli (GCA_965137055.1, CIP111634T)
+ 82.395 ( 31.3  27.5)        0        0  70312948     Corallococcus exiguus (GCA_965139275.1, CIP109129T)
+ 82.235 ( 31.5  28.5)        0        0    365098     Corallococcus coralloides DSM 2259 (GCA_000255295.1, ASM25529v1)
+ 82.281 ( 29.3  25.9)        0        0   7523058     Corallococcus terminator (GCA_003611635.1, ASM361163v1)
+ 82.295 ( 31.1  30.0)        0        0   7612348     Corallococcus interemptor (GCA_003668875.1, ASM366887v1)
+ 82.271 ( 31.6  30.6)        0        0  22586518     Corallococcus soli (GCA_014930455.1, ASM1493045v1)
+ 82.120 ( 31.9  29.5)        0        0  53278268  E  Corallococcus caeni (GCA_036245865.1, ASM3624586v1)
+ 81.883 ( 29.5  29.8)        0        0  27585548     Citreicoccus inhibens (GCA_019039035.1, ASM1903903v1)
+ 81.591 ( 21.6  16.9)        0        0  28998768     Hyalangium gracile (GCA_020103725.1, ASM2010372v1)
+ 81.289 ( 20.2  20.0)        0        0   3693688     Stigmatella erecta (GCA_900111745.1, IMG-taxon 2693429888 annotated assembly)

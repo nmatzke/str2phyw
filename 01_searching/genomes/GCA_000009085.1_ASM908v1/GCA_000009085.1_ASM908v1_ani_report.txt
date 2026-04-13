@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_000009085.1
+Submitted organism: Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819 (trusted species) (taxid = 192222, rank = no rank, lineage = Bacteria; Pseudomonadati; Campylobacterota; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter)
+Best match: Campylobacter jejuni (trusted species) (taxid = 197, rank = species, lineage = Bacteria; Pseudomonadati; Campylobacterota; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 97.952 ( 91.1  87.3)     7209     7209    436848   T Campylobacter jejuni subsp. jejuni ATCC 33560 (GCA_000254515.2, ASM25451v2)
+ 97.840 ( 93.0  86.4)  1510667  1510667   2704418   T Campylobacter jejuni (GCA_001457695.1, NCTC11351)
+ 97.862 ( 91.9  87.3)     1796     1796  26834518   T Campylobacter jejuni subsp. jejuni (GCA_905410075.1, ASM90541007v1)
+ 97.840 ( 92.0  87.2)      223      223    434038   T Campylobacter jejuni subsp. jejuni ATCC 33560 (GCA_000251165.2, ASM25116v2)
+ 97.843 ( 93.0  85.6)        0        0   8200228   T Campylobacter jejuni subsp. jejuni (GCA_003999645.1, ASM399964v1)
+ 97.851 ( 92.1  86.6)        0        0  14210558   T Campylobacter jejuni subsp. jejuni (GCA_008802045.1, ASM880204v1)
+ 97.844 ( 93.0  86.3)        0        0  66746988   T Campylobacter jejuni (GCA_045689445.1, ATCC_33560__202309)
+ 96.196 ( 87.1  75.6)    34555    34555   8123018   T Campylobacter jejuni subsp. doylei (GCA_900637255.1, 50377_B01)
+ 96.208 ( 86.6  82.0)        0        0   1108658   T Campylobacter jejuni subsp. doylei ATCC 49349 (GCA_000701745.1, ASM70174v1)
+ 85.427 ( 79.7  67.5)    21891    21891   7043378   T Campylobacter coli (GCA_900446355.1, 42650_D02)
+ 85.408 ( 77.8  69.0)      268      268    435848   T Campylobacter coli LMG 9860 (GCA_000254135.2, ASM25413v2)
+ 85.415 ( 79.6  68.3)      127      127  14210608   T Campylobacter coli (GCA_008802085.1, ASM880208v1)
+ 85.371 ( 79.3  68.1)        0        0   7492308   T Campylobacter coli (GCA_003590975.1, ASM359097v1)
+ 84.864 ( 67.6  72.9)      844      844   7135978     Campylobacter hepaticus (GCA_001687475.2, ASM168747v2)
+ 84.834 ( 67.2  76.2)      128      128  24833068     Campylobacter bilis (GCA_016806695.1, ASM1680669v1)
+ 84.846 ( 67.5  75.2)        0        0  70320408     Campylobacter hepaticus (GCA_965139375.1, CIP111092T)
+ 81.452 ( 41.3  44.7)     4993     4993  31983938     Campylobacter molothri (GCA_022369435.1, ASM2236943v1)
+ 81.431 ( 46.3  44.7)     2115     2115  10022928     Campylobacter aviculae (GCA_005406215.1, ASM540621v1)
+ 81.412 ( 42.4  40.4)      939      939  10022958     Campylobacter taeniopygiae (GCA_005406225.1, ASM540622v1)
+ 81.241 ( 12.2  13.2)      927      927  20139918     Campylobacter lari subsp. lari (GCA_013372185.1, ASM1337218v1)
+ 81.240 ( 13.0  12.9)      136      136  19789698     Campylobacter ornithocola (GCA_013201605.1, ASM1320160v1)
+ 81.119 ( 11.3  10.6)        0        0   1466788     Campylobacter peloridis LMG 23910 (GCA_000816785.1, ASM81678v1)
+ 81.243 ( 12.2  13.1)        0        0   7043298     Campylobacter lari (GCA_900446615.1, 42650_A01)
+ 81.256 ( 11.7  12.9)        0        0  13577318     Campylobacter lari subsp. concheus (GCA_008245025.1, ASM824502v1)
+ 81.207 ( 10.6  11.4)        0        0  13577338     Campylobacter volucris (GCA_008245045.1, ASM824504v1)
+ 80.922 ( 23.1  24.1)     4408     4408   8703978     Campylobacter novaezeelandiae (GCA_004323845.1, ASM432384v1)
+ 80.979 ( 12.7  12.5)        0        0   3384168     Campylobacter ornithocola (GCA_001705345.1, ASM170534v1)
+ 81.056 ( 11.4  12.8)        0        0  14210528     Campylobacter lari subsp. concheus (GCA_008802005.1, ASM880200v1)
+ 81.058 ( 12.1  12.1)        0        0  20139838     Campylobacter armoricus (GCA_013372105.1, ASM1337210v1)
+ 81.075 ( 12.0  13.1)        0        0  24675728     Campylobacter lari (GCA_016726265.1, ASM1672626v1)
+ 80.857 ( 10.7  11.6)      572      572  14210488     Campylobacter volucris (GCA_008801985.1, ASM880198v1)
+ 80.814 ( 11.7  12.9)        0        0   3699688     Campylobacter lari subsp. lari (GCA_900111465.1, IMG-taxon 2675903699 annotated assembly)
+ 80.868 ( 11.8  12.2)        0        0  11046478     Campylobacter armoricus (GCA_006176165.1, ASM617616v1)
+ 80.822 ( 11.9  12.2)        0        0  70299138     Campylobacter armoricus (GCA_965139565.1, CIP111675T)
+ 80.235 ( 12.0  10.5)        0        0   4342718     Campylobacter helveticus (GCA_002080395.1, ASM208039v1)
+ 79.934 ( 11.6  10.4)        0        0   4364278     Campylobacter helveticus (GCA_900176295.1, IMG-taxon 2585428144 annotated assembly)
+ 80.085 ( 11.9  10.3)        0        0   7040378     Campylobacter helveticus (GCA_900446405.1, 54984_F01)
+ 81.500 (  9.2   8.2)      872      872   1465718     Campylobacter subantarcticus LMG 24377 (GCA_000816305.1, ASM81630v1)
+ 80.680 (  8.8   9.8)      408      408   8123918     Campylobacter insulaenigrae (GCA_900637885.1, 52683_H03)
+ 80.654 (  8.7   9.8)        0        0   1465618     Campylobacter insulaenigrae NCTC 12927 (GCA_000816185.1, ASM81618v1)

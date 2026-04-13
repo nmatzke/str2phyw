@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_000021005.1
+Submitted organism: Cereibacter sphaeroides KD131 (taxid = 557760, rank = no rank, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Alphaproteobacteria; Rhodobacterales; Paracoccaceae; Cereibacter)
+Best match: Cereibacter sphaeroides (taxid = 1063, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Alphaproteobacteria; Rhodobacterales; Paracoccaceae; Cereibacter)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 97.440 ( 85.7  87.2)  3002420  2997615   6902448     Cereibacter sphaeroides 2.4.1 (GCA_003324715.1, ASM332471v1)
+ 97.430 ( 89.2  88.9)   994790   994790  13183828     Cereibacter sphaeroides (GCA_007991035.1, ASM799103v1)
+ 97.394 ( 88.5  85.8)   176268    44360   4718798     [Luteovulum] sphaeroides subsp. megalophilum (GCA_900188265.1, IMG-taxon 2681813553 annotated assembly)
+ 97.439 ( 85.7  87.7)    82335     3061    850808     Cereibacter sphaeroides 2.4.1 (GCA_000012905.2, ASM1290v2)
+ 97.442 ( 85.7  87.6)    13519    13262    403018     Cereibacter sphaeroides 2.4.1 (GCA_000269625.2, PB_Rhod_Spha_2_4_1_V1)
+ 97.450 ( 85.3  88.6)     8921     4942  70307078     Cereibacter sphaeroides (GCA_965138635.1, CIP60.6T)
+ 97.324 ( 85.6  89.2)     5885     2955  15680648     Cereibacter sphaeroides (GCA_009797605.1, ASM979760v1)
+ 97.438 ( 85.6  87.2)      410        0    392498     Cereibacter sphaeroides 2.4.1 (GCA_000273405.1, Rhod_Spha_2_4_1_V1)
+ 97.397 ( 85.6  89.2)        0        0  15680668     Cereibacter sphaeroides (GCA_009797665.1, ASM979766v1)
+ 95.160 ( 87.8  90.1)   101088    77938   6362228     Cereibacter johrii (GCA_003046325.1, ASM304632v1)
+ 95.215 ( 85.1  88.8)    18418    18418   3435698     Cereibacter johrii (GCA_001720585.1, ASM172058v1)
+ 87.027 ( 59.7  63.7)    11970     5552   6374378     Cereibacter azotoformans (GCA_003050905.1, ASM305090v1)
+ 87.013 ( 57.2  63.8)     3802     3687  12804478     Cereibacter sediminicola (GCA_007668225.1, ASM766822v1)
+ 83.458 ( 36.4  45.1)     3864     3864   5213238     Cereibacter ovatus (GCA_900207575.1, IMG-taxon 2740891861 annotated assembly)
+ 82.317 ( 34.3  33.1)      110      110   6333738     Cereibacter changlensis JA139 (GCA_003034985.1, ASM303498v1)
+ 82.219 ( 35.3  33.8)      104      104   6687408     Cereibacter changlensis (GCA_003254335.1, ASM325433v1)
+ 81.642 ( 12.4  14.5)        0        0   8189788     Frigidibacter oleivorans (GCA_003993775.1, ASM399377v1)
+ 81.423 ( 11.3  11.3)    30406    30406  47320218     Ruixingdingia sedimenti (GCA_031432425.1, ASM3143242v1)
+ 81.408 ( 10.3  14.0)        0        0   3992138     Phaeovulum vinaykumarii (GCA_900156695.1, IMG-taxon 2681813513 annotated assembly)
+ 81.438 ( 10.3  14.0)        0        0   5214258     Phaeovulum vinaykumarii (GCA_900217755.1, IMG-taxon 2740891828 annotated assembly)
+ 81.337 ( 12.0  12.9)        0        0  62859438     Acidimangrovimonas pyrenivorans (GCA_042643245.1, ASM4264324v1)
+ 81.138 ( 10.3  10.7)     4271     4271   6728118     Rhodovulum viride (GCA_003265965.1, ASM326596v1)
+ 81.167 ( 11.9  12.0)      651      651  62859818     Tabrizicola soli (GCA_042643585.1, ASM4264358v1)
+ 81.185 ( 11.9  12.0)        0        0  23838778     Tabrizicola soli (GCA_015999335.1, ASM1599933v1)
+ 81.204 ( 11.3  12.0)        0        0  36652258     Albidovulum salinarum (GCA_025673475.1, ASM2567347v1)
+ 80.952 ( 10.8  12.1)     6601     6601  22183538     Frigidibacter albus (GCA_014640395.1, ASM1464039v1)
+ 81.007 ( 13.0  16.1)        0        0   7592038     Paenirhodobacter hankyongi (GCA_003664585.1, ASM366458v1)
+ 80.954 ( 10.7  12.1)        0        0  15801208     Frigidibacter albus (GCA_009881095.1, ASM988109v1)
+ 80.936 ( 10.7  12.0)        0        0  15863168     Frigidibacter albus (GCA_009908165.1, ASM990816v1)
+ 80.955 ( 10.7  12.1)        0        0  17237188     Frigidibacter albus (GCA_010993795.1, ASM1099379v1)
+ 80.719 ( 13.4  15.5)        0        0   8243438     Paenirhodobacter ferrireducens (GCA_004022265.1, ASM402226v1)
+ 80.797 ( 12.6  14.3)        0        0   8243658     Paenirhodobacter huangdaonensis (GCA_004022465.1, ASM402246v1)
+ 80.768 ( 12.5  14.3)        0        0  62872238     Paenirhodobacter huangdaonensis (GCA_042656025.1, ASM4265602v1)
+ 80.636 ( 10.1  12.1)        0        0   3637508     Limimaricola pyoseonensis (GCA_900102015.1, IMG-taxon 2636416063 annotated assembly)
+ 81.365 (  9.9  10.6)    15464    15464  29121148     Xinfangfangia pollutisoli (GCA_020179405.1, ASM2017940v1)
+ 81.481 (  8.4  11.1)        0        0   3643798     Paracoccus sanguinis (GCA_900106665.1, IMG-taxon 2693429863 annotated assembly)
+ 81.025 ( 10.0  10.5)        0        0   6377398     Rhodovulum kholense (GCA_003053725.1, ASM305372v1)
+ 80.748 (  9.2  11.7)        0        0  18786258     Roseicyclus persicicus (GCA_012395815.1, ASM1239581v1)
+ 80.700 (  9.5  10.0)        0        0   7934478     Pseudogemmobacter humi (GCA_900609055.1, aCIP111625)
+ 80.723 (  7.1   8.7)        0        0  43078168     Roseicyclus amphidinii (GCA_030163755.1, ASM3016375v1)

@@ -1,0 +1,34 @@
+# Commands for 00
+# 01_cmds_v1.txt
+
+
+cd ~/GitHub/str2phyw/01_searching/
+chmod u+x *.sh
+./wget_genomes_v1.sh
+mv GC* genomes
+find . -name "*_protein.faa.gz" 
+find . -name "*_protein.faa"
+find . -name "*_protein.faa.gz" | wc
+find . -name "*_protein.faa" | wc
+
+# Unzip protein files with gunzip
+find . -name "*_protein.faa.gz" 
+find . -name "*_protein.faa"
+find . -name "*_protein.faa.gz" -execdir gunzip {} \;
+find . -name "*_protein.faa.gz" 
+find . -name "*_protein.faa"
+
+
+cd ~/GitHub/str2phyw/01_searching/
+chmod u+x *.sh
+./attach_files_to_protIDs_v3.sh
+
+cd ~/GitHub/str2phyw/01_searching/genomes/
+head all_seqIDs.txt
+head all_seqnames.txt
+
+find GC*_* -name "*protein.faa" > GC_faa_names.txt
+find VER*_* -name "*protein.faa" > VER_faa_names.txt
+cat VER_faa_names.txt GC_faa_names.txt > faa_names.txt
+head faa_names.txt
+wc faa_names.txt

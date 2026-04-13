@@ -1,0 +1,24 @@
+ANI report for assembly: GCA_003019855.1
+Submitted organism: Plesiomonas shigelloides (taxid = 703, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Plesiomonas)
+Best match: Plesiomonas shigelloides (taxid = 703, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Plesiomonas)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 97.147 ( 79.6  92.8)  3157698  3125874   3311228     Plesiomonas shigelloides (GCA_900087055.1, 31289_E01)
+ 84.310 (  2.8   2.1)     9447        0   5832578     Escherichia coli (GCA_002853715.1, ASM285371v1)
+ 82.723 (  1.8   1.5)     1435     1435  70315458  E  Serratia silvae (GCA_965138905.1, CIP111939)
+ 82.703 (  1.8   1.5)     1136     1136  33170688  E  Serratia silvae (GCA_023282985.1, ASM2328298v1)
+ 85.096 (  3.0   2.5)    22391     9671   7042458     Citrobacter koseri (GCA_900461075.1, 31530_B01)

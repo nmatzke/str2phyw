@@ -1,0 +1,13 @@
+# Feature	Class	Full Assembly	Assembly-unit accession	Assembly-unit name	Unique Ids	Placements
+CDS	with_protein	GCA_000009045.1	GCA_000009055.1	Primary Assembly	4243	4243
+CDS	without_protein	GCA_000009045.1	GCA_000009055.1	Primary Assembly	na	90
+gene	antisense_RNA	GCA_000009045.1	GCA_000009055.1	Primary Assembly	1	1
+gene	misc_RNA	GCA_000009045.1	GCA_000009055.1	Primary Assembly	96	96
+gene	protein_coding	GCA_000009045.1	GCA_000009055.1	Primary Assembly	4243	4243
+gene	pseudogene	GCA_000009045.1	GCA_000009055.1	Primary Assembly	90	90
+gene	rRNA	GCA_000009045.1	GCA_000009055.1	Primary Assembly	30	30
+gene	tRNA	GCA_000009045.1	GCA_000009055.1	Primary Assembly	86	86
+misc_RNA		GCA_000009045.1	GCA_000009055.1	Primary Assembly	na	96
+ncRNA	antisense_RNA	GCA_000009045.1	GCA_000009055.1	Primary Assembly	na	1
+rRNA		GCA_000009045.1	GCA_000009055.1	Primary Assembly	na	30
+tRNA		GCA_000009045.1	GCA_000009055.1	Primary Assembly	na	86

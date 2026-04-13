@@ -1,0 +1,32 @@
+# Assembly name:  ASM478601v1
+# Organism name:  Hydrogenovibrio crunogenus (g-proteobacteria)
+# Infraspecific name:  strain=SP-41
+# Taxid:          39765
+# BioSample:      SAMN09937998
+# BioProject:     PRJNA488626
+# Submitter:      University of Hamburg
+# Date:           2019-04-12
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Canu v. 1.6
+# Expected final version: yes
+# Genome coverage: 503.0x
+# Sequencing technology: PacBio RSII; Illumina MiSeq
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_004786015.1
+# RefSeq assembly accession: GCF_004786015.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_004786025.1	GCF_004786025.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+CP032096.1	assembled-molecule	na	Chromosome	CP032096.1	=	NZ_CP032096.1	Primary Assembly	2453259	na

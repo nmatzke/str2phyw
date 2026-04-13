@@ -1,0 +1,60 @@
+ANI report for assembly: GCA_000010665.1
+Submitted organism: Solidesulfovibrio magneticus RS-1 (taxid = 573370, rank = no rank, lineage = Bacteria; Pseudomonadati; Thermodesulfobacteriota; Desulfovibrionia; Desulfovibrionales; Desulfovibrionaceae; Solidesulfovibrio)
+Best match: Solidesulfovibrio carbinolicus (taxid = 296842, rank = species, lineage = Bacteria; Pseudomonadati; Thermodesulfobacteriota; Desulfovibrionia; Desulfovibrionales; Desulfovibrionaceae; Solidesulfovibrio)
+Submitted organism has type: Yes
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+CntmSeqANI : ANI value of the CntmSeq portion against the type
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  CntmSeqANI Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- ---------- --------- --- --------------------------------------------------------------------
+ 94.243 ( 72.3  82.0)  3839780  3820784         95   8395298     Solidesulfovibrio carbinolicus (GCA_004135975.1, ASM413597v1)
+ 83.383 ( 38.3  44.1)    88310    83840         86  15775348     Solidesulfovibrio aerotolerans (GCA_009856865.1, ASM985686v1)
+ 82.519 ( 28.8  29.8)    71071    70177         87   1109678     Solidesulfovibrio alcoholivorans DSM 5433 (GCA_000702665.1, ASM70266v1)
+ 82.458 ( 29.1  36.6)    19265    19265         84    321388     Solidesulfovibrio carbinoliphilus subsp. oakridgensis (GCA_000177215.2, ASM17721v2)
+ 82.034 ( 26.3  29.9)     9640     8364         87    226658     Solidesulfovibrio fructosivorans JJ] (GCA_000179555.1, ASM17955v1)
+ 80.769 (   .0    .0)        0        0          0   1155418     Nonomuraea kuesteri (GCA_000716135.1, ASM71613v1)
+ 80.496 (  7.3   9.3)     4733     4733         90  20174868     Desulfolutivibrio sulfoxidireducens (GCA_013376475.1, ASM1337647v1)
+ 80.368 (  7.6   9.2)     2728     2728         80  20174848     Desulfolutivibrio sulfodismutans DSM 3696 (GCA_013376455.1, ASM1337645v1)
+ 80.199 (  7.4   9.0)        0        0          0  16644918     Desulfolutivibrio sulfodismutans (GCA_010499425.1, ASM1049942v1)
+ 80.115 (   .1    .0)        0        0          0  28755628     Dactylosporangium vinaceum (GCA_019904175.1, ASM1990417v1)
+ 80.115 (   .1    .0)        0        0          0  62622058     Dactylosporangium vinaceum (GCA_042428735.1, ASM4242873v1)
+ 79.931 (  4.3   5.8)     1372     1372         79  32572518     Fundidesulfovibrio agrisoli (GCA_022808715.1, ASM2280871v1)
+ 79.709 (  3.5   4.3)     5782     5782         89  80858688     Fundidesulfovibrio butyratiphilus (GCA_054657235.1, ASM5465723v1)
+ 79.820 (  1.9   2.5)      235      235         97  23515518     Nitratidesulfovibrio oxamicus (GCA_015731765.1, ASM1573176v1)
+ 79.834 (  1.9   2.9)        0        0          0    775198     Desulfovibrio aminophilus DSM 12254 (GCA_000422565.1, ASM42256v1)
+ 79.760 (   .1    .1)        0        0          0  24009498     Caulobacter hibisci (GCA_016135805.1, ASM1613580v1)
+ 79.823 (   .0    .0)        0        0          0  24962248     Planobispora takensis (GCA_016863195.1, ASM1686319v1)
+ 79.527 (  4.4   4.9)     4145     4145         84    778458     Fundidesulfovibrio putealis DSM 16056 (GCA_000429325.1, ASM42932v1)
+ 79.535 (  4.6   6.2)     1499     1499         78  32572478     Fundidesulfovibrio soli (GCA_022808695.1, ASM2280869v1)
+ 79.507 (  1.6   2.2)        0        0          0    783318     Megalodesulfovibrio gigas DSM 1382 = ATCC 19364 (GCA_000468495.1, ASM46849v1)
+ 79.635 (   .1    .2)        0        0          0   3634908     Roseospirillum parvum (GCA_900100455.1, IMG-taxon 2675903017 annotated assembly)
+ 79.490 (  5.3   7.2)     1316     1316         86  32572698     Fundidesulfovibrio terrae (GCA_022808915.1, ASM2280891v1)
+ 79.489 (  5.4   6.4)      960      960         80  19489498     Fundidesulfovibrio magnetotacticus (GCA_013019105.1, ASM1301910v1)
+ 79.486 (  1.6   2.3)        0        0          0    778438     Megalodesulfovibrio gigas DSM 1382 = ATCC 19364 (GCA_000429285.1, ASM42928v1)
+ 79.335 (   .0    .0)        0        0          0  39311688  E  Streptomonospora mangrovi (GCA_027604915.1, ASM2760491v1)
+ 79.403 (  2.1   3.2)        0        0          0  80859468     Humidesulfovibrio idahonensis (GCA_054657715.1, ASM5465771v1)
+ 79.358 (  2.4   3.2)        0        0          0  82105838  E  Desulfomicrobium aestuarii (GCA_055385525.1, ASM5538552v1)
+ 79.172 (  2.9   4.3)     2277     2277         80  82113728     Desulfocurvus thunnarius (GCA_055390965.1, ASM5539096v1)
+ 79.195 (  1.9   2.9)        0        0          0   1146968     Desulfohalovibrio reitneri (GCA_000711295.1, ASM71129v1)
+ 79.289 (  1.7   2.2)        0        0          0   2881888     Pseudodesulfovibrio indicus (GCA_001563225.1, ASM156322v1)
+ 79.295 (  1.7   2.2)        0        0          0   8773358     Pseudodesulfovibrio indicus (GCA_004365595.1, ASM436559v1)
+ 79.033 (  2.4   3.3)      435      435         74    325168     Pseudodesulfovibrio mercurii (GCA_000189295.2, ASM18929v2)
+ 79.061 (  3.2   4.8)        0        0          0    892138     Desulfocurvus vexinensis DSM 17965 (GCA_000519125.1, ASM51912v1)
+ 78.762 (   .1    .1)        0        0          0  10019778     Pseudaquabacterium pictum (GCA_005403045.1, ASM540304v1)
+ 78.755 (  2.2   2.7)        0        0          0  61305838     Pseudodesulfovibrio karagichevae (GCA_041414475.1, ASM4141447v1)
+ 78.031 (   .1    .1)        0        0          0   5837778     Caulobacter zeae (GCA_002858925.1, ASM285892v1)
+ 77.087 (   .1    .1)        0        0          0  56163098     Pseudaquabacterium inlustre (GCA_038066595.1, ASM3806659v1)
+ 76.262 (   .1    .0)        0        0          0   1169458     Nonomuraea candida (GCA_000725485.1, Doro.v1.0)
+ 76.188 (   .1    .0)        0        0          0  58712138     Nonomuraea maheshkhaliensis (GCA_039529435.1, ASM3952943v1)
+ 75.493 (   .1    .0)        0        0          0  32926818  E  Actinomadura luzonensis (GCA_022664455.2, ASM2266445v2)

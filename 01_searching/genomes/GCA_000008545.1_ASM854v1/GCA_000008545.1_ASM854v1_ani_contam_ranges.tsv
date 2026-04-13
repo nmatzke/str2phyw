@@ -1,0 +1,13 @@
+# ANI ranges report for assembly: GCA_000008545.1
+# Submitted organism: Thermotoga maritima MSB8 (taxid = 243274, rank = no rank, lineage = Bacteria; Thermotogati; Thermotogota; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga)
+# Submitted Organism Has Type Assembly: Yes
+# Best match: Thermotoga maritima (taxid = 2336, rank = species, lineage = Bacteria; Thermotogati; Thermotogota; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga)
+# Status: CONFIRMED
+# Confidence: HIGH
+# Recommended actions legend:
+#     - (dash) - No action, query nucleotide is not contaminated
+#     S        - query nucleotide range is contaminated from within the same genus and could be considered for trimming, but it is still a valid component of assembly after trimming
+#     T        - query nucleotide range is contaminated and needs to be trimmed, but it is still a valid component of assembly after trimming
+#recommended_action	input_sequence_identifier	input_sequence_type	sequence_start	sequence_stop	sequence_length	typestrain_sequence	typestrain_sequence_start	typestrain_sequence_stop	typestrain_assembly_accession	typestrain_organism	ANI_this_region	ANI_threshold	%_query_coverage
+-	AE000512.1	CIRCULAR	1	1827804	1860725	CP004077.1	1	1827822	GCA_000390265.1	Thermotoga maritima	99.996	96	98.2307
+-	AE000512.1	CIRCULAR	1827805	1860725	1860725	CP004077.1	1836692	1869612	GCA_000390265.1	Thermotoga maritima	99.996	96	1.76926

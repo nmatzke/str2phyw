@@ -1,0 +1,36 @@
+ANI report for assembly: GCA_000017685.1
+Submitted organism: Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)' (taxid = 456481, rank = no rank, lineage = Bacteria; Pseudomonadati; Spirochaetota; Spirochaetia; Leptospirales; Leptospiraceae; Leptospira)
+Best match: Leptospira yanagawae (taxid = 293069, rank = species, lineage = Bacteria; Pseudomonadati; Spirochaetota; Spirochaetia; Leptospirales; Leptospiraceae; Leptospira)
+Submitted organism has type: Yes
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 83.403 ( 70.2  68.3)   396367   396367    687878     Leptospira yanagawae serovar Saopaulo str. Sao Paulo = ATCC 700523 (GCA_000332475.2, gls454202v02)
+ 82.872 ( 71.8  69.8)  2248032  2247771  60512658     Leptospira iowaensis (GCA_040833965.1, ASM4083396v1)
+ 82.773 ( 71.1  69.2)   192815   192815  37348068  E  Leptospira paudalimensis (GCA_026151345.1, ASM2615134v1)
+ 82.767 ( 70.7  72.1)    76109    76109   5706228     Leptospira levettii (GCA_002812085.1, ASM281208v1)
+ 82.794 ( 70.3  66.2)    71640    19037   6478038     Leptospira ellinghausenii (GCA_003114815.1, ASM311481v1)
+ 82.837 ( 69.7  70.0)     9290     4349  37348108  E  Leptospira limi (GCA_026151395.1, ASM2615139v1)
+ 82.267 ( 66.4  67.8)   195227   195227  60512638     Leptospira milleri (GCA_040833955.1, ASM4083395v1)
+ 80.888 ( 44.0  41.0)    51175    46652   8782848     Leptospira meyeri (GCA_004368965.1, ASM436896v1)
+ 80.727 ( 43.8  42.8)    15255    15106  60512698     Leptospira mgodei (GCA_040833985.1, ASM4083398v1)
+ 80.609 ( 44.5  42.1)    19587    19587  25054068     Leptospira abararensis (GCA_016918735.1, ASM1691873v1)
+ 80.649 ( 43.8  41.8)    18214    18093  37348058  E  Leptospira soteropolitanensis (GCA_026151335.1, ASM2615133v1)
+ 80.696 ( 43.9  40.9)    11448    10236    581608     Leptospira vanthielii serovar Holland str. Waz Holland = ATCC 700522 (GCA_000332455.2, gls454199v02)
+ 80.644 ( 42.4  42.4)     8530     8530   5706098     Leptospira harrisiae (GCA_002811945.1, ASM281194v1)
+ 80.676 ( 43.5  38.3)     8391     8391  25054488     Leptospira chreensis (GCA_016919165.1, ASM1691916v1)
+ 80.603 ( 42.7  41.4)     4178     4178    688038     Leptospira wolbachii serovar Codice str. CDC (GCA_000332515.2, gls454195v02)
+ 80.430 ( 45.3  43.8)     7084     7084    581588     Leptospira terpstrae serovar Hualin str. LT 11-33 = ATCC 700639 (GCA_000332495.2, gls454203v02)
+ 80.349 ( 43.6  41.9)     5394     5394   5706298     Leptospira brenneri (GCA_002812125.1, ASM281212v1)

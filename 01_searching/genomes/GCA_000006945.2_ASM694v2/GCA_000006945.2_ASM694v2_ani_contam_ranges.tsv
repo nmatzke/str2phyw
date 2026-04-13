@@ -1,0 +1,15 @@
+# ANI ranges report for assembly: GCA_000006945.2
+# Submitted organism: Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 (taxid = 99287, rank = no rank, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella)
+# Submitted Organism Has Type Assembly: Yes
+# Best match: Salmonella enterica (taxid = 28901, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella)
+# Status: CONFIRMED
+# Confidence: HIGH
+# Recommended actions legend:
+#     - (dash) - No action, query nucleotide is not contaminated
+#     S        - query nucleotide range is contaminated from within the same genus and could be considered for trimming, but it is still a valid component of assembly after trimming
+#     T        - query nucleotide range is contaminated and needs to be trimmed, but it is still a valid component of assembly after trimming
+#recommended_action	input_sequence_identifier	input_sequence_type	sequence_start	sequence_stop	sequence_length	typestrain_sequence	typestrain_sequence_start	typestrain_sequence_stop	typestrain_assembly_accession	typestrain_organism	ANI_this_region	ANI_threshold	%_query_coverage
+-	AE006468.2	CIRCULAR	1	799887	4857450	CP014051.2	1	799887	GCA_001558355.2	Salmonella enterica	99.9989	96	16.4672
+-	AE006468.2	CIRCULAR	799888	4857450	4857450	CP014051.2	799888	4857490	GCA_001558355.2	Salmonella enterica	99.9989	96	83.5328
+-	AE006471.2	CIRCULAR|PLASMID	1	57522	93933	CP014050.2	36412	93933	GCA_001558355.2	Salmonella enterica	100	96	61.2373
+-	AE006471.2	CIRCULAR|PLASMID	57523	93933	93933	CP014050.2	1	36411	GCA_001558355.2	Salmonella enterica	100	96	38.7627

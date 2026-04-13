@@ -1,0 +1,46 @@
+# Assembly name:  ASM314937v1
+# Organism name:  Vampirovibrio chlorellavorus (bacteria)
+# Isolate:  Vc_AZ_1
+# Taxid:          758823
+# BioSample:      SAMN09087149
+# BioProject:     PRJNA464406
+# Submitter:      Los Alamos National Lab
+# Date:           2018-05-23
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    QFWH01
+# Assembly method: IDBA-UD v. 1.1.1
+# Expected final version: yes
+# Genome coverage: 62.0x
+# Sequencing technology: Illumina MiSeq
+# Excluded from RefSeq: derived from metagenome
+# GenBank assembly accession: GCA_003149375.1
+# RefSeq assembly accession: GCF_003149375.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_003149395.1	GCF_003149395.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+Contig1	unplaced-scaffold	na	na	QFWH01000001.1	=	NZ_QFWH01000001.1	Primary Assembly	492360	na
+Contig2	unplaced-scaffold	na	na	QFWH01000002.1	=	NZ_QFWH01000002.1	Primary Assembly	479907	na
+Contig3	unplaced-scaffold	na	na	QFWH01000003.1	=	NZ_QFWH01000003.1	Primary Assembly	363895	na
+Contig4	unplaced-scaffold	na	na	QFWH01000004.1	=	NZ_QFWH01000004.1	Primary Assembly	313937	na
+Contig5	unplaced-scaffold	na	na	QFWH01000005.1	=	NZ_QFWH01000005.1	Primary Assembly	261251	na
+Contig6	unplaced-scaffold	na	na	QFWH01000006.1	=	NZ_QFWH01000006.1	Primary Assembly	215583	na
+Contig7	unplaced-scaffold	na	na	QFWH01000007.1	=	NZ_QFWH01000007.1	Primary Assembly	184210	na
+Contig8	unplaced-scaffold	na	na	QFWH01000008.1	=	NZ_QFWH01000008.1	Primary Assembly	175986	na
+Contig9	unplaced-scaffold	na	na	QFWH01000009.1	=	NZ_QFWH01000009.1	Primary Assembly	124060	na
+Contig10	unplaced-scaffold	na	na	QFWH01000010.1	=	NZ_QFWH01000010.1	Primary Assembly	105684	na
+Contig11	unplaced-scaffold	na	na	QFWH01000011.1	=	NZ_QFWH01000011.1	Primary Assembly	54771	na
+Contig12	unplaced-scaffold	na	na	QFWH01000012.1	=	NZ_QFWH01000012.1	Primary Assembly	6434	na
+Contig13	unplaced-scaffold	na	na	QFWH01000013.1	=	NZ_QFWH01000013.1	Primary Assembly	5506	na
+Contig14	unplaced-scaffold	na	na	QFWH01000014.1	=	NZ_QFWH01000014.1	Primary Assembly	5358	na

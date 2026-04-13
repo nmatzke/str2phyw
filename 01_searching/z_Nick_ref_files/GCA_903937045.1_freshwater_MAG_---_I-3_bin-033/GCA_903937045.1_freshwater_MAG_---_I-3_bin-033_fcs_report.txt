@@ -1,0 +1,6 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Fri Mar 24 06:59:02 2023", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.338937, "asserted-div": "prok:verrucomicrobia", "inferred-primary-divs": ["prok:verrucomicrobia", "prok:bacteria", "prok:d-proteobacteria", "prok:a-proteobacteria", "prok:firmicutes", "prok:g-proteobacteria", "prok:CFB group bacteria", "prok:b-proteobacteria", "prok:high GC Gram+", "prok:GNS bacteria", "prok:cyanobacteria", "prok:planctomycetes", "prok:proteobacteria"], "corrected-primary-divs": ["prok:verrucomicrobia", "prok:bacteria", "prok:d-proteobacteria", "prok:a-proteobacteria", "prok:firmicutes", "prok:g-proteobacteria", "prok:CFB group bacteria", "prok:b-proteobacteria", "prok:high GC Gram+", "prok:GNS bacteria", "prok:cyanobacteria", "prok:planctomycetes", "prok:proteobacteria"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	contam_type	coverage	contam_details
+CAIZXV010000031.1	1820	1853	1853	TRIM	adaptor:NGB01096.1	0	-
+CAIZXV010000304.1	1	22	1659	TRIM	adaptor:NGB01096.1	0	-
+CAIZXV010000542.1	2202	2244	2244	TRIM	adaptor:multiple	0	-
+CAIZXV010000689.1	5783	5803	5803	TRIM	adaptor:NGB01088.1	0	-

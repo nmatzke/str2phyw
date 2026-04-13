@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_000022005.1
+Submitted organism: Caulobacter vibrioides NA1000 (taxid = 565050, rank = no rank, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter)
+Best match: Caulobacter vibrioides (taxid = 155892, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 98.085 ( 92.1  93.8)     3327     3327   5837718     Caulobacter vibrioides (GCA_002858865.1, ASM285886v1)
+ 98.092 ( 92.9  91.1)  3751626  3751626   6149478     Caulobacter vibrioides (GCA_002310295.2, ASM231029v2)
+ 85.468 ( 62.1  54.0)    31041    31041   6288458     Caulobacter segnis (GCA_003015125.1, ASM301512v1)
+ 85.474 ( 62.1  53.9)        0        0    112918     Caulobacter segnis ATCC 21756 (GCA_000092285.1, ASM9228v1)
+ 83.743 ( 41.1  29.8)    16146    16146  24009498     Caulobacter hibisci (GCA_016135805.1, ASM1613580v1)
+ 83.741 ( 41.3  29.5)     6903     6903   7784668     Caulobacter flavus (GCA_003722335.1, ASM372233v1)
+ 83.741 ( 41.2  29.9)     6803     6803   6450798     Caulobacter radicis (GCA_003094615.1, ASM309461v1)
+ 83.706 ( 41.0  28.4)        0        0   5837698     Caulobacter flavus (GCA_002858845.1, ASM285884v1)
+ 83.622 ( 38.0  25.8)     2585     2585  17215888     Caulobacter rhizosphaerae (GCA_010977555.1, ASM1097755v1)
+ 83.679 ( 39.2  29.2)      808      808   6480588     Caulobacter endophyticus (GCA_003116815.1, ASM311681v1)
+ 83.647 ( 40.5  30.4)      662      662   5837778     Caulobacter zeae (GCA_002858925.1, ASM285892v1)
+ 83.617 ( 38.0  26.1)      154      154  22188218     Caulobacter rhizosphaerae (GCA_014645055.1, ASM1464505v1)
+ 83.465 ( 38.2  27.2)      860      860  17322658     Caulobacter soli (GCA_011045195.1, ASM1104519v1)
+ 82.535 ( 39.6  40.5)     5211     5211   2515768     Caulobacter henricii (GCA_001414055.1, ASM141405v1)
+ 82.522 ( 39.5  40.5)        0        0  62870858     Caulobacter henricii (GCA_042654665.1, ASM4265466v1)
+ 82.367 ( 19.2  19.4)        0        0  60802788     Caulobacter inopinatus (GCA_041021955.1, ASM4102195v1)
+ 82.135 ( 16.0  14.1)        0        0   5610078     Caulobacter mirabilis (GCA_002749615.1, ASM274961v1)
+ 81.542 ( 11.0  10.1)     1263     1263  21600608     Phenylobacterium haematophilum (GCA_014196295.1, ASM1419629v1)
+ 81.403 ( 10.7  11.1)     1516     1516  60100558     Phenylobacterium koreense (GCA_040545335.1, ASM4054533v1)
+ 81.341 ( 11.0  10.1)        0        0     18068  E  Phenylobacterium zucineum HLK1 (GCA_000017265.1, ASM1726v1)
+ 81.404 ( 10.1  10.1)        0        0   6687528     Phenylobacterium soli (GCA_003254475.1, ASM325447v1)
+ 81.493 ( 13.3  11.2)        0        0  46449638     Caulobacter ginsengisoli (GCA_030814835.1, ASM3081483v1)
+ 81.216 ( 12.6  12.2)      383      383  62895428     Phenylobacterium conjunctum (GCA_042679085.1, ASM4267908v1)
+ 81.029 ( 11.3  11.9)        0        0   6687558     Phenylobacterium hankyongense (GCA_003254505.1, ASM325450v1)
+ 80.809 ( 13.6  10.5)        0        0  32428608     Phenylobacterium aquaticum (GCA_022695515.1, ASM2269551v1)
+ 80.546 ( 11.2  10.6)        0        0  27175878     Phenylobacterium glaciei (GCA_016772415.2, ASM1677241v2)
+ 81.115 ( 10.4   9.4)     1518     1518  62932988     Phenylobacterium ferrooxidans (GCA_042714595.1, ASM4271459v1)
+ 81.103 ( 11.6   8.3)        0        0  26457918     Phenylobacterium montanum (GCA_018135625.1, ASM1813562v1)
+ 81.579 (  6.7   7.8)     1500     1500   7044098     Brevundimonas diminuta (GCA_900445995.1, 48290_B02)
+ 81.693 (  9.0   8.7)      980      980   6687588     Phenylobacterium kunshanense (GCA_003254525.1, ASM325452v1)
+ 81.589 (  6.0   7.1)        0        0  58706778  E  Brevundimonas olei (GCA_039524095.1, ASM3952409v1)
+ 81.349 (  6.8   8.5)      514      514  41467308     Candidatus Brevundimonas phytovorans (GCA_029203145.1, ASM2920314v1)
+ 81.406 (  6.4   8.6)        0        0   3709768     Brevundimonas viscosa (GCA_900116065.1, IMG-taxon 2671180176 annotated assembly)
+ 81.370 (  7.1   8.5)        0        0  21600688     Brevundimonas lenta (GCA_014196335.1, ASM1419633v1)
+ 81.315 (  6.4   9.0)        0        0  22429948     Brevundimonas guildfordensis (GCA_014836405.1, ASM1483640v1)
+ 81.458 (  7.6   9.6)        0        0  33416208     Brevundimonas albigilva (GCA_023503965.1, ASM2350396v1)
+ 81.187 (  8.8   9.2)        0        0   6687768     Phenylobacterium deserti (GCA_003254705.1, ASM325470v1)
+ 81.266 (  9.7  10.0)        0        0  62859578     Phenylobacterium soli (GCA_042643365.1, ASM4264336v1)
+ 81.077 ( 10.0   9.6)        0        0  62859598     Phenylobacterium terrae (GCA_042643415.1, ASM4264341v1)
+ 81.065 ( 10.0   9.6)        0        0  62897538     Phenylobacterium terrae (GCA_042681205.1, ASM4268120v1)

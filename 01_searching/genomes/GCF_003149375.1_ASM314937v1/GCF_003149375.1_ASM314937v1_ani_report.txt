@@ -1,0 +1,24 @@
+ANI report for assembly: GCA_003149375.1
+Submitted organism: Vampirovibrio chlorellavorus (taxid = 758823, rank = species, lineage = Bacteria; Bacillati; Candidatus Melainabacteria; Vampirovibriophyceae; Vampirovibrionales; Vampirovibrio)
+Best match: Vampirovibrio chlorellavorus (taxid = 758823, rank = species, lineage = Bacteria; Bacillati; Candidatus Melainabacteria; Vampirovibriophyceae; Vampirovibrionales; Vampirovibrio)
+Submitted organism has type: Yes
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 85.760 ( 70.0  64.4)  1951645  1950299   3673178     Vampirovibrio chlorellavorus (GCA_001858525.1, ASM185852v1)
+ 85.990 (   .2    .1)     4394     4394  11180808     Pseudomonas shirazica (GCA_900291065.1, Pseudomonas sp. VM14)
+ 85.775 (   .2    .1)        0        0  34193848     Ectopseudomonas hydrolytica (GCA_021495345.2, ASM2149534v2)
+ 85.551 (   .2    .1)        0        0  23064988     Alloalcanivorax venustensis ISO4 (GCA_015356855.1, ASM1535685v1)
+ 85.105 (   .2    .1)        0        0   5844178     Alloalcanivorax mobilis (GCA_002864685.1, ASM286468v1)

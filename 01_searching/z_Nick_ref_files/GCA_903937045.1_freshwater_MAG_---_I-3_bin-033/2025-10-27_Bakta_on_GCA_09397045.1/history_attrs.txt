@@ -1,0 +1,1 @@
+{"model_class": "History", "create_time": "2025-10-27 10:28:21.437200", "update_time": "2025-10-27 22:56:36.135733", "name": "Bakta_on_GCA_903937045.1_data44", "hid_counter": 43, "genome_build": null, "annotation": null, "tags": [], "encoded_id": "58c5bc788afebb51"}

@@ -1,0 +1,164 @@
+# Assembly name:  ASM3874594v1
+# Organism name:  Cyanobacteria bacterium P01_H01_bin.74 (cyanobacteria)
+# Isolate:  P01_H01_bin.74
+# Taxid:          3023322
+# BioSample:      SAMN32767732
+# BioProject:     PRJNA914100
+# Submitter:      GEOMAR Helmholtz Centre for Ocean Research
+# Date:           2024-04-30
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    JBCDLA01
+# Assembly method: metaWRAP v. 1.3.2
+# Expected final version: yes
+# Genome coverage: 5x
+# Sequencing technology: Illumina NovaSeq
+# Excluded from RefSeq: derived from metagenome; genus undefined
+# GenBank assembly accession: GCA_038745945.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_038745955.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+k141_545591_length_79907_cov_13.2737	unplaced-scaffold	na	na	JBCDLA010000001.1	<>	na	Primary Assembly	79907	na
+k141_2364411_length_70880_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000002.1	<>	na	Primary Assembly	70880	na
+k141_255719_length_55959_cov_13.8519	unplaced-scaffold	na	na	JBCDLA010000003.1	<>	na	Primary Assembly	55959	na
+k141_2366347_length_54528_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000004.1	<>	na	Primary Assembly	54528	na
+k141_438765_length_54208_cov_32.3868	unplaced-scaffold	na	na	JBCDLA010000005.1	<>	na	Primary Assembly	54208	na
+k141_2776038_length_52467_cov_24.0000	unplaced-scaffold	na	na	JBCDLA010000006.1	<>	na	Primary Assembly	52467	na
+k141_2783125_length_46641_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000007.1	<>	na	Primary Assembly	46641	na
+k141_2764107_length_46174_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000008.1	<>	na	Primary Assembly	46174	na
+k141_2290706_length_45725_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000009.1	<>	na	Primary Assembly	45725	na
+k141_1602610_length_45096_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000010.1	<>	na	Primary Assembly	45096	na
+k141_72952_length_43663_cov_15.9932	unplaced-scaffold	na	na	JBCDLA010000011.1	<>	na	Primary Assembly	43663	na
+k141_1931302_length_42212_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000012.1	<>	na	Primary Assembly	42212	na
+k141_3073223_length_41847_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000013.1	<>	na	Primary Assembly	41847	na
+k141_1435415_length_41828_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000014.1	<>	na	Primary Assembly	41828	na
+k141_1986560_length_38302_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000015.1	<>	na	Primary Assembly	38302	na
+k141_1042690_length_38217_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000016.1	<>	na	Primary Assembly	38217	na
+k141_1567056_length_37773_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000017.1	<>	na	Primary Assembly	37773	na
+k141_3037842_length_35652_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000018.1	<>	na	Primary Assembly	35652	na
+k141_1144554_length_32238_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000019.1	<>	na	Primary Assembly	32238	na
+k141_3161259_length_31876_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000020.1	<>	na	Primary Assembly	31876	na
+k141_3107332_length_31538_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000021.1	<>	na	Primary Assembly	31538	na
+k141_1118270_length_31424_cov_15.0000	unplaced-scaffold	na	na	JBCDLA010000022.1	<>	na	Primary Assembly	31424	na
+k141_531216_length_31358_cov_13.9779	unplaced-scaffold	na	na	JBCDLA010000023.1	<>	na	Primary Assembly	31358	na
+k141_2150813_length_31329_cov_12.9647	unplaced-scaffold	na	na	JBCDLA010000024.1	<>	na	Primary Assembly	31329	na
+k141_510847_length_30757_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000025.1	<>	na	Primary Assembly	30757	na
+k141_549018_length_30598_cov_12.0524	unplaced-scaffold	na	na	JBCDLA010000026.1	<>	na	Primary Assembly	30598	na
+k141_2196764_length_30066_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000027.1	<>	na	Primary Assembly	30066	na
+k141_669366_length_29304_cov_13.6044	unplaced-scaffold	na	na	JBCDLA010000028.1	<>	na	Primary Assembly	29304	na
+k141_2874444_length_29261_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000029.1	<>	na	Primary Assembly	29261	na
+k141_3365176_length_28878_cov_12.9732	unplaced-scaffold	na	na	JBCDLA010000030.1	<>	na	Primary Assembly	28878	na
+k141_1421901_length_28603_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000031.1	<>	na	Primary Assembly	28603	na
+k141_347333_length_28177_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000032.1	<>	na	Primary Assembly	28177	na
+k141_1851364_length_27739_cov_15.0024	unplaced-scaffold	na	na	JBCDLA010000033.1	<>	na	Primary Assembly	27739	na
+k141_1530720_length_27609_cov_14.0197	unplaced-scaffold	na	na	JBCDLA010000034.1	<>	na	Primary Assembly	27609	na
+k141_467080_length_26879_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000035.1	<>	na	Primary Assembly	26879	na
+k141_1465169_length_26542_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000036.1	<>	na	Primary Assembly	26542	na
+k141_1659009_length_24740_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000037.1	<>	na	Primary Assembly	24740	na
+k141_2488499_length_24294_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000038.1	<>	na	Primary Assembly	24294	na
+k141_645569_length_23848_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000039.1	<>	na	Primary Assembly	23848	na
+k141_2815954_length_22915_cov_14.0196	unplaced-scaffold	na	na	JBCDLA010000040.1	<>	na	Primary Assembly	22915	na
+k141_3353334_length_22875_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000041.1	<>	na	Primary Assembly	22875	na
+k141_1077287_length_22340_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000042.1	<>	na	Primary Assembly	22340	na
+k141_2661086_length_22326_cov_14.1243	unplaced-scaffold	na	na	JBCDLA010000043.1	<>	na	Primary Assembly	22326	na
+k141_2342360_length_21234_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000044.1	<>	na	Primary Assembly	21234	na
+k141_51108_length_21140_cov_15.0000	unplaced-scaffold	na	na	JBCDLA010000045.1	<>	na	Primary Assembly	21140	na
+k141_74445_length_21067_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000046.1	<>	na	Primary Assembly	21067	na
+k141_973037_length_20918_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000047.1	<>	na	Primary Assembly	20918	na
+k141_2398995_length_20778_cov_11.9928	unplaced-scaffold	na	na	JBCDLA010000048.1	<>	na	Primary Assembly	20778	na
+k141_1201076_length_20597_cov_11.9997	unplaced-scaffold	na	na	JBCDLA010000049.1	<>	na	Primary Assembly	20597	na
+k141_943748_length_18934_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000050.1	<>	na	Primary Assembly	18934	na
+k141_2564340_length_18640_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000051.1	<>	na	Primary Assembly	18640	na
+k141_1954866_length_18315_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000052.1	<>	na	Primary Assembly	18315	na
+k141_112805_length_17864_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000053.1	<>	na	Primary Assembly	17864	na
+k141_3379821_length_17333_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000054.1	<>	na	Primary Assembly	17333	na
+k141_1714268_length_17273_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000055.1	<>	na	Primary Assembly	17273	na
+k141_1841398_length_16996_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000056.1	<>	na	Primary Assembly	16996	na
+k141_706813_length_16569_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000057.1	<>	na	Primary Assembly	16569	na
+k141_519004_length_15625_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000058.1	<>	na	Primary Assembly	15625	na
+k141_2696374_length_15525_cov_15.0000	unplaced-scaffold	na	na	JBCDLA010000059.1	<>	na	Primary Assembly	15525	na
+k141_31316_length_14671_cov_15.0000	unplaced-scaffold	na	na	JBCDLA010000060.1	<>	na	Primary Assembly	14671	na
+k141_2144527_length_14640_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000061.1	<>	na	Primary Assembly	14640	na
+k141_2313882_length_14542_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000062.1	<>	na	Primary Assembly	14542	na
+k141_1840994_length_14539_cov_13.0001	unplaced-scaffold	na	na	JBCDLA010000063.1	<>	na	Primary Assembly	14539	na
+k141_2283238_length_14436_cov_13.0011	unplaced-scaffold	na	na	JBCDLA010000064.1	<>	na	Primary Assembly	14436	na
+k141_2834511_length_14322_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000065.1	<>	na	Primary Assembly	14322	na
+k141_1373790_length_14316_cov_15.0000	unplaced-scaffold	na	na	JBCDLA010000066.1	<>	na	Primary Assembly	14316	na
+k141_2051228_length_13276_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000067.1	<>	na	Primary Assembly	13276	na
+k141_2167703_length_13141_cov_13.0579	unplaced-scaffold	na	na	JBCDLA010000068.1	<>	na	Primary Assembly	13141	na
+k141_1138965_length_12738_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000069.1	<>	na	Primary Assembly	12738	na
+k141_609783_length_12721_cov_25.0000	unplaced-scaffold	na	na	JBCDLA010000070.1	<>	na	Primary Assembly	12721	na
+k141_134876_length_12556_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000071.1	<>	na	Primary Assembly	12556	na
+k141_892858_length_12417_cov_10.8754	unplaced-scaffold	na	na	JBCDLA010000072.1	<>	na	Primary Assembly	12417	na
+k141_2826386_length_12348_cov_12.0382	unplaced-scaffold	na	na	JBCDLA010000073.1	<>	na	Primary Assembly	12348	na
+k141_1975962_length_12143_cov_12.9853	unplaced-scaffold	na	na	JBCDLA010000074.1	<>	na	Primary Assembly	12143	na
+k141_2175628_length_12018_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000075.1	<>	na	Primary Assembly	12018	na
+k141_2459540_length_11977_cov_13.9649	unplaced-scaffold	na	na	JBCDLA010000076.1	<>	na	Primary Assembly	11977	na
+k141_1771664_length_11855_cov_13.0124	unplaced-scaffold	na	na	JBCDLA010000077.1	<>	na	Primary Assembly	11855	na
+k141_1937578_length_11505_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000078.1	<>	na	Primary Assembly	11505	na
+k141_660464_length_11095_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000079.1	<>	na	Primary Assembly	11095	na
+k141_742941_length_10633_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000080.1	<>	na	Primary Assembly	10633	na
+k141_2232731_length_10585_cov_13.0015	unplaced-scaffold	na	na	JBCDLA010000081.1	<>	na	Primary Assembly	10585	na
+k141_2898350_length_10460_cov_11.0023	unplaced-scaffold	na	na	JBCDLA010000082.1	<>	na	Primary Assembly	10460	na
+k141_1166862_length_10073_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000083.1	<>	na	Primary Assembly	10073	na
+k141_1062650_length_9895_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000084.1	<>	na	Primary Assembly	9895	na
+k141_379533_length_9636_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000085.1	<>	na	Primary Assembly	9636	na
+k141_2806949_length_8839_cov_14.0026	unplaced-scaffold	na	na	JBCDLA010000086.1	<>	na	Primary Assembly	8839	na
+k141_164475_length_8500_cov_8.0000	unplaced-scaffold	na	na	JBCDLA010000087.1	<>	na	Primary Assembly	8500	na
+k141_2521334_length_8210_cov_12.9973	unplaced-scaffold	na	na	JBCDLA010000088.1	<>	na	Primary Assembly	8210	na
+k141_151560_length_7452_cov_11.7832	unplaced-scaffold	na	na	JBCDLA010000089.1	<>	na	Primary Assembly	7452	na
+k141_3301568_length_7353_cov_8.0000	unplaced-scaffold	na	na	JBCDLA010000090.1	<>	na	Primary Assembly	7353	na
+k141_2828721_length_7229_cov_9.0000	unplaced-scaffold	na	na	JBCDLA010000091.1	<>	na	Primary Assembly	7229	na
+k141_461621_length_7111_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000092.1	<>	na	Primary Assembly	7111	na
+k141_2213160_length_6959_cov_10.9875	unplaced-scaffold	na	na	JBCDLA010000093.1	<>	na	Primary Assembly	6959	na
+k141_268677_length_6928_cov_12.0155	unplaced-scaffold	na	na	JBCDLA010000094.1	<>	na	Primary Assembly	6928	na
+k141_879355_length_6801_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000095.1	<>	na	Primary Assembly	6801	na
+k141_1192985_length_6734_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000096.1	<>	na	Primary Assembly	6734	na
+k141_1083553_length_6479_cov_8.0000	unplaced-scaffold	na	na	JBCDLA010000097.1	<>	na	Primary Assembly	6479	na
+k141_1787965_length_6139_cov_11.0000	unplaced-scaffold	na	na	JBCDLA010000098.1	<>	na	Primary Assembly	6139	na
+k141_2658846_length_6075_cov_17.0000	unplaced-scaffold	na	na	JBCDLA010000099.1	<>	na	Primary Assembly	6075	na
+k141_3245060_length_5823_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000100.1	<>	na	Primary Assembly	5823	na
+k141_509077_length_5607_cov_9.0000	unplaced-scaffold	na	na	JBCDLA010000101.1	<>	na	Primary Assembly	5607	na
+k141_1871500_length_5519_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000102.1	<>	na	Primary Assembly	5519	na
+k141_1492190_length_5419_cov_11.0002	unplaced-scaffold	na	na	JBCDLA010000103.1	<>	na	Primary Assembly	5419	na
+k141_2937657_length_4690_cov_11.9741	unplaced-scaffold	na	na	JBCDLA010000104.1	<>	na	Primary Assembly	4690	na
+k141_701108_length_4415_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000105.1	<>	na	Primary Assembly	4415	na
+k141_2891467_length_4381_cov_11.0557	unplaced-scaffold	na	na	JBCDLA010000106.1	<>	na	Primary Assembly	4381	na
+k141_3088525_length_4030_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000107.1	<>	na	Primary Assembly	4030	na
+k141_3176549_length_3583_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000108.1	<>	na	Primary Assembly	3583	na
+k141_627548_length_3536_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000109.1	<>	na	Primary Assembly	3536	na
+k141_2789524_length_3519_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000110.1	<>	na	Primary Assembly	3519	na
+k141_732332_length_3457_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000111.1	<>	na	Primary Assembly	3457	na
+k141_787882_length_3124_cov_8.0000	unplaced-scaffold	na	na	JBCDLA010000112.1	<>	na	Primary Assembly	3124	na
+k141_1571318_length_3018_cov_30.8060	unplaced-scaffold	na	na	JBCDLA010000113.1	<>	na	Primary Assembly	3018	na
+k141_854965_length_2966_cov_12.9735	unplaced-scaffold	na	na	JBCDLA010000114.1	<>	na	Primary Assembly	2966	na
+k141_2793827_length_2702_cov_568.4323	unplaced-scaffold	na	na	JBCDLA010000115.1	<>	na	Primary Assembly	2702	na
+k141_445272_length_2681_cov_23.0000	unplaced-scaffold	na	na	JBCDLA010000116.1	<>	na	Primary Assembly	2681	na
+k141_1470694_length_2460_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000117.1	<>	na	Primary Assembly	2460	na
+k141_88702_length_2220_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000118.1	<>	na	Primary Assembly	2220	na
+k141_3419634_length_2213_cov_9.0000	unplaced-scaffold	na	na	JBCDLA010000119.1	<>	na	Primary Assembly	2213	na
+k141_148594_length_1912_cov_44.6155	unplaced-scaffold	na	na	JBCDLA010000120.1	<>	na	Primary Assembly	1912	na
+k141_2560915_length_1859_cov_20.0000	unplaced-scaffold	na	na	JBCDLA010000121.1	<>	na	Primary Assembly	1859	na
+k141_398472_length_1775_cov_13.0000	unplaced-scaffold	na	na	JBCDLA010000122.1	<>	na	Primary Assembly	1775	na
+k141_2047840_length_1728_cov_9.9433	unplaced-scaffold	na	na	JBCDLA010000123.1	<>	na	Primary Assembly	1728	na
+k141_2620844_length_1664_cov_10.0000	unplaced-scaffold	na	na	JBCDLA010000124.1	<>	na	Primary Assembly	1664	na
+k141_2542121_length_1604_cov_14.0000	unplaced-scaffold	na	na	JBCDLA010000125.1	<>	na	Primary Assembly	1604	na
+k141_981548_length_1526_cov_17.1502	unplaced-scaffold	na	na	JBCDLA010000126.1	<>	na	Primary Assembly	1526	na
+k141_1113159_length_1510_cov_5.0000	unplaced-scaffold	na	na	JBCDLA010000127.1	<>	na	Primary Assembly	1510	na
+k141_2092656_length_1497_cov_12.0000	unplaced-scaffold	na	na	JBCDLA010000128.1	<>	na	Primary Assembly	1497	na
+k141_2470142_length_1487_cov_49.0000	unplaced-scaffold	na	na	JBCDLA010000129.1	<>	na	Primary Assembly	1487	na
+k141_3471069_length_1366_cov_195.0000	unplaced-scaffold	na	na	JBCDLA010000130.1	<>	na	Primary Assembly	1366	na
+k141_2165687_length_1257_cov_15.0000	unplaced-scaffold	na	na	JBCDLA010000131.1	<>	na	Primary Assembly	1257	na
+k141_2942018_length_1191_cov_21.3467	unplaced-scaffold	na	na	JBCDLA010000132.1	<>	na	Primary Assembly	1191	na
+k141_1225717_length_1167_cov_4.0000	unplaced-scaffold	na	na	JBCDLA010000133.1	<>	na	Primary Assembly	1167	na
+k141_3486807_length_1010_cov_3.0000	unplaced-scaffold	na	na	JBCDLA010000134.1	<>	na	Primary Assembly	1010	na

@@ -1,0 +1,25 @@
+ANI report for assembly: GCA_004786015.1
+Submitted organism: Hydrogenovibrio crunogenus (taxid = 39765, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Thiotrichales; Piscirickettsiaceae; Hydrogenovibrio)
+Best match: Thiomicrorhabdus hydrogeniphila (taxid = 1572581, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Thiotrichales; Piscirickettsiaceae; Thiomicrorhabdus)
+Submitted organism has type: No
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+CntmSeqANI : ANI value of the CntmSeq portion against the type
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  CntmSeqANI Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- ---------- --------- --- --------------------------------------------------------------------
+ 88.708 (  3.3   2.7)    36258    36258         95  80858168     Thiomicrorhabdus hydrogeniphila (GCA_054656895.1, ASM5465689v1)
+ 83.114 (  3.5   3.5)    18485    18485         87    900458     Hydrogenovibrio kuenenii DSM 12350 (GCA_000526715.1, ASM52671v1)
+ 82.985 (  2.2   2.2)     5007     5007         81    829598     Thiomicrorhabdus chilensis DSM 12352 (GCA_000483485.1, ASM48348v1)
+ 82.058 (  2.8   2.7)    10302    10302         86  41465608  E  Thiomicrorhabdus lithotrophica (GCA_029201445.1, ASM2920144v1)
+ 81.702 (  7.2   6.9)   169166   169166         83  82102368     Hydrogenovibrio thermophilus (GCA_055383025.1, ASM5538302v1)

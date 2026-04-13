@@ -1,0 +1,60 @@
+ANI report for assembly: GCA_002918555.1
+Submitted organism: Citrobacter amalonaticus (taxid = 35703, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Citrobacter)
+Best match: Citrobacter koseri (trusted species) (taxid = 545, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Citrobacter)
+Submitted organism has type: Yes
+Status: MISASSIGNED
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+CntmSeqANI : ANI value of the CntmSeq portion against the type
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  CntmSeqANI Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- ---------- --------- --- --------------------------------------------------------------------
+ 85.315 ( 52.0  61.8)   159346   159346         86   6756988   T Citrobacter koseri (GCA_900446925.1, 31340_G02)
+ 84.764 ( 54.8  54.3)   436398   436398         88  27595528   T Citrobacter braakii (GCA_019048805.1, ASM1904880v1)
+ 84.758 ( 54.7  54.3)    14093    14093         89   4327128   T Citrobacter braakii (GCA_002075345.1, ASM207534v1)
+ 84.674 ( 56.3  61.4)  2290667  2289102         85  26659068     Citrobacter amalonaticus (GCA_018323885.1, ASM1832388v1)
+ 84.588 ( 58.1  64.8)   345399   345224         85  27594788   T Citrobacter farmeri (GCA_019048065.1, ASM1904806v1)
+ 84.670 ( 56.3  61.4)   113572   113572         87  28994378     Citrobacter amalonaticus (GCA_020099335.1, ASM2009933v1)
+ 84.660 ( 56.0  60.9)      224      224        100   7042298     Citrobacter amalonaticus (GCA_900460855.1, 28869_B02)
+ 84.436 ( 49.9  51.3)   112707   112707         85  30703938     Citrobacter rodentium NBRC 105723 = DSM 16636 (GCA_021278985.1, ASM2127898v1)
+ 84.407 ( 49.7  52.6)      152      152         99  23801858     Citrobacter rodentium (GCA_015965415.1, PDT000619787.1)
+ 84.410 ( 49.8  53.1)        0        0          0   1316258     Citrobacter rodentium NBRC 105723 = DSM 16636 (GCA_000759815.1, ASM75981v1)
+ 84.405 ( 49.7  52.5)        0        0          0  23801978     Citrobacter rodentium NBRC 105723 = DSM 16636 (GCA_015965555.1, PDT000619840.1)
+ 84.246 ( 48.9  53.2)   115988   115988         84  28994358     Citrobacter europaeus (GCA_020099315.1, ASM2009931v1)
+ 84.151 ( 51.8  57.2)    90920    46681         83  29355468   T Citrobacter werkmanii (GCA_020341495.1, ASM2034149v1)
+ 84.175 ( 50.7  60.5)    58557    58557         84   1316278     Citrobacter sedlakii NBRC 105722 (GCA_000759835.1, ASM75983v1)
+ 84.251 ( 50.9  52.4)    48207    48207         82   8757508     Citrobacter arsenatis (GCA_004353845.1, ASM435384v1)
+ 84.147 ( 48.4  54.5)    48070    48070         82  41625388     Citrobacter enshiensis (GCA_029338175.1, ASM2933817v1)
+ 84.300 ( 48.8  55.0)    28697    28697         85   4254998   T Citrobacter portucalensis (GCA_002042885.1, ASM204288v1)
+ 84.184 ( 50.8  56.7)    27706    27706         91  17355618   T Citrobacter freundii ATCC 8090 = MTCC 1658 = NBRC 12681 (GCA_011064845.1, ASM1106484v1)
+ 84.149 ( 48.9  55.6)    19599    19599         86   8124298     Citrobacter youngae (GCA_900638065.1, 55685_A01)
+ 84.298 ( 50.6  52.4)    14326    14326         86  14211428     Citrobacter cronae (GCA_008802955.1, ASM880295v1)
+ 84.247 ( 49.7  51.1)    11203    11203         85  82809558   T Citrobacter freundii (GCA_055672315.1, PDT003128503.1)
+ 84.147 ( 48.2  53.5)     9584     9584         87   1486058     Citrobacter pasteurii (GCA_000826205.1, Citrobacter_pasteurii_55-13)
+ 84.182 ( 50.6  56.5)     9545     9545         89   8119328   T Citrobacter freundii (GCA_900635425.1, 28869_C01)
+ 84.238 ( 49.7  56.1)     7290     7290         86   1180408   T Citrobacter freundii ATCC 8090 = MTCC 1658 = NBRC 12681 (GCA_000734905.1, ASM73490v1)
+ 84.264 ( 51.8  54.2)     5143     5143         86  24948278     Citrobacter europaeus (GCA_900079995.3, ASM90007999v3)
+ 84.161 ( 48.5  53.4)     4044     4044         90  27594488     Citrobacter pasteurii (GCA_019047765.1, ASM1904776v1)
+ 84.132 ( 51.6  57.8)     1542     1542         85   1316198   T Citrobacter werkmanii NBRC 105721 (GCA_000759755.1, ASM75975v1)
+ 84.167 ( 50.6  57.1)     1406     1406         88   1316178   T Citrobacter freundii ATCC 8090 = MTCC 1658 = NBRC 12681 (GCA_000759735.1, ASM75973v1)
+ 84.136 ( 48.6  55.8)      260      260         97   7908858     Citrobacter youngae (GCA_003818115.1, ASM381811v1)
+ 84.162 ( 50.6  56.0)        0        0          0    456858   T Citrobacter freundii ATCC 8090 = MTCC 1658 = NBRC 12681 (GCA_000312465.1, ASM31246v1)
+ 84.245 ( 49.6  51.8)        0        0          0  82809638   T Citrobacter freundii (GCA_055672375.1, PDT003128502.1)
+ 84.086 ( 52.3  53.8)    77933    77933         85  34284048     Citrobacter meridianamericanus (GCA_024023655.1, ASM2402365v1)
+ 84.063 ( 50.9  57.0)    53202    53202         83   9166888     Citrobacter tructae (GCA_004684345.1, ASM468434v1)
+ 83.801 ( 41.1  46.9)     8288     8288         83  21837838   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_014334155.1, ASM1433415v1)
+ 83.779 ( 41.0  46.4)     2208     2208         86   4996228   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_002289225.1, ASM228922v1)
+ 85.294 ( 52.1  60.9)   169785   169785         86   7042458   T Citrobacter koseri (GCA_900461075.1, 31530_B01)
+ 83.813 ( 41.4  49.4)    15791    15791         83  23288578   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_015565735.1, ASM1556573v1)
+ 83.795 ( 41.0  47.0)     5752     5752         85   1191238   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_000743055.1, ASM74305v1)
+ 83.761 ( 40.3  47.0)     1779     1779         87    987978   T Salmonella enterica subsp. enterica serovar Typhimurium str. JCM 1652 (GCA_000614485.1, ASM61448v1)
+ 83.778 ( 40.9  47.1)      167      167         99  70219758   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_047688675.1, ASM4768867v1)

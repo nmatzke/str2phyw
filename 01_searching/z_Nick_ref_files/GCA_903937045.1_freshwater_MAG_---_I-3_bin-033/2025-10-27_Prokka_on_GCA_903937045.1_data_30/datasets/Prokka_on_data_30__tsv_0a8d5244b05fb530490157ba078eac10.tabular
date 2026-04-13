@@ -1,0 +1,3913 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NIDNPDGF_00001	gene	621	plsC			
+NIDNPDGF_00001	CDS	621	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+NIDNPDGF_00002	gene	1035	cmk_1			
+NIDNPDGF_00002	CDS	1035	cmk_1	2.7.4.25		Cytidylate kinase
+NIDNPDGF_00003	gene	1026				
+NIDNPDGF_00003	CDS	1026				hypothetical protein
+NIDNPDGF_00004	gene	372				
+NIDNPDGF_00004	CDS	372				hypothetical protein
+NIDNPDGF_00005	gene	1473	dapb3			
+NIDNPDGF_00005	CDS	1473	dapb3	3.4.14.-		Dipeptidyl aminopeptidase BIII
+NIDNPDGF_00006	gene	1638				
+NIDNPDGF_00006	CDS	1638				hypothetical protein
+NIDNPDGF_00007	gene	246				
+NIDNPDGF_00007	CDS	246				hypothetical protein
+NIDNPDGF_00008	gene	1863	recQ			
+NIDNPDGF_00008	CDS	1863	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+NIDNPDGF_00009	gene	174				
+NIDNPDGF_00009	CDS	174				hypothetical protein
+NIDNPDGF_00010	gene	1011	birA			
+NIDNPDGF_00010	CDS	1011	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+NIDNPDGF_00011	gene	333				
+NIDNPDGF_00011	CDS	333				hypothetical protein
+NIDNPDGF_00012	gene	576				
+NIDNPDGF_00012	CDS	576				hypothetical protein
+NIDNPDGF_00013	gene	831	metE			
+NIDNPDGF_00013	CDS	831	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+NIDNPDGF_00014	gene	543				
+NIDNPDGF_00014	CDS	543				hypothetical protein
+NIDNPDGF_00015	gene	339				
+NIDNPDGF_00015	CDS	339				hypothetical protein
+NIDNPDGF_00016	gene	342				
+NIDNPDGF_00016	CDS	342				hypothetical protein
+NIDNPDGF_00017	gene	678				
+NIDNPDGF_00017	CDS	678				hypothetical protein
+NIDNPDGF_00018	gene	150				
+NIDNPDGF_00018	CDS	150				hypothetical protein
+NIDNPDGF_00019	gene	774				
+NIDNPDGF_00019	CDS	774				hypothetical protein
+NIDNPDGF_00020	gene	948				
+NIDNPDGF_00020	CDS	948				hypothetical protein
+NIDNPDGF_00021	gene	453				
+NIDNPDGF_00021	CDS	453		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+NIDNPDGF_00022	gene	369				
+NIDNPDGF_00022	CDS	369				hypothetical protein
+NIDNPDGF_00023	gene	759				
+NIDNPDGF_00023	CDS	759				hypothetical protein
+NIDNPDGF_00024	gene	1062				
+NIDNPDGF_00024	CDS	1062				hypothetical protein
+NIDNPDGF_00025	gene	198				
+NIDNPDGF_00025	CDS	198				hypothetical protein
+NIDNPDGF_00026	gene	255				
+NIDNPDGF_00026	CDS	255				hypothetical protein
+NIDNPDGF_00027	gene	240				
+NIDNPDGF_00027	CDS	240				hypothetical protein
+NIDNPDGF_00028	gene	123				
+NIDNPDGF_00028	CDS	123				hypothetical protein
+NIDNPDGF_00029	gene	645				
+NIDNPDGF_00029	CDS	645				hypothetical protein
+NIDNPDGF_00030	gene	1143				
+NIDNPDGF_00030	CDS	1143				hypothetical protein
+NIDNPDGF_00031	gene	300	hisA			
+NIDNPDGF_00031	CDS	300	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+NIDNPDGF_00032	gene	189				
+NIDNPDGF_00032	CDS	189				hypothetical protein
+NIDNPDGF_00033	gene	681				
+NIDNPDGF_00033	CDS	681				hypothetical protein
+NIDNPDGF_00034	gene	921				
+NIDNPDGF_00034	CDS	921				hypothetical protein
+NIDNPDGF_00035	gene	1191	patA			
+NIDNPDGF_00035	CDS	1191	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+NIDNPDGF_00036	gene	426	nfsB			
+NIDNPDGF_00036	CDS	426	nfsB	1.-.-.-	COG0778	Oxygen-insensitive NAD(P)H nitroreductase
+NIDNPDGF_00037	gene	537				
+NIDNPDGF_00037	CDS	537				hypothetical protein
+NIDNPDGF_00038	gene	1680	pgi			
+NIDNPDGF_00038	CDS	1680	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+NIDNPDGF_00039	gene	675				
+NIDNPDGF_00039	CDS	675				hypothetical protein
+NIDNPDGF_00040	gene	1281				
+NIDNPDGF_00040	CDS	1281				hypothetical protein
+NIDNPDGF_00041	gene	723	ycdX			
+NIDNPDGF_00041	CDS	723	ycdX	3.1.3.-		phosphatase YcdX
+NIDNPDGF_00042	gene	654	menG			
+NIDNPDGF_00042	CDS	654	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+NIDNPDGF_00043	gene	294				
+NIDNPDGF_00043	CDS	294				hypothetical protein
+NIDNPDGF_00044	gene	966				
+NIDNPDGF_00044	CDS	966				hypothetical protein
+NIDNPDGF_00045	gene	2184	rbn_1			
+NIDNPDGF_00045	CDS	2184	rbn_1	3.1.26.11		Ribonuclease BN
+NIDNPDGF_00046	gene	456				
+NIDNPDGF_00046	CDS	456				hypothetical protein
+NIDNPDGF_00047	gene	1590				
+NIDNPDGF_00047	CDS	1590				hypothetical protein
+NIDNPDGF_00048	gene	147	trpC			
+NIDNPDGF_00048	CDS	147	trpC			Indole-3-glycerol phosphate synthase
+NIDNPDGF_00049	gene	1455				
+NIDNPDGF_00049	CDS	1455				hypothetical protein
+NIDNPDGF_00050	gene	246				
+NIDNPDGF_00050	CDS	246				hypothetical protein
+NIDNPDGF_00051	gene	909	mntA			
+NIDNPDGF_00051	CDS	909	mntA		COG0803	Manganese-binding lipoprotein MntA
+NIDNPDGF_00052	gene	834	znuC			
+NIDNPDGF_00052	CDS	834	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+NIDNPDGF_00053	gene	831	znuB			
+NIDNPDGF_00053	CDS	831	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+NIDNPDGF_00054	gene	222				
+NIDNPDGF_00054	CDS	222				hypothetical protein
+NIDNPDGF_00055	gene	249				
+NIDNPDGF_00055	CDS	249				hypothetical protein
+NIDNPDGF_00056	gene	1020	lpxD			
+NIDNPDGF_00056	CDS	1020	lpxD	2.3.1.191		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+NIDNPDGF_00057	gene	1170				
+NIDNPDGF_00057	CDS	1170				hypothetical protein
+NIDNPDGF_00058	gene	909				
+NIDNPDGF_00058	CDS	909				hypothetical protein
+NIDNPDGF_00059	gene	231				
+NIDNPDGF_00059	CDS	231				hypothetical protein
+NIDNPDGF_00060	gene	1245				
+NIDNPDGF_00060	CDS	1245				hypothetical protein
+NIDNPDGF_00061	gene	1095	dnaN			
+NIDNPDGF_00061	CDS	1095	dnaN		COG0592	Beta sliding clamp
+NIDNPDGF_00062	gene	579				
+NIDNPDGF_00062	CDS	579				hypothetical protein
+NIDNPDGF_00063	gene	1272	rcsC_1			
+NIDNPDGF_00063	CDS	1272	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_00064	gene	1971				
+NIDNPDGF_00064	CDS	1971				hypothetical protein
+NIDNPDGF_00065	gene	906	bcsA			
+NIDNPDGF_00065	CDS	906	bcsA	2.4.1.12	COG1215	Cellulose synthase catalytic subunit [UDP-forming]
+NIDNPDGF_00066	gene	519				
+NIDNPDGF_00066	CDS	519				hypothetical protein
+NIDNPDGF_00067	gene	648				
+NIDNPDGF_00067	CDS	648				hypothetical protein
+NIDNPDGF_00068	gene	744				
+NIDNPDGF_00068	CDS	744				hypothetical protein
+NIDNPDGF_00069	gene	933	COQ5_1			
+NIDNPDGF_00069	CDS	933	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+NIDNPDGF_00070	gene	939				
+NIDNPDGF_00070	CDS	939				hypothetical protein
+NIDNPDGF_00071	gene	1410				
+NIDNPDGF_00071	CDS	1410				hypothetical protein
+NIDNPDGF_00072	gene	855				
+NIDNPDGF_00072	CDS	855				hypothetical protein
+NIDNPDGF_00073	gene	2223	rcsC_2			
+NIDNPDGF_00073	CDS	2223	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_00074	gene	402				
+NIDNPDGF_00074	CDS	402				hypothetical protein
+NIDNPDGF_00075	gene	1164	xerC_1			
+NIDNPDGF_00075	CDS	1164	xerC_1			Tyrosine recombinase XerC
+NIDNPDGF_00076	gene	222				
+NIDNPDGF_00076	CDS	222				hypothetical protein
+NIDNPDGF_00077	gene	243				
+NIDNPDGF_00077	CDS	243				hypothetical protein
+NIDNPDGF_00078	gene	1065	glgX			
+NIDNPDGF_00078	CDS	1065	glgX	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+NIDNPDGF_00079	gene	720	macB_1			
+NIDNPDGF_00079	CDS	720	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+NIDNPDGF_00080	gene	324				
+NIDNPDGF_00080	CDS	324				hypothetical protein
+NIDNPDGF_00081	gene	399				
+NIDNPDGF_00081	CDS	399				hypothetical protein
+NIDNPDGF_00082	gene	897	rny			
+NIDNPDGF_00082	CDS	897	rny	3.1.-.-		Ribonuclease Y
+NIDNPDGF_00083	gene	522	cheD			
+NIDNPDGF_00083	CDS	522	cheD	3.5.1.44	COG1871	Chemoreceptor glutamine deamidase CheD
+NIDNPDGF_00084	gene	285				
+NIDNPDGF_00084	CDS	285				hypothetical protein
+NIDNPDGF_00085	gene	426				
+NIDNPDGF_00085	CDS	426				hypothetical protein
+NIDNPDGF_00086	gene	543				
+NIDNPDGF_00086	CDS	543				hypothetical protein
+NIDNPDGF_00087	gene	417				
+NIDNPDGF_00087	CDS	417				hypothetical protein
+NIDNPDGF_00088	gene	1059	rfaQ			
+NIDNPDGF_00088	CDS	1059	rfaQ	2.-.-.-	COG0859	Lipopolysaccharide core heptosyltransferase RfaQ
+NIDNPDGF_00089	gene	945				
+NIDNPDGF_00089	CDS	945				hypothetical protein
+NIDNPDGF_00090	gene	807				
+NIDNPDGF_00090	CDS	807				hypothetical protein
+NIDNPDGF_00091	gene	801	lnrL			
+NIDNPDGF_00091	CDS	801	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+NIDNPDGF_00092	gene	651				
+NIDNPDGF_00092	CDS	651				hypothetical protein
+NIDNPDGF_00093	gene	771				
+NIDNPDGF_00093	CDS	771				hypothetical protein
+NIDNPDGF_00094	gene	501				
+NIDNPDGF_00094	CDS	501				hypothetical protein
+NIDNPDGF_00095	gene	1044	epsE			
+NIDNPDGF_00095	CDS	1044	epsE		COG2804	Type II secretion system protein E
+NIDNPDGF_00096	gene	1251	gspF			
+NIDNPDGF_00096	CDS	1251	gspF		COG1459	Putative type II secretion system protein F
+NIDNPDGF_00097	gene	582				
+NIDNPDGF_00097	CDS	582				hypothetical protein
+NIDNPDGF_00098	gene	681				
+NIDNPDGF_00098	CDS	681				hypothetical protein
+NIDNPDGF_00099	gene	192				
+NIDNPDGF_00099	CDS	192				hypothetical protein
+NIDNPDGF_00100	gene	417				
+NIDNPDGF_00100	CDS	417				hypothetical protein
+NIDNPDGF_00101	gene	465				
+NIDNPDGF_00101	CDS	465				hypothetical protein
+NIDNPDGF_00102	gene	927				
+NIDNPDGF_00102	CDS	927				hypothetical protein
+NIDNPDGF_00103	gene	1038	tsaD			
+NIDNPDGF_00103	CDS	1038	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+NIDNPDGF_00104	gene	327				
+NIDNPDGF_00104	CDS	327				hypothetical protein
+NIDNPDGF_00105	gene	357				
+NIDNPDGF_00105	CDS	357				hypothetical protein
+NIDNPDGF_00106	gene	771	mtnB			
+NIDNPDGF_00106	CDS	771	mtnB	4.2.1.109		Methylthioribulose-1-phosphate dehydratase
+NIDNPDGF_00107	gene	537				
+NIDNPDGF_00107	CDS	537				hypothetical protein
+NIDNPDGF_00108	gene	636				
+NIDNPDGF_00108	CDS	636				hypothetical protein
+NIDNPDGF_00109	gene	273				
+NIDNPDGF_00109	CDS	273				hypothetical protein
+NIDNPDGF_00110	gene	1179				
+NIDNPDGF_00110	CDS	1179				hypothetical protein
+NIDNPDGF_00111	gene	960				
+NIDNPDGF_00111	CDS	960				hypothetical protein
+NIDNPDGF_00112	gene	198	fis			
+NIDNPDGF_00112	CDS	198	fis			DNA-binding protein Fis
+NIDNPDGF_00113	gene	420				
+NIDNPDGF_00113	CDS	420				hypothetical protein
+NIDNPDGF_00114	gene	74				
+NIDNPDGF_00114	tRNA	74				tRNA-Thr(tgt)
+NIDNPDGF_00115	gene	684				
+NIDNPDGF_00115	CDS	684				hypothetical protein
+NIDNPDGF_00116	gene	1158				
+NIDNPDGF_00116	CDS	1158				hypothetical protein
+NIDNPDGF_00117	gene	357				
+NIDNPDGF_00117	CDS	357				hypothetical protein
+NIDNPDGF_00118	gene	405				
+NIDNPDGF_00118	CDS	405				hypothetical protein
+NIDNPDGF_00119	gene	204				
+NIDNPDGF_00119	CDS	204				hypothetical protein
+NIDNPDGF_00120	gene	774				
+NIDNPDGF_00120	CDS	774				hypothetical protein
+NIDNPDGF_00121	gene	1401	zraR			
+NIDNPDGF_00121	CDS	1401	zraR		COG2204	Transcriptional regulatory protein ZraR
+NIDNPDGF_00122	gene	120				
+NIDNPDGF_00122	CDS	120				hypothetical protein
+NIDNPDGF_00123	gene	1062				
+NIDNPDGF_00123	CDS	1062				hypothetical protein
+NIDNPDGF_00124	gene	468				
+NIDNPDGF_00124	CDS	468				hypothetical protein
+NIDNPDGF_00125	gene	74				
+NIDNPDGF_00125	tRNA	74				tRNA-Phe(gaa)
+NIDNPDGF_00126	gene	561	ubiX			
+NIDNPDGF_00126	CDS	561	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+NIDNPDGF_00127	gene	636				
+NIDNPDGF_00127	CDS	636				hypothetical protein
+NIDNPDGF_00128	gene	258				
+NIDNPDGF_00128	CDS	258				hypothetical protein
+NIDNPDGF_00129	gene	1941	thiC			
+NIDNPDGF_00129	CDS	1941	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+NIDNPDGF_00130	gene	519	rpoC			
+NIDNPDGF_00130	CDS	519	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+NIDNPDGF_00131	gene	1065				
+NIDNPDGF_00131	CDS	1065				hypothetical protein
+NIDNPDGF_00132	gene	915	btr_1			
+NIDNPDGF_00132	CDS	915	btr_1		COG0614	HTH-type transcriptional activator Btr
+NIDNPDGF_00133	gene	483	pitA			
+NIDNPDGF_00133	CDS	483	pitA		COG0306	Low-affinity inorganic phosphate transporter 1
+NIDNPDGF_00134	gene	711				
+NIDNPDGF_00134	CDS	711				hypothetical protein
+NIDNPDGF_00135	gene	609				
+NIDNPDGF_00135	CDS	609				hypothetical protein
+NIDNPDGF_00136	gene	219				
+NIDNPDGF_00136	CDS	219				hypothetical protein
+NIDNPDGF_00137	gene	228				
+NIDNPDGF_00137	CDS	228				hypothetical protein
+NIDNPDGF_00138	gene	195				
+NIDNPDGF_00138	CDS	195				hypothetical protein
+NIDNPDGF_00139	gene	1752	argS			
+NIDNPDGF_00139	CDS	1752	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+NIDNPDGF_00140	gene	267	relG_1			
+NIDNPDGF_00140	CDS	267	relG_1	3.1.-.-	COG2026	Toxin RelG
+NIDNPDGF_00141	gene	207				
+NIDNPDGF_00141	CDS	207				hypothetical protein
+NIDNPDGF_00142	gene	750				
+NIDNPDGF_00142	CDS	750				hypothetical protein
+NIDNPDGF_00143	gene	348				
+NIDNPDGF_00143	CDS	348				hypothetical protein
+NIDNPDGF_00144	gene	828	lgt			
+NIDNPDGF_00144	CDS	828	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+NIDNPDGF_00145	gene	540	pucL			
+NIDNPDGF_00145	CDS	540	pucL		COG3195	Uric acid degradation bifunctional protein PucL
+NIDNPDGF_00146	gene	381	coaX			
+NIDNPDGF_00146	CDS	381	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+NIDNPDGF_00147	gene	789	artI			
+NIDNPDGF_00147	CDS	789	artI		COG0834	ABC transporter arginine-binding protein
+NIDNPDGF_00148	gene	360				
+NIDNPDGF_00148	CDS	360				hypothetical protein
+NIDNPDGF_00149	gene	249				
+NIDNPDGF_00149	CDS	249				hypothetical protein
+NIDNPDGF_00150	gene	231				
+NIDNPDGF_00150	CDS	231				hypothetical protein
+NIDNPDGF_00151	gene	345	fur			
+NIDNPDGF_00151	CDS	345	fur		COG0735	Ferric uptake regulation protein
+NIDNPDGF_00152	gene	1107	atoC			
+NIDNPDGF_00152	CDS	1107	atoC		COG2204	Regulatory protein AtoC
+NIDNPDGF_00153	gene	1218				
+NIDNPDGF_00153	CDS	1218				hypothetical protein
+NIDNPDGF_00154	gene	270				
+NIDNPDGF_00154	CDS	270				hypothetical protein
+NIDNPDGF_00155	gene	246				
+NIDNPDGF_00155	CDS	246				hypothetical protein
+NIDNPDGF_00156	gene	1026				
+NIDNPDGF_00156	CDS	1026				hypothetical protein
+NIDNPDGF_00157	gene	534				
+NIDNPDGF_00157	CDS	534				hypothetical protein
+NIDNPDGF_00158	gene	1152				
+NIDNPDGF_00158	CDS	1152			COG0683	Leu/Ile/Val-binding protein 
+NIDNPDGF_00159	gene	270				
+NIDNPDGF_00159	CDS	270				hypothetical protein
+NIDNPDGF_00160	gene	231				
+NIDNPDGF_00160	CDS	231				hypothetical protein
+NIDNPDGF_00161	gene	1095				
+NIDNPDGF_00161	CDS	1095				hypothetical protein
+NIDNPDGF_00162	gene	1008	iolS_1			
+NIDNPDGF_00162	CDS	1008	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+NIDNPDGF_00163	gene	396				
+NIDNPDGF_00163	CDS	396				hypothetical protein
+NIDNPDGF_00164	gene	483				
+NIDNPDGF_00164	CDS	483				hypothetical protein
+NIDNPDGF_00165	gene	390				
+NIDNPDGF_00165	CDS	390				hypothetical protein
+NIDNPDGF_00166	gene	891				
+NIDNPDGF_00166	CDS	891				hypothetical protein
+NIDNPDGF_00167	gene	495				
+NIDNPDGF_00167	CDS	495				hypothetical protein
+NIDNPDGF_00168	gene	1218				
+NIDNPDGF_00168	CDS	1218				hypothetical protein
+NIDNPDGF_00169	gene	315	rsmH			
+NIDNPDGF_00169	CDS	315	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+NIDNPDGF_00170	gene	372	ftsB			
+NIDNPDGF_00170	CDS	372	ftsB			Cell division protein FtsB
+NIDNPDGF_00171	gene	1968	spoVD			
+NIDNPDGF_00171	CDS	1968	spoVD		COG0768	Stage V sporulation protein D
+NIDNPDGF_00172	gene	1239				
+NIDNPDGF_00172	CDS	1239				hypothetical protein
+NIDNPDGF_00173	gene	1470				
+NIDNPDGF_00173	CDS	1470				hypothetical protein
+NIDNPDGF_00174	gene	1494				
+NIDNPDGF_00174	CDS	1494				hypothetical protein
+NIDNPDGF_00175	gene	1794				
+NIDNPDGF_00175	CDS	1794				hypothetical protein
+NIDNPDGF_00176	gene	831	purB			
+NIDNPDGF_00176	CDS	831	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+NIDNPDGF_00177	gene	444	purS			
+NIDNPDGF_00177	CDS	444	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+NIDNPDGF_00178	gene	1143				
+NIDNPDGF_00178	CDS	1143				hypothetical protein
+NIDNPDGF_00179	gene	162				
+NIDNPDGF_00179	CDS	162				hypothetical protein
+NIDNPDGF_00180	gene	567				
+NIDNPDGF_00180	CDS	567				hypothetical protein
+NIDNPDGF_00181	gene	201				
+NIDNPDGF_00181	CDS	201				hypothetical protein
+NIDNPDGF_00182	gene	471	mnmE			
+NIDNPDGF_00182	CDS	471	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+NIDNPDGF_00183	gene	978	mftC			
+NIDNPDGF_00183	CDS	978	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+NIDNPDGF_00184	gene	312				
+NIDNPDGF_00184	CDS	312				hypothetical protein
+NIDNPDGF_00185	gene	546				
+NIDNPDGF_00185	CDS	546				hypothetical protein
+NIDNPDGF_00186	gene	693				
+NIDNPDGF_00186	CDS	693				hypothetical protein
+NIDNPDGF_00187	gene	2007	yhgF			
+NIDNPDGF_00187	CDS	2007	yhgF		COG2183	Protein YhgF
+NIDNPDGF_00188	gene	156				
+NIDNPDGF_00188	CDS	156				hypothetical protein
+NIDNPDGF_00189	gene	885				
+NIDNPDGF_00189	CDS	885				hypothetical protein
+NIDNPDGF_00190	gene	174				
+NIDNPDGF_00190	CDS	174				hypothetical protein
+NIDNPDGF_00191	gene	543				
+NIDNPDGF_00191	CDS	543				hypothetical protein
+NIDNPDGF_00192	gene	429				
+NIDNPDGF_00192	CDS	429				hypothetical protein
+NIDNPDGF_00193	gene	414				
+NIDNPDGF_00193	CDS	414				hypothetical protein
+NIDNPDGF_00194	gene	135				
+NIDNPDGF_00194	CDS	135				hypothetical protein
+NIDNPDGF_00195	gene	171				
+NIDNPDGF_00195	CDS	171				hypothetical protein
+NIDNPDGF_00196	gene	555				
+NIDNPDGF_00196	CDS	555				hypothetical protein
+NIDNPDGF_00197	gene	216				
+NIDNPDGF_00197	CDS	216				hypothetical protein
+NIDNPDGF_00198	gene	519	dnaA			
+NIDNPDGF_00198	CDS	519	dnaA			Chromosomal replication initiator protein DnaA
+NIDNPDGF_00199	gene	885				
+NIDNPDGF_00199	CDS	885				hypothetical protein
+NIDNPDGF_00200	gene	717				
+NIDNPDGF_00200	CDS	717				hypothetical protein
+NIDNPDGF_00201	gene	846				
+NIDNPDGF_00201	CDS	846				hypothetical protein
+NIDNPDGF_00202	gene	960				
+NIDNPDGF_00202	CDS	960				hypothetical protein
+NIDNPDGF_00203	gene	978				
+NIDNPDGF_00203	CDS	978				hypothetical protein
+NIDNPDGF_00204	gene	801	tagG			
+NIDNPDGF_00204	CDS	801	tagG		COG1682	Teichoic acid translocation permease protein TagG
+NIDNPDGF_00205	gene	726	tagH			
+NIDNPDGF_00205	CDS	726	tagH	7.5.2.4		Teichoic acids export ATP-binding protein TagH
+NIDNPDGF_00206	gene	963	rhaS_1			
+NIDNPDGF_00206	CDS	963	rhaS_1			HTH-type transcriptional activator RhaS
+NIDNPDGF_00207	gene	375	divK_1			
+NIDNPDGF_00207	CDS	375	divK_1			Polar-differentiation response regulator DivK
+NIDNPDGF_00208	gene	246	divK_2			
+NIDNPDGF_00208	CDS	246	divK_2			Polar-differentiation response regulator DivK
+NIDNPDGF_00209	gene	456	rnc			
+NIDNPDGF_00209	CDS	456	rnc	3.1.26.3	COG0571	Ribonuclease 3
+NIDNPDGF_00210	gene	1380				
+NIDNPDGF_00210	CDS	1380				hypothetical protein
+NIDNPDGF_00211	gene	171				
+NIDNPDGF_00211	CDS	171				hypothetical protein
+NIDNPDGF_00212	gene	1926				
+NIDNPDGF_00212	CDS	1926				hypothetical protein
+NIDNPDGF_00213	gene	573	cckA_1			
+NIDNPDGF_00213	CDS	573	cckA_1			Sensor kinase CckA
+NIDNPDGF_00214	gene	186				
+NIDNPDGF_00214	CDS	186				hypothetical protein
+NIDNPDGF_00215	gene	888	argC			
+NIDNPDGF_00215	CDS	888	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+NIDNPDGF_00216	gene	1284	argJ			
+NIDNPDGF_00216	CDS	1284	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+NIDNPDGF_00217	gene	867	argB			
+NIDNPDGF_00217	CDS	867	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+NIDNPDGF_00218	gene	177				
+NIDNPDGF_00218	CDS	177				hypothetical protein
+NIDNPDGF_00219	gene	729				
+NIDNPDGF_00219	CDS	729				hypothetical protein
+NIDNPDGF_00220	gene	1041				
+NIDNPDGF_00220	CDS	1041				hypothetical protein
+NIDNPDGF_00221	gene	1332	ilvB			
+NIDNPDGF_00221	CDS	1332	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+NIDNPDGF_00222	gene	237				
+NIDNPDGF_00222	CDS	237				hypothetical protein
+NIDNPDGF_00223	gene	459				
+NIDNPDGF_00223	CDS	459				hypothetical protein
+NIDNPDGF_00224	gene	621				
+NIDNPDGF_00224	CDS	621				hypothetical protein
+NIDNPDGF_00225	gene	285	hisG			
+NIDNPDGF_00225	CDS	285	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+NIDNPDGF_00226	gene	510				
+NIDNPDGF_00226	CDS	510				hypothetical protein
+NIDNPDGF_00227	gene	774				
+NIDNPDGF_00227	CDS	774				hypothetical protein
+NIDNPDGF_00228	gene	1644				
+NIDNPDGF_00228	CDS	1644				hypothetical protein
+NIDNPDGF_00229	gene	258				
+NIDNPDGF_00229	CDS	258				hypothetical protein
+NIDNPDGF_00230	gene	300				
+NIDNPDGF_00230	CDS	300				hypothetical protein
+NIDNPDGF_00231	gene	792	oppA_1			
+NIDNPDGF_00231	CDS	792	oppA_1		COG4166	Oligopeptide-binding protein OppA
+NIDNPDGF_00232	gene	474				
+NIDNPDGF_00232	CDS	474				hypothetical protein
+NIDNPDGF_00233	gene	843				
+NIDNPDGF_00233	CDS	843				hypothetical protein
+NIDNPDGF_00234	gene	76				
+NIDNPDGF_00234	tRNA	76				tRNA-Thr(ggt)
+NIDNPDGF_00235	gene	1185	tufA			
+NIDNPDGF_00235	CDS	1185	tufA		COG0050	Elongation factor Tu
+NIDNPDGF_00236	gene	74				
+NIDNPDGF_00236	tRNA	74				tRNA-Trp(cca)
+NIDNPDGF_00237	gene	315				
+NIDNPDGF_00237	CDS	315				hypothetical protein
+NIDNPDGF_00238	gene	618	nusG			
+NIDNPDGF_00238	CDS	618	nusG		COG0250	Transcription termination/antitermination protein NusG
+NIDNPDGF_00239	gene	426	rplK			
+NIDNPDGF_00239	CDS	426	rplK		COG0080	50S ribosomal protein L11
+NIDNPDGF_00240	gene	465				
+NIDNPDGF_00240	CDS	465				hypothetical protein
+NIDNPDGF_00241	gene	396				
+NIDNPDGF_00241	CDS	396				hypothetical protein
+NIDNPDGF_00242	gene	297				
+NIDNPDGF_00242	CDS	297				hypothetical protein
+NIDNPDGF_00243	gene	678				
+NIDNPDGF_00243	CDS	678				hypothetical protein
+NIDNPDGF_00244	gene	306				
+NIDNPDGF_00244	CDS	306				hypothetical protein
+NIDNPDGF_00245	gene	1170	cysJ			
+NIDNPDGF_00245	CDS	1170	cysJ	1.8.1.2	COG0369	Sulfite reductase [NADPH] flavoprotein alpha-component
+NIDNPDGF_00246	gene	378	phoP			
+NIDNPDGF_00246	CDS	378	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+NIDNPDGF_00247	gene	2067				
+NIDNPDGF_00247	CDS	2067				hypothetical protein
+NIDNPDGF_00248	gene	573				
+NIDNPDGF_00248	CDS	573				hypothetical protein
+NIDNPDGF_00249	gene	1707				
+NIDNPDGF_00249	CDS	1707				hypothetical protein
+NIDNPDGF_00250	gene	204				
+NIDNPDGF_00250	CDS	204				hypothetical protein
+NIDNPDGF_00251	gene	771	rluD			
+NIDNPDGF_00251	CDS	771	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+NIDNPDGF_00252	gene	510	dinB			
+NIDNPDGF_00252	CDS	510	dinB	2.7.7.7		DNA polymerase IV
+NIDNPDGF_00253	gene	627	resA_1			
+NIDNPDGF_00253	CDS	627	resA_1			Thiol-disulfide oxidoreductase ResA
+NIDNPDGF_00254	gene	1515	dnaC			
+NIDNPDGF_00254	CDS	1515	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+NIDNPDGF_00255	gene	1005	secY			
+NIDNPDGF_00255	CDS	1005	secY		COG0201	Protein translocase subunit SecY
+NIDNPDGF_00256	gene	150				
+NIDNPDGF_00256	CDS	150				hypothetical protein
+NIDNPDGF_00257	gene	1242	pgsA			
+NIDNPDGF_00257	CDS	1242	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+NIDNPDGF_00258	gene	1446	rimO			
+NIDNPDGF_00258	CDS	1446	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+NIDNPDGF_00259	gene	900	rodZ			
+NIDNPDGF_00259	CDS	900	rodZ		COG1426	Cytoskeleton protein RodZ
+NIDNPDGF_00260	gene	2613	rcsC_3			
+NIDNPDGF_00260	CDS	2613	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_00261	gene	86				
+NIDNPDGF_00261	tRNA	86				tRNA-Tyr(gta)
+NIDNPDGF_00262	gene	396				
+NIDNPDGF_00262	CDS	396				hypothetical protein
+NIDNPDGF_00263	gene	186				
+NIDNPDGF_00263	CDS	186				hypothetical protein
+NIDNPDGF_00264	gene	1062	recJ			
+NIDNPDGF_00264	CDS	1062	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+NIDNPDGF_00265	gene	912				
+NIDNPDGF_00265	CDS	912				hypothetical protein
+NIDNPDGF_00266	gene	1152				
+NIDNPDGF_00266	CDS	1152				hypothetical protein
+NIDNPDGF_00267	gene	1008	ruvB			
+NIDNPDGF_00267	CDS	1008	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+NIDNPDGF_00268	gene	198				
+NIDNPDGF_00268	CDS	198				hypothetical protein
+NIDNPDGF_00269	gene	1026				
+NIDNPDGF_00269	CDS	1026				hypothetical protein
+NIDNPDGF_00270	gene	927	mshA_1			
+NIDNPDGF_00270	CDS	927	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIDNPDGF_00271	gene	1863	asnB			
+NIDNPDGF_00271	CDS	1863	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+NIDNPDGF_00272	gene	75				
+NIDNPDGF_00272	tRNA	75				tRNA-Arg(tct)
+NIDNPDGF_00273	gene	756				
+NIDNPDGF_00273	CDS	756				hypothetical protein
+NIDNPDGF_00274	gene	1158				
+NIDNPDGF_00274	CDS	1158				hypothetical protein
+NIDNPDGF_00275	gene	333				
+NIDNPDGF_00275	CDS	333				hypothetical protein
+NIDNPDGF_00276	gene	1215				
+NIDNPDGF_00276	CDS	1215				hypothetical protein
+NIDNPDGF_00277	gene	795				
+NIDNPDGF_00277	CDS	795				hypothetical protein
+NIDNPDGF_00278	gene	1122	tdh_1			
+NIDNPDGF_00278	CDS	1122	tdh_1	1.1.1.103		L-threonine 3-dehydrogenase
+NIDNPDGF_00279	gene	1056	gatD			
+NIDNPDGF_00279	CDS	1056	gatD	1.1.1.251	COG1063	Galactitol 1-phosphate 5-dehydrogenase
+NIDNPDGF_00280	gene	546				
+NIDNPDGF_00280	CDS	546				hypothetical protein
+NIDNPDGF_00281	gene	1698				
+NIDNPDGF_00281	CDS	1698				hypothetical protein
+NIDNPDGF_00282	gene	423				
+NIDNPDGF_00282	CDS	423				hypothetical protein
+NIDNPDGF_00283	gene	1089				
+NIDNPDGF_00283	CDS	1089				hypothetical protein
+NIDNPDGF_00284	gene	444				
+NIDNPDGF_00284	CDS	444				hypothetical protein
+NIDNPDGF_00285	gene	339				
+NIDNPDGF_00285	CDS	339				hypothetical protein
+NIDNPDGF_00286	gene	2037	ugtP_1			
+NIDNPDGF_00286	CDS	2037	ugtP_1	2.4.1.315		Processive diacylglycerol beta-glucosyltransferase
+NIDNPDGF_00287	gene	699	gph_1			
+NIDNPDGF_00287	CDS	699	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+NIDNPDGF_00288	gene	765				
+NIDNPDGF_00288	CDS	765				hypothetical protein
+NIDNPDGF_00289	gene	1158	xdh_1			
+NIDNPDGF_00289	CDS	1158	xdh_1	1.1.1.179		D-xylose dehydrogenase
+NIDNPDGF_00290	gene	528				
+NIDNPDGF_00290	CDS	528				hypothetical protein
+NIDNPDGF_00291	gene	1116				
+NIDNPDGF_00291	CDS	1116				hypothetical protein
+NIDNPDGF_00292	gene	1137				
+NIDNPDGF_00292	CDS	1137				hypothetical protein
+NIDNPDGF_00293	gene	1017				
+NIDNPDGF_00293	CDS	1017				hypothetical protein
+NIDNPDGF_00294	gene	894				
+NIDNPDGF_00294	CDS	894				hypothetical protein
+NIDNPDGF_00295	gene	312	rplU			
+NIDNPDGF_00295	CDS	312	rplU		COG0261	50S ribosomal protein L21
+NIDNPDGF_00296	gene	252	rpmA			
+NIDNPDGF_00296	CDS	252	rpmA		COG0211	50S ribosomal protein L27
+NIDNPDGF_00297	gene	1107	obg			
+NIDNPDGF_00297	CDS	1107	obg	3.6.5.-		GTPase Obg
+NIDNPDGF_00298	gene	648				
+NIDNPDGF_00298	CDS	648				hypothetical protein
+NIDNPDGF_00299	gene	804				
+NIDNPDGF_00299	CDS	804				hypothetical protein
+NIDNPDGF_00300	gene	456				
+NIDNPDGF_00300	CDS	456				hypothetical protein
+NIDNPDGF_00301	gene	876				
+NIDNPDGF_00301	CDS	876				hypothetical protein
+NIDNPDGF_00302	gene	765	tolQ_1			
+NIDNPDGF_00302	CDS	765	tolQ_1			Tol-Pal system protein TolQ
+NIDNPDGF_00303	gene	531	tolR			
+NIDNPDGF_00303	CDS	531	tolR			Tol-Pal system protein TolR
+NIDNPDGF_00304	gene	1296				
+NIDNPDGF_00304	CDS	1296				hypothetical protein
+NIDNPDGF_00305	gene	357	argG			
+NIDNPDGF_00305	CDS	357	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+NIDNPDGF_00306	gene	237				
+NIDNPDGF_00306	CDS	237				hypothetical protein
+NIDNPDGF_00307	gene	531				
+NIDNPDGF_00307	CDS	531				hypothetical protein
+NIDNPDGF_00308	gene	144				
+NIDNPDGF_00308	CDS	144				hypothetical protein
+NIDNPDGF_00309	gene	315				
+NIDNPDGF_00309	CDS	315				hypothetical protein
+NIDNPDGF_00310	gene	282				
+NIDNPDGF_00310	CDS	282				hypothetical protein
+NIDNPDGF_00311	gene	249				
+NIDNPDGF_00311	CDS	249				hypothetical protein
+NIDNPDGF_00312	gene	1050	moaA_1			
+NIDNPDGF_00312	CDS	1050	moaA_1	4.1.99.22		GTP 3',8-cyclase
+NIDNPDGF_00313	gene	1176				
+NIDNPDGF_00313	CDS	1176				hypothetical protein
+NIDNPDGF_00314	gene	396	cckA_2			
+NIDNPDGF_00314	CDS	396	cckA_2			Sensor kinase CckA
+NIDNPDGF_00315	gene	522				
+NIDNPDGF_00315	CDS	522				hypothetical protein
+NIDNPDGF_00316	gene	276				
+NIDNPDGF_00316	CDS	276				hypothetical protein
+NIDNPDGF_00317	gene	585	algU			
+NIDNPDGF_00317	CDS	585	algU		COG1595	RNA polymerase sigma-H factor
+NIDNPDGF_00318	gene	1023				
+NIDNPDGF_00318	CDS	1023				hypothetical protein
+NIDNPDGF_00319	gene	1209	argD			
+NIDNPDGF_00319	CDS	1209	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+NIDNPDGF_00320	gene	564	resA_2			
+NIDNPDGF_00320	CDS	564	resA_2			Thiol-disulfide oxidoreductase ResA
+NIDNPDGF_00321	gene	1398	lpd_1			
+NIDNPDGF_00321	CDS	1398	lpd_1	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+NIDNPDGF_00322	gene	612	puuR			
+NIDNPDGF_00322	CDS	612	puuR			HTH-type transcriptional regulator PuuR
+NIDNPDGF_00323	gene	354				
+NIDNPDGF_00323	CDS	354				hypothetical protein
+NIDNPDGF_00324	gene	195				
+NIDNPDGF_00324	CDS	195				hypothetical protein
+NIDNPDGF_00325	gene	492				
+NIDNPDGF_00325	CDS	492				hypothetical protein
+NIDNPDGF_00326	gene	615				
+NIDNPDGF_00326	CDS	615				hypothetical protein
+NIDNPDGF_00327	gene	177				
+NIDNPDGF_00327	CDS	177				hypothetical protein
+NIDNPDGF_00328	gene	933	nadK			
+NIDNPDGF_00328	CDS	933	nadK	2.7.1.23		NAD kinase
+NIDNPDGF_00329	gene	459	fruA			
+NIDNPDGF_00329	CDS	459	fruA		COG1299	PTS system fructose-specific EIIABC component
+NIDNPDGF_00330	gene	852	atpB_1			
+NIDNPDGF_00330	CDS	852	atpB_1		COG0356	ATP synthase subunit a
+NIDNPDGF_00331	gene	210	atpH			
+NIDNPDGF_00331	CDS	210	atpH			ATP synthase subunit c
+NIDNPDGF_00332	gene	573	atpF			
+NIDNPDGF_00332	CDS	573	atpF			ATP synthase subunit b
+NIDNPDGF_00333	gene	921	potE			
+NIDNPDGF_00333	CDS	921	potE			Putrescine transporter PotE
+NIDNPDGF_00334	gene	759				
+NIDNPDGF_00334	CDS	759				hypothetical protein
+NIDNPDGF_00335	gene	984	yidC			
+NIDNPDGF_00335	CDS	984	yidC			Membrane protein insertase YidC
+NIDNPDGF_00336	gene	363				
+NIDNPDGF_00336	CDS	363				hypothetical protein
+NIDNPDGF_00337	gene	882	cheB_1			
+NIDNPDGF_00337	CDS	882	cheB_1	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+NIDNPDGF_00338	gene	1521	crtI			
+NIDNPDGF_00338	CDS	1521	crtI	1.3.99.31	COG1233	Phytoene desaturase (lycopene-forming)
+NIDNPDGF_00339	gene	495				
+NIDNPDGF_00339	CDS	495				hypothetical protein
+NIDNPDGF_00340	gene	1068	greA			
+NIDNPDGF_00340	CDS	1068	greA			Transcription elongation factor GreA
+NIDNPDGF_00341	gene	468				
+NIDNPDGF_00341	CDS	468				hypothetical protein
+NIDNPDGF_00342	gene	1827				
+NIDNPDGF_00342	CDS	1827				hypothetical protein
+NIDNPDGF_00343	gene	4170	lacZ			
+NIDNPDGF_00343	CDS	4170	lacZ	3.2.1.23		Beta-galactosidase
+NIDNPDGF_00344	gene	1083	purR_1			
+NIDNPDGF_00344	CDS	1083	purR_1			HTH-type transcriptional repressor PurR
+NIDNPDGF_00345	gene	555				
+NIDNPDGF_00345	CDS	555				hypothetical protein
+NIDNPDGF_00346	gene	978	nrnA			
+NIDNPDGF_00346	CDS	978	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+NIDNPDGF_00347	gene	372				
+NIDNPDGF_00347	CDS	372				hypothetical protein
+NIDNPDGF_00348	gene	1827				
+NIDNPDGF_00348	CDS	1827		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+NIDNPDGF_00349	gene	2349				
+NIDNPDGF_00349	CDS	2349				hypothetical protein
+NIDNPDGF_00350	gene	714				
+NIDNPDGF_00350	CDS	714				hypothetical protein
+NIDNPDGF_00351	gene	669				
+NIDNPDGF_00351	CDS	669				hypothetical protein
+NIDNPDGF_00352	gene	432	exbD			
+NIDNPDGF_00352	CDS	432	exbD		COG0848	Biopolymer transport protein ExbD
+NIDNPDGF_00353	gene	210	tolQ_2			
+NIDNPDGF_00353	CDS	210	tolQ_2			Tol-Pal system protein TolQ
+NIDNPDGF_00354	gene	741	trxB			
+NIDNPDGF_00354	CDS	741	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+NIDNPDGF_00355	gene	654	rdgB			
+NIDNPDGF_00355	CDS	654	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+NIDNPDGF_00356	gene	2634	leuS			
+NIDNPDGF_00356	CDS	2634	leuS	6.1.1.4		Leucine--tRNA ligase
+NIDNPDGF_00357	gene	177				
+NIDNPDGF_00357	CDS	177				hypothetical protein
+NIDNPDGF_00358	gene	504				
+NIDNPDGF_00358	CDS	504				hypothetical protein
+NIDNPDGF_00359	gene	633				
+NIDNPDGF_00359	CDS	633				hypothetical protein
+NIDNPDGF_00360	gene	993				
+NIDNPDGF_00360	CDS	993				hypothetical protein
+NIDNPDGF_00361	gene	798				
+NIDNPDGF_00361	CDS	798				hypothetical protein
+NIDNPDGF_00362	gene	1269	aer			
+NIDNPDGF_00362	CDS	1269	aer		COG0840	Aerotaxis receptor
+NIDNPDGF_00363	gene	552				
+NIDNPDGF_00363	CDS	552				hypothetical protein
+NIDNPDGF_00364	gene	1383	miaB			
+NIDNPDGF_00364	CDS	1383	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NIDNPDGF_00365	gene	795				
+NIDNPDGF_00365	CDS	795			COG4398	putative protein
+NIDNPDGF_00366	gene	324				
+NIDNPDGF_00366	CDS	324				hypothetical protein
+NIDNPDGF_00367	gene	954	nth			
+NIDNPDGF_00367	CDS	954	nth	4.2.99.18		Endonuclease III
+NIDNPDGF_00368	gene	168				
+NIDNPDGF_00368	CDS	168				hypothetical protein
+NIDNPDGF_00369	gene	657	atpG_1			
+NIDNPDGF_00369	CDS	657	atpG_1			ATP synthase gamma chain
+NIDNPDGF_00370	gene	378				
+NIDNPDGF_00370	CDS	378				hypothetical protein
+NIDNPDGF_00371	gene	384				
+NIDNPDGF_00371	CDS	384				hypothetical protein
+NIDNPDGF_00372	gene	429				
+NIDNPDGF_00372	CDS	429				hypothetical protein
+NIDNPDGF_00373	gene	864				
+NIDNPDGF_00373	CDS	864				hypothetical protein
+NIDNPDGF_00374	gene	264				
+NIDNPDGF_00374	CDS	264				hypothetical protein
+NIDNPDGF_00375	gene	168				
+NIDNPDGF_00375	CDS	168				hypothetical protein
+NIDNPDGF_00376	gene	684				
+NIDNPDGF_00376	CDS	684				hypothetical protein
+NIDNPDGF_00377	gene	558				
+NIDNPDGF_00377	CDS	558				hypothetical protein
+NIDNPDGF_00378	gene	933	miaA			
+NIDNPDGF_00378	CDS	933	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+NIDNPDGF_00379	gene	789	panB			
+NIDNPDGF_00379	CDS	789	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+NIDNPDGF_00380	gene	984				
+NIDNPDGF_00380	CDS	984				hypothetical protein
+NIDNPDGF_00381	gene	717				
+NIDNPDGF_00381	CDS	717				hypothetical protein
+NIDNPDGF_00382	gene	369	kcsA			
+NIDNPDGF_00382	CDS	369	kcsA			pH-gated potassium channel KcsA
+NIDNPDGF_00383	gene	231				
+NIDNPDGF_00383	CDS	231				hypothetical protein
+NIDNPDGF_00384	gene	528				
+NIDNPDGF_00384	CDS	528				hypothetical protein
+NIDNPDGF_00385	gene	627	iolS_2			
+NIDNPDGF_00385	CDS	627	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+NIDNPDGF_00386	gene	561	frr			
+NIDNPDGF_00386	CDS	561	frr		COG0233	Ribosome-recycling factor
+NIDNPDGF_00387	gene	318				
+NIDNPDGF_00387	CDS	318				hypothetical protein
+NIDNPDGF_00388	gene	783				
+NIDNPDGF_00388	CDS	783				hypothetical protein
+NIDNPDGF_00389	gene	702	pyrF			
+NIDNPDGF_00389	CDS	702	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+NIDNPDGF_00390	gene	864	ispE			
+NIDNPDGF_00390	CDS	864	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NIDNPDGF_00391	gene	1020	gcvT			
+NIDNPDGF_00391	CDS	1020	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+NIDNPDGF_00392	gene	390	gcvH			
+NIDNPDGF_00392	CDS	390	gcvH		COG0509	Glycine cleavage system H protein
+NIDNPDGF_00393	gene	2859				
+NIDNPDGF_00393	CDS	2859				hypothetical protein
+NIDNPDGF_00394	gene	1008				
+NIDNPDGF_00394	CDS	1008				hypothetical protein
+NIDNPDGF_00395	gene	672				
+NIDNPDGF_00395	CDS	672				hypothetical protein
+NIDNPDGF_00396	gene	2142				
+NIDNPDGF_00396	CDS	2142				hypothetical protein
+NIDNPDGF_00397	gene	420				
+NIDNPDGF_00397	CDS	420				hypothetical protein
+NIDNPDGF_00398	gene	288				
+NIDNPDGF_00398	CDS	288				hypothetical protein
+NIDNPDGF_00399	gene	597	rpoE			
+NIDNPDGF_00399	CDS	597	rpoE		COG1595	ECF RNA polymerase sigma-E factor
+NIDNPDGF_00400	gene	654				
+NIDNPDGF_00400	CDS	654				hypothetical protein
+NIDNPDGF_00401	gene	768	rph			
+NIDNPDGF_00401	CDS	768	rph	2.7.7.56	COG0689	Ribonuclease PH
+NIDNPDGF_00402	gene	2073	aas			
+NIDNPDGF_00402	CDS	2073	aas	6.2.1.20		Bifunctional protein Aas
+NIDNPDGF_00403	gene	450				
+NIDNPDGF_00403	CDS	450				hypothetical protein
+NIDNPDGF_00404	gene	762				
+NIDNPDGF_00404	CDS	762				hypothetical protein
+NIDNPDGF_00405	gene	999				
+NIDNPDGF_00405	CDS	999				hypothetical protein
+NIDNPDGF_00406	gene	1404	allB			
+NIDNPDGF_00406	CDS	1404	allB	3.5.2.5	COG0044	Allantoinase
+NIDNPDGF_00407	gene	534				
+NIDNPDGF_00407	CDS	534		3.2.1.-	COG1388	Autolysin
+NIDNPDGF_00408	gene	1173	ftsW			
+NIDNPDGF_00408	CDS	1173	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+NIDNPDGF_00409	gene	102				
+NIDNPDGF_00409	CDS	102				hypothetical protein
+NIDNPDGF_00410	gene	1263				
+NIDNPDGF_00410	CDS	1263				hypothetical protein
+NIDNPDGF_00411	gene	1275	secA			
+NIDNPDGF_00411	CDS	1275	secA		COG0653	Protein translocase subunit SecA
+NIDNPDGF_00412	gene	1236	pncC			
+NIDNPDGF_00412	CDS	1236	pncC	3.5.1.42	COG1058	Nicotinamide-nucleotide amidohydrolase PncC
+NIDNPDGF_00413	gene	1125	recA			
+NIDNPDGF_00413	CDS	1125	recA		COG0468	Protein RecA
+NIDNPDGF_00414	gene	882				
+NIDNPDGF_00414	CDS	882				hypothetical protein
+NIDNPDGF_00415	gene	957				
+NIDNPDGF_00415	CDS	957				hypothetical protein
+NIDNPDGF_00416	gene	1011				
+NIDNPDGF_00416	CDS	1011				hypothetical protein
+NIDNPDGF_00417	gene	486	speA			
+NIDNPDGF_00417	CDS	486	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+NIDNPDGF_00418	gene	924	cyoE			
+NIDNPDGF_00418	CDS	924	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+NIDNPDGF_00419	gene	903	ctaA			
+NIDNPDGF_00419	CDS	903	ctaA	1.3.-.-		Heme A synthase
+NIDNPDGF_00420	gene	1674	rcsC_4			
+NIDNPDGF_00420	CDS	1674	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_00421	gene	429				
+NIDNPDGF_00421	CDS	429				hypothetical protein
+NIDNPDGF_00422	gene	294				
+NIDNPDGF_00422	CDS	294				hypothetical protein
+NIDNPDGF_00423	gene	825				
+NIDNPDGF_00423	CDS	825				hypothetical protein
+NIDNPDGF_00424	gene	1161	nifS_1			
+NIDNPDGF_00424	CDS	1161	nifS_1	2.8.1.7	COG1104	Cysteine desulfurase NifS
+NIDNPDGF_00425	gene	507	iscU			
+NIDNPDGF_00425	CDS	507	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+NIDNPDGF_00426	gene	351				
+NIDNPDGF_00426	CDS	351				hypothetical protein
+NIDNPDGF_00427	gene	267				
+NIDNPDGF_00427	CDS	267				hypothetical protein
+NIDNPDGF_00428	gene	819	bepA_1			
+NIDNPDGF_00428	CDS	819	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIDNPDGF_00429	gene	1509				
+NIDNPDGF_00429	CDS	1509				hypothetical protein
+NIDNPDGF_00430	gene	1182				
+NIDNPDGF_00430	CDS	1182				hypothetical protein
+NIDNPDGF_00431	gene	2067	carB			
+NIDNPDGF_00431	CDS	2067	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+NIDNPDGF_00432	gene	1158	dnaJ			
+NIDNPDGF_00432	CDS	1158	dnaJ		COG0484	Chaperone protein DnaJ
+NIDNPDGF_00433	gene	1974	btuB			
+NIDNPDGF_00433	CDS	1974	btuB			Vitamin B12 transporter BtuB
+NIDNPDGF_00434	gene	573				
+NIDNPDGF_00434	CDS	573				hypothetical protein
+NIDNPDGF_00435	gene	303				
+NIDNPDGF_00435	CDS	303				hypothetical protein
+NIDNPDGF_00436	gene	303				
+NIDNPDGF_00436	CDS	303				hypothetical protein
+NIDNPDGF_00437	gene	1527	ttdT			
+NIDNPDGF_00437	CDS	1527	ttdT		COG0471	L-tartrate/succinate antiporter
+NIDNPDGF_00438	gene	510				
+NIDNPDGF_00438	CDS	510				hypothetical protein
+NIDNPDGF_00439	gene	174				
+NIDNPDGF_00439	CDS	174				hypothetical protein
+NIDNPDGF_00440	gene	324				
+NIDNPDGF_00440	CDS	324				hypothetical protein
+NIDNPDGF_00441	gene	678	rpe			
+NIDNPDGF_00441	CDS	678	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+NIDNPDGF_00442	gene	387	gloA			
+NIDNPDGF_00442	CDS	387	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+NIDNPDGF_00443	gene	921	ysdC			
+NIDNPDGF_00443	CDS	921	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+NIDNPDGF_00444	gene	360	yecD			
+NIDNPDGF_00444	CDS	360	yecD	3.-.-.-	COG1335	Isochorismatase family protein YecD
+NIDNPDGF_00445	gene	324				
+NIDNPDGF_00445	CDS	324				hypothetical protein
+NIDNPDGF_00446	gene	702				
+NIDNPDGF_00446	CDS	702				hypothetical protein
+NIDNPDGF_00447	gene	318				
+NIDNPDGF_00447	CDS	318				hypothetical protein
+NIDNPDGF_00448	gene	990	rnhC			
+NIDNPDGF_00448	CDS	990	rnhC	3.1.26.4		Ribonuclease HIII
+NIDNPDGF_00449	gene	186				
+NIDNPDGF_00449	CDS	186				hypothetical protein
+NIDNPDGF_00450	gene	1077				
+NIDNPDGF_00450	CDS	1077				hypothetical protein
+NIDNPDGF_00451	gene	1278				
+NIDNPDGF_00451	CDS	1278				hypothetical protein
+NIDNPDGF_00452	gene	825	rhaR_1			
+NIDNPDGF_00452	CDS	825	rhaR_1			HTH-type transcriptional activator RhaR
+NIDNPDGF_00453	gene	1314				
+NIDNPDGF_00453	CDS	1314				hypothetical protein
+NIDNPDGF_00454	gene	666				
+NIDNPDGF_00454	CDS	666				hypothetical protein
+NIDNPDGF_00455	gene	555				
+NIDNPDGF_00455	CDS	555				hypothetical protein
+NIDNPDGF_00456	gene	192				
+NIDNPDGF_00456	CDS	192				hypothetical protein
+NIDNPDGF_00457	gene	1365	dapE			
+NIDNPDGF_00457	CDS	1365	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+NIDNPDGF_00458	gene	2022				
+NIDNPDGF_00458	CDS	2022				hypothetical protein
+NIDNPDGF_00459	gene	690	queH			
+NIDNPDGF_00459	CDS	690	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+NIDNPDGF_00460	gene	261				
+NIDNPDGF_00460	CDS	261				hypothetical protein
+NIDNPDGF_00461	gene	372				
+NIDNPDGF_00461	CDS	372				hypothetical protein
+NIDNPDGF_00462	gene	393				
+NIDNPDGF_00462	CDS	393				hypothetical protein
+NIDNPDGF_00463	gene	612				
+NIDNPDGF_00463	CDS	612				hypothetical protein
+NIDNPDGF_00464	gene	900				
+NIDNPDGF_00464	CDS	900				hypothetical protein
+NIDNPDGF_00465	gene	522				
+NIDNPDGF_00465	CDS	522				hypothetical protein
+NIDNPDGF_00466	gene	834				
+NIDNPDGF_00466	CDS	834				hypothetical protein
+NIDNPDGF_00467	gene	561				
+NIDNPDGF_00467	CDS	561				hypothetical protein
+NIDNPDGF_00468	gene	654				
+NIDNPDGF_00468	CDS	654				hypothetical protein
+NIDNPDGF_00469	gene	2409				
+NIDNPDGF_00469	CDS	2409				hypothetical protein
+NIDNPDGF_00470	gene	915				
+NIDNPDGF_00470	CDS	915				hypothetical protein
+NIDNPDGF_00471	gene	348				
+NIDNPDGF_00471	CDS	348				hypothetical protein
+NIDNPDGF_00472	gene	234				
+NIDNPDGF_00472	CDS	234				hypothetical protein
+NIDNPDGF_00473	gene	837	xerC_2			
+NIDNPDGF_00473	CDS	837	xerC_2			Tyrosine recombinase XerC
+NIDNPDGF_00474	gene	360				
+NIDNPDGF_00474	CDS	360				hypothetical protein
+NIDNPDGF_00475	gene	243				
+NIDNPDGF_00475	CDS	243				hypothetical protein
+NIDNPDGF_00476	gene	609				
+NIDNPDGF_00476	CDS	609				hypothetical protein
+NIDNPDGF_00477	gene	282				
+NIDNPDGF_00477	CDS	282				hypothetical protein
+NIDNPDGF_00478	gene	1260				
+NIDNPDGF_00478	CDS	1260				hypothetical protein
+NIDNPDGF_00479	gene	924				
+NIDNPDGF_00479	CDS	924				hypothetical protein
+NIDNPDGF_00480	gene	660				
+NIDNPDGF_00480	CDS	660				hypothetical protein
+NIDNPDGF_00481	gene	1071	degA			
+NIDNPDGF_00481	CDS	1071	degA		COG1609	HTH-type transcriptional regulator DegA
+NIDNPDGF_00482	gene	1086				
+NIDNPDGF_00482	CDS	1086				hypothetical protein
+NIDNPDGF_00483	gene	1455	rhlE			
+NIDNPDGF_00483	CDS	1455	rhlE	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+NIDNPDGF_00484	gene	363				
+NIDNPDGF_00484	CDS	363				hypothetical protein
+NIDNPDGF_00485	gene	1242	sasA_1			
+NIDNPDGF_00485	CDS	1242	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+NIDNPDGF_00486	gene	189				
+NIDNPDGF_00486	CDS	189				hypothetical protein
+NIDNPDGF_00487	gene	612	mfd			
+NIDNPDGF_00487	CDS	612	mfd	3.6.4.-		Transcription-repair-coupling factor
+NIDNPDGF_00488	gene	987	surA			
+NIDNPDGF_00488	CDS	987	surA	5.2.1.8		Chaperone SurA
+NIDNPDGF_00489	gene	921	pdxA2			
+NIDNPDGF_00489	CDS	921	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+NIDNPDGF_00490	gene	1290	argA			
+NIDNPDGF_00490	CDS	1290	argA	2.3.1.1	COG0548	Amino-acid acetyltransferase
+NIDNPDGF_00491	gene	762				
+NIDNPDGF_00491	CDS	762				hypothetical protein
+NIDNPDGF_00492	gene	483				
+NIDNPDGF_00492	CDS	483				hypothetical protein
+NIDNPDGF_00493	gene	282				
+NIDNPDGF_00493	CDS	282				hypothetical protein
+NIDNPDGF_00494	gene	237				
+NIDNPDGF_00494	CDS	237				hypothetical protein
+NIDNPDGF_00495	gene	1074				
+NIDNPDGF_00495	CDS	1074				hypothetical protein
+NIDNPDGF_00496	gene	417				
+NIDNPDGF_00496	CDS	417				hypothetical protein
+NIDNPDGF_00497	gene	723				
+NIDNPDGF_00497	CDS	723				hypothetical protein
+NIDNPDGF_00498	gene	1089				
+NIDNPDGF_00498	CDS	1089				hypothetical protein
+NIDNPDGF_00499	gene	1185				
+NIDNPDGF_00499	CDS	1185		3.6.1.1		Cobalt-dependent inorganic pyrophosphatase
+NIDNPDGF_00500	gene	144				
+NIDNPDGF_00500	CDS	144				hypothetical protein
+NIDNPDGF_00501	gene	168				
+NIDNPDGF_00501	CDS	168				hypothetical protein
+NIDNPDGF_00502	gene	456				
+NIDNPDGF_00502	CDS	456				hypothetical protein
+NIDNPDGF_00503	gene	903	RBKS_1			
+NIDNPDGF_00503	CDS	903	RBKS_1	2.7.1.15		Ribokinase
+NIDNPDGF_00504	gene	444	cmpR_1			
+NIDNPDGF_00504	CDS	444	cmpR_1			HTH-type transcriptional activator CmpR
+NIDNPDGF_00505	gene	561				
+NIDNPDGF_00505	CDS	561				hypothetical protein
+NIDNPDGF_00506	gene	696				
+NIDNPDGF_00506	CDS	696				hypothetical protein
+NIDNPDGF_00507	gene	600				
+NIDNPDGF_00507	CDS	600				hypothetical protein
+NIDNPDGF_00508	gene	2514	mutS			
+NIDNPDGF_00508	CDS	2514	mutS		COG0249	DNA mismatch repair protein MutS
+NIDNPDGF_00509	gene	1182	murJ_1			
+NIDNPDGF_00509	CDS	1182	murJ_1		COG0728	putative lipid II flippase MurJ
+NIDNPDGF_00510	gene	1407				
+NIDNPDGF_00510	CDS	1407		3.1.-.-	COG1236	Ribonuclease
+NIDNPDGF_00511	gene	264	yafQ_1			
+NIDNPDGF_00511	CDS	264	yafQ_1	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+NIDNPDGF_00512	gene	261	dinJ			
+NIDNPDGF_00512	CDS	261	dinJ			Antitoxin DinJ
+NIDNPDGF_00513	gene	144				
+NIDNPDGF_00513	CDS	144				hypothetical protein
+NIDNPDGF_00514	gene	1020	rbsR_1			
+NIDNPDGF_00514	CDS	1020	rbsR_1		COG1609	Ribose operon repressor
+NIDNPDGF_00515	gene	927	uxaC			
+NIDNPDGF_00515	CDS	927	uxaC	5.3.1.12	COG1904	Uronate isomerase
+NIDNPDGF_00516	gene	348				
+NIDNPDGF_00516	CDS	348				hypothetical protein
+NIDNPDGF_00517	gene	324	pspA			
+NIDNPDGF_00517	CDS	324	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+NIDNPDGF_00518	gene	312				
+NIDNPDGF_00518	CDS	312				hypothetical protein
+NIDNPDGF_00519	gene	1224				
+NIDNPDGF_00519	CDS	1224				hypothetical protein
+NIDNPDGF_00520	gene	744				
+NIDNPDGF_00520	CDS	744				hypothetical protein
+NIDNPDGF_00521	gene	795	rsmA			
+NIDNPDGF_00521	CDS	795	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+NIDNPDGF_00522	gene	1728				
+NIDNPDGF_00522	CDS	1728				hypothetical protein
+NIDNPDGF_00523	gene	909	rhaS_2			
+NIDNPDGF_00523	CDS	909	rhaS_2			HTH-type transcriptional activator RhaS
+NIDNPDGF_00524	gene	576				
+NIDNPDGF_00524	CDS	576				hypothetical protein
+NIDNPDGF_00525	gene	390				
+NIDNPDGF_00525	CDS	390				hypothetical protein
+NIDNPDGF_00526	gene	1395				
+NIDNPDGF_00526	CDS	1395				hypothetical protein
+NIDNPDGF_00527	gene	552				
+NIDNPDGF_00527	CDS	552				hypothetical protein
+NIDNPDGF_00528	gene	1590				
+NIDNPDGF_00528	CDS	1590				hypothetical protein
+NIDNPDGF_00529	gene	615	gmhA_1			
+NIDNPDGF_00529	CDS	615	gmhA_1	5.3.1.28	COG0279	Phosphoheptose isomerase
+NIDNPDGF_00530	gene	531	gmhB_1			
+NIDNPDGF_00530	CDS	531	gmhB_1	3.1.3.83		D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+NIDNPDGF_00531	gene	726	tal			
+NIDNPDGF_00531	CDS	726	tal	2.2.1.2	COG0176	Transaldolase
+NIDNPDGF_00532	gene	489				
+NIDNPDGF_00532	CDS	489				hypothetical protein
+NIDNPDGF_00533	gene	1842	btuD_1			
+NIDNPDGF_00533	CDS	1842	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NIDNPDGF_00534	gene	1167	btuD_2			
+NIDNPDGF_00534	CDS	1167	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NIDNPDGF_00535	gene	681	modB			
+NIDNPDGF_00535	CDS	681	modB		COG4149	Molybdenum transport system permease protein ModB
+NIDNPDGF_00536	gene	315	queD			
+NIDNPDGF_00536	CDS	315	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+NIDNPDGF_00537	gene	1086	luxC			
+NIDNPDGF_00537	CDS	1086	luxC	1.2.1.50		Long-chain acyl-protein thioester reductase
+NIDNPDGF_00538	gene	228				
+NIDNPDGF_00538	CDS	228				hypothetical protein
+NIDNPDGF_00539	gene	267	fabZ			
+NIDNPDGF_00539	CDS	267	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+NIDNPDGF_00540	gene	771	lpxA			
+NIDNPDGF_00540	CDS	771	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+NIDNPDGF_00541	gene	74				
+NIDNPDGF_00541	tRNA	74				tRNA-Pro(cgg)
+NIDNPDGF_00542	gene	243	kup			
+NIDNPDGF_00542	CDS	243	kup			Low affinity potassium transport system protein kup
+NIDNPDGF_00543	gene	237				
+NIDNPDGF_00543	CDS	237				hypothetical protein
+NIDNPDGF_00544	gene	888	dagK			
+NIDNPDGF_00544	CDS	888	dagK	2.7.1.107		Diacylglycerol kinase
+NIDNPDGF_00545	gene	267				
+NIDNPDGF_00545	CDS	267				hypothetical protein
+NIDNPDGF_00546	gene	759				
+NIDNPDGF_00546	CDS	759				hypothetical protein
+NIDNPDGF_00547	gene	234				
+NIDNPDGF_00547	CDS	234				hypothetical protein
+NIDNPDGF_00548	gene	435				
+NIDNPDGF_00548	CDS	435				hypothetical protein
+NIDNPDGF_00549	gene	1011	xdh_2			
+NIDNPDGF_00549	CDS	1011	xdh_2	1.1.1.179		D-xylose dehydrogenase
+NIDNPDGF_00550	gene	1317				
+NIDNPDGF_00550	CDS	1317				hypothetical protein
+NIDNPDGF_00551	gene	423				
+NIDNPDGF_00551	CDS	423				hypothetical protein
+NIDNPDGF_00552	gene	1569				
+NIDNPDGF_00552	CDS	1569				hypothetical protein
+NIDNPDGF_00553	gene	2292				
+NIDNPDGF_00553	CDS	2292				hypothetical protein
+NIDNPDGF_00554	gene	1350	cpoB			
+NIDNPDGF_00554	CDS	1350	cpoB			Cell division coordinator CpoB
+NIDNPDGF_00555	gene	285				
+NIDNPDGF_00555	CDS	285				hypothetical protein
+NIDNPDGF_00556	gene	2028	uvrA			
+NIDNPDGF_00556	CDS	2028	uvrA		COG0178	UvrABC system protein A
+NIDNPDGF_00557	gene	405	vapC			
+NIDNPDGF_00557	CDS	405	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+NIDNPDGF_00558	gene	264				
+NIDNPDGF_00558	CDS	264				hypothetical protein
+NIDNPDGF_00559	gene	981				
+NIDNPDGF_00559	CDS	981				hypothetical protein
+NIDNPDGF_00560	gene	1560				
+NIDNPDGF_00560	CDS	1560				hypothetical protein
+NIDNPDGF_00561	gene	111				
+NIDNPDGF_00561	CDS	111				hypothetical protein
+NIDNPDGF_00562	gene	501				
+NIDNPDGF_00562	CDS	501				hypothetical protein
+NIDNPDGF_00563	gene	870	btr_2			
+NIDNPDGF_00563	CDS	870	btr_2		COG0614	HTH-type transcriptional activator Btr
+NIDNPDGF_00564	gene	264				
+NIDNPDGF_00564	CDS	264				hypothetical protein
+NIDNPDGF_00565	gene	1080				
+NIDNPDGF_00565	CDS	1080		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+NIDNPDGF_00566	gene	540				
+NIDNPDGF_00566	CDS	540				hypothetical protein
+NIDNPDGF_00567	gene	129				
+NIDNPDGF_00567	CDS	129				hypothetical protein
+NIDNPDGF_00568	gene	95				
+NIDNPDGF_00568	tRNA	95				tRNA-Arg(gcg)
+NIDNPDGF_00569	gene	462				
+NIDNPDGF_00569	CDS	462				hypothetical protein
+NIDNPDGF_00570	gene	1170				
+NIDNPDGF_00570	CDS	1170				hypothetical protein
+NIDNPDGF_00571	gene	615				
+NIDNPDGF_00571	CDS	615				hypothetical protein
+NIDNPDGF_00572	gene	666	sucB_1			
+NIDNPDGF_00572	CDS	666	sucB_1	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+NIDNPDGF_00573	gene	1050				
+NIDNPDGF_00573	CDS	1050				hypothetical protein
+NIDNPDGF_00574	gene	1167	rlmI			
+NIDNPDGF_00574	CDS	1167	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+NIDNPDGF_00575	gene	447	yqgF			
+NIDNPDGF_00575	CDS	447	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+NIDNPDGF_00576	gene	1326				
+NIDNPDGF_00576	CDS	1326				hypothetical protein
+NIDNPDGF_00577	gene	135				
+NIDNPDGF_00577	CDS	135				hypothetical protein
+NIDNPDGF_00578	gene	453				
+NIDNPDGF_00578	CDS	453				hypothetical protein
+NIDNPDGF_00579	gene	1221				
+NIDNPDGF_00579	CDS	1221				hypothetical protein
+NIDNPDGF_00580	gene	1230				
+NIDNPDGF_00580	CDS	1230				hypothetical protein
+NIDNPDGF_00581	gene	744				
+NIDNPDGF_00581	CDS	744				hypothetical protein
+NIDNPDGF_00582	gene	429				
+NIDNPDGF_00582	CDS	429				hypothetical protein
+NIDNPDGF_00583	gene	786	glcR			
+NIDNPDGF_00583	CDS	786	glcR		COG1349	HTH-type transcriptional repressor GlcR
+NIDNPDGF_00584	gene	438				
+NIDNPDGF_00584	CDS	438				hypothetical protein
+NIDNPDGF_00585	gene	624				
+NIDNPDGF_00585	CDS	624				hypothetical protein
+NIDNPDGF_00586	gene	354				
+NIDNPDGF_00586	CDS	354				hypothetical protein
+NIDNPDGF_00587	gene	342				
+NIDNPDGF_00587	CDS	342				hypothetical protein
+NIDNPDGF_00588	gene	1755	mnmG			
+NIDNPDGF_00588	CDS	1755	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+NIDNPDGF_00589	gene	1677	mshA_2			
+NIDNPDGF_00589	CDS	1677	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIDNPDGF_00590	gene	915				
+NIDNPDGF_00590	CDS	915				hypothetical protein
+NIDNPDGF_00591	gene	1959				
+NIDNPDGF_00591	CDS	1959				hypothetical protein
+NIDNPDGF_00592	gene	1095				
+NIDNPDGF_00592	CDS	1095				hypothetical protein
+NIDNPDGF_00593	gene	579				
+NIDNPDGF_00593	CDS	579				hypothetical protein
+NIDNPDGF_00594	gene	324	motA			
+NIDNPDGF_00594	CDS	324	motA		COG1291	Motility protein A
+NIDNPDGF_00595	gene	759	lafU			
+NIDNPDGF_00595	CDS	759	lafU		COG1360	Chemotaxis protein LafU
+NIDNPDGF_00596	gene	390				
+NIDNPDGF_00596	CDS	390				hypothetical protein
+NIDNPDGF_00597	gene	801	flgG			
+NIDNPDGF_00597	CDS	801	flgG		COG4786	Flagellar basal-body rod protein FlgG
+NIDNPDGF_00598	gene	663	ypbG			
+NIDNPDGF_00598	CDS	663	ypbG		COG1408	putative protein YpbG
+NIDNPDGF_00599	gene	285				
+NIDNPDGF_00599	CDS	285				hypothetical protein
+NIDNPDGF_00600	gene	372				
+NIDNPDGF_00600	CDS	372				hypothetical protein
+NIDNPDGF_00601	gene	120				
+NIDNPDGF_00601	CDS	120				hypothetical protein
+NIDNPDGF_00602	gene	258				
+NIDNPDGF_00602	CDS	258				hypothetical protein
+NIDNPDGF_00603	gene	453				
+NIDNPDGF_00603	CDS	453				hypothetical protein
+NIDNPDGF_00604	gene	132				
+NIDNPDGF_00604	CDS	132				hypothetical protein
+NIDNPDGF_00605	gene	1173				
+NIDNPDGF_00605	CDS	1173				hypothetical protein
+NIDNPDGF_00606	gene	366				
+NIDNPDGF_00606	CDS	366				hypothetical protein
+NIDNPDGF_00607	gene	306				
+NIDNPDGF_00607	CDS	306				hypothetical protein
+NIDNPDGF_00608	gene	1257	gdhA			
+NIDNPDGF_00608	CDS	1257	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+NIDNPDGF_00609	gene	576	pabA			
+NIDNPDGF_00609	CDS	576	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+NIDNPDGF_00610	gene	90				
+NIDNPDGF_00610	CDS	90				hypothetical protein
+NIDNPDGF_00611	gene	513	pimB_1			
+NIDNPDGF_00611	CDS	513	pimB_1	2.4.1.346	COG0438	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+NIDNPDGF_00612	gene	1218	bioF			
+NIDNPDGF_00612	CDS	1218	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+NIDNPDGF_00613	gene	195				
+NIDNPDGF_00613	CDS	195				hypothetical protein
+NIDNPDGF_00614	gene	129				
+NIDNPDGF_00614	CDS	129				hypothetical protein
+NIDNPDGF_00615	gene	354				
+NIDNPDGF_00615	CDS	354				hypothetical protein
+NIDNPDGF_00616	gene	819	trpA			
+NIDNPDGF_00616	CDS	819	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+NIDNPDGF_00617	gene	537				
+NIDNPDGF_00617	CDS	537				hypothetical protein
+NIDNPDGF_00618	gene	321				
+NIDNPDGF_00618	CDS	321				hypothetical protein
+NIDNPDGF_00619	gene	513				
+NIDNPDGF_00619	CDS	513				hypothetical protein
+NIDNPDGF_00620	gene	366				
+NIDNPDGF_00620	CDS	366				hypothetical protein
+NIDNPDGF_00621	gene	810	pqqB			
+NIDNPDGF_00621	CDS	810	pqqB		COG1235	Coenzyme PQQ synthesis protein B
+NIDNPDGF_00622	gene	456	arcB			
+NIDNPDGF_00622	CDS	456	arcB	2.7.13.3	COG0642	Aerobic respiration control sensor protein ArcB
+NIDNPDGF_00623	gene	642	ddpX			
+NIDNPDGF_00623	CDS	642	ddpX	3.4.13.22	COG2173	D-alanyl-D-alanine dipeptidase
+NIDNPDGF_00624	gene	534				
+NIDNPDGF_00624	CDS	534				hypothetical protein
+NIDNPDGF_00625	gene	627	gppA			
+NIDNPDGF_00625	CDS	627	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+NIDNPDGF_00626	gene	396				
+NIDNPDGF_00626	CDS	396				hypothetical protein
+NIDNPDGF_00627	gene	906				
+NIDNPDGF_00627	CDS	906				hypothetical protein
+NIDNPDGF_00628	gene	771				
+NIDNPDGF_00628	CDS	771		3.6.3.-	COG0842	ABC transporter ATP-binding/permease protein
+NIDNPDGF_00629	gene	963	aroE			
+NIDNPDGF_00629	CDS	963	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+NIDNPDGF_00630	gene	861	outO			
+NIDNPDGF_00630	CDS	861	outO			Type 4 prepilin-like proteins leader peptide-processing enzyme
+NIDNPDGF_00631	gene	1305				
+NIDNPDGF_00631	CDS	1305				hypothetical protein
+NIDNPDGF_00632	gene	417				
+NIDNPDGF_00632	CDS	417				hypothetical protein
+NIDNPDGF_00633	gene	1071				
+NIDNPDGF_00633	CDS	1071				hypothetical protein
+NIDNPDGF_00634	gene	77				
+NIDNPDGF_00634	tRNA	77				tRNA-Met(cat)
+NIDNPDGF_00635	gene	807				
+NIDNPDGF_00635	CDS	807				hypothetical protein
+NIDNPDGF_00636	gene	843	nadB_1			
+NIDNPDGF_00636	CDS	843	nadB_1	1.4.3.16	COG0029	L-aspartate oxidase
+NIDNPDGF_00637	gene	318				
+NIDNPDGF_00637	CDS	318				hypothetical protein
+NIDNPDGF_00638	gene	711				
+NIDNPDGF_00638	CDS	711				hypothetical protein
+NIDNPDGF_00639	gene	543				
+NIDNPDGF_00639	CDS	543				hypothetical protein
+NIDNPDGF_00640	gene	612	gltS			
+NIDNPDGF_00640	CDS	612	gltS	1.4.7.1		Ferredoxin-dependent glutamate synthase 2
+NIDNPDGF_00641	gene	921				
+NIDNPDGF_00641	CDS	921				hypothetical protein
+NIDNPDGF_00642	gene	510	cusA			
+NIDNPDGF_00642	CDS	510	cusA		COG3696	Cation efflux system protein CusA
+NIDNPDGF_00643	gene	1065				
+NIDNPDGF_00643	CDS	1065				hypothetical protein
+NIDNPDGF_00644	gene	483				
+NIDNPDGF_00644	CDS	483				hypothetical protein
+NIDNPDGF_00645	gene	86				
+NIDNPDGF_00645	tRNA	86				tRNA-Leu(taa)
+NIDNPDGF_00646	gene	480				
+NIDNPDGF_00646	CDS	480				hypothetical protein
+NIDNPDGF_00647	gene	867				
+NIDNPDGF_00647	CDS	867				hypothetical protein
+NIDNPDGF_00648	gene	642	yceI			
+NIDNPDGF_00648	CDS	642	yceI			Protein YceI
+NIDNPDGF_00649	gene	288				
+NIDNPDGF_00649	CDS	288				hypothetical protein
+NIDNPDGF_00650	gene	1401	sasA_2			
+NIDNPDGF_00650	CDS	1401	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+NIDNPDGF_00651	gene	666	copR			
+NIDNPDGF_00651	CDS	666	copR			Transcriptional activator protein CopR
+NIDNPDGF_00652	gene	345	hoxY			
+NIDNPDGF_00652	CDS	345	hoxY	1.12.1.2		NAD-reducing hydrogenase HoxS subunit delta
+NIDNPDGF_00653	gene	1425	hoxH			
+NIDNPDGF_00653	CDS	1425	hoxH	1.12.1.2		NAD-reducing hydrogenase HoxS subunit beta
+NIDNPDGF_00654	gene	480				
+NIDNPDGF_00654	CDS	480				hypothetical protein
+NIDNPDGF_00655	gene	798	hypB			
+NIDNPDGF_00655	CDS	798	hypB		COG0378	Hydrogenase maturation factor HypB
+NIDNPDGF_00656	gene	348	hypA			
+NIDNPDGF_00656	CDS	348	hypA		COG0375	Hydrogenase maturation factor HypA
+NIDNPDGF_00657	gene	714				
+NIDNPDGF_00657	CDS	714				hypothetical protein
+NIDNPDGF_00658	gene	1071				
+NIDNPDGF_00658	CDS	1071				hypothetical protein
+NIDNPDGF_00659	gene	357	prfB			
+NIDNPDGF_00659	CDS	357	prfB			Peptide chain release factor 2
+NIDNPDGF_00660	gene	321	flgC			
+NIDNPDGF_00660	CDS	321	flgC		COG1558	Flagellar basal-body rod protein FlgC
+NIDNPDGF_00661	gene	213	proC			
+NIDNPDGF_00661	CDS	213	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+NIDNPDGF_00662	gene	1632	macB_2			
+NIDNPDGF_00662	CDS	1632	macB_2	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+NIDNPDGF_00663	gene	933				
+NIDNPDGF_00663	CDS	933				hypothetical protein
+NIDNPDGF_00664	gene	789				
+NIDNPDGF_00664	CDS	789				hypothetical protein
+NIDNPDGF_00665	gene	1389	petJ_1			
+NIDNPDGF_00665	CDS	1389	petJ_1			Cytochrome c6
+NIDNPDGF_00666	gene	861	flaB3			
+NIDNPDGF_00666	CDS	861	flaB3			Flagellar filament 30.7 kDa core protein
+NIDNPDGF_00667	gene	1587				
+NIDNPDGF_00667	CDS	1587				hypothetical protein
+NIDNPDGF_00668	gene	357	mprA			
+NIDNPDGF_00668	CDS	357	mprA		COG0745	Response regulator MprA
+NIDNPDGF_00669	gene	627	cheC			
+NIDNPDGF_00669	CDS	627	cheC	3.-.-.-	COG1776	CheY-P phosphatase CheC
+NIDNPDGF_00670	gene	1149	rcsC_5			
+NIDNPDGF_00670	CDS	1149	rcsC_5	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_00671	gene	153				
+NIDNPDGF_00671	CDS	153				hypothetical protein
+NIDNPDGF_00672	gene	813	pstS			
+NIDNPDGF_00672	CDS	813	pstS		COG0226	Phosphate-binding protein PstS
+NIDNPDGF_00673	gene	1575				
+NIDNPDGF_00673	CDS	1575				hypothetical protein
+NIDNPDGF_00674	gene	1917				
+NIDNPDGF_00674	CDS	1917				hypothetical protein
+NIDNPDGF_00675	gene	777				
+NIDNPDGF_00675	CDS	777				hypothetical protein
+NIDNPDGF_00676	gene	1224				
+NIDNPDGF_00676	CDS	1224				hypothetical protein
+NIDNPDGF_00677	gene	1080				
+NIDNPDGF_00677	CDS	1080				hypothetical protein
+NIDNPDGF_00678	gene	336				
+NIDNPDGF_00678	CDS	336				hypothetical protein
+NIDNPDGF_00679	gene	285				
+NIDNPDGF_00679	CDS	285				hypothetical protein
+NIDNPDGF_00680	gene	198				
+NIDNPDGF_00680	CDS	198				hypothetical protein
+NIDNPDGF_00681	gene	1812				
+NIDNPDGF_00681	CDS	1812				hypothetical protein
+NIDNPDGF_00682	gene	738				
+NIDNPDGF_00682	CDS	738				hypothetical protein
+NIDNPDGF_00683	gene	861	oppC			
+NIDNPDGF_00683	CDS	861	oppC		COG1173	Oligopeptide transport system permease protein OppC
+NIDNPDGF_00684	gene	654				
+NIDNPDGF_00684	CDS	654				hypothetical protein
+NIDNPDGF_00685	gene	1926				
+NIDNPDGF_00685	CDS	1926				hypothetical protein
+NIDNPDGF_00686	gene	807	tuaD			
+NIDNPDGF_00686	CDS	807	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+NIDNPDGF_00687	gene	1266	purA			
+NIDNPDGF_00687	CDS	1266	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+NIDNPDGF_00688	gene	1032				
+NIDNPDGF_00688	CDS	1032				hypothetical protein
+NIDNPDGF_00689	gene	408				
+NIDNPDGF_00689	CDS	408				hypothetical protein
+NIDNPDGF_00690	gene	486				
+NIDNPDGF_00690	CDS	486				hypothetical protein
+NIDNPDGF_00691	gene	765				
+NIDNPDGF_00691	CDS	765				hypothetical protein
+NIDNPDGF_00692	gene	615				
+NIDNPDGF_00692	CDS	615				hypothetical protein
+NIDNPDGF_00693	gene	402	ribE			
+NIDNPDGF_00693	CDS	402	ribE	2.5.1.9	COG0307	Riboflavin synthase
+NIDNPDGF_00694	gene	309				
+NIDNPDGF_00694	CDS	309				hypothetical protein
+NIDNPDGF_00695	gene	1032	hprK			
+NIDNPDGF_00695	CDS	1032	hprK	2.7.11.-		HPr kinase/phosphorylase
+NIDNPDGF_00696	gene	1203	menF			
+NIDNPDGF_00696	CDS	1203	menF	5.4.4.2		Isochorismate synthase MenF
+NIDNPDGF_00697	gene	939				
+NIDNPDGF_00697	CDS	939				hypothetical protein
+NIDNPDGF_00698	gene	780				
+NIDNPDGF_00698	CDS	780				hypothetical protein
+NIDNPDGF_00699	gene	663				
+NIDNPDGF_00699	CDS	663				hypothetical protein
+NIDNPDGF_00700	gene	552				
+NIDNPDGF_00700	CDS	552				hypothetical protein
+NIDNPDGF_00701	gene	912	rhaS_3			
+NIDNPDGF_00701	CDS	912	rhaS_3			HTH-type transcriptional activator RhaS
+NIDNPDGF_00702	gene	270				
+NIDNPDGF_00702	CDS	270				hypothetical protein
+NIDNPDGF_00703	gene	729	yggS			
+NIDNPDGF_00703	CDS	729	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+NIDNPDGF_00704	gene	372				
+NIDNPDGF_00704	CDS	372				hypothetical protein
+NIDNPDGF_00705	gene	75				
+NIDNPDGF_00705	tRNA	75				tRNA-Asn(gtt)
+NIDNPDGF_00706	gene	1131				
+NIDNPDGF_00706	CDS	1131				hypothetical protein
+NIDNPDGF_00707	gene	1662				
+NIDNPDGF_00707	CDS	1662				hypothetical protein
+NIDNPDGF_00708	gene	1698				
+NIDNPDGF_00708	CDS	1698				hypothetical protein
+NIDNPDGF_00709	gene	82				
+NIDNPDGF_00709	tRNA	82				tRNA-Leu(cag)
+NIDNPDGF_00710	gene	486				
+NIDNPDGF_00710	CDS	486				hypothetical protein
+NIDNPDGF_00711	gene	153				
+NIDNPDGF_00711	CDS	153				hypothetical protein
+NIDNPDGF_00712	gene	858				
+NIDNPDGF_00712	CDS	858				hypothetical protein
+NIDNPDGF_00713	gene	207				
+NIDNPDGF_00713	CDS	207				hypothetical protein
+NIDNPDGF_00714	gene	834	ygfZ			
+NIDNPDGF_00714	CDS	834	ygfZ		COG0354	tRNA-modifying protein YgfZ
+NIDNPDGF_00715	gene	357				
+NIDNPDGF_00715	CDS	357				hypothetical protein
+NIDNPDGF_00716	gene	417	crcB			
+NIDNPDGF_00716	CDS	417	crcB		COG0239	Putative fluoride ion transporter CrcB
+NIDNPDGF_00717	gene	1293				
+NIDNPDGF_00717	CDS	1293				hypothetical protein
+NIDNPDGF_00718	gene	1011				
+NIDNPDGF_00718	CDS	1011				hypothetical protein
+NIDNPDGF_00719	gene	435	hndA			
+NIDNPDGF_00719	CDS	435	hndA	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+NIDNPDGF_00720	gene	1647	rsxC			
+NIDNPDGF_00720	CDS	1647	rsxC	7.-.-.-		Ion-translocating oxidoreductase complex subunit C
+NIDNPDGF_00721	gene	309				
+NIDNPDGF_00721	CDS	309				hypothetical protein
+NIDNPDGF_00722	gene	825				
+NIDNPDGF_00722	CDS	825				hypothetical protein
+NIDNPDGF_00723	gene	615				
+NIDNPDGF_00723	CDS	615				hypothetical protein
+NIDNPDGF_00724	gene	132	fliE			
+NIDNPDGF_00724	CDS	132	fliE			Flagellar hook-basal body complex protein FliE
+NIDNPDGF_00725	gene	1602				
+NIDNPDGF_00725	CDS	1602				hypothetical protein
+NIDNPDGF_00726	gene	1089	fliG			
+NIDNPDGF_00726	CDS	1089	fliG		COG1536	Flagellar motor switch protein FliG
+NIDNPDGF_00727	gene	627				
+NIDNPDGF_00727	CDS	627				hypothetical protein
+NIDNPDGF_00728	gene	1821	atpB_2			
+NIDNPDGF_00728	CDS	1821	atpB_2	7.1.2.2		ATP synthase subunit beta
+NIDNPDGF_00729	gene	633				
+NIDNPDGF_00729	CDS	633				hypothetical protein
+NIDNPDGF_00730	gene	744				
+NIDNPDGF_00730	CDS	744				hypothetical protein
+NIDNPDGF_00731	gene	405	apaG			
+NIDNPDGF_00731	CDS	405	apaG			Protein ApaG
+NIDNPDGF_00732	gene	378				
+NIDNPDGF_00732	CDS	378				hypothetical protein
+NIDNPDGF_00733	gene	513	yvqK			
+NIDNPDGF_00733	CDS	513	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+NIDNPDGF_00734	gene	864				
+NIDNPDGF_00734	CDS	864				hypothetical protein
+NIDNPDGF_00735	gene	714	psd			
+NIDNPDGF_00735	CDS	714	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+NIDNPDGF_00736	gene	957				
+NIDNPDGF_00736	CDS	957		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+NIDNPDGF_00737	gene	2199				
+NIDNPDGF_00737	CDS	2199				hypothetical protein
+NIDNPDGF_00738	gene	810	rhaS_4			
+NIDNPDGF_00738	CDS	810	rhaS_4			HTH-type transcriptional activator RhaS
+NIDNPDGF_00739	gene	1938				
+NIDNPDGF_00739	CDS	1938				hypothetical protein
+NIDNPDGF_00740	gene	1269	wcaJ			
+NIDNPDGF_00740	CDS	1269	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+NIDNPDGF_00741	gene	1809				
+NIDNPDGF_00741	CDS	1809				hypothetical protein
+NIDNPDGF_00742	gene	432	hemL			
+NIDNPDGF_00742	CDS	432	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+NIDNPDGF_00743	gene	1947				
+NIDNPDGF_00743	CDS	1947				hypothetical protein
+NIDNPDGF_00744	gene	1260	alaS			
+NIDNPDGF_00744	CDS	1260	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+NIDNPDGF_00745	gene	1353	ribBA			
+NIDNPDGF_00745	CDS	1353	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+NIDNPDGF_00746	gene	999				
+NIDNPDGF_00746	CDS	999				hypothetical protein
+NIDNPDGF_00747	gene	693				
+NIDNPDGF_00747	CDS	693				hypothetical protein
+NIDNPDGF_00748	gene	594	tsaB			
+NIDNPDGF_00748	CDS	594	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NIDNPDGF_00749	gene	456	tsaE			
+NIDNPDGF_00749	CDS	456	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NIDNPDGF_00750	gene	495	mqnB			
+NIDNPDGF_00750	CDS	495	mqnB	3.2.2.26		Futalosine hydrolase
+NIDNPDGF_00751	gene	2151	shc			
+NIDNPDGF_00751	CDS	2151	shc	4.2.1.129	COG1657	Squalene--hopene cyclase
+NIDNPDGF_00752	gene	864				
+NIDNPDGF_00752	CDS	864				hypothetical protein
+NIDNPDGF_00753	gene	360				
+NIDNPDGF_00753	CDS	360				hypothetical protein
+NIDNPDGF_00754	gene	570	htrA			
+NIDNPDGF_00754	CDS	570	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+NIDNPDGF_00755	gene	363				
+NIDNPDGF_00755	CDS	363				hypothetical protein
+NIDNPDGF_00756	gene	1392	pgpH			
+NIDNPDGF_00756	CDS	1392	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+NIDNPDGF_00757	gene	582	recO			
+NIDNPDGF_00757	CDS	582	recO		COG1381	DNA repair protein RecO
+NIDNPDGF_00758	gene	99				
+NIDNPDGF_00758	CDS	99				hypothetical protein
+NIDNPDGF_00759	gene	624				
+NIDNPDGF_00759	CDS	624				hypothetical protein
+NIDNPDGF_00760	gene	621				
+NIDNPDGF_00760	CDS	621				hypothetical protein
+NIDNPDGF_00761	gene	552	dapH			
+NIDNPDGF_00761	CDS	552	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NIDNPDGF_00762	gene	819				
+NIDNPDGF_00762	CDS	819				hypothetical protein
+NIDNPDGF_00763	gene	1236				
+NIDNPDGF_00763	CDS	1236				hypothetical protein
+NIDNPDGF_00764	gene	82				
+NIDNPDGF_00764	tRNA	82				tRNA-Ile(gat)
+NIDNPDGF_00765	gene	435				
+NIDNPDGF_00765	CDS	435				hypothetical protein
+NIDNPDGF_00766	gene	936	cmpR_2			
+NIDNPDGF_00766	CDS	936	cmpR_2			HTH-type transcriptional activator CmpR
+NIDNPDGF_00767	gene	1104	cmpC			
+NIDNPDGF_00767	CDS	1104	cmpC	3.6.3.-	COG0715	Bicarbonate transport ATP-binding protein CmpC
+NIDNPDGF_00768	gene	720	ccsA_1			
+NIDNPDGF_00768	CDS	720	ccsA_1			Cytochrome c biogenesis protein CcsA
+NIDNPDGF_00769	gene	939				
+NIDNPDGF_00769	CDS	939				hypothetical protein
+NIDNPDGF_00770	gene	447				
+NIDNPDGF_00770	CDS	447				hypothetical protein
+NIDNPDGF_00771	gene	198	rplS			
+NIDNPDGF_00771	CDS	198	rplS		COG0335	50S ribosomal protein L19
+NIDNPDGF_00772	gene	738	rnhB			
+NIDNPDGF_00772	CDS	738	rnhB			Ribonuclease HII
+NIDNPDGF_00773	gene	384				
+NIDNPDGF_00773	CDS	384				hypothetical protein
+NIDNPDGF_00774	gene	678				
+NIDNPDGF_00774	CDS	678				hypothetical protein
+NIDNPDGF_00775	gene	74				
+NIDNPDGF_00775	tRNA	74				tRNA-Lys(ttt)
+NIDNPDGF_00776	gene	222				
+NIDNPDGF_00776	CDS	222				hypothetical protein
+NIDNPDGF_00777	gene	477				
+NIDNPDGF_00777	CDS	477				hypothetical protein
+NIDNPDGF_00778	gene	1011	crtD			
+NIDNPDGF_00778	CDS	1011	crtD	1.3.99.27		1-hydroxycarotenoid 3,4-desaturase
+NIDNPDGF_00779	gene	1518				
+NIDNPDGF_00779	CDS	1518				hypothetical protein
+NIDNPDGF_00780	gene	465	cheB_2			
+NIDNPDGF_00780	CDS	465	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+NIDNPDGF_00781	gene	1113	macA			
+NIDNPDGF_00781	CDS	1113	macA		COG0845	Macrolide export protein MacA
+NIDNPDGF_00782	gene	156				
+NIDNPDGF_00782	CDS	156				hypothetical protein
+NIDNPDGF_00783	gene	807				
+NIDNPDGF_00783	CDS	807				hypothetical protein
+NIDNPDGF_00784	gene	1029				
+NIDNPDGF_00784	CDS	1029				hypothetical protein
+NIDNPDGF_00785	gene	492				
+NIDNPDGF_00785	CDS	492				hypothetical protein
+NIDNPDGF_00786	gene	1026				
+NIDNPDGF_00786	CDS	1026				hypothetical protein
+NIDNPDGF_00787	gene	993	slcC			
+NIDNPDGF_00787	CDS	993	slcC	1.1.1.310	COG0111	(S)-sulfolactate dehydrogenase
+NIDNPDGF_00788	gene	1566				
+NIDNPDGF_00788	CDS	1566				hypothetical protein
+NIDNPDGF_00789	gene	1533				
+NIDNPDGF_00789	CDS	1533				hypothetical protein
+NIDNPDGF_00790	gene	540				
+NIDNPDGF_00790	CDS	540				hypothetical protein
+NIDNPDGF_00791	gene	693				
+NIDNPDGF_00791	CDS	693				hypothetical protein
+NIDNPDGF_00792	gene	1068	rbsR_2			
+NIDNPDGF_00792	CDS	1068	rbsR_2		COG1609	Ribose operon repressor
+NIDNPDGF_00793	gene	135				
+NIDNPDGF_00793	CDS	135				hypothetical protein
+NIDNPDGF_00794	gene	1293	nrtA			
+NIDNPDGF_00794	CDS	1293	nrtA		COG0715	Nitrate/nitrite binding protein NrtA
+NIDNPDGF_00795	gene	792	cmpB			
+NIDNPDGF_00795	CDS	792	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+NIDNPDGF_00796	gene	1155	dusB_1			
+NIDNPDGF_00796	CDS	1155	dusB_1	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+NIDNPDGF_00797	gene	963				
+NIDNPDGF_00797	CDS	963				hypothetical protein
+NIDNPDGF_00798	gene	1521	mqo			
+NIDNPDGF_00798	CDS	1521	mqo	1.1.5.4	COG0579	Malate:quinone oxidoreductase
+NIDNPDGF_00799	gene	1083	rffG			
+NIDNPDGF_00799	CDS	1083	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+NIDNPDGF_00800	gene	915	rffH			
+NIDNPDGF_00800	CDS	915	rffH	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 2
+NIDNPDGF_00801	gene	822				
+NIDNPDGF_00801	CDS	822				hypothetical protein
+NIDNPDGF_00802	gene	1023				
+NIDNPDGF_00802	CDS	1023				hypothetical protein
+NIDNPDGF_00803	gene	870				
+NIDNPDGF_00803	CDS	870				hypothetical protein
+NIDNPDGF_00804	gene	306				
+NIDNPDGF_00804	CDS	306				hypothetical protein
+NIDNPDGF_00805	gene	2340	malP			
+NIDNPDGF_00805	CDS	2340	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+NIDNPDGF_00806	gene	594	purN			
+NIDNPDGF_00806	CDS	594	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+NIDNPDGF_00807	gene	462	hldE_1			
+NIDNPDGF_00807	CDS	462	hldE_1		COG2870	Bifunctional protein HldE
+NIDNPDGF_00808	gene	306				
+NIDNPDGF_00808	CDS	306				hypothetical protein
+NIDNPDGF_00809	gene	657	coaBC			
+NIDNPDGF_00809	CDS	657	coaBC	6.3.2.5		Coenzyme A biosynthesis bifunctional protein CoaBC
+NIDNPDGF_00810	gene	858				
+NIDNPDGF_00810	CDS	858				hypothetical protein
+NIDNPDGF_00811	gene	1344	murD			
+NIDNPDGF_00811	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NIDNPDGF_00812	gene	204				
+NIDNPDGF_00812	CDS	204				hypothetical protein
+NIDNPDGF_00813	gene	486	gmhA_2			
+NIDNPDGF_00813	CDS	486	gmhA_2	5.3.1.28		Phosphoheptose isomerase
+NIDNPDGF_00814	gene	1158				
+NIDNPDGF_00814	CDS	1158				hypothetical protein
+NIDNPDGF_00815	gene	465	bcp			
+NIDNPDGF_00815	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+NIDNPDGF_00816	gene	570	murQ			
+NIDNPDGF_00816	CDS	570	murQ	4.2.1.126	COG2103	N-acetylmuramic acid 6-phosphate etherase
+NIDNPDGF_00817	gene	609	rpsD			
+NIDNPDGF_00817	CDS	609	rpsD		COG0522	30S ribosomal protein S4
+NIDNPDGF_00818	gene	576				
+NIDNPDGF_00818	CDS	576				hypothetical protein
+NIDNPDGF_00819	gene	396	rpsM			
+NIDNPDGF_00819	CDS	396	rpsM		COG0099	30S ribosomal protein S13
+NIDNPDGF_00820	gene	303	map			
+NIDNPDGF_00820	CDS	303	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+NIDNPDGF_00821	gene	330				
+NIDNPDGF_00821	CDS	330				hypothetical protein
+NIDNPDGF_00822	gene	1221	lpxK			
+NIDNPDGF_00822	CDS	1221	lpxK	2.7.1.130		Tetraacyldisaccharide 4'-kinase
+NIDNPDGF_00823	gene	414				
+NIDNPDGF_00823	CDS	414				hypothetical protein
+NIDNPDGF_00824	gene	666				
+NIDNPDGF_00824	CDS	666				hypothetical protein
+NIDNPDGF_00825	gene	579				
+NIDNPDGF_00825	CDS	579				hypothetical protein
+NIDNPDGF_00826	gene	522				
+NIDNPDGF_00826	CDS	522				hypothetical protein
+NIDNPDGF_00827	gene	270				
+NIDNPDGF_00827	CDS	270				hypothetical protein
+NIDNPDGF_00828	gene	186				
+NIDNPDGF_00828	CDS	186				hypothetical protein
+NIDNPDGF_00829	gene	1467	ubiD			
+NIDNPDGF_00829	CDS	1467	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+NIDNPDGF_00830	gene	744	cysH			
+NIDNPDGF_00830	CDS	744	cysH	1.8.4.8	COG0175	Phosphoadenosine phosphosulfate reductase
+NIDNPDGF_00831	gene	822	cysD			
+NIDNPDGF_00831	CDS	822	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2
+NIDNPDGF_00832	gene	351				
+NIDNPDGF_00832	CDS	351				hypothetical protein
+NIDNPDGF_00833	gene	342				
+NIDNPDGF_00833	CDS	342				hypothetical protein
+NIDNPDGF_00834	gene	273				
+NIDNPDGF_00834	CDS	273				hypothetical protein
+NIDNPDGF_00835	gene	2871	ppc			
+NIDNPDGF_00835	CDS	2871	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+NIDNPDGF_00836	gene	747				
+NIDNPDGF_00836	CDS	747				hypothetical protein
+NIDNPDGF_00837	gene	450				
+NIDNPDGF_00837	CDS	450				hypothetical protein
+NIDNPDGF_00838	gene	1551				
+NIDNPDGF_00838	CDS	1551				hypothetical protein
+NIDNPDGF_00839	gene	291				
+NIDNPDGF_00839	CDS	291				hypothetical protein
+NIDNPDGF_00840	gene	1623				
+NIDNPDGF_00840	CDS	1623				hypothetical protein
+NIDNPDGF_00841	gene	348	lpxB			
+NIDNPDGF_00841	CDS	348	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+NIDNPDGF_00842	gene	1128				
+NIDNPDGF_00842	CDS	1128				hypothetical protein
+NIDNPDGF_00843	gene	1728	sir_1			
+NIDNPDGF_00843	CDS	1728	sir_1	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+NIDNPDGF_00844	gene	1335				
+NIDNPDGF_00844	CDS	1335				hypothetical protein
+NIDNPDGF_00845	gene	771				
+NIDNPDGF_00845	CDS	771				hypothetical protein
+NIDNPDGF_00846	gene	771				
+NIDNPDGF_00846	CDS	771				hypothetical protein
+NIDNPDGF_00847	gene	168	rpmG2			
+NIDNPDGF_00847	CDS	168	rpmG2			50S ribosomal protein L33 2
+NIDNPDGF_00848	gene	612	sodA			
+NIDNPDGF_00848	CDS	612	sodA	1.15.1.1		Superoxide dismutase [Mn]
+NIDNPDGF_00849	gene	873				
+NIDNPDGF_00849	CDS	873				hypothetical protein
+NIDNPDGF_00850	gene	354	hpf			
+NIDNPDGF_00850	CDS	354	hpf			Ribosome hibernation promoting factor
+NIDNPDGF_00851	gene	708	maf			
+NIDNPDGF_00851	CDS	708	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+NIDNPDGF_00852	gene	861	rcsC_6			
+NIDNPDGF_00852	CDS	861	rcsC_6	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_00853	gene	1137				
+NIDNPDGF_00853	CDS	1137				hypothetical protein
+NIDNPDGF_00854	gene	549	nifS_2			
+NIDNPDGF_00854	CDS	549	nifS_2	2.8.1.7	COG1104	Cysteine desulfurase NifS
+NIDNPDGF_00855	gene	594				
+NIDNPDGF_00855	CDS	594				hypothetical protein
+NIDNPDGF_00856	gene	588	rcsC_7			
+NIDNPDGF_00856	CDS	588	rcsC_7	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_00857	gene	1068	trpD			
+NIDNPDGF_00857	CDS	1068	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+NIDNPDGF_00858	gene	1071	pilT			
+NIDNPDGF_00858	CDS	1071	pilT		COG2805	Twitching mobility protein
+NIDNPDGF_00859	gene	1386				
+NIDNPDGF_00859	CDS	1386				hypothetical protein
+NIDNPDGF_00860	gene	366				
+NIDNPDGF_00860	CDS	366				hypothetical protein
+NIDNPDGF_00861	gene	228	cutD_1			
+NIDNPDGF_00861	CDS	228	cutD_1	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+NIDNPDGF_00862	gene	1134				
+NIDNPDGF_00862	CDS	1134				hypothetical protein
+NIDNPDGF_00863	gene	558				
+NIDNPDGF_00863	CDS	558				hypothetical protein
+NIDNPDGF_00864	gene	732	gacA			
+NIDNPDGF_00864	CDS	732	gacA			Response regulator GacA
+NIDNPDGF_00865	gene	432	nsrR			
+NIDNPDGF_00865	CDS	432	nsrR		COG1959	HTH-type transcriptional repressor NsrR
+NIDNPDGF_00866	gene	465				
+NIDNPDGF_00866	CDS	465			COG3039	IS5 family transposase ISMac15
+NIDNPDGF_00867	gene	993	xerC_3			
+NIDNPDGF_00867	CDS	993	xerC_3			Tyrosine recombinase XerC
+NIDNPDGF_00868	gene	504	tadA			
+NIDNPDGF_00868	CDS	504	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+NIDNPDGF_00869	gene	1107				
+NIDNPDGF_00869	CDS	1107				hypothetical protein
+NIDNPDGF_00870	gene	204				
+NIDNPDGF_00870	CDS	204				hypothetical protein
+NIDNPDGF_00871	gene	855				
+NIDNPDGF_00871	CDS	855		3.2.1.55	COG3507	Non-reducing end alpha-L-arabinofuranosidase BoGH43B
+NIDNPDGF_00872	gene	585				
+NIDNPDGF_00872	CDS	585				hypothetical protein
+NIDNPDGF_00873	gene	396				
+NIDNPDGF_00873	CDS	396				hypothetical protein
+NIDNPDGF_00874	gene	564				
+NIDNPDGF_00874	CDS	564				hypothetical protein
+NIDNPDGF_00875	gene	165				
+NIDNPDGF_00875	CDS	165				hypothetical protein
+NIDNPDGF_00876	gene	714				
+NIDNPDGF_00876	CDS	714				hypothetical protein
+NIDNPDGF_00877	gene	1734				
+NIDNPDGF_00877	CDS	1734				hypothetical protein
+NIDNPDGF_00878	gene	990	oatA			
+NIDNPDGF_00878	CDS	990	oatA	2.3.1.-		O-acetyltransferase OatA
+NIDNPDGF_00879	gene	534	srrA			
+NIDNPDGF_00879	CDS	534	srrA		COG0745	Transcriptional regulatory protein SrrA
+NIDNPDGF_00880	gene	1170				
+NIDNPDGF_00880	CDS	1170				hypothetical protein
+NIDNPDGF_00881	gene	1539				
+NIDNPDGF_00881	CDS	1539				hypothetical protein
+NIDNPDGF_00882	gene	75				
+NIDNPDGF_00882	tRNA	75				tRNA-Gly(gcc)
+NIDNPDGF_00883	gene	126	rpsG			
+NIDNPDGF_00883	CDS	126	rpsG		COG0049	30S ribosomal protein S7
+NIDNPDGF_00884	gene	2166	fusA			
+NIDNPDGF_00884	CDS	2166	fusA		COG0480	Elongation factor G
+NIDNPDGF_00885	gene	306	rpsJ			
+NIDNPDGF_00885	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+NIDNPDGF_00886	gene	228	mdtC_1			
+NIDNPDGF_00886	CDS	228	mdtC_1			Multidrug resistance protein MdtC
+NIDNPDGF_00887	gene	3102	mdtC_2			
+NIDNPDGF_00887	CDS	3102	mdtC_2			Multidrug resistance protein MdtC
+NIDNPDGF_00888	gene	930	COQ3			
+NIDNPDGF_00888	CDS	930	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+NIDNPDGF_00889	gene	795	glpE			
+NIDNPDGF_00889	CDS	795	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+NIDNPDGF_00890	gene	648	drgA			
+NIDNPDGF_00890	CDS	648	drgA			Protein DrgA
+NIDNPDGF_00891	gene	276	arnE_1			
+NIDNPDGF_00891	CDS	276	arnE_1			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+NIDNPDGF_00892	gene	255				
+NIDNPDGF_00892	CDS	255				hypothetical protein
+NIDNPDGF_00893	gene	303				
+NIDNPDGF_00893	CDS	303				hypothetical protein
+NIDNPDGF_00894	gene	309				
+NIDNPDGF_00894	CDS	309				hypothetical protein
+NIDNPDGF_00895	gene	477				
+NIDNPDGF_00895	CDS	477				hypothetical protein
+NIDNPDGF_00896	gene	135				
+NIDNPDGF_00896	CDS	135				hypothetical protein
+NIDNPDGF_00897	gene	2076				
+NIDNPDGF_00897	CDS	2076				hypothetical protein
+NIDNPDGF_00898	gene	414				
+NIDNPDGF_00898	CDS	414				hypothetical protein
+NIDNPDGF_00899	gene	516	vraR			
+NIDNPDGF_00899	CDS	516	vraR			Response regulator protein VraR
+NIDNPDGF_00900	gene	366				
+NIDNPDGF_00900	CDS	366				hypothetical protein
+NIDNPDGF_00901	gene	792	mlaE_1			
+NIDNPDGF_00901	CDS	792	mlaE_1		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+NIDNPDGF_00902	gene	768	mkl_1			
+NIDNPDGF_00902	CDS	768	mkl_1		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+NIDNPDGF_00903	gene	687				
+NIDNPDGF_00903	CDS	687				hypothetical protein
+NIDNPDGF_00904	gene	1320				
+NIDNPDGF_00904	CDS	1320				hypothetical protein
+NIDNPDGF_00905	gene	1113				
+NIDNPDGF_00905	CDS	1113				hypothetical protein
+NIDNPDGF_00906	gene	177				
+NIDNPDGF_00906	CDS	177				hypothetical protein
+NIDNPDGF_00907	gene	996	yciC			
+NIDNPDGF_00907	CDS	996	yciC		COG0523	Putative metal chaperone YciC
+NIDNPDGF_00908	gene	67				
+NIDNPDGF_00908	tRNA	67				tRNA-Gly(tcc)
+NIDNPDGF_00909	gene	333				
+NIDNPDGF_00909	CDS	333				hypothetical protein
+NIDNPDGF_00910	gene	876				
+NIDNPDGF_00910	CDS	876				hypothetical protein
+NIDNPDGF_00911	gene	345	ispU			
+NIDNPDGF_00911	CDS	345	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+NIDNPDGF_00912	gene	1791	thrS			
+NIDNPDGF_00912	CDS	1791	thrS	6.1.1.3		Threonine--tRNA ligase
+NIDNPDGF_00913	gene	210	accA			
+NIDNPDGF_00913	CDS	210	accA	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+NIDNPDGF_00914	gene	369				
+NIDNPDGF_00914	CDS	369				hypothetical protein
+NIDNPDGF_00915	gene	1164	ybdL			
+NIDNPDGF_00915	CDS	1164	ybdL	2.6.1.88	COG0436	Methionine aminotransferase
+NIDNPDGF_00916	gene	885	nfo			
+NIDNPDGF_00916	CDS	885	nfo	3.1.21.2	COG0648	Endonuclease 4
+NIDNPDGF_00917	gene	645				
+NIDNPDGF_00917	CDS	645				hypothetical protein
+NIDNPDGF_00918	gene	969	ydhF			
+NIDNPDGF_00918	CDS	969	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+NIDNPDGF_00919	gene	621	azoR1			
+NIDNPDGF_00919	CDS	621	azoR1	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase 1
+NIDNPDGF_00920	gene	411				
+NIDNPDGF_00920	CDS	411				hypothetical protein
+NIDNPDGF_00921	gene	267				
+NIDNPDGF_00921	CDS	267				hypothetical protein
+NIDNPDGF_00922	gene	975				
+NIDNPDGF_00922	CDS	975				hypothetical protein
+NIDNPDGF_00923	gene	648				
+NIDNPDGF_00923	CDS	648				hypothetical protein
+NIDNPDGF_00924	gene	438	tmoS			
+NIDNPDGF_00924	CDS	438	tmoS	2.7.13.3		Sensor histidine kinase TmoS
+NIDNPDGF_00925	gene	783				
+NIDNPDGF_00925	CDS	783				hypothetical protein
+NIDNPDGF_00926	gene	576				
+NIDNPDGF_00926	CDS	576				hypothetical protein
+NIDNPDGF_00927	gene	969	iolG_1			
+NIDNPDGF_00927	CDS	969	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+NIDNPDGF_00928	gene	645	hldE_2			
+NIDNPDGF_00928	CDS	645	hldE_2	2.7.7.70		Bifunctional protein HldE
+NIDNPDGF_00929	gene	288				
+NIDNPDGF_00929	CDS	288				hypothetical protein
+NIDNPDGF_00930	gene	675				
+NIDNPDGF_00930	CDS	675				hypothetical protein
+NIDNPDGF_00931	gene	1320	kamA			
+NIDNPDGF_00931	CDS	1320	kamA	5.4.3.2		L-lysine 2,3-aminomutase
+NIDNPDGF_00932	gene	399				
+NIDNPDGF_00932	CDS	399				hypothetical protein
+NIDNPDGF_00933	gene	588	pgl			
+NIDNPDGF_00933	CDS	588	pgl	3.1.1.31		6-phosphogluconolactonase
+NIDNPDGF_00934	gene	1032				
+NIDNPDGF_00934	CDS	1032				hypothetical protein
+NIDNPDGF_00935	gene	921	gspA			
+NIDNPDGF_00935	CDS	921	gspA		COG1442	General stress protein A
+NIDNPDGF_00936	gene	1284				
+NIDNPDGF_00936	CDS	1284				hypothetical protein
+NIDNPDGF_00937	gene	657				
+NIDNPDGF_00937	CDS	657				hypothetical protein
+NIDNPDGF_00938	gene	615				
+NIDNPDGF_00938	CDS	615				hypothetical protein
+NIDNPDGF_00939	gene	474	yphA			
+NIDNPDGF_00939	CDS	474	yphA		COG2259	Inner membrane protein YphA
+NIDNPDGF_00940	gene	267				
+NIDNPDGF_00940	CDS	267				hypothetical protein
+NIDNPDGF_00941	gene	519				
+NIDNPDGF_00941	CDS	519				hypothetical protein
+NIDNPDGF_00942	gene	324				
+NIDNPDGF_00942	CDS	324				hypothetical protein
+NIDNPDGF_00943	gene	228				
+NIDNPDGF_00943	CDS	228				hypothetical protein
+NIDNPDGF_00944	gene	462				
+NIDNPDGF_00944	CDS	462				hypothetical protein
+NIDNPDGF_00945	gene	1053				
+NIDNPDGF_00945	CDS	1053				hypothetical protein
+NIDNPDGF_00946	gene	1224				
+NIDNPDGF_00946	CDS	1224				hypothetical protein
+NIDNPDGF_00947	gene	1053	gyrA			
+NIDNPDGF_00947	CDS	1053	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+NIDNPDGF_00948	gene	654				
+NIDNPDGF_00948	CDS	654				hypothetical protein
+NIDNPDGF_00949	gene	231				
+NIDNPDGF_00949	CDS	231				hypothetical protein
+NIDNPDGF_00950	gene	327				
+NIDNPDGF_00950	CDS	327		2.4.2.-	COG2071	Putative glutamine amidotransferase
+NIDNPDGF_00951	gene	960	axeA			
+NIDNPDGF_00951	CDS	960	axeA	3.1.1.41	COG3458	Cephalosporin-C deacetylase
+NIDNPDGF_00952	gene	1170				
+NIDNPDGF_00952	CDS	1170				hypothetical protein
+NIDNPDGF_00953	gene	297				
+NIDNPDGF_00953	CDS	297				hypothetical protein
+NIDNPDGF_00954	gene	780	gpmB			
+NIDNPDGF_00954	CDS	780	gpmB	5.4.2.-		phosphoglycerate mutase GpmB
+NIDNPDGF_00955	gene	1029	ackA			
+NIDNPDGF_00955	CDS	1029	ackA	2.7.2.1	COG0282	Acetate kinase
+NIDNPDGF_00956	gene	1032	fabH			
+NIDNPDGF_00956	CDS	1032	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NIDNPDGF_00957	gene	537	plsX			
+NIDNPDGF_00957	CDS	537	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+NIDNPDGF_00958	gene	2262				
+NIDNPDGF_00958	CDS	2262				hypothetical protein
+NIDNPDGF_00959	gene	777				
+NIDNPDGF_00959	CDS	777				hypothetical protein
+NIDNPDGF_00960	gene	1422	xylE			
+NIDNPDGF_00960	CDS	1422	xylE			D-xylose-proton symporter
+NIDNPDGF_00961	gene	1296				
+NIDNPDGF_00961	CDS	1296				hypothetical protein
+NIDNPDGF_00962	gene	840				
+NIDNPDGF_00962	CDS	840				hypothetical protein
+NIDNPDGF_00963	gene	984	celH			
+NIDNPDGF_00963	CDS	984	celH	3.2.1.4	COG2730	Endoglucanase H
+NIDNPDGF_00964	gene	633	pds			
+NIDNPDGF_00964	CDS	633	pds	1.3.5.5	COG3349	15-cis-phytoene desaturase
+NIDNPDGF_00965	gene	1095	pta			
+NIDNPDGF_00965	CDS	1095	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+NIDNPDGF_00966	gene	345	glnB_1			
+NIDNPDGF_00966	CDS	345	glnB_1		COG0347	Nitrogen regulatory protein P-II
+NIDNPDGF_00967	gene	936				
+NIDNPDGF_00967	CDS	936				hypothetical protein
+NIDNPDGF_00968	gene	579	adk			
+NIDNPDGF_00968	CDS	579	adk	2.7.4.3	COG0563	Adenylate kinase
+NIDNPDGF_00969	gene	1224				
+NIDNPDGF_00969	CDS	1224				hypothetical protein
+NIDNPDGF_00970	gene	282				
+NIDNPDGF_00970	CDS	282				hypothetical protein
+NIDNPDGF_00971	gene	828				
+NIDNPDGF_00971	CDS	828				hypothetical protein
+NIDNPDGF_00972	gene	1077				
+NIDNPDGF_00972	CDS	1077		1.12.-.-		Soluble hydrogenase 42 kDa subunit
+NIDNPDGF_00973	gene	759				
+NIDNPDGF_00973	CDS	759				hypothetical protein
+NIDNPDGF_00974	gene	852	nagB			
+NIDNPDGF_00974	CDS	852	nagB	3.5.99.6		Glucosamine-6-phosphate deaminase
+NIDNPDGF_00975	gene	927				
+NIDNPDGF_00975	CDS	927				hypothetical protein
+NIDNPDGF_00976	gene	399	purK			
+NIDNPDGF_00976	CDS	399	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+NIDNPDGF_00977	gene	450	nrdR			
+NIDNPDGF_00977	CDS	450	nrdR		COG1327	Transcriptional repressor NrdR
+NIDNPDGF_00978	gene	552				
+NIDNPDGF_00978	CDS	552				hypothetical protein
+NIDNPDGF_00979	gene	369	ble			
+NIDNPDGF_00979	CDS	369	ble			Bleomycin resistance protein
+NIDNPDGF_00980	gene	342				
+NIDNPDGF_00980	CDS	342		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+NIDNPDGF_00981	gene	732				
+NIDNPDGF_00981	CDS	732				hypothetical protein
+NIDNPDGF_00982	gene	156				
+NIDNPDGF_00982	CDS	156				hypothetical protein
+NIDNPDGF_00983	gene	1140	mshA_3			
+NIDNPDGF_00983	CDS	1140	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIDNPDGF_00984	gene	1509				
+NIDNPDGF_00984	CDS	1509				hypothetical protein
+NIDNPDGF_00985	gene	738				
+NIDNPDGF_00985	CDS	738				hypothetical protein
+NIDNPDGF_00986	gene	225				
+NIDNPDGF_00986	CDS	225				hypothetical protein
+NIDNPDGF_00987	gene	765	kdsB			
+NIDNPDGF_00987	CDS	765	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+NIDNPDGF_00988	gene	573	gmhB_2			
+NIDNPDGF_00988	CDS	573	gmhB_2	3.1.3.83		D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+NIDNPDGF_00989	gene	399	hldE_3			
+NIDNPDGF_00989	CDS	399	hldE_3	2.7.7.70		Bifunctional protein HldE
+NIDNPDGF_00990	gene	1443				
+NIDNPDGF_00990	CDS	1443				hypothetical protein
+NIDNPDGF_00991	gene	237				
+NIDNPDGF_00991	CDS	237				hypothetical protein
+NIDNPDGF_00992	gene	606				
+NIDNPDGF_00992	CDS	606				hypothetical protein
+NIDNPDGF_00993	gene	804				
+NIDNPDGF_00993	CDS	804				hypothetical protein
+NIDNPDGF_00994	gene	882	rnr			
+NIDNPDGF_00994	CDS	882	rnr	3.1.13.1	COG0557	Ribonuclease R
+NIDNPDGF_00995	gene	942	rarD			
+NIDNPDGF_00995	CDS	942	rarD		COG2962	Protein RarD
+NIDNPDGF_00996	gene	369	atpG_2			
+NIDNPDGF_00996	CDS	369	atpG_2		COG0224	ATP synthase gamma chain
+NIDNPDGF_00997	gene	951				
+NIDNPDGF_00997	CDS	951				hypothetical protein
+NIDNPDGF_00998	gene	657				
+NIDNPDGF_00998	CDS	657				hypothetical protein
+NIDNPDGF_00999	gene	435				
+NIDNPDGF_00999	CDS	435				hypothetical protein
+NIDNPDGF_01000	gene	192				
+NIDNPDGF_01000	CDS	192				hypothetical protein
+NIDNPDGF_01001	gene	387	petC_1			
+NIDNPDGF_01001	CDS	387	petC_1	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+NIDNPDGF_01002	gene	1461	petB_1			
+NIDNPDGF_01002	CDS	1461	petB_1			Cytochrome b6
+NIDNPDGF_01003	gene	1329	sasA_3			
+NIDNPDGF_01003	CDS	1329	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+NIDNPDGF_01004	gene	73				
+NIDNPDGF_01004	tRNA	73				tRNA-Cys(gca)
+NIDNPDGF_01005	gene	663	bepA_2			
+NIDNPDGF_01005	CDS	663	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIDNPDGF_01006	gene	750	fabG_1			
+NIDNPDGF_01006	CDS	750	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NIDNPDGF_01007	gene	879	pksC			
+NIDNPDGF_01007	CDS	879	pksC	2.3.1.39	COG0331	Polyketide biosynthesis malonyl CoA-acyl carrier protein transacylase PksC
+NIDNPDGF_01008	gene	714	truB			
+NIDNPDGF_01008	CDS	714	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+NIDNPDGF_01009	gene	948	ribF			
+NIDNPDGF_01009	CDS	948	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+NIDNPDGF_01010	gene	765				
+NIDNPDGF_01010	CDS	765		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+NIDNPDGF_01011	gene	516				
+NIDNPDGF_01011	CDS	516				hypothetical protein
+NIDNPDGF_01012	gene	240				
+NIDNPDGF_01012	CDS	240				hypothetical protein
+NIDNPDGF_01013	gene	999				
+NIDNPDGF_01013	CDS	999				hypothetical protein
+NIDNPDGF_01014	gene	816	rhaS_5			
+NIDNPDGF_01014	CDS	816	rhaS_5			HTH-type transcriptional activator RhaS
+NIDNPDGF_01015	gene	1032	pgm			
+NIDNPDGF_01015	CDS	1032	pgm	5.4.2.2	COG0033	Phosphoglucomutase
+NIDNPDGF_01016	gene	891	gltC			
+NIDNPDGF_01016	CDS	891	gltC			HTH-type transcriptional regulator GltC
+NIDNPDGF_01017	gene	447	cidA			
+NIDNPDGF_01017	CDS	447	cidA			Holin-like protein CidA
+NIDNPDGF_01018	gene	723				
+NIDNPDGF_01018	CDS	723				hypothetical protein
+NIDNPDGF_01019	gene	810				
+NIDNPDGF_01019	CDS	810				hypothetical protein
+NIDNPDGF_01020	gene	1299				
+NIDNPDGF_01020	CDS	1299				hypothetical protein
+NIDNPDGF_01021	gene	534				
+NIDNPDGF_01021	CDS	534				hypothetical protein
+NIDNPDGF_01022	gene	636				
+NIDNPDGF_01022	CDS	636				hypothetical protein
+NIDNPDGF_01023	gene	1128				
+NIDNPDGF_01023	CDS	1128				hypothetical protein
+NIDNPDGF_01024	gene	426				
+NIDNPDGF_01024	CDS	426				hypothetical protein
+NIDNPDGF_01025	gene	1029	sppA			
+NIDNPDGF_01025	CDS	1029	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+NIDNPDGF_01026	gene	777				
+NIDNPDGF_01026	CDS	777				hypothetical protein
+NIDNPDGF_01027	gene	948	murK			
+NIDNPDGF_01027	CDS	948	murK	2.7.1.-	COG2971	N-acetylmuramic acid/N-acetylglucosamine kinase
+NIDNPDGF_01028	gene	516				
+NIDNPDGF_01028	CDS	516				hypothetical protein
+NIDNPDGF_01029	gene	234				
+NIDNPDGF_01029	CDS	234				hypothetical protein
+NIDNPDGF_01030	gene	945	prkC			
+NIDNPDGF_01030	CDS	945	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+NIDNPDGF_01031	gene	1005				
+NIDNPDGF_01031	CDS	1005				hypothetical protein
+NIDNPDGF_01032	gene	1116	purR_2			
+NIDNPDGF_01032	CDS	1116	purR_2			HTH-type transcriptional repressor PurR
+NIDNPDGF_01033	gene	495				
+NIDNPDGF_01033	CDS	495				hypothetical protein
+NIDNPDGF_01034	gene	207				
+NIDNPDGF_01034	CDS	207				hypothetical protein
+NIDNPDGF_01035	gene	861				
+NIDNPDGF_01035	CDS	861				hypothetical protein
+NIDNPDGF_01036	gene	654	mocA			
+NIDNPDGF_01036	CDS	654	mocA	2.7.7.76	COG2068	Molybdenum cofactor cytidylyltransferase
+NIDNPDGF_01037	gene	918	pucA			
+NIDNPDGF_01037	CDS	918	pucA	1.17.1.4	COG1975	putative xanthine dehydrogenase subunit A
+NIDNPDGF_01038	gene	1389				
+NIDNPDGF_01038	CDS	1389				hypothetical protein
+NIDNPDGF_01039	gene	396				
+NIDNPDGF_01039	CDS	396				hypothetical protein
+NIDNPDGF_01040	gene	210	fmt			
+NIDNPDGF_01040	CDS	210	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+NIDNPDGF_01041	gene	1116				
+NIDNPDGF_01041	CDS	1116			COG1680	putative protein
+NIDNPDGF_01042	gene	228				
+NIDNPDGF_01042	CDS	228				hypothetical protein
+NIDNPDGF_01043	gene	1278				
+NIDNPDGF_01043	CDS	1278				hypothetical protein
+NIDNPDGF_01044	gene	822	dtd3			
+NIDNPDGF_01044	CDS	822	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+NIDNPDGF_01045	gene	1530				
+NIDNPDGF_01045	CDS	1530				hypothetical protein
+NIDNPDGF_01046	gene	2616				
+NIDNPDGF_01046	CDS	2616				hypothetical protein
+NIDNPDGF_01047	gene	1200				
+NIDNPDGF_01047	CDS	1200				hypothetical protein
+NIDNPDGF_01048	gene	285				
+NIDNPDGF_01048	CDS	285				hypothetical protein
+NIDNPDGF_01049	gene	768				
+NIDNPDGF_01049	CDS	768				hypothetical protein
+NIDNPDGF_01050	gene	1695				
+NIDNPDGF_01050	CDS	1695				hypothetical protein
+NIDNPDGF_01051	gene	393	pstS1			
+NIDNPDGF_01051	CDS	393	pstS1		COG0226	Phosphate-binding protein PstS 1
+NIDNPDGF_01052	gene	1989	rpoB			
+NIDNPDGF_01052	CDS	1989	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+NIDNPDGF_01053	gene	1173				
+NIDNPDGF_01053	CDS	1173				hypothetical protein
+NIDNPDGF_01054	gene	807	panC			
+NIDNPDGF_01054	CDS	807	panC	6.3.2.1	COG0414	Pantothenate synthetase
+NIDNPDGF_01055	gene	1254				
+NIDNPDGF_01055	CDS	1254				hypothetical protein
+NIDNPDGF_01056	gene	483	rsgI6			
+NIDNPDGF_01056	CDS	483	rsgI6	3.2.1.8		Anti-sigma-I factor RsgI6
+NIDNPDGF_01057	gene	153				
+NIDNPDGF_01057	CDS	153				hypothetical protein
+NIDNPDGF_01058	gene	90				
+NIDNPDGF_01058	tRNA	90				tRNA-Ser(cga)
+NIDNPDGF_01059	gene	444				
+NIDNPDGF_01059	CDS	444				hypothetical protein
+NIDNPDGF_01060	gene	390				
+NIDNPDGF_01060	CDS	390				hypothetical protein
+NIDNPDGF_01061	gene	720	rcsC_8			
+NIDNPDGF_01061	CDS	720	rcsC_8	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_01062	gene	756	mlaE_2			
+NIDNPDGF_01062	CDS	756	mlaE_2		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+NIDNPDGF_01063	gene	741	mkl_2			
+NIDNPDGF_01063	CDS	741	mkl_2		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+NIDNPDGF_01064	gene	762				
+NIDNPDGF_01064	CDS	762				hypothetical protein
+NIDNPDGF_01065	gene	1146	ispD			
+NIDNPDGF_01065	CDS	1146	ispD	2.7.7.60		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+NIDNPDGF_01066	gene	795				
+NIDNPDGF_01066	CDS	795				hypothetical protein
+NIDNPDGF_01067	gene	258	mntR			
+NIDNPDGF_01067	CDS	258	mntR		COG1321	HTH-type transcriptional regulator MntR
+NIDNPDGF_01068	gene	1647	vnfA			
+NIDNPDGF_01068	CDS	1647	vnfA		COG3604	Nitrogen fixation protein VnfA
+NIDNPDGF_01069	gene	210	mopII			
+NIDNPDGF_01069	CDS	210	mopII			Molybdenum-pterin-binding protein 2
+NIDNPDGF_01070	gene	870				
+NIDNPDGF_01070	CDS	870				hypothetical protein
+NIDNPDGF_01071	gene	303				
+NIDNPDGF_01071	CDS	303				Ferredoxin, 2Fe-2S
+NIDNPDGF_01072	gene	1362	nifB			
+NIDNPDGF_01072	CDS	1362	nifB	4.-.-.-	COG0535	FeMo cofactor biosynthesis protein NifB
+NIDNPDGF_01073	gene	1404	nifK_1			
+NIDNPDGF_01073	CDS	1404	nifK_1	1.18.6.1		Nitrogenase molybdenum-iron protein beta chain
+NIDNPDGF_01074	gene	1392	nifD			
+NIDNPDGF_01074	CDS	1392	nifD	1.18.6.1		Nitrogenase molybdenum-iron protein alpha chain
+NIDNPDGF_01075	gene	186	fdxA			
+NIDNPDGF_01075	CDS	186	fdxA			Ferredoxin 7Fe
+NIDNPDGF_01076	gene	468	nifK_2			
+NIDNPDGF_01076	CDS	468	nifK_2	1.18.6.1		Nitrogenase molybdenum-iron protein beta chain
+NIDNPDGF_01077	gene	74				
+NIDNPDGF_01077	tRNA	74				tRNA-Met(cat)
+NIDNPDGF_01078	gene	1581	comM			
+NIDNPDGF_01078	CDS	1581	comM		COG0606	Competence protein ComM
+NIDNPDGF_01079	gene	1401				
+NIDNPDGF_01079	CDS	1401				hypothetical protein
+NIDNPDGF_01080	gene	618	uup			
+NIDNPDGF_01080	CDS	618	uup		COG0488	ABC transporter ATP-binding protein uup
+NIDNPDGF_01081	gene	1359	narB			
+NIDNPDGF_01081	CDS	1359	narB	1.7.5.1	COG0243	Nitrate reductase
+NIDNPDGF_01082	gene	1047				
+NIDNPDGF_01082	CDS	1047				hypothetical protein
+NIDNPDGF_01083	gene	1137	petB_2			
+NIDNPDGF_01083	CDS	1137	petB_2			Cytochrome bc complex cytochrome b subunit
+NIDNPDGF_01084	gene	498	petC_2			
+NIDNPDGF_01084	CDS	498	petC_2	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+NIDNPDGF_01085	gene	966				
+NIDNPDGF_01085	CDS	966				hypothetical protein
+NIDNPDGF_01086	gene	318	gap1			
+NIDNPDGF_01086	CDS	318	gap1	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+NIDNPDGF_01087	gene	1215	pgk/tpi			
+NIDNPDGF_01087	CDS	1215	pgk/tpi		COG0126	Bifunctional PGK/TIM
+NIDNPDGF_01088	gene	729				
+NIDNPDGF_01088	CDS	729				hypothetical protein
+NIDNPDGF_01089	gene	378				
+NIDNPDGF_01089	CDS	378				hypothetical protein
+NIDNPDGF_01090	gene	522				
+NIDNPDGF_01090	CDS	522				hypothetical protein
+NIDNPDGF_01091	gene	525	sigE			
+NIDNPDGF_01091	CDS	525	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+NIDNPDGF_01092	gene	99				
+NIDNPDGF_01092	CDS	99				hypothetical protein
+NIDNPDGF_01093	gene	456				
+NIDNPDGF_01093	CDS	456				hypothetical protein
+NIDNPDGF_01094	gene	564	hpt			
+NIDNPDGF_01094	CDS	564	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+NIDNPDGF_01095	gene	1569	lnt			
+NIDNPDGF_01095	CDS	1569	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+NIDNPDGF_01096	gene	312				
+NIDNPDGF_01096	CDS	312				hypothetical protein
+NIDNPDGF_01097	gene	744				
+NIDNPDGF_01097	CDS	744				hypothetical protein
+NIDNPDGF_01098	gene	1416	pyk			
+NIDNPDGF_01098	CDS	1416	pyk	2.7.1.40		Pyruvate kinase
+NIDNPDGF_01099	gene	1488				
+NIDNPDGF_01099	CDS	1488				hypothetical protein
+NIDNPDGF_01100	gene	264				
+NIDNPDGF_01100	CDS	264				hypothetical protein
+NIDNPDGF_01101	gene	1752				
+NIDNPDGF_01101	CDS	1752				hypothetical protein
+NIDNPDGF_01102	gene	942				
+NIDNPDGF_01102	CDS	942				hypothetical protein
+NIDNPDGF_01103	gene	1485				
+NIDNPDGF_01103	CDS	1485				hypothetical protein
+NIDNPDGF_01104	gene	645				
+NIDNPDGF_01104	CDS	645				hypothetical protein
+NIDNPDGF_01105	gene	966				
+NIDNPDGF_01105	CDS	966				hypothetical protein
+NIDNPDGF_01106	gene	1137				
+NIDNPDGF_01106	CDS	1137				hypothetical protein
+NIDNPDGF_01107	gene	267				
+NIDNPDGF_01107	CDS	267				hypothetical protein
+NIDNPDGF_01108	gene	1026	benM			
+NIDNPDGF_01108	CDS	1026	benM			HTH-type transcriptional regulator BenM
+NIDNPDGF_01109	gene	882	hcaB			
+NIDNPDGF_01109	CDS	882	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+NIDNPDGF_01110	gene	813				
+NIDNPDGF_01110	CDS	813		1.11.1.-	COG3253	Putative heme-dependent peroxidase
+NIDNPDGF_01111	gene	192				
+NIDNPDGF_01111	CDS	192		2.7.2.1		acetate kinase
+NIDNPDGF_01112	gene	924				
+NIDNPDGF_01112	CDS	924				hypothetical protein
+NIDNPDGF_01113	gene	996	cbpA_1			
+NIDNPDGF_01113	CDS	996	cbpA_1		COG2214	Curved DNA-binding protein
+NIDNPDGF_01114	gene	519	grpE			
+NIDNPDGF_01114	CDS	519	grpE		COG0576	Protein GrpE
+NIDNPDGF_01115	gene	777	dnaK_1			
+NIDNPDGF_01115	CDS	777	dnaK_1		COG0443	Chaperone protein DnaK
+NIDNPDGF_01116	gene	888				
+NIDNPDGF_01116	CDS	888				hypothetical protein
+NIDNPDGF_01117	gene	1062				
+NIDNPDGF_01117	CDS	1062				hypothetical protein
+NIDNPDGF_01118	gene	1818				
+NIDNPDGF_01118	CDS	1818				hypothetical protein
+NIDNPDGF_01119	gene	690				
+NIDNPDGF_01119	CDS	690				hypothetical protein
+NIDNPDGF_01120	gene	525				
+NIDNPDGF_01120	CDS	525				hypothetical protein
+NIDNPDGF_01121	gene	792				
+NIDNPDGF_01121	CDS	792				hypothetical protein
+NIDNPDGF_01122	gene	468				
+NIDNPDGF_01122	CDS	468				hypothetical protein
+NIDNPDGF_01123	gene	267				
+NIDNPDGF_01123	CDS	267				hypothetical protein
+NIDNPDGF_01124	gene	1080				
+NIDNPDGF_01124	CDS	1080				hypothetical protein
+NIDNPDGF_01125	gene	2103				
+NIDNPDGF_01125	CDS	2103		3.4.21.26		Prolyl endopeptidase
+NIDNPDGF_01126	gene	444				
+NIDNPDGF_01126	CDS	444				hypothetical protein
+NIDNPDGF_01127	gene	642				
+NIDNPDGF_01127	CDS	642				hypothetical protein
+NIDNPDGF_01128	gene	750				
+NIDNPDGF_01128	CDS	750				hypothetical protein
+NIDNPDGF_01129	gene	1788	ogt			
+NIDNPDGF_01129	CDS	1788	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+NIDNPDGF_01130	gene	504				
+NIDNPDGF_01130	CDS	504				hypothetical protein
+NIDNPDGF_01131	gene	507				
+NIDNPDGF_01131	CDS	507				hypothetical protein
+NIDNPDGF_01132	gene	2385	bepE			
+NIDNPDGF_01132	CDS	2385	bepE			Efflux pump membrane transporter BepE
+NIDNPDGF_01133	gene	153				
+NIDNPDGF_01133	CDS	153				hypothetical protein
+NIDNPDGF_01134	gene	420				
+NIDNPDGF_01134	CDS	420				hypothetical protein
+NIDNPDGF_01135	gene	588				
+NIDNPDGF_01135	CDS	588				hypothetical protein
+NIDNPDGF_01136	gene	999	menH			
+NIDNPDGF_01136	CDS	999	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+NIDNPDGF_01137	gene	465	accB			
+NIDNPDGF_01137	CDS	465	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+NIDNPDGF_01138	gene	1125				
+NIDNPDGF_01138	CDS	1125				hypothetical protein
+NIDNPDGF_01139	gene	1167	smc_1			
+NIDNPDGF_01139	CDS	1167	smc_1			Chromosome partition protein Smc
+NIDNPDGF_01140	gene	1038				
+NIDNPDGF_01140	CDS	1038				hypothetical protein
+NIDNPDGF_01141	gene	966				
+NIDNPDGF_01141	CDS	966				hypothetical protein
+NIDNPDGF_01142	gene	855				
+NIDNPDGF_01142	CDS	855				hypothetical protein
+NIDNPDGF_01143	gene	165				
+NIDNPDGF_01143	CDS	165				hypothetical protein
+NIDNPDGF_01144	gene	1782				
+NIDNPDGF_01144	CDS	1782				hypothetical protein
+NIDNPDGF_01145	gene	351	citT			
+NIDNPDGF_01145	CDS	351	citT		COG4565	Transcriptional regulatory protein CitT
+NIDNPDGF_01146	gene	1515				
+NIDNPDGF_01146	CDS	1515				hypothetical protein
+NIDNPDGF_01147	gene	495				
+NIDNPDGF_01147	CDS	495				hypothetical protein
+NIDNPDGF_01148	gene	2136				
+NIDNPDGF_01148	CDS	2136				hypothetical protein
+NIDNPDGF_01149	gene	333				
+NIDNPDGF_01149	CDS	333				hypothetical protein
+NIDNPDGF_01150	gene	1191				
+NIDNPDGF_01150	CDS	1191				hypothetical protein
+NIDNPDGF_01151	gene	831	nifH1			
+NIDNPDGF_01151	CDS	831	nifH1	1.18.6.1		Nitrogenase iron protein 1
+NIDNPDGF_01152	gene	327	glnB_2			
+NIDNPDGF_01152	CDS	327	glnB_2		COG0347	Nitrogen regulatory protein P-II
+NIDNPDGF_01153	gene	381	glnB_3			
+NIDNPDGF_01153	CDS	381	glnB_3		COG0347	Nitrogen regulatory protein P-II
+NIDNPDGF_01154	gene	675				
+NIDNPDGF_01154	CDS	675				hypothetical protein
+NIDNPDGF_01155	gene	1599				
+NIDNPDGF_01155	CDS	1599				hypothetical protein
+NIDNPDGF_01156	gene	1161	srkA			
+NIDNPDGF_01156	CDS	1161	srkA	2.7.11.1	COG2334	Stress response kinase A
+NIDNPDGF_01157	gene	924	uxuB			
+NIDNPDGF_01157	CDS	924	uxuB	1.-.-.-	COG1028	putative oxidoreductase UxuB
+NIDNPDGF_01158	gene	1218	uxuA			
+NIDNPDGF_01158	CDS	1218	uxuA	4.2.1.8	COG1312	Mannonate dehydratase
+NIDNPDGF_01159	gene	813				
+NIDNPDGF_01159	CDS	813				hypothetical protein
+NIDNPDGF_01160	gene	1449	phrA			
+NIDNPDGF_01160	CDS	1449	phrA	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+NIDNPDGF_01161	gene	789				
+NIDNPDGF_01161	CDS	789				hypothetical protein
+NIDNPDGF_01162	gene	1026				
+NIDNPDGF_01162	CDS	1026				hypothetical protein
+NIDNPDGF_01163	gene	1020	iolG_2			
+NIDNPDGF_01163	CDS	1020	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+NIDNPDGF_01164	gene	723				
+NIDNPDGF_01164	CDS	723				hypothetical protein
+NIDNPDGF_01165	gene	210				
+NIDNPDGF_01165	CDS	210				hypothetical protein
+NIDNPDGF_01166	gene	216				
+NIDNPDGF_01166	CDS	216				hypothetical protein
+NIDNPDGF_01167	gene	138				
+NIDNPDGF_01167	CDS	138				hypothetical protein
+NIDNPDGF_01168	gene	624				
+NIDNPDGF_01168	CDS	624				hypothetical protein
+NIDNPDGF_01169	gene	630				
+NIDNPDGF_01169	CDS	630				hypothetical protein
+NIDNPDGF_01170	gene	1617	bepA_3			
+NIDNPDGF_01170	CDS	1617	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIDNPDGF_01171	gene	1554	bepA_4			
+NIDNPDGF_01171	CDS	1554	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIDNPDGF_01172	gene	645	serA			
+NIDNPDGF_01172	CDS	645	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+NIDNPDGF_01173	gene	1281				
+NIDNPDGF_01173	CDS	1281				hypothetical protein
+NIDNPDGF_01174	gene	465				
+NIDNPDGF_01174	CDS	465				hypothetical protein
+NIDNPDGF_01175	gene	1131	dctA			
+NIDNPDGF_01175	CDS	1131	dctA		COG1301	Aerobic C4-dicarboxylate transport protein
+NIDNPDGF_01176	gene	234				
+NIDNPDGF_01176	CDS	234				hypothetical protein
+NIDNPDGF_01177	gene	1299				
+NIDNPDGF_01177	CDS	1299				hypothetical protein
+NIDNPDGF_01178	gene	1230				
+NIDNPDGF_01178	CDS	1230				hypothetical protein
+NIDNPDGF_01179	gene	786	tatC			
+NIDNPDGF_01179	CDS	786	tatC		COG0805	Sec-independent protein translocase protein TatC
+NIDNPDGF_01180	gene	279	xseB			
+NIDNPDGF_01180	CDS	279	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+NIDNPDGF_01181	gene	198				
+NIDNPDGF_01181	CDS	198				hypothetical protein
+NIDNPDGF_01182	gene	222				
+NIDNPDGF_01182	CDS	222				hypothetical protein
+NIDNPDGF_01183	gene	804				
+NIDNPDGF_01183	CDS	804				hypothetical protein
+NIDNPDGF_01184	gene	207				
+NIDNPDGF_01184	CDS	207				hypothetical protein
+NIDNPDGF_01185	gene	594				
+NIDNPDGF_01185	CDS	594				hypothetical protein
+NIDNPDGF_01186	gene	1227				
+NIDNPDGF_01186	CDS	1227				hypothetical protein
+NIDNPDGF_01187	gene	963				
+NIDNPDGF_01187	CDS	963				hypothetical protein
+NIDNPDGF_01188	gene	294				
+NIDNPDGF_01188	CDS	294				hypothetical protein
+NIDNPDGF_01189	gene	1182				
+NIDNPDGF_01189	CDS	1182				hypothetical protein
+NIDNPDGF_01190	gene	90				
+NIDNPDGF_01190	CDS	90				hypothetical protein
+NIDNPDGF_01191	gene	1044				
+NIDNPDGF_01191	CDS	1044				hypothetical protein
+NIDNPDGF_01192	gene	852	pstB			
+NIDNPDGF_01192	CDS	852	pstB	7.3.2.1		Phosphate import ATP-binding protein PstB
+NIDNPDGF_01193	gene	333				
+NIDNPDGF_01193	CDS	333				hypothetical protein
+NIDNPDGF_01194	gene	891	nusA_1			
+NIDNPDGF_01194	CDS	891	nusA_1			Transcription termination/antitermination protein NusA
+NIDNPDGF_01195	gene	573	rluE			
+NIDNPDGF_01195	CDS	573	rluE	5.4.99.20	COG1187	Ribosomal large subunit pseudouridine synthase E
+NIDNPDGF_01196	gene	1254	lhgD			
+NIDNPDGF_01196	CDS	1254	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+NIDNPDGF_01197	gene	351				
+NIDNPDGF_01197	CDS	351				hypothetical protein
+NIDNPDGF_01198	gene	438				
+NIDNPDGF_01198	CDS	438				hypothetical protein
+NIDNPDGF_01199	gene	1011	rbsK			
+NIDNPDGF_01199	CDS	1011	rbsK	2.7.1.15		Ribokinase
+NIDNPDGF_01200	gene	801				
+NIDNPDGF_01200	CDS	801				hypothetical protein
+NIDNPDGF_01201	gene	444				
+NIDNPDGF_01201	CDS	444				hypothetical protein
+NIDNPDGF_01202	gene	249				
+NIDNPDGF_01202	CDS	249				hypothetical protein
+NIDNPDGF_01203	gene	1092	mqnC			
+NIDNPDGF_01203	CDS	1092	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+NIDNPDGF_01204	gene	339	mqnA			
+NIDNPDGF_01204	CDS	339	mqnA	4.2.1.151		Chorismate dehydratase
+NIDNPDGF_01205	gene	216				
+NIDNPDGF_01205	CDS	216				hypothetical protein
+NIDNPDGF_01206	gene	1062	pheS			
+NIDNPDGF_01206	CDS	1062	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+NIDNPDGF_01207	gene	2799	ileS			
+NIDNPDGF_01207	CDS	2799	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+NIDNPDGF_01208	gene	498	lspA			
+NIDNPDGF_01208	CDS	498	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+NIDNPDGF_01209	gene	960	nadA			
+NIDNPDGF_01209	CDS	960	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+NIDNPDGF_01210	gene	384	rplL			
+NIDNPDGF_01210	CDS	384	rplL		COG0222	50S ribosomal protein L7/L12
+NIDNPDGF_01211	gene	360	rplJ			
+NIDNPDGF_01211	CDS	360	rplJ		COG0244	50S ribosomal protein L10
+NIDNPDGF_01212	gene	825	proB			
+NIDNPDGF_01212	CDS	825	proB	2.7.2.11		Glutamate 5-kinase
+NIDNPDGF_01213	gene	783	rbn_2			
+NIDNPDGF_01213	CDS	783	rbn_2	3.1.26.11		Ribonuclease BN
+NIDNPDGF_01214	gene	447				
+NIDNPDGF_01214	CDS	447				hypothetical protein
+NIDNPDGF_01215	gene	501				
+NIDNPDGF_01215	CDS	501				hypothetical protein
+NIDNPDGF_01216	gene	840	ftsQ			
+NIDNPDGF_01216	CDS	840	ftsQ			Cell division protein FtsQ
+NIDNPDGF_01217	gene	807	ddlB			
+NIDNPDGF_01217	CDS	807	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+NIDNPDGF_01218	gene	288				
+NIDNPDGF_01218	CDS	288				hypothetical protein
+NIDNPDGF_01219	gene	372				
+NIDNPDGF_01219	CDS	372				hypothetical protein
+NIDNPDGF_01220	gene	396				
+NIDNPDGF_01220	CDS	396				hypothetical protein
+NIDNPDGF_01221	gene	393	gmd_1			
+NIDNPDGF_01221	CDS	393	gmd_1	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+NIDNPDGF_01222	gene	1002	gmd_2			
+NIDNPDGF_01222	CDS	1002	gmd_2	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+NIDNPDGF_01223	gene	540				
+NIDNPDGF_01223	CDS	540				hypothetical protein
+NIDNPDGF_01224	gene	849	corA			
+NIDNPDGF_01224	CDS	849	corA		COG0598	Magnesium transport protein CorA
+NIDNPDGF_01225	gene	324				
+NIDNPDGF_01225	CDS	324				hypothetical protein
+NIDNPDGF_01226	gene	813	gloB			
+NIDNPDGF_01226	CDS	813	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+NIDNPDGF_01227	gene	489				
+NIDNPDGF_01227	CDS	489				hypothetical protein
+NIDNPDGF_01228	gene	399				
+NIDNPDGF_01228	CDS	399				hypothetical protein
+NIDNPDGF_01229	gene	777	yfcA_1			
+NIDNPDGF_01229	CDS	777	yfcA_1		COG0730	putative membrane transporter protein YfcA
+NIDNPDGF_01230	gene	861				
+NIDNPDGF_01230	CDS	861				hypothetical protein
+NIDNPDGF_01231	gene	783				
+NIDNPDGF_01231	CDS	783				hypothetical protein
+NIDNPDGF_01232	gene	1248				
+NIDNPDGF_01232	CDS	1248				hypothetical protein
+NIDNPDGF_01233	gene	669				
+NIDNPDGF_01233	CDS	669				hypothetical protein
+NIDNPDGF_01234	gene	3048				
+NIDNPDGF_01234	CDS	3048				hypothetical protein
+NIDNPDGF_01235	gene	987				
+NIDNPDGF_01235	CDS	987				hypothetical protein
+NIDNPDGF_01236	gene	165	glnB_4			
+NIDNPDGF_01236	CDS	165	glnB_4		COG0347	Nitrogen regulatory protein P-II
+NIDNPDGF_01237	gene	348				
+NIDNPDGF_01237	CDS	348				hypothetical protein
+NIDNPDGF_01238	gene	76				
+NIDNPDGF_01238	tRNA	76				tRNA-Gln(ctg)
+NIDNPDGF_01239	gene	1632	malQ			
+NIDNPDGF_01239	CDS	1632	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+NIDNPDGF_01240	gene	528				
+NIDNPDGF_01240	CDS	528		3.6.1.-	COG0494	Nudix hydrolase
+NIDNPDGF_01241	gene	723				
+NIDNPDGF_01241	CDS	723				hypothetical protein
+NIDNPDGF_01242	gene	1473	lpd_2			
+NIDNPDGF_01242	CDS	1473	lpd_2	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+NIDNPDGF_01243	gene	93				
+NIDNPDGF_01243	CDS	93				hypothetical protein
+NIDNPDGF_01244	gene	1068				
+NIDNPDGF_01244	CDS	1068				hypothetical protein
+NIDNPDGF_01245	gene	462	flgH			
+NIDNPDGF_01245	CDS	462	flgH			Flagellar L-ring protein
+NIDNPDGF_01246	gene	1215	flgI			
+NIDNPDGF_01246	CDS	1215	flgI			Flagellar P-ring protein
+NIDNPDGF_01247	gene	429				
+NIDNPDGF_01247	CDS	429				hypothetical protein
+NIDNPDGF_01248	gene	219				
+NIDNPDGF_01248	CDS	219				hypothetical protein
+NIDNPDGF_01249	gene	1485				
+NIDNPDGF_01249	CDS	1485				hypothetical protein
+NIDNPDGF_01250	gene	708				
+NIDNPDGF_01250	CDS	708				hypothetical protein
+NIDNPDGF_01251	gene	1119				
+NIDNPDGF_01251	CDS	1119				hypothetical protein
+NIDNPDGF_01252	gene	1122				
+NIDNPDGF_01252	CDS	1122				hypothetical protein
+NIDNPDGF_01253	gene	441	fcl_1			
+NIDNPDGF_01253	CDS	441	fcl_1	1.1.1.271		GDP-L-fucose synthase
+NIDNPDGF_01254	gene	1305	dnaX			
+NIDNPDGF_01254	CDS	1305	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit gamma/tau
+NIDNPDGF_01255	gene	306				
+NIDNPDGF_01255	CDS	306			COG0718	Nucleoid-associated protein
+NIDNPDGF_01256	gene	624	recR			
+NIDNPDGF_01256	CDS	624	recR		COG0353	Recombination protein RecR
+NIDNPDGF_01257	gene	189				
+NIDNPDGF_01257	CDS	189				hypothetical protein
+NIDNPDGF_01258	gene	1197				
+NIDNPDGF_01258	CDS	1197				hypothetical protein
+NIDNPDGF_01259	gene	354				
+NIDNPDGF_01259	CDS	354				hypothetical protein
+NIDNPDGF_01260	gene	789	fliA			
+NIDNPDGF_01260	CDS	789	fliA		COG1191	RNA polymerase sigma factor FliA
+NIDNPDGF_01261	gene	315				
+NIDNPDGF_01261	CDS	315				hypothetical protein
+NIDNPDGF_01262	gene	2085	flhA			
+NIDNPDGF_01262	CDS	2085	flhA		COG1298	Flagellar biosynthesis protein FlhA
+NIDNPDGF_01263	gene	1008	iolE			
+NIDNPDGF_01263	CDS	1008	iolE	4.2.1.44		Inosose dehydratase
+NIDNPDGF_01264	gene	210				
+NIDNPDGF_01264	CDS	210				hypothetical protein
+NIDNPDGF_01265	gene	786				
+NIDNPDGF_01265	CDS	786				hypothetical protein
+NIDNPDGF_01266	gene	420				
+NIDNPDGF_01266	CDS	420				hypothetical protein
+NIDNPDGF_01267	gene	1284				
+NIDNPDGF_01267	CDS	1284				hypothetical protein
+NIDNPDGF_01268	gene	693	lolD_1			
+NIDNPDGF_01268	CDS	693	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+NIDNPDGF_01269	gene	1116	macB_3			
+NIDNPDGF_01269	CDS	1116	macB_3	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+NIDNPDGF_01270	gene	501				
+NIDNPDGF_01270	CDS	501				hypothetical protein
+NIDNPDGF_01271	gene	95				
+NIDNPDGF_01271	tRNA	95				tRNA-Ser(cga)
+NIDNPDGF_01272	gene	402				
+NIDNPDGF_01272	CDS	402				hypothetical protein
+NIDNPDGF_01273	gene	1329				
+NIDNPDGF_01273	CDS	1329				hypothetical protein
+NIDNPDGF_01274	gene	1113	mqnE			
+NIDNPDGF_01274	CDS	1113	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+NIDNPDGF_01275	gene	771	plqA			
+NIDNPDGF_01275	CDS	771	plqA	2.5.1.39		4-hydroxybenzoate solanesyltransferase
+NIDNPDGF_01276	gene	1065	aroF			
+NIDNPDGF_01276	CDS	1065	aroF	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+NIDNPDGF_01277	gene	588				
+NIDNPDGF_01277	CDS	588				hypothetical protein
+NIDNPDGF_01278	gene	909				
+NIDNPDGF_01278	CDS	909				hypothetical protein
+NIDNPDGF_01279	gene	576				
+NIDNPDGF_01279	CDS	576				hypothetical protein
+NIDNPDGF_01280	gene	1299	tig			
+NIDNPDGF_01280	CDS	1299	tig	5.2.1.8	COG0544	Trigger factor
+NIDNPDGF_01281	gene	423	fitB			
+NIDNPDGF_01281	CDS	423	fitB	3.1.-.-		Toxin FitB
+NIDNPDGF_01282	gene	231				
+NIDNPDGF_01282	CDS	231				hypothetical protein
+NIDNPDGF_01283	gene	885	cpdA_1			
+NIDNPDGF_01283	CDS	885	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+NIDNPDGF_01284	gene	441				
+NIDNPDGF_01284	CDS	441				hypothetical protein
+NIDNPDGF_01285	gene	405	petJ_2			
+NIDNPDGF_01285	CDS	405	petJ_2			Cytochrome c6
+NIDNPDGF_01286	gene	1026	ilvC			
+NIDNPDGF_01286	CDS	1026	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+NIDNPDGF_01287	gene	495	ilvH			
+NIDNPDGF_01287	CDS	495	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+NIDNPDGF_01288	gene	516				
+NIDNPDGF_01288	CDS	516				hypothetical protein
+NIDNPDGF_01289	gene	1518				
+NIDNPDGF_01289	CDS	1518				hypothetical protein
+NIDNPDGF_01290	gene	135				
+NIDNPDGF_01290	CDS	135				hypothetical protein
+NIDNPDGF_01291	gene	2526	feoB			
+NIDNPDGF_01291	CDS	2526	feoB		COG0370	Fe(2+) transporter FeoB
+NIDNPDGF_01292	gene	1092				
+NIDNPDGF_01292	CDS	1092				hypothetical protein
+NIDNPDGF_01293	gene	885				
+NIDNPDGF_01293	CDS	885				hypothetical protein
+NIDNPDGF_01294	gene	1383	ftsZ			
+NIDNPDGF_01294	CDS	1383	ftsZ			Cell division protein FtsZ
+NIDNPDGF_01295	gene	885	ftsA			
+NIDNPDGF_01295	CDS	885	ftsA		COG0849	Cell division protein FtsA
+NIDNPDGF_01296	gene	1026	proA			
+NIDNPDGF_01296	CDS	1026	proA	1.2.1.41		Gamma-glutamyl phosphate reductase
+NIDNPDGF_01297	gene	489	mcsA			
+NIDNPDGF_01297	CDS	489	mcsA		COG3880	Protein-arginine kinase activator protein
+NIDNPDGF_01298	gene	867	ilvE			
+NIDNPDGF_01298	CDS	867	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+NIDNPDGF_01299	gene	675	lolD_2			
+NIDNPDGF_01299	CDS	675	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+NIDNPDGF_01300	gene	504				
+NIDNPDGF_01300	CDS	504				hypothetical protein
+NIDNPDGF_01301	gene	768	lig			
+NIDNPDGF_01301	CDS	768	lig	6.5.1.1		DNA ligase
+NIDNPDGF_01302	gene	354				
+NIDNPDGF_01302	CDS	354				hypothetical protein
+NIDNPDGF_01303	gene	366	rplT			
+NIDNPDGF_01303	CDS	366	rplT		COG0292	50S ribosomal protein L20
+NIDNPDGF_01304	gene	264				
+NIDNPDGF_01304	CDS	264				hypothetical protein
+NIDNPDGF_01305	gene	879				
+NIDNPDGF_01305	CDS	879				hypothetical protein
+NIDNPDGF_01306	gene	423				
+NIDNPDGF_01306	CDS	423				hypothetical protein
+NIDNPDGF_01307	gene	480				
+NIDNPDGF_01307	CDS	480				hypothetical protein
+NIDNPDGF_01308	gene	471				
+NIDNPDGF_01308	CDS	471				hypothetical protein
+NIDNPDGF_01309	gene	1416				
+NIDNPDGF_01309	CDS	1416				hypothetical protein
+NIDNPDGF_01310	gene	1221				
+NIDNPDGF_01310	CDS	1221				hypothetical protein
+NIDNPDGF_01311	gene	270	relG_2			
+NIDNPDGF_01311	CDS	270	relG_2	3.1.-.-	COG2026	Toxin RelG
+NIDNPDGF_01312	gene	198				
+NIDNPDGF_01312	CDS	198				hypothetical protein
+NIDNPDGF_01313	gene	1059				
+NIDNPDGF_01313	CDS	1059				hypothetical protein
+NIDNPDGF_01314	gene	210				
+NIDNPDGF_01314	CDS	210				hypothetical protein
+NIDNPDGF_01315	gene	732	rsmE			
+NIDNPDGF_01315	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+NIDNPDGF_01316	gene	399				
+NIDNPDGF_01316	CDS	399				hypothetical protein
+NIDNPDGF_01317	gene	552				
+NIDNPDGF_01317	CDS	552				hypothetical protein
+NIDNPDGF_01318	gene	1551				
+NIDNPDGF_01318	CDS	1551				hypothetical protein
+NIDNPDGF_01319	gene	267	spo0C_1			
+NIDNPDGF_01319	CDS	267	spo0C_1		COG1475	Chromosome-partitioning protein Spo0J
+NIDNPDGF_01320	gene	765	spo0C_2			
+NIDNPDGF_01320	CDS	765	spo0C_2		COG1475	Chromosome-partitioning protein Spo0J
+NIDNPDGF_01321	gene	876				
+NIDNPDGF_01321	CDS	876				hypothetical protein
+NIDNPDGF_01322	gene	408				
+NIDNPDGF_01322	CDS	408				hypothetical protein
+NIDNPDGF_01323	gene	2172				
+NIDNPDGF_01323	CDS	2172				hypothetical protein
+NIDNPDGF_01324	gene	1317				
+NIDNPDGF_01324	CDS	1317				hypothetical protein
+NIDNPDGF_01325	gene	1107	ligA			
+NIDNPDGF_01325	CDS	1107	ligA	6.5.1.2	COG0272	DNA ligase
+NIDNPDGF_01326	gene	216				
+NIDNPDGF_01326	CDS	216				hypothetical protein
+NIDNPDGF_01327	gene	96				
+NIDNPDGF_01327	tRNA	96				tRNA-Ser(gga)
+NIDNPDGF_01328	gene	1254	acrA			
+NIDNPDGF_01328	CDS	1254	acrA			Multidrug efflux pump subunit AcrA
+NIDNPDGF_01329	gene	1611				
+NIDNPDGF_01329	CDS	1611				hypothetical protein
+NIDNPDGF_01330	gene	387				
+NIDNPDGF_01330	CDS	387				hypothetical protein
+NIDNPDGF_01331	gene	999	bioB			
+NIDNPDGF_01331	CDS	999	bioB	2.8.1.6	COG0502	Biotin synthase
+NIDNPDGF_01332	gene	1110				
+NIDNPDGF_01332	CDS	1110				hypothetical protein
+NIDNPDGF_01333	gene	657	yedJ			
+NIDNPDGF_01333	CDS	657	yedJ		COG1418	putative protein YedJ
+NIDNPDGF_01334	gene	363				
+NIDNPDGF_01334	CDS	363				hypothetical protein
+NIDNPDGF_01335	gene	588	galT			
+NIDNPDGF_01335	CDS	588	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+NIDNPDGF_01336	gene	1122				
+NIDNPDGF_01336	CDS	1122				hypothetical protein
+NIDNPDGF_01337	gene	798				
+NIDNPDGF_01337	CDS	798				hypothetical protein
+NIDNPDGF_01338	gene	615	sir_2			
+NIDNPDGF_01338	CDS	615	sir_2	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+NIDNPDGF_01339	gene	387				
+NIDNPDGF_01339	CDS	387				hypothetical protein
+NIDNPDGF_01340	gene	801				
+NIDNPDGF_01340	CDS	801				hypothetical protein
+NIDNPDGF_01341	gene	516				
+NIDNPDGF_01341	CDS	516				hypothetical protein
+NIDNPDGF_01342	gene	939				
+NIDNPDGF_01342	CDS	939				hypothetical protein
+NIDNPDGF_01343	gene	870				
+NIDNPDGF_01343	CDS	870				hypothetical protein
+NIDNPDGF_01344	gene	711				
+NIDNPDGF_01344	CDS	711				hypothetical protein
+NIDNPDGF_01345	gene	762	cckA_3			
+NIDNPDGF_01345	CDS	762	cckA_3			Sensor kinase CckA
+NIDNPDGF_01346	gene	1053	pyrD			
+NIDNPDGF_01346	CDS	1053	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+NIDNPDGF_01347	gene	411	catE			
+NIDNPDGF_01347	CDS	411	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+NIDNPDGF_01348	gene	2139				
+NIDNPDGF_01348	CDS	2139				hypothetical protein
+NIDNPDGF_01349	gene	1242				
+NIDNPDGF_01349	CDS	1242				hypothetical protein
+NIDNPDGF_01350	gene	1092	leuB			
+NIDNPDGF_01350	CDS	1092	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+NIDNPDGF_01351	gene	465	leuD			
+NIDNPDGF_01351	CDS	465	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+NIDNPDGF_01352	gene	333				
+NIDNPDGF_01352	CDS	333				hypothetical protein
+NIDNPDGF_01353	gene	282	yafQ_2			
+NIDNPDGF_01353	CDS	282	yafQ_2	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+NIDNPDGF_01354	gene	270				
+NIDNPDGF_01354	CDS	270				hypothetical protein
+NIDNPDGF_01355	gene	504				
+NIDNPDGF_01355	CDS	504		2.7.7.53	COG0537	AP-4-A phosphorylase
+NIDNPDGF_01356	gene	753	hddC			
+NIDNPDGF_01356	CDS	753	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+NIDNPDGF_01357	gene	600	hldD			
+NIDNPDGF_01357	CDS	600	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+NIDNPDGF_01358	gene	612				
+NIDNPDGF_01358	CDS	612				hypothetical protein
+NIDNPDGF_01359	gene	339				
+NIDNPDGF_01359	CDS	339				hypothetical protein
+NIDNPDGF_01360	gene	264	csrA			
+NIDNPDGF_01360	CDS	264	csrA			Translational regulator CsrA
+NIDNPDGF_01361	gene	417	fliW			
+NIDNPDGF_01361	CDS	417	fliW		COG1699	Flagellar assembly factor FliW
+NIDNPDGF_01362	gene	981				
+NIDNPDGF_01362	CDS	981				hypothetical protein
+NIDNPDGF_01363	gene	942	cheV			
+NIDNPDGF_01363	CDS	942	cheV		COG0784	Chemotaxis protein CheV
+NIDNPDGF_01364	gene	747	ycdF			
+NIDNPDGF_01364	CDS	747	ycdF	1.1.1.47	COG1028	Glucose 1-dehydrogenase 2
+NIDNPDGF_01365	gene	459				
+NIDNPDGF_01365	CDS	459				hypothetical protein
+NIDNPDGF_01366	gene	1875	mutL			
+NIDNPDGF_01366	CDS	1875	mutL			DNA mismatch repair protein MutL
+NIDNPDGF_01367	gene	648				
+NIDNPDGF_01367	CDS	648				hypothetical protein
+NIDNPDGF_01368	gene	657				
+NIDNPDGF_01368	CDS	657				hypothetical protein
+NIDNPDGF_01369	gene	315				
+NIDNPDGF_01369	CDS	315				hypothetical protein
+NIDNPDGF_01370	gene	1152				
+NIDNPDGF_01370	CDS	1152				hypothetical protein
+NIDNPDGF_01371	gene	441	fabF_1			
+NIDNPDGF_01371	CDS	441	fabF_1	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+NIDNPDGF_01372	gene	1194	tetA			
+NIDNPDGF_01372	CDS	1194	tetA			Tetracycline resistance protein, class C
+NIDNPDGF_01373	gene	1197	bepA_5			
+NIDNPDGF_01373	CDS	1197	bepA_5	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIDNPDGF_01374	gene	1647	nadE			
+NIDNPDGF_01374	CDS	1647	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+NIDNPDGF_01375	gene	387				
+NIDNPDGF_01375	CDS	387				hypothetical protein
+NIDNPDGF_01376	gene	831	lpxI			
+NIDNPDGF_01376	CDS	831	lpxI	3.6.1.54	COG3494	UDP-2,3-diacylglucosamine pyrophosphatase LpxI
+NIDNPDGF_01377	gene	264				
+NIDNPDGF_01377	CDS	264				hypothetical protein
+NIDNPDGF_01378	gene	243				
+NIDNPDGF_01378	CDS	243				hypothetical protein
+NIDNPDGF_01379	gene	306				
+NIDNPDGF_01379	CDS	306				hypothetical protein
+NIDNPDGF_01380	gene	333				
+NIDNPDGF_01380	CDS	333				hypothetical protein
+NIDNPDGF_01381	gene	246				
+NIDNPDGF_01381	CDS	246				hypothetical protein
+NIDNPDGF_01382	gene	1545	iscS			
+NIDNPDGF_01382	CDS	1545	iscS	2.8.1.7		Cysteine desulfurase IscS
+NIDNPDGF_01383	gene	1500				
+NIDNPDGF_01383	CDS	1500			COG2308	putative protein
+NIDNPDGF_01384	gene	993				
+NIDNPDGF_01384	CDS	993				hypothetical protein
+NIDNPDGF_01385	gene	681	fabV			
+NIDNPDGF_01385	CDS	681	fabV	1.3.1.9		Enoyl-[acyl-carrier-protein] reductase [NADH]
+NIDNPDGF_01386	gene	756				
+NIDNPDGF_01386	CDS	756				hypothetical protein
+NIDNPDGF_01387	gene	225				
+NIDNPDGF_01387	CDS	225				hypothetical protein
+NIDNPDGF_01388	gene	342				
+NIDNPDGF_01388	CDS	342				hypothetical protein
+NIDNPDGF_01389	gene	1539	metG			
+NIDNPDGF_01389	CDS	1539	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+NIDNPDGF_01390	gene	120				
+NIDNPDGF_01390	CDS	120				hypothetical protein
+NIDNPDGF_01391	gene	609	rutE			
+NIDNPDGF_01391	CDS	609	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+NIDNPDGF_01392	gene	783	ssuC			
+NIDNPDGF_01392	CDS	783	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+NIDNPDGF_01393	gene	138				
+NIDNPDGF_01393	CDS	138				hypothetical protein
+NIDNPDGF_01394	gene	1971				
+NIDNPDGF_01394	CDS	1971				hypothetical protein
+NIDNPDGF_01395	gene	678	dusB_2			
+NIDNPDGF_01395	CDS	678	dusB_2	1.3.1.-		tRNA-dihydrouridine synthase B
+NIDNPDGF_01396	gene	231	fabF_2			
+NIDNPDGF_01396	CDS	231	fabF_2	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+NIDNPDGF_01397	gene	213	rpmE			
+NIDNPDGF_01397	CDS	213	rpmE		COG0254	50S ribosomal protein L31
+NIDNPDGF_01398	gene	1095	prfA			
+NIDNPDGF_01398	CDS	1095	prfA		COG0216	Peptide chain release factor 1
+NIDNPDGF_01399	gene	843	prmC			
+NIDNPDGF_01399	CDS	843	prmC	2.1.1.297		Release factor glutamine methyltransferase
+NIDNPDGF_01400	gene	1200				
+NIDNPDGF_01400	CDS	1200				hypothetical protein
+NIDNPDGF_01401	gene	3186	mexB			
+NIDNPDGF_01401	CDS	3186	mexB		COG0841	Multidrug resistance protein MexB
+NIDNPDGF_01402	gene	1245	mexA			
+NIDNPDGF_01402	CDS	1245	mexA			Multidrug resistance protein MexA
+NIDNPDGF_01403	gene	657	yfiR			
+NIDNPDGF_01403	CDS	657	yfiR			putative HTH-type transcriptional regulator YfiR
+NIDNPDGF_01404	gene	1119				
+NIDNPDGF_01404	CDS	1119				hypothetical protein
+NIDNPDGF_01405	gene	1272				
+NIDNPDGF_01405	CDS	1272				hypothetical protein
+NIDNPDGF_01406	gene	1122	nagZ			
+NIDNPDGF_01406	CDS	1122	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+NIDNPDGF_01407	gene	72				
+NIDNPDGF_01407	tRNA	72				tRNA-Gly(ccc)
+NIDNPDGF_01408	gene	1242	xerC_4			
+NIDNPDGF_01408	CDS	1242	xerC_4			Tyrosine recombinase XerC
+NIDNPDGF_01409	gene	219				
+NIDNPDGF_01409	CDS	219				hypothetical protein
+NIDNPDGF_01410	gene	930				
+NIDNPDGF_01410	CDS	930				hypothetical protein
+NIDNPDGF_01411	gene	918	metR			
+NIDNPDGF_01411	CDS	918	metR			HTH-type transcriptional regulator MetR
+NIDNPDGF_01412	gene	1113				
+NIDNPDGF_01412	CDS	1113				hypothetical protein
+NIDNPDGF_01413	gene	966	rcsC_9			
+NIDNPDGF_01413	CDS	966	rcsC_9	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_01414	gene	819	ccsA_2			
+NIDNPDGF_01414	CDS	819	ccsA_2			Cytochrome c biogenesis protein CcsA
+NIDNPDGF_01415	gene	453	yqeY			
+NIDNPDGF_01415	CDS	453	yqeY		COG1610	putative protein YqeY
+NIDNPDGF_01416	gene	807				
+NIDNPDGF_01416	CDS	807				hypothetical protein
+NIDNPDGF_01417	gene	507				
+NIDNPDGF_01417	CDS	507				hypothetical protein
+NIDNPDGF_01418	gene	513				
+NIDNPDGF_01418	CDS	513				hypothetical protein
+NIDNPDGF_01419	gene	759				
+NIDNPDGF_01419	CDS	759				hypothetical protein
+NIDNPDGF_01420	gene	189				
+NIDNPDGF_01420	CDS	189				hypothetical protein
+NIDNPDGF_01421	gene	462				
+NIDNPDGF_01421	CDS	462				hypothetical protein
+NIDNPDGF_01422	gene	984				
+NIDNPDGF_01422	CDS	984				hypothetical protein
+NIDNPDGF_01423	gene	1143	ugtP_2			
+NIDNPDGF_01423	CDS	1143	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+NIDNPDGF_01424	gene	663	MENG			
+NIDNPDGF_01424	CDS	663	MENG	2.1.1.329		2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic
+NIDNPDGF_01425	gene	924	aptB			
+NIDNPDGF_01425	CDS	924	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+NIDNPDGF_01426	gene	699	aptA			
+NIDNPDGF_01426	CDS	699	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+NIDNPDGF_01427	gene	576				
+NIDNPDGF_01427	CDS	576				hypothetical protein
+NIDNPDGF_01428	gene	1068	fliM			
+NIDNPDGF_01428	CDS	1068	fliM		COG1868	Flagellar motor switch protein FliM
+NIDNPDGF_01429	gene	246				
+NIDNPDGF_01429	CDS	246				hypothetical protein
+NIDNPDGF_01430	gene	327				
+NIDNPDGF_01430	CDS	327				hypothetical protein
+NIDNPDGF_01431	gene	1230	cinA			
+NIDNPDGF_01431	CDS	1230	cinA			Putative competence-damage inducible protein
+NIDNPDGF_01432	gene	1266	trpB_1			
+NIDNPDGF_01432	CDS	1266	trpB_1	4.2.1.20		Tryptophan synthase beta chain
+NIDNPDGF_01433	gene	360	panD			
+NIDNPDGF_01433	CDS	360	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+NIDNPDGF_01434	gene	429	ndk			
+NIDNPDGF_01434	CDS	429	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+NIDNPDGF_01435	gene	966	trpS			
+NIDNPDGF_01435	CDS	966	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+NIDNPDGF_01436	gene	867	scpA			
+NIDNPDGF_01436	CDS	867	scpA		COG1354	Segregation and condensation protein A
+NIDNPDGF_01437	gene	939	scpB			
+NIDNPDGF_01437	CDS	939	scpB			Segregation and condensation protein B
+NIDNPDGF_01438	gene	942				
+NIDNPDGF_01438	CDS	942				hypothetical protein
+NIDNPDGF_01439	gene	711	xynC			
+NIDNPDGF_01439	CDS	711	xynC	3.2.1.136		Glucuronoxylanase XynC
+NIDNPDGF_01440	gene	702				
+NIDNPDGF_01440	CDS	702				hypothetical protein
+NIDNPDGF_01441	gene	1020	purR_3			
+NIDNPDGF_01441	CDS	1020	purR_3			HTH-type transcriptional repressor PurR
+NIDNPDGF_01442	gene	1383				
+NIDNPDGF_01442	CDS	1383				hypothetical protein
+NIDNPDGF_01443	gene	147				
+NIDNPDGF_01443	CDS	147				hypothetical protein
+NIDNPDGF_01444	gene	198	hesB1			
+NIDNPDGF_01444	CDS	198	hesB1		COG0316	Protein HesB, heterocyst
+NIDNPDGF_01445	gene	732				
+NIDNPDGF_01445	CDS	732				hypothetical protein
+NIDNPDGF_01446	gene	1239	sufS_1			
+NIDNPDGF_01446	CDS	1239	sufS_1	2.8.1.7	COG0520	Cysteine desulfurase SufS
+NIDNPDGF_01447	gene	822				
+NIDNPDGF_01447	CDS	822				hypothetical protein
+NIDNPDGF_01448	gene	1335	nagA			
+NIDNPDGF_01448	CDS	1335	nagA	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+NIDNPDGF_01449	gene	447				
+NIDNPDGF_01449	CDS	447		1.1.1.301		D-arabitol-phosphate dehydrogenase
+NIDNPDGF_01450	gene	1416	lutB			
+NIDNPDGF_01450	CDS	1416	lutB		COG1139	Lactate utilization protein B
+NIDNPDGF_01451	gene	705	lutC			
+NIDNPDGF_01451	CDS	705	lutC			Lactate utilization protein C
+NIDNPDGF_01452	gene	789				
+NIDNPDGF_01452	CDS	789				hypothetical protein
+NIDNPDGF_01453	gene	783	fba			
+NIDNPDGF_01453	CDS	783	fba	4.1.2.13		Fructose-bisphosphate aldolase
+NIDNPDGF_01454	gene	699	pntAA			
+NIDNPDGF_01454	CDS	699	pntAA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+NIDNPDGF_01455	gene	303	pntA			
+NIDNPDGF_01455	CDS	303	pntA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+NIDNPDGF_01456	gene	1422	pntB			
+NIDNPDGF_01456	CDS	1422	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+NIDNPDGF_01457	gene	267				
+NIDNPDGF_01457	CDS	267				hypothetical protein
+NIDNPDGF_01458	gene	1059				
+NIDNPDGF_01458	CDS	1059				hypothetical protein
+NIDNPDGF_01459	gene	1338	recN			
+NIDNPDGF_01459	CDS	1338	recN		COG0497	DNA repair protein RecN
+NIDNPDGF_01460	gene	1683	lapB			
+NIDNPDGF_01460	CDS	1683	lapB			Lipopolysaccharide assembly protein B
+NIDNPDGF_01461	gene	735	tylN			
+NIDNPDGF_01461	CDS	735	tylN	2.4.1.317		O-mycaminosyltylonolide 6-deoxyallosyltransferase
+NIDNPDGF_01462	gene	1500				
+NIDNPDGF_01462	CDS	1500		3.4.24.-	COG0750	Putative zinc metalloprotease
+NIDNPDGF_01463	gene	504	dxr			
+NIDNPDGF_01463	CDS	504	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+NIDNPDGF_01464	gene	255				
+NIDNPDGF_01464	CDS	255				hypothetical protein
+NIDNPDGF_01465	gene	480	decR			
+NIDNPDGF_01465	CDS	480	decR		COG1522	DNA-binding transcriptional activator DecR
+NIDNPDGF_01466	gene	276				
+NIDNPDGF_01466	CDS	276				hypothetical protein
+NIDNPDGF_01467	gene	870	ypdB			
+NIDNPDGF_01467	CDS	870	ypdB		COG3279	Transcriptional regulatory protein YpdB
+NIDNPDGF_01468	gene	1101				
+NIDNPDGF_01468	CDS	1101				hypothetical protein
+NIDNPDGF_01469	gene	255	glgC			
+NIDNPDGF_01469	CDS	255	glgC	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+NIDNPDGF_01470	gene	1608	dxs			
+NIDNPDGF_01470	CDS	1608	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+NIDNPDGF_01471	gene	1014				
+NIDNPDGF_01471	CDS	1014				hypothetical protein
+NIDNPDGF_01472	gene	828				
+NIDNPDGF_01472	CDS	828				hypothetical protein
+NIDNPDGF_01473	gene	972	pyrB			
+NIDNPDGF_01473	CDS	972	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+NIDNPDGF_01474	gene	1338				
+NIDNPDGF_01474	CDS	1338				hypothetical protein
+NIDNPDGF_01475	gene	408				
+NIDNPDGF_01475	CDS	408				hypothetical protein
+NIDNPDGF_01476	gene	1104	nemA			
+NIDNPDGF_01476	CDS	1104	nemA	1.3.1.-	COG1902	N-ethylmaleimide reductase
+NIDNPDGF_01477	gene	747				
+NIDNPDGF_01477	CDS	747				hypothetical protein
+NIDNPDGF_01478	gene	1008				
+NIDNPDGF_01478	CDS	1008				hypothetical protein
+NIDNPDGF_01479	gene	210				
+NIDNPDGF_01479	CDS	210				hypothetical protein
+NIDNPDGF_01480	gene	777	dpnM			
+NIDNPDGF_01480	CDS	777	dpnM	2.1.1.72		Modification methylase DpnIIA
+NIDNPDGF_01481	gene	303				
+NIDNPDGF_01481	CDS	303				hypothetical protein
+NIDNPDGF_01482	gene	1935	hepC			
+NIDNPDGF_01482	CDS	1935	hepC	4.2.2.8		Heparin-sulfate lyase
+NIDNPDGF_01483	gene	2637				
+NIDNPDGF_01483	CDS	2637				hypothetical protein
+NIDNPDGF_01484	gene	582				
+NIDNPDGF_01484	CDS	582				hypothetical protein
+NIDNPDGF_01485	gene	264				
+NIDNPDGF_01485	CDS	264				hypothetical protein
+NIDNPDGF_01486	gene	903	hpnC			
+NIDNPDGF_01486	CDS	903	hpnC	4.2.3.156	COG1562	Hydroxysqualene synthase
+NIDNPDGF_01487	gene	699				
+NIDNPDGF_01487	CDS	699				hypothetical protein
+NIDNPDGF_01488	gene	270				
+NIDNPDGF_01488	CDS	270				hypothetical protein
+NIDNPDGF_01489	gene	897				
+NIDNPDGF_01489	CDS	897			COG1305	putative protein
+NIDNPDGF_01490	gene	381				
+NIDNPDGF_01490	CDS	381				hypothetical protein
+NIDNPDGF_01491	gene	309				
+NIDNPDGF_01491	CDS	309				hypothetical protein
+NIDNPDGF_01492	gene	1062				
+NIDNPDGF_01492	CDS	1062				hypothetical protein
+NIDNPDGF_01493	gene	1134	mrdB			
+NIDNPDGF_01493	CDS	1134	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+NIDNPDGF_01494	gene	1764	xpsE			
+NIDNPDGF_01494	CDS	1764	xpsE		COG2804	Type II secretion system protein E
+NIDNPDGF_01495	gene	1236	epsF			
+NIDNPDGF_01495	CDS	1236	epsF		COG1459	Type II secretion system protein F
+NIDNPDGF_01496	gene	669				
+NIDNPDGF_01496	CDS	669				hypothetical protein
+NIDNPDGF_01497	gene	1236	xerC_5			
+NIDNPDGF_01497	CDS	1236	xerC_5			Tyrosine recombinase XerC
+NIDNPDGF_01498	gene	765				
+NIDNPDGF_01498	CDS	765				hypothetical protein
+NIDNPDGF_01499	gene	621				
+NIDNPDGF_01499	CDS	621				hypothetical protein
+NIDNPDGF_01500	gene	852	accD			
+NIDNPDGF_01500	CDS	852	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+NIDNPDGF_01501	gene	76				
+NIDNPDGF_01501	tRNA	76				tRNA-Ala(cgc)
+NIDNPDGF_01502	gene	73				
+NIDNPDGF_01502	tRNA	73				tRNA-Thr(cgt)
+NIDNPDGF_01503	gene	375				
+NIDNPDGF_01503	CDS	375				hypothetical protein
+NIDNPDGF_01504	gene	474				
+NIDNPDGF_01504	CDS	474				hypothetical protein
+NIDNPDGF_01505	gene	699	acnA			
+NIDNPDGF_01505	CDS	699	acnA	4.2.1.3	COG1048	Aconitate hydratase A
+NIDNPDGF_01506	gene	321				
+NIDNPDGF_01506	CDS	321				hypothetical protein
+NIDNPDGF_01507	gene	726	lutA			
+NIDNPDGF_01507	CDS	726	lutA		COG0247	Lactate utilization protein A
+NIDNPDGF_01508	gene	954	fucA			
+NIDNPDGF_01508	CDS	954	fucA	4.1.2.17		L-fuculose phosphate aldolase
+NIDNPDGF_01509	gene	642				
+NIDNPDGF_01509	CDS	642				hypothetical protein
+NIDNPDGF_01510	gene	891				
+NIDNPDGF_01510	CDS	891				hypothetical protein
+NIDNPDGF_01511	gene	492	trpB_2			
+NIDNPDGF_01511	CDS	492	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+NIDNPDGF_01512	gene	891	apsI			
+NIDNPDGF_01512	CDS	891	apsI	5.3.1.-	COG4952	D-apiose isomerase
+NIDNPDGF_01513	gene	1890				
+NIDNPDGF_01513	CDS	1890				hypothetical protein
+NIDNPDGF_01514	gene	1113	RBKS_2			
+NIDNPDGF_01514	CDS	1113	RBKS_2	2.7.1.15		Ribokinase
+NIDNPDGF_01515	gene	387				
+NIDNPDGF_01515	CDS	387				hypothetical protein
+NIDNPDGF_01516	gene	405				
+NIDNPDGF_01516	CDS	405				hypothetical protein
+NIDNPDGF_01517	gene	1581	metH			
+NIDNPDGF_01517	CDS	1581	metH	2.1.1.13	COG0646	Methionine synthase
+NIDNPDGF_01518	gene	1071				
+NIDNPDGF_01518	CDS	1071				hypothetical protein
+NIDNPDGF_01519	gene	435				
+NIDNPDGF_01519	CDS	435				hypothetical protein
+NIDNPDGF_01520	gene	750				
+NIDNPDGF_01520	CDS	750				hypothetical protein
+NIDNPDGF_01521	gene	1218				
+NIDNPDGF_01521	CDS	1218				hypothetical protein
+NIDNPDGF_01522	gene	1323				
+NIDNPDGF_01522	CDS	1323				hypothetical protein
+NIDNPDGF_01523	gene	189				
+NIDNPDGF_01523	CDS	189				hypothetical protein
+NIDNPDGF_01524	gene	342				
+NIDNPDGF_01524	CDS	342				hypothetical protein
+NIDNPDGF_01525	gene	603				
+NIDNPDGF_01525	CDS	603				hypothetical protein
+NIDNPDGF_01526	gene	1503	dacA			
+NIDNPDGF_01526	CDS	1503	dacA	2.7.7.85		Diadenylate cyclase
+NIDNPDGF_01527	gene	732	prs			
+NIDNPDGF_01527	CDS	732	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+NIDNPDGF_01528	gene	192				
+NIDNPDGF_01528	CDS	192				hypothetical protein
+NIDNPDGF_01529	gene	408				
+NIDNPDGF_01529	CDS	408				hypothetical protein
+NIDNPDGF_01530	gene	504				
+NIDNPDGF_01530	CDS	504				hypothetical protein
+NIDNPDGF_01531	gene	918				
+NIDNPDGF_01531	CDS	918				hypothetical protein
+NIDNPDGF_01532	gene	438				
+NIDNPDGF_01532	CDS	438				hypothetical protein
+NIDNPDGF_01533	gene	447	arnF			
+NIDNPDGF_01533	CDS	447	arnF			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF
+NIDNPDGF_01534	gene	339	arnE_2			
+NIDNPDGF_01534	CDS	339	arnE_2			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+NIDNPDGF_01535	gene	1014				
+NIDNPDGF_01535	CDS	1014				hypothetical protein
+NIDNPDGF_01536	gene	429				
+NIDNPDGF_01536	CDS	429				hypothetical protein
+NIDNPDGF_01537	gene	420				
+NIDNPDGF_01537	CDS	420				hypothetical protein
+NIDNPDGF_01538	gene	417				
+NIDNPDGF_01538	CDS	417				hypothetical protein
+NIDNPDGF_01539	gene	1251	mdtA			
+NIDNPDGF_01539	CDS	1251	mdtA			Multidrug resistance protein MdtA
+NIDNPDGF_01540	gene	723				
+NIDNPDGF_01540	CDS	723				hypothetical protein
+NIDNPDGF_01541	gene	567				
+NIDNPDGF_01541	CDS	567				hypothetical protein
+NIDNPDGF_01542	gene	102				
+NIDNPDGF_01542	CDS	102				hypothetical protein
+NIDNPDGF_01543	gene	831	dapF			
+NIDNPDGF_01543	CDS	831	dapF	5.1.1.7		Diaminopimelate epimerase
+NIDNPDGF_01544	gene	1278	lysA			
+NIDNPDGF_01544	CDS	1278	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+NIDNPDGF_01545	gene	1359				
+NIDNPDGF_01545	CDS	1359				hypothetical protein
+NIDNPDGF_01546	gene	459				
+NIDNPDGF_01546	CDS	459				hypothetical protein
+NIDNPDGF_01547	gene	555				
+NIDNPDGF_01547	CDS	555				hypothetical protein
+NIDNPDGF_01548	gene	1548				
+NIDNPDGF_01548	CDS	1548				hypothetical protein
+NIDNPDGF_01549	gene	75				
+NIDNPDGF_01549	tRNA	75				tRNA-Pro(ggg)
+NIDNPDGF_01550	gene	615	nadD			
+NIDNPDGF_01550	CDS	615	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+NIDNPDGF_01551	gene	318				
+NIDNPDGF_01551	CDS	318				hypothetical protein
+NIDNPDGF_01552	gene	1074				
+NIDNPDGF_01552	CDS	1074				hypothetical protein
+NIDNPDGF_01553	gene	396				
+NIDNPDGF_01553	CDS	396				hypothetical protein
+NIDNPDGF_01554	gene	474				
+NIDNPDGF_01554	CDS	474				hypothetical protein
+NIDNPDGF_01555	gene	396	COQ5_2			
+NIDNPDGF_01555	CDS	396	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+NIDNPDGF_01556	gene	732				
+NIDNPDGF_01556	CDS	732				hypothetical protein
+NIDNPDGF_01557	gene	462				
+NIDNPDGF_01557	CDS	462				hypothetical protein
+NIDNPDGF_01558	gene	363				
+NIDNPDGF_01558	CDS	363				hypothetical protein
+NIDNPDGF_01559	gene	1518	arnT			
+NIDNPDGF_01559	CDS	1518	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+NIDNPDGF_01560	gene	1284				
+NIDNPDGF_01560	CDS	1284				hypothetical protein
+NIDNPDGF_01561	gene	1449				
+NIDNPDGF_01561	CDS	1449				hypothetical protein
+NIDNPDGF_01562	gene	771				
+NIDNPDGF_01562	CDS	771				hypothetical protein
+NIDNPDGF_01563	gene	396				
+NIDNPDGF_01563	CDS	396				hypothetical protein
+NIDNPDGF_01564	gene	1785				
+NIDNPDGF_01564	CDS	1785				hypothetical protein
+NIDNPDGF_01565	gene	183				
+NIDNPDGF_01565	CDS	183				hypothetical protein
+NIDNPDGF_01566	gene	777				
+NIDNPDGF_01566	CDS	777				hypothetical protein
+NIDNPDGF_01567	gene	930	yhdG			
+NIDNPDGF_01567	CDS	930	yhdG		COG0531	putative amino acid permease YhdG
+NIDNPDGF_01568	gene	759				
+NIDNPDGF_01568	CDS	759				hypothetical protein
+NIDNPDGF_01569	gene	318				
+NIDNPDGF_01569	CDS	318				hypothetical protein
+NIDNPDGF_01570	gene	168				
+NIDNPDGF_01570	CDS	168				hypothetical protein
+NIDNPDGF_01571	gene	483	mscL			
+NIDNPDGF_01571	CDS	483	mscL		COG1970	Large-conductance mechanosensitive channel
+NIDNPDGF_01572	gene	1002				
+NIDNPDGF_01572	CDS	1002				hypothetical protein
+NIDNPDGF_01573	gene	798	mreC			
+NIDNPDGF_01573	CDS	798	mreC		COG1792	Cell shape-determining protein MreC
+NIDNPDGF_01574	gene	528				
+NIDNPDGF_01574	CDS	528				hypothetical protein
+NIDNPDGF_01575	gene	849				
+NIDNPDGF_01575	CDS	849				hypothetical protein
+NIDNPDGF_01576	gene	1263				
+NIDNPDGF_01576	CDS	1263				hypothetical protein
+NIDNPDGF_01577	gene	855	hxcR			
+NIDNPDGF_01577	CDS	855	hxcR		COG2804	putative type II secretion system protein HxcR
+NIDNPDGF_01578	gene	702				
+NIDNPDGF_01578	CDS	702				hypothetical protein
+NIDNPDGF_01579	gene	942				
+NIDNPDGF_01579	CDS	942				hypothetical protein
+NIDNPDGF_01580	gene	369				
+NIDNPDGF_01580	CDS	369				hypothetical protein
+NIDNPDGF_01581	gene	342				
+NIDNPDGF_01581	CDS	342				hypothetical protein
+NIDNPDGF_01582	gene	903	hdfR			
+NIDNPDGF_01582	CDS	903	hdfR			HTH-type transcriptional regulator HdfR
+NIDNPDGF_01583	gene	1635				
+NIDNPDGF_01583	CDS	1635				hypothetical protein
+NIDNPDGF_01584	gene	423				
+NIDNPDGF_01584	CDS	423				hypothetical protein
+NIDNPDGF_01585	gene	189	kdpB			
+NIDNPDGF_01585	CDS	189	kdpB	7.2.2.6	COG2216	Potassium-transporting ATPase ATP-binding subunit
+NIDNPDGF_01586	gene	585	kdpC			
+NIDNPDGF_01586	CDS	585	kdpC		COG2156	Potassium-transporting ATPase KdpC subunit
+NIDNPDGF_01587	gene	1164	kdpD			
+NIDNPDGF_01587	CDS	1164	kdpD	2.7.13.3	COG2205	Sensor protein KdpD
+NIDNPDGF_01588	gene	1089	iolG_3			
+NIDNPDGF_01588	CDS	1089	iolG_3	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+NIDNPDGF_01589	gene	1026				
+NIDNPDGF_01589	CDS	1026		1.17.1.9		Formate dehydrogenase, mitochondrial
+NIDNPDGF_01590	gene	654	pimB_2			
+NIDNPDGF_01590	CDS	654	pimB_2	2.4.1.346	COG0438	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+NIDNPDGF_01591	gene	1218	mshA_4			
+NIDNPDGF_01591	CDS	1218	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIDNPDGF_01592	gene	462				
+NIDNPDGF_01592	CDS	462				hypothetical protein
+NIDNPDGF_01593	gene	2781	glnD			
+NIDNPDGF_01593	CDS	2781	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+NIDNPDGF_01594	gene	243				
+NIDNPDGF_01594	CDS	243				hypothetical protein
+NIDNPDGF_01595	gene	618				
+NIDNPDGF_01595	CDS	618				hypothetical protein
+NIDNPDGF_01596	gene	921	rhaR_2			
+NIDNPDGF_01596	CDS	921	rhaR_2			HTH-type transcriptional activator RhaR
+NIDNPDGF_01597	gene	819				
+NIDNPDGF_01597	CDS	819				hypothetical protein
+NIDNPDGF_01598	gene	1389				
+NIDNPDGF_01598	CDS	1389				hypothetical protein
+NIDNPDGF_01599	gene	927	oppB			
+NIDNPDGF_01599	CDS	927	oppB		COG0601	Oligopeptide transport system permease protein OppB
+NIDNPDGF_01600	gene	1257	oppA_2			
+NIDNPDGF_01600	CDS	1257	oppA_2		COG4166	Periplasmic oligopeptide-binding protein
+NIDNPDGF_01601	gene	1401	gatB			
+NIDNPDGF_01601	CDS	1401	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+NIDNPDGF_01602	gene	798				
+NIDNPDGF_01602	CDS	798				hypothetical protein
+NIDNPDGF_01603	gene	930				
+NIDNPDGF_01603	CDS	930				hypothetical protein
+NIDNPDGF_01604	gene	690				
+NIDNPDGF_01604	CDS	690				hypothetical protein
+NIDNPDGF_01605	gene	234				
+NIDNPDGF_01605	CDS	234				hypothetical protein
+NIDNPDGF_01606	gene	957				
+NIDNPDGF_01606	CDS	957				hypothetical protein
+NIDNPDGF_01607	gene	480				
+NIDNPDGF_01607	CDS	480				hypothetical protein
+NIDNPDGF_01608	gene	1305				
+NIDNPDGF_01608	CDS	1305				hypothetical protein
+NIDNPDGF_01609	gene	744	comB			
+NIDNPDGF_01609	CDS	744	comB	3.1.3.71	COG2045	putative 2-phosphosulfolactate phosphatase
+NIDNPDGF_01610	gene	435				
+NIDNPDGF_01610	CDS	435				hypothetical protein
+NIDNPDGF_01611	gene	342	queE			
+NIDNPDGF_01611	CDS	342	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+NIDNPDGF_01612	gene	825	thiG			
+NIDNPDGF_01612	CDS	825	thiG	2.8.1.10	COG2022	Thiazole synthase
+NIDNPDGF_01613	gene	1263	dapL			
+NIDNPDGF_01613	CDS	1263	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+NIDNPDGF_01614	gene	2037	yoaA			
+NIDNPDGF_01614	CDS	2037	yoaA	3.6.4.12	COG1199	putative ATP-dependent DNA helicase YoaA
+NIDNPDGF_01615	gene	1338	rcsC_10			
+NIDNPDGF_01615	CDS	1338	rcsC_10	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_01616	gene	246				
+NIDNPDGF_01616	CDS	246				hypothetical protein
+NIDNPDGF_01617	gene	885	oxyR			
+NIDNPDGF_01617	CDS	885	oxyR			Hydrogen peroxide-inducible genes activator
+NIDNPDGF_01618	gene	1221				
+NIDNPDGF_01618	CDS	1221				hypothetical protein
+NIDNPDGF_01619	gene	231	serS			
+NIDNPDGF_01619	CDS	231	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+NIDNPDGF_01620	gene	96				
+NIDNPDGF_01620	CDS	96				hypothetical protein
+NIDNPDGF_01621	gene	1251	mshA_5			
+NIDNPDGF_01621	CDS	1251	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIDNPDGF_01622	gene	177				
+NIDNPDGF_01622	CDS	177				hypothetical protein
+NIDNPDGF_01623	gene	1335				
+NIDNPDGF_01623	CDS	1335				hypothetical protein
+NIDNPDGF_01624	gene	1044				
+NIDNPDGF_01624	CDS	1044				hypothetical protein
+NIDNPDGF_01625	gene	945				
+NIDNPDGF_01625	CDS	945				hypothetical protein
+NIDNPDGF_01626	gene	1596	smc_2			
+NIDNPDGF_01626	CDS	1596	smc_2			Chromosome partition protein Smc
+NIDNPDGF_01627	gene	765				
+NIDNPDGF_01627	CDS	765				hypothetical protein
+NIDNPDGF_01628	gene	312				
+NIDNPDGF_01628	CDS	312				hypothetical protein
+NIDNPDGF_01629	gene	621				
+NIDNPDGF_01629	CDS	621				hypothetical protein
+NIDNPDGF_01630	gene	576				
+NIDNPDGF_01630	CDS	576				Tn3 family transposase ISYps3
+NIDNPDGF_01631	gene	204				
+NIDNPDGF_01631	CDS	204				hypothetical protein
+NIDNPDGF_01632	gene	246				
+NIDNPDGF_01632	CDS	246				hypothetical protein
+NIDNPDGF_01633	gene	294				
+NIDNPDGF_01633	CDS	294				hypothetical protein
+NIDNPDGF_01634	gene	348				
+NIDNPDGF_01634	CDS	348				hypothetical protein
+NIDNPDGF_01635	gene	1167	xerC_6			
+NIDNPDGF_01635	CDS	1167	xerC_6			Tyrosine recombinase XerC
+NIDNPDGF_01636	gene	357				
+NIDNPDGF_01636	CDS	357				hypothetical protein
+NIDNPDGF_01637	gene	180				
+NIDNPDGF_01637	CDS	180				hypothetical protein
+NIDNPDGF_01638	gene	204				
+NIDNPDGF_01638	CDS	204				hypothetical protein
+NIDNPDGF_01639	gene	132				
+NIDNPDGF_01639	CDS	132				hypothetical protein
+NIDNPDGF_01640	gene	345				
+NIDNPDGF_01640	CDS	345				hypothetical protein
+NIDNPDGF_01641	gene	648	tsf			
+NIDNPDGF_01641	CDS	648	tsf			Elongation factor Ts
+NIDNPDGF_01642	gene	879				
+NIDNPDGF_01642	CDS	879				hypothetical protein
+NIDNPDGF_01643	gene	723				
+NIDNPDGF_01643	CDS	723				hypothetical protein
+NIDNPDGF_01644	gene	1161				
+NIDNPDGF_01644	CDS	1161				hypothetical protein
+NIDNPDGF_01645	gene	1137				
+NIDNPDGF_01645	CDS	1137				hypothetical protein
+NIDNPDGF_01646	gene	300				
+NIDNPDGF_01646	CDS	300				hypothetical protein
+NIDNPDGF_01647	gene	276				
+NIDNPDGF_01647	CDS	276				hypothetical protein
+NIDNPDGF_01648	gene	1182	metK			
+NIDNPDGF_01648	CDS	1182	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+NIDNPDGF_01649	gene	270				
+NIDNPDGF_01649	CDS	270				hypothetical protein
+NIDNPDGF_01650	gene	426				
+NIDNPDGF_01650	CDS	426				hypothetical protein
+NIDNPDGF_01651	gene	807				
+NIDNPDGF_01651	CDS	807				hypothetical protein
+NIDNPDGF_01652	gene	867	rhaR_3			
+NIDNPDGF_01652	CDS	867	rhaR_3			HTH-type transcriptional activator RhaR
+NIDNPDGF_01653	gene	1488	lysS			
+NIDNPDGF_01653	CDS	1488	lysS	6.1.1.6		Lysine--tRNA ligase
+NIDNPDGF_01654	gene	1380				
+NIDNPDGF_01654	CDS	1380				hypothetical protein
+NIDNPDGF_01655	gene	636				
+NIDNPDGF_01655	CDS	636				hypothetical protein
+NIDNPDGF_01656	gene	645				
+NIDNPDGF_01656	CDS	645				hypothetical protein
+NIDNPDGF_01657	gene	75				
+NIDNPDGF_01657	tRNA	75				tRNA-Val(gac)
+NIDNPDGF_01658	gene	267	rpsP			
+NIDNPDGF_01658	CDS	267	rpsP		COG0228	30S ribosomal protein S16
+NIDNPDGF_01659	gene	243	nusA_2			
+NIDNPDGF_01659	CDS	243	nusA_2			Transcription termination/antitermination protein NusA
+NIDNPDGF_01660	gene	687	trmD			
+NIDNPDGF_01660	CDS	687	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+NIDNPDGF_01661	gene	1089	oprM			
+NIDNPDGF_01661	CDS	1089	oprM		COG1538	Outer membrane protein OprM
+NIDNPDGF_01662	gene	693				
+NIDNPDGF_01662	CDS	693				hypothetical protein
+NIDNPDGF_01663	gene	732				
+NIDNPDGF_01663	CDS	732		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+NIDNPDGF_01664	gene	888	rssB			
+NIDNPDGF_01664	CDS	888	rssB			Regulator of RpoS
+NIDNPDGF_01665	gene	336				
+NIDNPDGF_01665	CDS	336				hypothetical protein
+NIDNPDGF_01666	gene	216				
+NIDNPDGF_01666	CDS	216				hypothetical protein
+NIDNPDGF_01667	gene	738				
+NIDNPDGF_01667	CDS	738				hypothetical protein
+NIDNPDGF_01668	gene	876	cpdA_2			
+NIDNPDGF_01668	CDS	876	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+NIDNPDGF_01669	gene	309				
+NIDNPDGF_01669	CDS	309				hypothetical protein
+NIDNPDGF_01670	gene	1107				
+NIDNPDGF_01670	CDS	1107			COG0488	putative ABC transporter ATP-binding protein
+NIDNPDGF_01671	gene	846	lptB			
+NIDNPDGF_01671	CDS	846	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+NIDNPDGF_01672	gene	414				
+NIDNPDGF_01672	CDS	414				hypothetical protein
+NIDNPDGF_01673	gene	174				
+NIDNPDGF_01673	CDS	174				hypothetical protein
+NIDNPDGF_01674	gene	795				
+NIDNPDGF_01674	CDS	795				hypothetical protein
+NIDNPDGF_01675	gene	744	bioK			
+NIDNPDGF_01675	CDS	744	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+NIDNPDGF_01676	gene	1323				
+NIDNPDGF_01676	CDS	1323				hypothetical protein
+NIDNPDGF_01677	gene	831				
+NIDNPDGF_01677	CDS	831				hypothetical protein
+NIDNPDGF_01678	gene	657	resA_3			
+NIDNPDGF_01678	CDS	657	resA_3			Thiol-disulfide oxidoreductase ResA
+NIDNPDGF_01679	gene	74				
+NIDNPDGF_01679	tRNA	74				tRNA-Glu(ctc)
+NIDNPDGF_01680	gene	564				
+NIDNPDGF_01680	CDS	564				hypothetical protein
+NIDNPDGF_01681	gene	72				
+NIDNPDGF_01681	tRNA	72				tRNA-Gln(ttg)
+NIDNPDGF_01682	gene	2565	gyrB			
+NIDNPDGF_01682	CDS	2565	gyrB	5.6.2.2		DNA gyrase subunit B
+NIDNPDGF_01683	gene	333				
+NIDNPDGF_01683	CDS	333				hypothetical protein
+NIDNPDGF_01684	gene	726	cmk_2			
+NIDNPDGF_01684	CDS	726	cmk_2	2.7.4.25		Cytidylate kinase
+NIDNPDGF_01685	gene	117				
+NIDNPDGF_01685	CDS	117				hypothetical protein
+NIDNPDGF_01686	gene	234				
+NIDNPDGF_01686	CDS	234				hypothetical protein
+NIDNPDGF_01687	gene	222				
+NIDNPDGF_01687	CDS	222				hypothetical protein
+NIDNPDGF_01688	gene	363	folB			
+NIDNPDGF_01688	CDS	363	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+NIDNPDGF_01689	gene	1071	gph_2			
+NIDNPDGF_01689	CDS	1071	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+NIDNPDGF_01690	gene	465				
+NIDNPDGF_01690	CDS	465				hypothetical protein
+NIDNPDGF_01691	gene	531				
+NIDNPDGF_01691	CDS	531				hypothetical protein
+NIDNPDGF_01692	gene	855				
+NIDNPDGF_01692	CDS	855				hypothetical protein
+NIDNPDGF_01693	gene	576				
+NIDNPDGF_01693	CDS	576				hypothetical protein
+NIDNPDGF_01694	gene	855				
+NIDNPDGF_01694	CDS	855				hypothetical protein
+NIDNPDGF_01695	gene	798				
+NIDNPDGF_01695	CDS	798				hypothetical protein
+NIDNPDGF_01696	gene	387				
+NIDNPDGF_01696	CDS	387				hypothetical protein
+NIDNPDGF_01697	gene	681				
+NIDNPDGF_01697	CDS	681				hypothetical protein
+NIDNPDGF_01698	gene	291				
+NIDNPDGF_01698	CDS	291				hypothetical protein
+NIDNPDGF_01699	gene	786				
+NIDNPDGF_01699	CDS	786				hypothetical protein
+NIDNPDGF_01700	gene	471				
+NIDNPDGF_01700	CDS	471				hypothetical protein
+NIDNPDGF_01701	gene	801	sufS_2			
+NIDNPDGF_01701	CDS	801	sufS_2	2.8.1.7	COG0520	Cysteine desulfurase SufS
+NIDNPDGF_01702	gene	96				
+NIDNPDGF_01702	CDS	96				hypothetical protein
+NIDNPDGF_01703	gene	162				
+NIDNPDGF_01703	CDS	162				hypothetical protein
+NIDNPDGF_01704	gene	1323				
+NIDNPDGF_01704	CDS	1323				hypothetical protein
+NIDNPDGF_01705	gene	2331				
+NIDNPDGF_01705	CDS	2331				hypothetical protein
+NIDNPDGF_01706	gene	930				
+NIDNPDGF_01706	CDS	930				hypothetical protein
+NIDNPDGF_01707	gene	207				
+NIDNPDGF_01707	CDS	207				hypothetical protein
+NIDNPDGF_01708	gene	201				
+NIDNPDGF_01708	CDS	201				hypothetical protein
+NIDNPDGF_01709	gene	537	dcd			
+NIDNPDGF_01709	CDS	537	dcd	3.5.4.13		dCTP deaminase
+NIDNPDGF_01710	gene	2370	cadA			
+NIDNPDGF_01710	CDS	2370	cadA	3.6.3.3		Cadmium-transporting ATPase
+NIDNPDGF_01711	gene	201				
+NIDNPDGF_01711	CDS	201				hypothetical protein
+NIDNPDGF_01712	gene	1416	xylA			
+NIDNPDGF_01712	CDS	1416	xylA	5.3.1.5		Xylose isomerase
+NIDNPDGF_01713	gene	1479	xylB			
+NIDNPDGF_01713	CDS	1479	xylB	2.7.1.17	COG1070	Xylulose kinase
+NIDNPDGF_01714	gene	612	nudI			
+NIDNPDGF_01714	CDS	612	nudI	3.6.1.12		Nucleoside triphosphatase NudI
+NIDNPDGF_01715	gene	759	asbF			
+NIDNPDGF_01715	CDS	759	asbF	4.2.1.118		3-dehydroshikimate dehydratase
+NIDNPDGF_01716	gene	474	purH			
+NIDNPDGF_01716	CDS	474	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+NIDNPDGF_01717	gene	1236	smc_3			
+NIDNPDGF_01717	CDS	1236	smc_3			Chromosome partition protein Smc
+NIDNPDGF_01718	gene	1368	dnaK_2			
+NIDNPDGF_01718	CDS	1368	dnaK_2		COG0443	Chaperone protein DnaK
+NIDNPDGF_01719	gene	123				
+NIDNPDGF_01719	CDS	123				hypothetical protein
+NIDNPDGF_01720	gene	1863	bepA_6			
+NIDNPDGF_01720	CDS	1863	bepA_6	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIDNPDGF_01721	gene	1419				
+NIDNPDGF_01721	CDS	1419		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+NIDNPDGF_01722	gene	1530				
+NIDNPDGF_01722	CDS	1530				hypothetical protein
+NIDNPDGF_01723	gene	519	epsD			
+NIDNPDGF_01723	CDS	519	epsD			Secretin GspD
+NIDNPDGF_01724	gene	1035				
+NIDNPDGF_01724	CDS	1035				hypothetical protein
+NIDNPDGF_01725	gene	660	ppk			
+NIDNPDGF_01725	CDS	660	ppk	2.7.4.1		Polyphosphate kinase
+NIDNPDGF_01726	gene	666				
+NIDNPDGF_01726	CDS	666				hypothetical protein
+NIDNPDGF_01727	gene	888	fdhD			
+NIDNPDGF_01727	CDS	888	fdhD		COG1526	Sulfur carrier protein FdhD
+NIDNPDGF_01728	gene	558	efp			
+NIDNPDGF_01728	CDS	558	efp		COG0231	Elongation factor P
+NIDNPDGF_01729	gene	693	kdsD			
+NIDNPDGF_01729	CDS	693	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+NIDNPDGF_01730	gene	459				
+NIDNPDGF_01730	CDS	459				hypothetical protein
+NIDNPDGF_01731	gene	864	gltX1			
+NIDNPDGF_01731	CDS	864	gltX1	6.1.1.17		Glutamate--tRNA ligase 1
+NIDNPDGF_01732	gene	318				
+NIDNPDGF_01732	CDS	318				hypothetical protein
+NIDNPDGF_01733	gene	162				
+NIDNPDGF_01733	CDS	162				hypothetical protein
+NIDNPDGF_01734	gene	117				
+NIDNPDGF_01734	CDS	117				hypothetical protein
+NIDNPDGF_01735	gene	141				
+NIDNPDGF_01735	CDS	141				hypothetical protein
+NIDNPDGF_01736	gene	255				
+NIDNPDGF_01736	CDS	255				hypothetical protein
+NIDNPDGF_01737	gene	1659	nadB_2			
+NIDNPDGF_01737	CDS	1659	nadB_2	1.4.3.16	COG0029	L-aspartate oxidase
+NIDNPDGF_01738	gene	339	cutD_2			
+NIDNPDGF_01738	CDS	339	cutD_2	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+NIDNPDGF_01739	gene	564	rsmD			
+NIDNPDGF_01739	CDS	564	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+NIDNPDGF_01740	gene	159				
+NIDNPDGF_01740	CDS	159				hypothetical protein
+NIDNPDGF_01741	gene	843	sigA_1			
+NIDNPDGF_01741	CDS	843	sigA_1		COG0568	RNA polymerase sigma factor SigA
+NIDNPDGF_01742	gene	717				
+NIDNPDGF_01742	CDS	717				hypothetical protein
+NIDNPDGF_01743	gene	1575	sglT			
+NIDNPDGF_01743	CDS	1575	sglT			Sodium/glucose cotransporter
+NIDNPDGF_01744	gene	237				
+NIDNPDGF_01744	CDS	237				hypothetical protein
+NIDNPDGF_01745	gene	561				
+NIDNPDGF_01745	CDS	561				hypothetical protein
+NIDNPDGF_01746	gene	675	ypmQ			
+NIDNPDGF_01746	CDS	675	ypmQ		COG1999	SCO1 protein 
+NIDNPDGF_01747	gene	813				
+NIDNPDGF_01747	CDS	813				hypothetical protein
+NIDNPDGF_01748	gene	1041				
+NIDNPDGF_01748	CDS	1041				hypothetical protein
+NIDNPDGF_01749	gene	951	fcl_2			
+NIDNPDGF_01749	CDS	951	fcl_2	1.1.1.271		GDP-L-fucose synthase
+NIDNPDGF_01750	gene	1365	sigA_2			
+NIDNPDGF_01750	CDS	1365	sigA_2		COG0568	RNA polymerase sigma factor SigA
+NIDNPDGF_01751	gene	966				
+NIDNPDGF_01751	CDS	966				hypothetical protein
+NIDNPDGF_01752	gene	1461				
+NIDNPDGF_01752	CDS	1461				hypothetical protein
+NIDNPDGF_01753	gene	255				
+NIDNPDGF_01753	CDS	255				hypothetical protein
+NIDNPDGF_01754	gene	1008	wbgU			
+NIDNPDGF_01754	CDS	1008	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+NIDNPDGF_01755	gene	807				
+NIDNPDGF_01755	CDS	807				hypothetical protein
+NIDNPDGF_01756	gene	906	ispG			
+NIDNPDGF_01756	CDS	906	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+NIDNPDGF_01757	gene	1356	trmFO			
+NIDNPDGF_01757	CDS	1356	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+NIDNPDGF_01758	gene	330				
+NIDNPDGF_01758	CDS	330				hypothetical protein
+NIDNPDGF_01759	gene	927	cbpA_2			
+NIDNPDGF_01759	CDS	927	cbpA_2		COG2214	Curved DNA-binding protein
+NIDNPDGF_01760	gene	429				
+NIDNPDGF_01760	CDS	429				hypothetical protein
+NIDNPDGF_01761	gene	1527				
+NIDNPDGF_01761	CDS	1527				hypothetical protein
+NIDNPDGF_01762	gene	924				
+NIDNPDGF_01762	CDS	924				hypothetical protein
+NIDNPDGF_01763	gene	1059	tdh_2			
+NIDNPDGF_01763	CDS	1059	tdh_2	1.1.1.103		L-threonine 3-dehydrogenase
+NIDNPDGF_01764	gene	831	rhaR_4			
+NIDNPDGF_01764	CDS	831	rhaR_4			HTH-type transcriptional activator RhaR
+NIDNPDGF_01765	gene	912				
+NIDNPDGF_01765	CDS	912		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+NIDNPDGF_01766	gene	1062	aguA			
+NIDNPDGF_01766	CDS	1062	aguA	3.5.3.12	COG2957	Agmatine deiminase
+NIDNPDGF_01767	gene	675				
+NIDNPDGF_01767	CDS	675				hypothetical protein
+NIDNPDGF_01768	gene	480				
+NIDNPDGF_01768	CDS	480				hypothetical protein
+NIDNPDGF_01769	gene	315				
+NIDNPDGF_01769	CDS	315				hypothetical protein
+NIDNPDGF_01770	gene	576	murF			
+NIDNPDGF_01770	CDS	576	murF	6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NIDNPDGF_01771	gene	510				
+NIDNPDGF_01771	CDS	510				hypothetical protein
+NIDNPDGF_01772	gene	609				
+NIDNPDGF_01772	CDS	609				hypothetical protein
+NIDNPDGF_01773	gene	525	ygaP			
+NIDNPDGF_01773	CDS	525	ygaP		COG0607	Inner membrane protein YgaP
+NIDNPDGF_01774	gene	846				
+NIDNPDGF_01774	CDS	846				hypothetical protein
+NIDNPDGF_01775	gene	552				
+NIDNPDGF_01775	CDS	552				hypothetical protein
+NIDNPDGF_01776	gene	558				
+NIDNPDGF_01776	CDS	558				hypothetical protein
+NIDNPDGF_01777	gene	339				
+NIDNPDGF_01777	CDS	339				hypothetical protein
+NIDNPDGF_01778	gene	309				
+NIDNPDGF_01778	CDS	309				hypothetical protein
+NIDNPDGF_01779	gene	234				
+NIDNPDGF_01779	CDS	234				hypothetical protein
+NIDNPDGF_01780	gene	417				
+NIDNPDGF_01780	CDS	417				hypothetical protein
+NIDNPDGF_01781	gene	342				
+NIDNPDGF_01781	CDS	342				hypothetical protein
+NIDNPDGF_01782	gene	312				
+NIDNPDGF_01782	CDS	312				hypothetical protein
+NIDNPDGF_01783	gene	342				
+NIDNPDGF_01783	CDS	342				hypothetical protein
+NIDNPDGF_01784	gene	282				
+NIDNPDGF_01784	CDS	282				hypothetical protein
+NIDNPDGF_01785	gene	1281				
+NIDNPDGF_01785	CDS	1281				hypothetical protein
+NIDNPDGF_01786	gene	564	cusB			
+NIDNPDGF_01786	CDS	564	cusB			Cation efflux system protein CusB
+NIDNPDGF_01787	gene	2064				
+NIDNPDGF_01787	CDS	2064				hypothetical protein
+NIDNPDGF_01788	gene	702	mcsB			
+NIDNPDGF_01788	CDS	702	mcsB	2.7.14.1	COG3869	Protein-arginine kinase
+NIDNPDGF_01789	gene	1221	atpA			
+NIDNPDGF_01789	CDS	1221	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+NIDNPDGF_01790	gene	897	atpG_3			
+NIDNPDGF_01790	CDS	897	atpG_3		COG0224	ATP synthase gamma chain
+NIDNPDGF_01791	gene	1425	atpD			
+NIDNPDGF_01791	CDS	1425	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+NIDNPDGF_01792	gene	438	atpC			
+NIDNPDGF_01792	CDS	438	atpC		COG0355	ATP synthase epsilon chain
+NIDNPDGF_01793	gene	1845	rcsC_11			
+NIDNPDGF_01793	CDS	1845	rcsC_11	2.7.13.3		Sensor histidine kinase RcsC
+NIDNPDGF_01794	gene	1293				
+NIDNPDGF_01794	CDS	1293				hypothetical protein
+NIDNPDGF_01795	gene	1146	rlmD			
+NIDNPDGF_01795	CDS	1146	rlmD	2.1.1.190		23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+NIDNPDGF_01796	gene	729	carA			
+NIDNPDGF_01796	CDS	729	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+NIDNPDGF_01797	gene	450				
+NIDNPDGF_01797	CDS	450		2.3.1.-		L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+NIDNPDGF_01798	gene	978				
+NIDNPDGF_01798	CDS	978		2.5.-.-		Deoxyhypusine synthase-like protein
+NIDNPDGF_01799	gene	819	eutC			
+NIDNPDGF_01799	CDS	819	eutC	4.3.1.7	COG4302	Ethanolamine ammonia-lyase light chain
+NIDNPDGF_01800	gene	189				
+NIDNPDGF_01800	CDS	189				hypothetical protein
+NIDNPDGF_01801	gene	120				
+NIDNPDGF_01801	CDS	120				hypothetical protein
+NIDNPDGF_01802	gene	351				
+NIDNPDGF_01802	CDS	351				hypothetical protein
+NIDNPDGF_01803	gene	813	anfK			
+NIDNPDGF_01803	CDS	813	anfK	1.18.6.1	COG2710	Nitrogenase iron-iron protein beta chain
+NIDNPDGF_01804	gene	468				
+NIDNPDGF_01804	CDS	468				hypothetical protein
+NIDNPDGF_01805	gene	582				
+NIDNPDGF_01805	CDS	582				hypothetical protein
+NIDNPDGF_01806	gene	390				
+NIDNPDGF_01806	CDS	390				hypothetical protein
+NIDNPDGF_01807	gene	774				
+NIDNPDGF_01807	CDS	774				hypothetical protein
+NIDNPDGF_01808	gene	1098	pfkA2			
+NIDNPDGF_01808	CDS	1098	pfkA2	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 2
+NIDNPDGF_01809	gene	1050				
+NIDNPDGF_01809	CDS	1050				hypothetical protein
+NIDNPDGF_01810	gene	474				
+NIDNPDGF_01810	CDS	474				hypothetical protein
+NIDNPDGF_01811	gene	423				
+NIDNPDGF_01811	CDS	423				hypothetical protein
+NIDNPDGF_01812	gene	2298				
+NIDNPDGF_01812	CDS	2298				hypothetical protein
+NIDNPDGF_01813	gene	1086	moaA_2			
+NIDNPDGF_01813	CDS	1086	moaA_2			GTP 3',8-cyclase
+NIDNPDGF_01814	gene	426				
+NIDNPDGF_01814	CDS	426				hypothetical protein
+NIDNPDGF_01815	gene	309				
+NIDNPDGF_01815	CDS	309				hypothetical protein
+NIDNPDGF_01816	gene	426	sufE			
+NIDNPDGF_01816	CDS	426	sufE		COG2166	Cysteine desulfuration protein SufE
+NIDNPDGF_01817	gene	285				
+NIDNPDGF_01817	CDS	285				hypothetical protein
+NIDNPDGF_01818	gene	519				
+NIDNPDGF_01818	CDS	519				hypothetical protein
+NIDNPDGF_01819	gene	933	cysT			
+NIDNPDGF_01819	CDS	933	cysT		COG0555	Sulfate transport system permease protein CysT
+NIDNPDGF_01820	gene	921	cysW			
+NIDNPDGF_01820	CDS	921	cysW		COG4208	Sulfate transport system permease protein CysW
+NIDNPDGF_01821	gene	756	cysA			
+NIDNPDGF_01821	CDS	756	cysA	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+NIDNPDGF_01822	gene	735				
+NIDNPDGF_01822	CDS	735				hypothetical protein
+NIDNPDGF_01823	gene	234				
+NIDNPDGF_01823	CDS	234				hypothetical protein
+NIDNPDGF_01824	gene	3543	nifJ			
+NIDNPDGF_01824	CDS	3543	nifJ	1.2.7.-	COG0674	Pyruvate-flavodoxin oxidoreductase
+NIDNPDGF_01825	gene	1110				
+NIDNPDGF_01825	CDS	1110				hypothetical protein
+NIDNPDGF_01826	gene	594				
+NIDNPDGF_01826	CDS	594				hypothetical protein
+NIDNPDGF_01827	gene	1074				
+NIDNPDGF_01827	CDS	1074				hypothetical protein
+NIDNPDGF_01828	gene	147	sufT			
+NIDNPDGF_01828	CDS	147	sufT			Fe-S protein maturation auxiliary factor SufT
+NIDNPDGF_01829	gene	990	btuD_3			
+NIDNPDGF_01829	CDS	990	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NIDNPDGF_01830	gene	519	mshD			
+NIDNPDGF_01830	CDS	519	mshD	2.3.1.189		Mycothiol acetyltransferase
+NIDNPDGF_01831	gene	309				
+NIDNPDGF_01831	CDS	309				hypothetical protein
+NIDNPDGF_01832	gene	378				
+NIDNPDGF_01832	CDS	378				hypothetical protein
+NIDNPDGF_01833	gene	1182	arnB_1			
+NIDNPDGF_01833	CDS	1182	arnB_1	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+NIDNPDGF_01834	gene	1212	arnB_2			
+NIDNPDGF_01834	CDS	1212	arnB_2	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+NIDNPDGF_01835	gene	534				
+NIDNPDGF_01835	CDS	534				hypothetical protein
+NIDNPDGF_01836	gene	681				
+NIDNPDGF_01836	CDS	681				hypothetical protein
+NIDNPDGF_01837	gene	1212				
+NIDNPDGF_01837	CDS	1212				hypothetical protein
+NIDNPDGF_01838	gene	768	tam			
+NIDNPDGF_01838	CDS	768	tam	2.1.1.144	COG4106	Trans-aconitate 2-methyltransferase
+NIDNPDGF_01839	gene	1218	sucB_2			
+NIDNPDGF_01839	CDS	1218	sucB_2	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+NIDNPDGF_01840	gene	369				
+NIDNPDGF_01840	CDS	369				hypothetical protein
+NIDNPDGF_01841	gene	519				
+NIDNPDGF_01841	CDS	519				hypothetical protein
+NIDNPDGF_01842	gene	429	sfrB			
+NIDNPDGF_01842	CDS	429	sfrB	1.-.-.-	COG0493	NADPH-Fe(3+) oxidoreductase subunit beta
+NIDNPDGF_01843	gene	1230				
+NIDNPDGF_01843	CDS	1230				hypothetical protein
+NIDNPDGF_01844	gene	213				
+NIDNPDGF_01844	CDS	213				hypothetical protein
+NIDNPDGF_01845	gene	501				
+NIDNPDGF_01845	CDS	501				hypothetical protein
+NIDNPDGF_01846	gene	1407				
+NIDNPDGF_01846	CDS	1407				hypothetical protein
+NIDNPDGF_01847	gene	651	fcl_3			
+NIDNPDGF_01847	CDS	651	fcl_3	1.1.1.271	COG0451	GDP-L-fucose synthase
+NIDNPDGF_01848	gene	372	rbfA			
+NIDNPDGF_01848	CDS	372	rbfA			Ribosome-binding factor A
+NIDNPDGF_01849	gene	2148	purL			
+NIDNPDGF_01849	CDS	2148	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+NIDNPDGF_01850	gene	624				
+NIDNPDGF_01850	CDS	624				hypothetical protein
+NIDNPDGF_01851	gene	486				
+NIDNPDGF_01851	CDS	486				hypothetical protein
+NIDNPDGF_01852	gene	975				
+NIDNPDGF_01852	CDS	975				hypothetical protein
+NIDNPDGF_01853	gene	399				
+NIDNPDGF_01853	CDS	399				hypothetical protein
+NIDNPDGF_01854	gene	312				
+NIDNPDGF_01854	CDS	312				hypothetical protein
+NIDNPDGF_01855	gene	1545	cysG			
+NIDNPDGF_01855	CDS	1545	cysG	4.99.1.4		Siroheme synthase
+NIDNPDGF_01856	gene	369				
+NIDNPDGF_01856	CDS	369				hypothetical protein
+NIDNPDGF_01857	gene	957	polA			
+NIDNPDGF_01857	CDS	957	polA	2.7.7.7	COG0258	DNA polymerase I, thermostable
+NIDNPDGF_01858	gene	795	yfcA_2			
+NIDNPDGF_01858	CDS	795	yfcA_2		COG0730	putative membrane transporter protein YfcA
+NIDNPDGF_01859	gene	873				
+NIDNPDGF_01859	CDS	873				hypothetical protein
+NIDNPDGF_01860	gene	1251				
+NIDNPDGF_01860	CDS	1251				hypothetical protein
+NIDNPDGF_01861	gene	897	nadC			
+NIDNPDGF_01861	CDS	897	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+NIDNPDGF_01862	gene	741	pyrH			
+NIDNPDGF_01862	CDS	741	pyrH	2.7.4.22		Uridylate kinase
+NIDNPDGF_01863	gene	312				
+NIDNPDGF_01863	CDS	312			COG0776	DNA-binding protein HU
+NIDNPDGF_01864	gene	819	hisS			
+NIDNPDGF_01864	CDS	819	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+NIDNPDGF_01865	gene	186				
+NIDNPDGF_01865	CDS	186				hypothetical protein
+NIDNPDGF_01866	gene	1467				
+NIDNPDGF_01866	CDS	1467				hypothetical protein
+NIDNPDGF_01867	gene	519	murJ_2			
+NIDNPDGF_01867	CDS	519	murJ_2		COG0728	putative lipid II flippase MurJ
+NIDNPDGF_01868	gene	594				
+NIDNPDGF_01868	CDS	594				hypothetical protein
+NIDNPDGF_01869	gene	453				
+NIDNPDGF_01869	CDS	453				hypothetical protein
+NIDNPDGF_01870	gene	573	bciD			
+NIDNPDGF_01870	CDS	573	bciD	1.17.98.2		Bacteriochlorophyllide c C-7(1)-hydroxylase
+NIDNPDGF_01871	gene	669				
+NIDNPDGF_01871	CDS	669				hypothetical protein
+NIDNPDGF_01872	gene	1995				
+NIDNPDGF_01872	CDS	1995				hypothetical protein
+NIDNPDGF_01873	gene	195				
+NIDNPDGF_01873	CDS	195				hypothetical protein
+NIDNPDGF_01874	gene	495				
+NIDNPDGF_01874	CDS	495				hypothetical protein
+NIDNPDGF_01875	gene	600				
+NIDNPDGF_01875	CDS	600				hypothetical protein
+NIDNPDGF_01876	gene	1143				
+NIDNPDGF_01876	CDS	1143				hypothetical protein
+NIDNPDGF_01877	gene	972	glcK			
+NIDNPDGF_01877	CDS	972	glcK	2.7.1.2	COG1940	Glucokinase
+NIDNPDGF_01878	gene	618	gmhA_3			
+NIDNPDGF_01878	CDS	618	gmhA_3	5.3.1.28	COG0279	Phosphoheptose isomerase
+NIDNPDGF_01879	gene	891				
+NIDNPDGF_01879	CDS	891				hypothetical protein
+NIDNPDGF_01880	gene	813				
+NIDNPDGF_01880	CDS	813				hypothetical protein
+NIDNPDGF_01881	gene	711	cugP			
+NIDNPDGF_01881	CDS	711	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+NIDNPDGF_01882	gene	990				
+NIDNPDGF_01882	CDS	990		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+NIDNPDGF_01883	gene	306				
+NIDNPDGF_01883	CDS	306				hypothetical protein
+NIDNPDGF_01884	gene	594				
+NIDNPDGF_01884	CDS	594				hypothetical protein
+NIDNPDGF_01885	gene	519				
+NIDNPDGF_01885	CDS	519				hypothetical protein
+NIDNPDGF_01886	gene	867				
+NIDNPDGF_01886	CDS	867				hypothetical protein
+NIDNPDGF_01887	gene	858	xerC_7			
+NIDNPDGF_01887	CDS	858	xerC_7			Tyrosine recombinase XerC
+NIDNPDGF_01888	gene	270	asd			
+NIDNPDGF_01888	CDS	270	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+NIDNPDGF_01889	gene	1656				
+NIDNPDGF_01889	CDS	1656				hypothetical protein
+NIDNPDGF_01890	gene	273				
+NIDNPDGF_01890	CDS	273				hypothetical protein
+NIDNPDGF_01891	gene	534				
+NIDNPDGF_01891	CDS	534				hypothetical protein
+NIDNPDGF_01892	gene	1608	maeA			
+NIDNPDGF_01892	CDS	1608	maeA	1.1.1.38	COG0281	NAD-dependent malic enzyme
+NIDNPDGF_01893	gene	672				
+NIDNPDGF_01893	CDS	672				hypothetical protein
+NIDNPDGF_01894	gene	1893	bepA_7			
+NIDNPDGF_01894	CDS	1893	bepA_7	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIDNPDGF_01895	gene	594				
+NIDNPDGF_01895	CDS	594				hypothetical protein
+NIDNPDGF_01896	gene	165				
+NIDNPDGF_01896	CDS	165				hypothetical protein
+NIDNPDGF_01897	gene	189				
+NIDNPDGF_01897	CDS	189				hypothetical protein
+NIDNPDGF_01898	gene	1626				
+NIDNPDGF_01898	CDS	1626				hypothetical protein
+NIDNPDGF_01899	gene	1191				
+NIDNPDGF_01899	CDS	1191				hypothetical protein
+NIDNPDGF_01900	gene	564				
+NIDNPDGF_01900	CDS	564				hypothetical protein
+NIDNPDGF_01901	gene	1866				
+NIDNPDGF_01901	CDS	1866				hypothetical protein
+NIDNPDGF_01902	gene	1473				
+NIDNPDGF_01902	CDS	1473				hypothetical protein
+NIDNPDGF_01903	gene	906				
+NIDNPDGF_01903	CDS	906				hypothetical protein
+NIDNPDGF_01904	gene	942				
+NIDNPDGF_01904	CDS	942				hypothetical protein
+NIDNPDGF_01905	gene	474				
+NIDNPDGF_01905	CDS	474				hypothetical protein
+NIDNPDGF_01906	gene	297				
+NIDNPDGF_01906	CDS	297				hypothetical protein
+NIDNPDGF_01907	gene	186				
+NIDNPDGF_01907	CDS	186				hypothetical protein
+NIDNPDGF_01908	gene	957	rlmL			
+NIDNPDGF_01908	CDS	957	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+NIDNPDGF_01909	gene	504	oppF			
+NIDNPDGF_01909	CDS	504	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+NIDNPDGF_01910	gene	696				
+NIDNPDGF_01910	CDS	696				hypothetical protein
+NIDNPDGF_01911	gene	534	cheW			
+NIDNPDGF_01911	CDS	534	cheW		COG0835	Chemotaxis protein CheW
+NIDNPDGF_01912	gene	876	uppP			
+NIDNPDGF_01912	CDS	876	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+NIDNPDGF_01913	gene	876	dksA			
+NIDNPDGF_01913	CDS	876	dksA			RNA polymerase-binding transcription factor DksA
+NIDNPDGF_01914	gene	246				
+NIDNPDGF_01914	CDS	246				hypothetical protein
+NIDNPDGF_01915	gene	264	rpmB			
+NIDNPDGF_01915	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+NIDNPDGF_01916	gene	201				
+NIDNPDGF_01916	CDS	201				hypothetical protein
+NIDNPDGF_01917	gene	537				
+NIDNPDGF_01917	CDS	537				hypothetical protein
+NIDNPDGF_01918	gene	1287	rsmI			
+NIDNPDGF_01918	CDS	1287	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+NIDNPDGF_01919	gene	753	dapX			
+NIDNPDGF_01919	CDS	753	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+NIDNPDGF_01920	gene	507				
+NIDNPDGF_01920	CDS	507				hypothetical protein
+NIDNPDGF_01921	gene	1269				
+NIDNPDGF_01921	CDS	1269		3.5.4.40	COG0402	Aminodeoxyfutalosine deaminase
+NIDNPDGF_01922	gene	663	fabG_2			
+NIDNPDGF_01922	CDS	663	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NIDNPDGF_01923	gene	1110	mshA_6			
+NIDNPDGF_01923	CDS	1110	mshA_6	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIDNPDGF_01924	gene	240				
+NIDNPDGF_01924	CDS	240				hypothetical protein
+NIDNPDGF_01925	gene	1164	rfbD			
+NIDNPDGF_01925	CDS	1164	rfbD	5.4.99.9		UDP-galactopyranose mutase
+NIDNPDGF_01926	gene	1068				
+NIDNPDGF_01926	CDS	1068				hypothetical protein
+NIDNPDGF_01927	gene	168				
+NIDNPDGF_01927	CDS	168				hypothetical protein
+NIDNPDGF_01928	gene	714	lolD_3			
+NIDNPDGF_01928	CDS	714	lolD_3	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+NIDNPDGF_01929	gene	963				
+NIDNPDGF_01929	CDS	963				hypothetical protein
+NIDNPDGF_01930	gene	1083				
+NIDNPDGF_01930	CDS	1083				hypothetical protein
+NIDNPDGF_01931	gene	1386	clpB			
+NIDNPDGF_01931	CDS	1386	clpB		COG0542	Chaperone protein ClpB
+NIDNPDGF_01932	gene	363				
+NIDNPDGF_01932	CDS	363				hypothetical protein
+NIDNPDGF_01933	gene	72				
+NIDNPDGF_01933	tRNA	72				tRNA-Val(tac)
+NIDNPDGF_01934	gene	738				
+NIDNPDGF_01934	CDS	738				hypothetical protein
+NIDNPDGF_01935	gene	1668				
+NIDNPDGF_01935	CDS	1668				hypothetical protein
+NIDNPDGF_01936	gene	153	ndvA			
+NIDNPDGF_01936	CDS	153	ndvA	7.5.2.3	COG1132	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+NIDNPDGF_01937	gene	633	alkA			
+NIDNPDGF_01937	CDS	633	alkA		COG0122	putative bifunctional transcriptional activator/DNA repair enzyme AlkA
+NIDNPDGF_01938	gene	1149	garK			
+NIDNPDGF_01938	CDS	1149	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+NIDNPDGF_01939	gene	477	xdhA			
+NIDNPDGF_01939	CDS	477	xdhA	1.17.1.4	COG1529	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+NIDNPDGF_01940	gene	975	paoB			
+NIDNPDGF_01940	CDS	975	paoB	1.2.99.6	COG1319	Aldehyde oxidoreductase FAD-binding subunit PaoB
+NIDNPDGF_01941	gene	1473	ptsI			
+NIDNPDGF_01941	CDS	1473	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+NIDNPDGF_01942	gene	1389				
+NIDNPDGF_01942	CDS	1389				hypothetical protein
+NIDNPDGF_01943	gene	1269				
+NIDNPDGF_01943	CDS	1269				hypothetical protein
+NIDNPDGF_01944	gene	465				
+NIDNPDGF_01944	CDS	465				hypothetical protein
+NIDNPDGF_01945	gene	210				
+NIDNPDGF_01945	CDS	210				hypothetical protein
+NIDNPDGF_01946	gene	1062				
+NIDNPDGF_01946	CDS	1062				hypothetical protein
+NIDNPDGF_01947	gene	1362				
+NIDNPDGF_01947	CDS	1362				hypothetical protein
+NIDNPDGF_01948	gene	327				
+NIDNPDGF_01948	CDS	327				hypothetical protein
+NIDNPDGF_01949	gene	162				
+NIDNPDGF_01949	CDS	162				hypothetical protein
+NIDNPDGF_01950	gene	585	emrB			
+NIDNPDGF_01950	CDS	585	emrB			Colistin resistance protein EmrB
+NIDNPDGF_01951	gene	558	pal			
+NIDNPDGF_01951	CDS	558	pal			Peptidoglycan-associated lipoprotein
+NIDNPDGF_01952	gene	789	tolB			
+NIDNPDGF_01952	CDS	789	tolB		COG0823	Tol-Pal system protein TolB
+NIDNPDGF_01953	gene	1224				
+NIDNPDGF_01953	CDS	1224				hypothetical protein
+NIDNPDGF_01954	gene	777				
+NIDNPDGF_01954	CDS	777				hypothetical protein
+NIDNPDGF_01955	gene	660	mltC			
+NIDNPDGF_01955	CDS	660	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+NIDNPDGF_01956	gene	1554	priA			
+NIDNPDGF_01956	CDS	1554	priA	3.6.4.-	COG1198	Primosomal protein N'

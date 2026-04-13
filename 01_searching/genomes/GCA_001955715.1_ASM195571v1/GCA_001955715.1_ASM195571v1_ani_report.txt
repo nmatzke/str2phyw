@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_001955715.1
+Submitted organism: Rhodoferax saidenbachensis (taxid = 1484693, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Betaproteobacteria; Burkholderiales; Comamonadaceae; Rhodoferax)
+Best match: Rhodoferax saidenbachensis (taxid = 1484693, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Betaproteobacteria; Burkholderiales; Comamonadaceae; Rhodoferax)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 99.995 ( 99.5  99.8)  4241643  4241643    860668     Rhodoferax saidenbachensis ED16 (GCA_000498435.1, ED16)
+ 82.356 ( 21.3  24.8)      682      682  10729568     Rhodoferax bucti (GCA_005876985.1, ASM587698v1)
+ 82.208 ( 17.7  15.4)     1881     1881   7123898     Rhodoferax lacus (GCA_003415675.1, ASM341567v1)
+ 82.157 ( 15.9  16.9)        0        0  48251718     Rhodoferax potami (GCA_032193765.1, ASM3219376v1)
+ 82.074 ( 18.0  19.8)      150      150  48249688     Rhodoferax mekongensis (GCA_032191775.1, ASM3219177v1)
+ 82.008 ( 11.4  11.3)      105      105  24668878     Candidatus Aalborgicola lynettensis (GCA_016719405.1, ASM1671940v1)
+ 81.621 ( 10.3  11.7)        0        0   3052828     Curvibacter delicatus NBRC 14919 (GCA_001592265.1, ASM159226v1)
+ 81.693 ( 12.4  12.7)        0        0  24655028     Candidatus Aalborgicola defluviihabitans (GCA_016705575.1, ASM1670557v1)
+ 82.272 ( 14.2  10.0)      136      136  24653368     Candidatus Aalborgicola danicus (GCA_016703945.1, ASM1670394v1)
+ 81.843 ( 10.2   6.8)        0        0  34136248     Acidovorax facilis (GCA_023913775.1, ASM2391377v1)
+ 81.749 ( 10.4   8.1)        0        0  40851628     Acidovorax benzenivorans (GCA_028680575.1, ASM2868057v1)
+ 81.820 ( 10.3   6.8)        0        0  62866148     Acidovorax facilis (GCA_042649945.1, ASM4264994v1)
+ 81.503 ( 10.6   9.0)     2453     2453  13191278     Acidovorax delafieldii (GCA_007993815.1, ASM799381v1)
+ 81.681 ( 10.5   8.7)        0        0   4912378     Acidovorax kalamii (GCA_002245625.1, ASM224562v1)
+ 81.569 (  9.4  11.1)        0        0  81002508     Curvibacter fontanus (GCA_054780335.1, ASM5478033v1)
+ 81.412 ( 11.5  10.0)        0        0  32572918  E  Variovorax terrae (GCA_022809125.1, ASM2280912v1)
+ 81.250 (  9.6  11.0)      104      104   7511858     Simplicispira lacusdiani (GCA_003604195.1, ASM360419v1)
+ 81.989 (  9.6   7.4)        0        0    309808     Acidovorax radicis N35 (GCA_000204195.2, ASM20419v1)
+ 81.763 (  9.5   6.0)        0        0    891658     Curvibacter gracilis ATCC BAA-807 (GCA_000518645.1, ASM51864v1)
+ 81.711 (  9.0   6.5)        0        0   3989288     Rhodoferax koreensis (GCA_001955695.1, ASM195569v1)
+ 81.861 (  8.3   7.6)        0        0  11779698     Acidovorax temperans (GCA_006716905.1, ASM671690v1)
+ 81.768 (  7.2   6.2)        0        0  24667648     Candidatus Rhodoferax randersensis (GCA_016718155.1, ASM1671815v1)
+ 81.808 (  8.8   7.7)        0        0  40817258  E  Curvibacter microcysteis (GCA_028649435.1, ASM2864943v1)
+ 81.805 (  9.2   8.1)        0        0  40817298  E  Curvibacter cyanobacteriorum (GCA_028649475.1, ASM2864947v1)
+ 81.660 (  8.7   9.0)        0        0   3643778     Acidovorax soli (GCA_900107605.1, IMG-taxon 2675903230 annotated assembly)
+ 81.556 (  9.6   9.9)        0        0   4525198     Acidovorax carolinensis (GCA_002157145.1, ASM215714v1)
+ 81.558 (  8.9   8.7)        0        0  24656528     Candidatus Egaibacter danicus (GCA_016707075.1, ASM1670707v1)
+ 81.505 (  7.6   9.1)        0        0  32521248     Simplicispira sedimenti (GCA_022760965.1, ASM2276096v1)
+ 81.430 (  9.1   8.0)      114      114   2893558     Hydrogenophaga palleronii NBRC 102513 (GCA_001571225.1, ASM157122v1)
+ 81.442 (  8.7   7.2)        0        0   3140918     Polaromonas jejuensis NBRC 106434 (GCA_001598235.1, ASM159823v1)
+ 81.456 (  6.0   8.3)        0        0   5774318     Macromonas nakdongensis (GCA_002837145.1, ASM283714v1)
+ 81.439 (  8.7   7.2)        0        0  62873058     Polaromonas jejuensis (GCA_042656865.1, ASM4265686v1)
+ 81.172 (  8.7   5.5)        0        0   3051288     Variovorax boronicumulans NBRC 103145 (GCA_001591345.1, ASM159134v1)
+ 81.052 (  8.9   7.3)        0        0   2893458     Hydrogenophaga flava NBRC 102514 (GCA_001571145.1, ASM157114v1)
+ 81.076 (  6.6   7.9)        0        0  58723238     Acidovorax lacteus (GCA_039540375.1, ASM3954037v1)
+ 80.853 (  7.0   7.9)        0        0     23108  E  [Acidovorax] ebreus TPSY (GCA_000022305.1, ASM2230v1)
+ 80.654 (  7.0   8.5)        0        0   1188128     Comamonas granuli NBRC 101663 (GCA_000739995.1, ASM73999v1)
+ 80.580 (  6.7   6.9)        0        0  22826308     Ramlibacter aquaticus (GCA_015159745.1, ASM1515974v1)
+ 80.501 (  5.1   5.6)        0        0  60370708  E  Alicycliphilus soli (GCA_040732315.1, ASM4073231v1)
+ 80.382 (  7.4   7.7)        0        0    286458     Ramlibacter tataouinensis TTB310 (GCA_000215705.1, ASM21570v1)

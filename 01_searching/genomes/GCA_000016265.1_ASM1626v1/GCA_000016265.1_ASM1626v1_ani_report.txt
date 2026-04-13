@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_000016265.1
+Submitted organism: Rhizobium rhizogenes K84 (taxid = 311403, rank = no rank, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium)
+Best match: Rhizobium rhizogenes (taxid = 359, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 98.886 ( 86.5  89.1)  6272004  6122914  12097198     Rhizobium rhizogenes (GCA_007002985.1, ASM700298v1)
+ 98.887 ( 86.4  89.2)    19147    17678   1086078     Rhizobium rhizogenes NBRC 13257 (GCA_000696095.1, ASM69609v1)
+ 85.934 ( 46.9  46.3)     4135     4135  43389618     Rhizobium mayense (GCA_030272705.1, ASM3027270v1)
+ 85.925 ( 48.9  44.4)     1946      621   7549748     Rhizobium jaguaris (GCA_003627755.1, ASM362775v1)
+ 85.872 ( 46.2  50.4)     2326     2326    777048     Rhizobium leucaenae USDA 9039 (GCA_000426285.1, ASM42628v1)
+ 85.890 ( 46.2  50.2)        0        0  22285548     Rhizobium leucaenae USDA 9039 (GCA_014727215.1, ASM1472721v1)
+ 85.385 ( 44.5  42.9)      445      445  43389628     Rhizobium calliandrae (GCA_030272695.1, ASM3027269v1)
+ 85.164 ( 49.9  45.8)    40273    36010   3377638     Rhizobium lusitanum (GCA_900094565.1, IMG-taxon 2615840626 annotated assembly)
+ 84.306 ( 41.0  43.9)     7040     6203   3377678     Rhizobium miluonense (GCA_900094545.1, IMG-taxon 2617270742 annotated assembly)
+ 84.110 ( 44.1  43.8)     5361     5361   3377718     Rhizobium multihospitium (GCA_900094585.1, IMG-taxon 2615840698 annotated assembly)
+ 84.228 ( 40.7  41.8)     4436        0    582458     Rhizobium freirei PRF 81 (GCA_000359745.1, Rhizobium sp.)
+ 83.987 ( 43.8  43.9)     1796     1796   3973718     Rhizobium hainanense (GCA_900094555.1, IMG-taxon 2615840609 annotated assembly)
+ 83.864 ( 42.0  45.7)    10765     4326    521738     Rhizobium tropici CIAT 899 (GCA_000330885.1, ASM33088v1)
+ 83.814 ( 43.4  46.8)     1774     1774  43313818     Rhizobium dioscoreae (GCA_030268365.1, ASM3026836v1)
+ 83.817 ( 43.4  46.9)        0        0  14640208     Rhizobium dioscoreae (GCA_009176305.1, ASM917630v1)
+ 82.922 ( 21.3  20.4)     1411      763   8654828     Rhizobium beringeri (GCA_004306515.1, ASM430651v1)
+ 82.736 ( 21.8  20.8)     6465     1072  51393588     Rhizobium indigoferae (GCA_034554815.1, ASM3455481v1)
+ 82.750 ( 21.1  19.9)        0        0  18739358   T Rhizobium ruizarguesonis (GCA_012349115.1, ASM1234911v1)
+ 82.716 ( 21.7  21.1)        0        0  19579258     Rhizobium indigoferae (GCA_013087605.1, ASM1308760v1)
+ 82.777 ( 17.6  28.1)        0        0  41223738     Rhizobium binxianense (GCA_028994275.1, ASM2899427v1)
+ 82.725 ( 21.7  20.9)        0        0  43072608     Rhizobium indigoferae (GCA_030160595.1, ASM3016059v1)
+ 82.666 ( 21.2  19.2)     3884     2677  50313638     Rhizobium leguminosarum (GCA_033842645.1, ASM3384264v1)
+ 82.620 ( 21.5  21.2)     1614        0   2030758     Rhizobium ecuadorense (GCA_001187535.1, ASM118753v1)
+ 82.589 ( 20.8  22.7)      162      162   8168048     Rhizobium phaseoli (GCA_003985125.1, ASM398512v1)
+ 82.674 ( 21.2  19.7)        0        0   4162688     Rhizobium leguminosarum bv. viciae USDA 2370 (GCA_002008365.1, ASM200836v1)
+ 82.599 ( 21.2  22.4)        0        0   5313518     Rhizobium chutanense (GCA_002531935.1, ASM253193v1)
+ 82.670 ( 21.1  19.6)        0        0   6388388     Rhizobium leguminosarum bv. viciae USDA 2370 (GCA_003058385.1, ASM305838v1)
+ 82.537 ( 20.1  20.5)        0        0   8168058     Rhizobium vallis (GCA_003985155.1, ASM398515v1)
+ 82.668 ( 21.1  19.6)        0        0  21606468     Rhizobium leguminosarum (GCA_014202125.1, ASM1420212v1)
+ 82.434 ( 22.9  23.4)      804      804   8168028     Rhizobium anhuiense (GCA_003985145.1, ASM398514v1)
+ 82.452 ( 16.0  22.4)      731        0  21600838     Rhizobium metallidurans (GCA_014196505.1, ASM1419650v1)
+ 82.492 ( 21.6  19.6)      402        0  37085108     Rhizobium acaciae (GCA_025941625.1, ASM2594162v1)
+ 82.399 ( 20.7  20.9)      176      176  21600578     Rhizobium fabae (GCA_014196235.1, ASM1419623v1)
+ 82.399 ( 20.9  20.8)        0        0   4162488     Rhizobium laguerreae (GCA_002008165.1, ASM200816v1)
+ 82.421 ( 20.3  22.1)        0        0   8073508     Rhizobium pisi (GCA_003938655.1, ASM393865v1)
+ 82.424 ( 20.6  22.6)        0        0   8168038     Rhizobium fabae (GCA_003985135.1, ASM398513v1)
+ 82.388 ( 20.9  20.8)        0        0  21596768     Rhizobium laguerreae (GCA_014192445.1, ASM1419244v1)
+ 82.437 ( 22.8  23.3)        0        0  22181308     Rhizobium anhuiense (GCA_014638185.1, ASM1463818v1)
+ 82.676 ( 21.1  20.4)        0        0  21510278     Rhizobium leguminosarum (GCA_014138565.1, ASM1413856v1)
+ 84.503 (  8.5  11.6)   119704        0   1677978     Rhizobium nepotum 39/7 (GCA_000949865.1, ASM94986v1)

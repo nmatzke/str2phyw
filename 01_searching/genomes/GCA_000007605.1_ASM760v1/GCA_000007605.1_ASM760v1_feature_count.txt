@@ -1,0 +1,6 @@
+# Feature	Class	Full Assembly	Assembly-unit accession	Assembly-unit name	Unique Ids	Placements
+CDS	with_protein	GCA_000007605.1	GCA_000007615.1	Primary Assembly	1005	1005
+gene	other	GCA_000007605.1	GCA_000007615.1	Primary Assembly	14	14
+gene	protein_coding	GCA_000007605.1	GCA_000007615.1	Primary Assembly	1005	1005
+gene	rRNA	GCA_000007605.1	GCA_000007615.1	Primary Assembly	3	3
+rRNA		GCA_000007605.1	GCA_000007615.1	Primary Assembly	na	3

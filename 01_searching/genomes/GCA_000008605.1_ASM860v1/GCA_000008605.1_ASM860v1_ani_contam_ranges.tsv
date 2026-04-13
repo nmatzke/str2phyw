@@ -1,0 +1,15 @@
+# ANI ranges report for assembly: GCA_000008605.1
+# Submitted organism: Treponema pallidum subsp. pallidum str. Nichols (taxid = 243276, rank = no rank, lineage = Bacteria; Pseudomonadati; Spirochaetota; Spirochaetia; Spirochaetales; Treponemataceae; Treponema)
+# Submitted Organism Has Type Assembly: Yes
+# Best match: Treponema pallidum (taxid = 160, rank = species, lineage = Bacteria; Pseudomonadati; Spirochaetota; Spirochaetia; Spirochaetales; Treponemataceae; Treponema)
+# Status: CONFIRMED
+# Confidence: HIGH
+# Recommended actions legend:
+#     - (dash) - No action, query nucleotide is not contaminated
+#     S        - query nucleotide range is contaminated from within the same genus and could be considered for trimming, but it is still a valid component of assembly after trimming
+#     T        - query nucleotide range is contaminated and needs to be trimmed, but it is still a valid component of assembly after trimming
+#recommended_action	input_sequence_identifier	input_sequence_type	sequence_start	sequence_stop	sequence_length	typestrain_sequence	typestrain_sequence_start	typestrain_sequence_stop	typestrain_assembly_accession	typestrain_organism	ANI_this_region	ANI_threshold	%_query_coverage
+-	AE000520.1	CIRCULAR	1	148499	1138011	CP004010.2	1	148509	GCA_000410535.2	Treponema pallidum	99.9834	96	13.049
+-	AE000520.1	CIRCULAR	148500	156487	1138011	CP004010.2	149714	157702	GCA_000410535.2	Treponema pallidum	99.9834	96	0.701926
+-	AE000520.1	CIRCULAR	156552	461285	1138011	CP004010.2	157703	462447	GCA_000410535.2	Treponema pallidum	99.98	96	26.7778
+-	AE000520.1	CIRCULAR	461287	1138011	1138011	CP004010.2	462868	1139633	GCA_000410535.2	Treponema pallidum	99.9771	96	59.4656

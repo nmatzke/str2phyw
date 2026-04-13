@@ -1,0 +1,160 @@
+# Assembly name:  ASM16713v1
+# Organism name:  Listeria monocytogenes serotype 1/2a str. F6854 (firmicutes)
+# Infraspecific name:  strain=1/2a F6854
+# Taxid:          267409
+# BioSample:      SAMN02415268
+# BioProject:     PRJNA10753
+# Submitter:      TIGR
+# Date:           2004-05-04
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    AADQ01
+# GenBank assembly accession: GCA_000167135.1
+# RefSeq assembly accession: GCF_000167135.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000167145.1	GCF_000167145.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+AADQ01000001.1	unplaced-scaffold	na	na	AADQ01000001.1	=	NZ_AADQ01000001.1	Primary Assembly	135621	na
+AADQ01000002.1	unplaced-scaffold	na	na	AADQ01000002.1	=	NZ_AADQ01000002.1	Primary Assembly	128499	na
+AADQ01000003.1	unplaced-scaffold	na	na	AADQ01000003.1	=	NZ_AADQ01000003.1	Primary Assembly	127435	na
+AADQ01000004.1	unplaced-scaffold	na	na	AADQ01000004.1	=	NZ_AADQ01000004.1	Primary Assembly	124573	na
+AADQ01000005.1	unplaced-scaffold	na	na	AADQ01000005.1	=	NZ_AADQ01000005.1	Primary Assembly	123258	na
+AADQ01000006.1	unplaced-scaffold	na	na	AADQ01000006.1	=	NZ_AADQ01000006.1	Primary Assembly	105986	na
+AADQ01000007.1	unplaced-scaffold	na	na	AADQ01000007.1	=	NZ_AADQ01000007.1	Primary Assembly	100866	na
+AADQ01000008.1	unplaced-scaffold	na	na	AADQ01000008.1	=	NZ_AADQ01000008.1	Primary Assembly	85661	na
+AADQ01000009.1	unplaced-scaffold	na	na	AADQ01000009.1	=	NZ_AADQ01000009.1	Primary Assembly	79863	na
+AADQ01000010.1	unplaced-scaffold	na	na	AADQ01000010.1	=	NZ_AADQ01000010.1	Primary Assembly	77899	na
+AADQ01000011.1	unplaced-scaffold	na	na	AADQ01000011.1	=	NZ_AADQ01000011.1	Primary Assembly	65893	na
+AADQ01000012.1	unplaced-scaffold	na	na	AADQ01000012.1	=	NZ_AADQ01000012.1	Primary Assembly	64204	na
+AADQ01000013.1	unplaced-scaffold	na	na	AADQ01000013.1	=	NZ_AADQ01000013.1	Primary Assembly	64105	na
+AADQ01000014.1	unplaced-scaffold	na	na	AADQ01000014.1	=	NZ_AADQ01000014.1	Primary Assembly	62669	na
+AADQ01000015.1	unplaced-scaffold	na	na	AADQ01000015.1	=	NZ_AADQ01000015.1	Primary Assembly	58871	na
+AADQ01000016.1	unplaced-scaffold	na	na	AADQ01000016.1	=	NZ_AADQ01000016.1	Primary Assembly	52818	na
+AADQ01000017.1	unplaced-scaffold	na	na	AADQ01000017.1	=	NZ_AADQ01000017.1	Primary Assembly	51589	na
+AADQ01000018.1	unplaced-scaffold	na	na	AADQ01000018.1	=	NZ_AADQ01000018.1	Primary Assembly	47778	na
+AADQ01000019.1	unplaced-scaffold	na	na	AADQ01000019.1	=	NZ_AADQ01000019.1	Primary Assembly	41319	na
+AADQ01000020.1	unplaced-scaffold	na	na	AADQ01000020.1	=	NZ_AADQ01000020.1	Primary Assembly	40732	na
+AADQ01000021.1	unplaced-scaffold	na	na	AADQ01000021.1	=	NZ_AADQ01000021.1	Primary Assembly	39654	na
+AADQ01000022.1	unplaced-scaffold	na	na	AADQ01000022.1	=	NZ_AADQ01000022.1	Primary Assembly	38130	na
+AADQ01000023.1	unplaced-scaffold	na	na	AADQ01000023.1	=	NZ_AADQ01000023.1	Primary Assembly	37729	na
+AADQ01000024.1	unplaced-scaffold	na	na	AADQ01000024.1	=	NZ_AADQ01000024.1	Primary Assembly	34755	na
+AADQ01000025.1	unplaced-scaffold	na	na	AADQ01000025.1	=	NZ_AADQ01000025.1	Primary Assembly	34647	na
+AADQ01000026.1	unplaced-scaffold	na	na	AADQ01000026.1	=	NZ_AADQ01000026.1	Primary Assembly	33253	na
+AADQ01000027.1	unplaced-scaffold	na	na	AADQ01000027.1	=	NZ_AADQ01000027.1	Primary Assembly	32980	na
+AADQ01000028.1	unplaced-scaffold	na	na	AADQ01000028.1	=	NZ_AADQ01000028.1	Primary Assembly	32908	na
+AADQ01000029.1	unplaced-scaffold	na	na	AADQ01000029.1	=	NZ_AADQ01000029.1	Primary Assembly	32336	na
+AADQ01000030.1	unplaced-scaffold	na	na	AADQ01000030.1	=	NZ_AADQ01000030.1	Primary Assembly	32254	na
+AADQ01000031.1	unplaced-scaffold	na	na	AADQ01000031.1	=	NZ_AADQ01000031.1	Primary Assembly	30861	na
+AADQ01000032.1	unplaced-scaffold	na	na	AADQ01000032.1	=	NZ_AADQ01000032.1	Primary Assembly	30732	na
+AADQ01000033.1	unplaced-scaffold	na	na	AADQ01000033.1	=	NZ_AADQ01000033.1	Primary Assembly	29990	na
+AADQ01000034.1	unplaced-scaffold	na	na	AADQ01000034.1	=	NZ_AADQ01000034.1	Primary Assembly	29873	na
+AADQ01000035.1	unplaced-scaffold	na	na	AADQ01000035.1	=	NZ_AADQ01000035.1	Primary Assembly	29704	na
+AADQ01000036.1	unplaced-scaffold	na	na	AADQ01000036.1	=	NZ_AADQ01000036.1	Primary Assembly	27526	na
+AADQ01000037.1	unplaced-scaffold	na	na	AADQ01000037.1	=	NZ_AADQ01000037.1	Primary Assembly	26244	na
+AADQ01000038.1	unplaced-scaffold	na	na	AADQ01000038.1	=	NZ_AADQ01000038.1	Primary Assembly	25823	na
+AADQ01000039.1	unplaced-scaffold	na	na	AADQ01000039.1	=	NZ_AADQ01000039.1	Primary Assembly	22934	na
+AADQ01000040.1	unplaced-scaffold	na	na	AADQ01000040.1	=	NZ_AADQ01000040.1	Primary Assembly	22809	na
+AADQ01000041.1	unplaced-scaffold	na	na	AADQ01000041.1	=	NZ_AADQ01000041.1	Primary Assembly	22678	na
+AADQ01000042.1	unplaced-scaffold	na	na	AADQ01000042.1	=	NZ_AADQ01000042.1	Primary Assembly	22097	na
+AADQ01000043.1	unplaced-scaffold	na	na	AADQ01000043.1	=	NZ_AADQ01000043.1	Primary Assembly	21193	na
+AADQ01000044.1	unplaced-scaffold	na	na	AADQ01000044.1	=	NZ_AADQ01000044.1	Primary Assembly	20795	na
+AADQ01000045.1	unplaced-scaffold	na	na	AADQ01000045.1	=	NZ_AADQ01000045.1	Primary Assembly	19399	na
+AADQ01000046.1	unplaced-scaffold	na	na	AADQ01000046.1	=	NZ_AADQ01000046.1	Primary Assembly	18258	na
+AADQ01000047.1	unplaced-scaffold	na	na	AADQ01000047.1	=	NZ_AADQ01000047.1	Primary Assembly	18256	na
+AADQ01000048.1	unplaced-scaffold	na	na	AADQ01000048.1	=	NZ_AADQ01000048.1	Primary Assembly	17931	na
+AADQ01000049.1	unplaced-scaffold	na	na	AADQ01000049.1	=	NZ_AADQ01000049.1	Primary Assembly	17333	na
+AADQ01000050.1	unplaced-scaffold	na	na	AADQ01000050.1	=	NZ_AADQ01000050.1	Primary Assembly	17310	na
+AADQ01000051.1	unplaced-scaffold	na	na	AADQ01000051.1	=	NZ_AADQ01000051.1	Primary Assembly	16764	na
+AADQ01000052.1	unplaced-scaffold	na	na	AADQ01000052.1	=	NZ_AADQ01000052.1	Primary Assembly	16454	na
+AADQ01000053.1	unplaced-scaffold	na	na	AADQ01000053.1	=	NZ_AADQ01000053.1	Primary Assembly	16424	na
+AADQ01000054.1	unplaced-scaffold	na	na	AADQ01000054.1	=	NZ_AADQ01000054.1	Primary Assembly	16218	na
+AADQ01000055.1	unplaced-scaffold	na	na	AADQ01000055.1	=	NZ_AADQ01000055.1	Primary Assembly	15926	na
+AADQ01000056.1	unplaced-scaffold	na	na	AADQ01000056.1	=	NZ_AADQ01000056.1	Primary Assembly	15889	na
+AADQ01000057.1	unplaced-scaffold	na	na	AADQ01000057.1	=	NZ_AADQ01000057.1	Primary Assembly	15683	na
+AADQ01000058.1	unplaced-scaffold	na	na	AADQ01000058.1	=	NZ_AADQ01000058.1	Primary Assembly	15154	na
+AADQ01000059.1	unplaced-scaffold	na	na	AADQ01000059.1	=	NZ_AADQ01000059.1	Primary Assembly	14959	na
+AADQ01000060.1	unplaced-scaffold	na	na	AADQ01000060.1	=	NZ_AADQ01000060.1	Primary Assembly	14931	na
+AADQ01000061.1	unplaced-scaffold	na	na	AADQ01000061.1	=	NZ_AADQ01000061.1	Primary Assembly	14224	na
+AADQ01000062.1	unplaced-scaffold	na	na	AADQ01000062.1	=	NZ_AADQ01000062.1	Primary Assembly	13093	na
+AADQ01000063.1	unplaced-scaffold	na	na	AADQ01000063.1	=	NZ_AADQ01000063.1	Primary Assembly	13037	na
+AADQ01000064.1	unplaced-scaffold	na	na	AADQ01000064.1	=	NZ_AADQ01000064.1	Primary Assembly	11598	na
+AADQ01000065.1	unplaced-scaffold	na	na	AADQ01000065.1	=	NZ_AADQ01000065.1	Primary Assembly	11300	na
+AADQ01000066.1	unplaced-scaffold	na	na	AADQ01000066.1	=	NZ_AADQ01000066.1	Primary Assembly	10882	na
+AADQ01000067.1	unplaced-scaffold	na	na	AADQ01000067.1	=	NZ_AADQ01000067.1	Primary Assembly	9931	na
+AADQ01000068.1	unplaced-scaffold	na	na	AADQ01000068.1	=	NZ_AADQ01000068.1	Primary Assembly	9877	na
+AADQ01000069.1	unplaced-scaffold	na	na	AADQ01000069.1	=	NZ_AADQ01000069.1	Primary Assembly	9554	na
+AADQ01000070.1	unplaced-scaffold	na	na	AADQ01000070.1	=	NZ_AADQ01000070.1	Primary Assembly	9449	na
+AADQ01000071.1	unplaced-scaffold	na	na	AADQ01000071.1	=	NZ_AADQ01000071.1	Primary Assembly	9151	na
+AADQ01000072.1	unplaced-scaffold	na	na	AADQ01000072.1	=	NZ_AADQ01000072.1	Primary Assembly	9096	na
+AADQ01000073.1	unplaced-scaffold	na	na	AADQ01000073.1	=	NZ_AADQ01000073.1	Primary Assembly	9085	na
+AADQ01000074.1	unplaced-scaffold	na	na	AADQ01000074.1	=	NZ_AADQ01000074.1	Primary Assembly	8589	na
+AADQ01000075.1	unplaced-scaffold	na	na	AADQ01000075.1	=	NZ_AADQ01000075.1	Primary Assembly	8507	na
+AADQ01000076.1	unplaced-scaffold	na	na	AADQ01000076.1	=	NZ_AADQ01000076.1	Primary Assembly	7173	na
+AADQ01000077.1	unplaced-scaffold	na	na	AADQ01000077.1	=	NZ_AADQ01000077.1	Primary Assembly	6391	na
+AADQ01000078.1	unplaced-scaffold	na	na	AADQ01000078.1	=	NZ_AADQ01000078.1	Primary Assembly	5717	na
+AADQ01000079.1	unplaced-scaffold	na	na	AADQ01000079.1	=	NZ_AADQ01000079.1	Primary Assembly	5671	na
+AADQ01000080.1	unplaced-scaffold	na	na	AADQ01000080.1	=	NZ_AADQ01000080.1	Primary Assembly	5578	na
+AADQ01000081.1	unplaced-scaffold	na	na	AADQ01000081.1	=	NZ_AADQ01000081.1	Primary Assembly	5508	na
+AADQ01000082.1	unplaced-scaffold	na	na	AADQ01000082.1	=	NZ_AADQ01000082.1	Primary Assembly	5390	na
+AADQ01000083.1	unplaced-scaffold	na	na	AADQ01000083.1	=	NZ_AADQ01000083.1	Primary Assembly	5163	na
+AADQ01000084.1	unplaced-scaffold	na	na	AADQ01000084.1	=	NZ_AADQ01000084.1	Primary Assembly	5086	na
+AADQ01000085.1	unplaced-scaffold	na	na	AADQ01000085.1	=	NZ_AADQ01000085.1	Primary Assembly	4903	na
+AADQ01000086.1	unplaced-scaffold	na	na	AADQ01000086.1	=	NZ_AADQ01000086.1	Primary Assembly	4860	na
+AADQ01000087.1	unplaced-scaffold	na	na	AADQ01000087.1	=	NZ_AADQ01000087.1	Primary Assembly	4845	na
+AADQ01000088.1	unplaced-scaffold	na	na	AADQ01000088.1	=	NZ_AADQ01000088.1	Primary Assembly	4750	na
+AADQ01000089.1	unplaced-scaffold	na	na	AADQ01000089.1	=	NZ_AADQ01000089.1	Primary Assembly	4725	na
+AADQ01000090.1	unplaced-scaffold	na	na	AADQ01000090.1	=	NZ_AADQ01000090.1	Primary Assembly	4581	na
+AADQ01000091.1	unplaced-scaffold	na	na	AADQ01000091.1	=	NZ_AADQ01000091.1	Primary Assembly	4362	na
+AADQ01000092.1	unplaced-scaffold	na	na	AADQ01000092.1	=	NZ_AADQ01000092.1	Primary Assembly	4313	na
+AADQ01000093.1	unplaced-scaffold	na	na	AADQ01000093.1	=	NZ_AADQ01000093.1	Primary Assembly	4035	na
+AADQ01000094.1	unplaced-scaffold	na	na	AADQ01000094.1	=	NZ_AADQ01000094.1	Primary Assembly	3988	na
+AADQ01000095.1	unplaced-scaffold	na	na	AADQ01000095.1	=	NZ_AADQ01000095.1	Primary Assembly	3978	na
+AADQ01000096.1	unplaced-scaffold	na	na	AADQ01000096.1	=	NZ_AADQ01000096.1	Primary Assembly	3748	na
+AADQ01000097.1	unplaced-scaffold	na	na	AADQ01000097.1	=	NZ_AADQ01000097.1	Primary Assembly	3617	na
+AADQ01000098.1	unplaced-scaffold	na	na	AADQ01000098.1	=	NZ_AADQ01000098.1	Primary Assembly	3587	na
+AADQ01000099.1	unplaced-scaffold	na	na	AADQ01000099.1	=	NZ_AADQ01000099.1	Primary Assembly	3529	na
+AADQ01000100.1	unplaced-scaffold	na	na	AADQ01000100.1	=	NZ_AADQ01000100.1	Primary Assembly	3436	na
+AADQ01000101.1	unplaced-scaffold	na	na	AADQ01000101.1	=	NZ_AADQ01000101.1	Primary Assembly	3374	na
+AADQ01000102.1	unplaced-scaffold	na	na	AADQ01000102.1	=	NZ_AADQ01000102.1	Primary Assembly	3261	na
+AADQ01000103.1	unplaced-scaffold	na	na	AADQ01000103.1	=	NZ_AADQ01000103.1	Primary Assembly	3117	na
+AADQ01000104.1	unplaced-scaffold	na	na	AADQ01000104.1	=	NZ_AADQ01000104.1	Primary Assembly	2919	na
+AADQ01000105.1	unplaced-scaffold	na	na	AADQ01000105.1	=	NZ_AADQ01000105.1	Primary Assembly	2790	na
+AADQ01000106.1	unplaced-scaffold	na	na	AADQ01000106.1	=	NZ_AADQ01000106.1	Primary Assembly	2738	na
+AADQ01000107.1	unplaced-scaffold	na	na	AADQ01000107.1	=	NZ_AADQ01000107.1	Primary Assembly	2713	na
+AADQ01000108.1	unplaced-scaffold	na	na	AADQ01000108.1	=	NZ_AADQ01000108.1	Primary Assembly	2513	na
+AADQ01000109.1	unplaced-scaffold	na	na	AADQ01000109.1	=	NZ_AADQ01000109.1	Primary Assembly	1842	na
+AADQ01000110.1	unplaced-scaffold	na	na	AADQ01000110.1	=	NZ_AADQ01000110.1	Primary Assembly	1837	na
+AADQ01000111.1	unplaced-scaffold	na	na	AADQ01000111.1	=	NZ_AADQ01000111.1	Primary Assembly	1804	na
+AADQ01000112.1	unplaced-scaffold	na	na	AADQ01000112.1	=	NZ_AADQ01000112.1	Primary Assembly	1800	na
+AADQ01000113.1	unplaced-scaffold	na	na	AADQ01000113.1	=	NZ_AADQ01000113.1	Primary Assembly	1698	na
+AADQ01000114.1	unplaced-scaffold	na	na	AADQ01000114.1	=	NZ_AADQ01000114.1	Primary Assembly	1586	na
+AADQ01000115.1	unplaced-scaffold	na	na	AADQ01000115.1	=	NZ_AADQ01000115.1	Primary Assembly	1580	na
+AADQ01000116.1	unplaced-scaffold	na	na	AADQ01000116.1	=	NZ_AADQ01000116.1	Primary Assembly	1519	na
+AADQ01000117.1	unplaced-scaffold	na	na	AADQ01000117.1	=	NZ_AADQ01000117.1	Primary Assembly	1436	na
+AADQ01000118.1	unplaced-scaffold	na	na	AADQ01000118.1	=	NZ_AADQ01000118.1	Primary Assembly	1342	na
+AADQ01000119.1	unplaced-scaffold	na	na	AADQ01000119.1	=	NZ_AADQ01000119.1	Primary Assembly	1338	na
+AADQ01000120.1	unplaced-scaffold	na	na	AADQ01000120.1	=	NZ_AADQ01000120.1	Primary Assembly	1336	na
+AADQ01000121.1	unplaced-scaffold	na	na	AADQ01000121.1	=	NZ_AADQ01000121.1	Primary Assembly	1297	na
+AADQ01000122.1	unplaced-scaffold	na	na	AADQ01000122.1	=	NZ_AADQ01000122.1	Primary Assembly	1230	na
+AADQ01000123.1	unplaced-scaffold	na	na	AADQ01000123.1	=	NZ_AADQ01000123.1	Primary Assembly	1142	na
+AADQ01000124.1	unplaced-scaffold	na	na	AADQ01000124.1	=	NZ_AADQ01000124.1	Primary Assembly	1101	na
+AADQ01000125.1	unplaced-scaffold	na	na	AADQ01000125.1	=	NZ_AADQ01000125.1	Primary Assembly	1089	na
+AADQ01000126.1	unplaced-scaffold	na	na	AADQ01000126.1	=	NZ_AADQ01000126.1	Primary Assembly	1056	na
+AADQ01000127.1	unplaced-scaffold	na	na	AADQ01000127.1	=	NZ_AADQ01000127.1	Primary Assembly	1054	na
+AADQ01000128.1	unplaced-scaffold	na	na	AADQ01000128.1	=	NZ_AADQ01000128.1	Primary Assembly	948	na
+AADQ01000129.1	unplaced-scaffold	na	na	AADQ01000129.1	=	NZ_AADQ01000129.1	Primary Assembly	916	na
+AADQ01000130.1	unplaced-scaffold	na	na	AADQ01000130.1	=	NZ_AADQ01000130.1	Primary Assembly	904	na
+AADQ01000131.1	unplaced-scaffold	na	na	AADQ01000131.1	=	NZ_AADQ01000131.1	Primary Assembly	840	na
+AADQ01000132.1	unplaced-scaffold	na	na	AADQ01000132.1	=	NZ_AADQ01000132.1	Primary Assembly	820	na
+AADQ01000133.1	unplaced-scaffold	na	na	AADQ01000133.1	=	NZ_AADQ01000133.1	Primary Assembly	605	na

@@ -1,0 +1,47 @@
+# Assembly name:  ASM291855v1
+# Organism name:  Citrobacter amalonaticus (enterobacteria)
+# Infraspecific name:  strain=S646
+# Taxid:          35703
+# BioSample:      SAMN08395890
+# BioProject:     PRJNA431620
+# Submitter:      Salmonella Syst-OMICS
+# Date:           2018-02-06
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    PQMB01
+# Assembly method: de novo A5 pipeline v. A5-miseq 20150522
+# Expected final version: Yes
+# Genome coverage: 30X
+# Sequencing technology: Illumina MiSeq
+# GenBank assembly accession: GCA_002918555.1
+# RefSeq assembly accession: GCF_002918555.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002918565.1	GCF_002918565.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+scaffold1.1	unplaced-scaffold	na	na	PQMB01000001.1	=	NZ_PQMB01000001.1	Primary Assembly	1082631	na
+scaffold2.1	unplaced-scaffold	na	na	PQMB01000002.1	=	NZ_PQMB01000002.1	Primary Assembly	1460498	na
+scaffold3.1	unplaced-scaffold	na	na	PQMB01000003.1	=	NZ_PQMB01000003.1	Primary Assembly	1061460	na
+scaffold4.1	unplaced-scaffold	na	na	PQMB01000004.1	=	NZ_PQMB01000004.1	Primary Assembly	449067	na
+scaffold5.1	unplaced-scaffold	na	na	PQMB01000005.1	=	NZ_PQMB01000005.1	Primary Assembly	576562	na
+scaffold6.1	unplaced-scaffold	na	na	PQMB01000006.1	=	NZ_PQMB01000006.1	Primary Assembly	242758	na
+scaffold7.1	unplaced-scaffold	na	na	PQMB01000007.1	=	NZ_PQMB01000007.1	Primary Assembly	172722	na
+scaffold8.1	unplaced-scaffold	na	na	PQMB01000008.1	=	NZ_PQMB01000008.1	Primary Assembly	150490	na
+scaffold9.1	unplaced-scaffold	na	na	PQMB01000009.1	=	NZ_PQMB01000009.1	Primary Assembly	169064	na
+scaffold10.1	unplaced-scaffold	na	na	PQMB01000010.1	=	NZ_PQMB01000010.1	Primary Assembly	117097	na
+scaffold11.1	unplaced-scaffold	na	na	PQMB01000011.1	=	NZ_PQMB01000011.1	Primary Assembly	39498	na
+scaffold12.1	unplaced-scaffold	na	na	PQMB01000012.1	=	NZ_PQMB01000012.1	Primary Assembly	4894	na
+scaffold13.1	unplaced-scaffold	na	na	PQMB01000013.1	=	NZ_PQMB01000013.1	Primary Assembly	3351	na
+scaffold14.1	unplaced-scaffold	na	na	PQMB01000014.1	=	NZ_PQMB01000014.1	Primary Assembly	2312	na
+scaffold15.1	unplaced-scaffold	na	na	PQMB01000015.1	=	NZ_PQMB01000015.1	Primary Assembly	821	na
+scaffold16.1	unplaced-scaffold	na	na	PQMB01000016.1	=	NZ_PQMB01000016.1	Primary Assembly	630	na

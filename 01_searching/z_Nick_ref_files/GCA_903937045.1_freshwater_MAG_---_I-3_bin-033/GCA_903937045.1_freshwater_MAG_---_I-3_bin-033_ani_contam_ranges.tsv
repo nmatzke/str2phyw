@@ -1,0 +1,17 @@
+# ANI ranges report for assembly: GCA_903937045.1
+# Submitted organism: uncultured Verrucomicrobium sp. (taxid = 114704, rank = species, lineage = Bacteria; Pseudomonadati; Verrucomicrobiota; Verrucomicrobiia; Verrucomicrobiales; Verrucomicrobiaceae; Verrucomicrobium; environmental samples)
+# Submitted Organism Has Type Assembly: No
+# Best match: (none)
+# Status: INCONCLUSIVE
+# Confidence: LOW
+# Recommended actions legend:
+#     - (dash) - No action, query nucleotide is not contaminated
+#     S        - query nucleotide range is contaminated from within the same genus and could be considered for trimming, but it is still a valid component of assembly after trimming
+#     T        - query nucleotide range is contaminated and needs to be trimmed, but it is still a valid component of assembly after trimming
+#recommended_action	input_sequence_identifier	input_sequence_type	sequence_start	sequence_stop	sequence_length	typestrain_sequence	typestrain_sequence_start	typestrain_sequence_stop	typestrain_assembly_accession	typestrain_organism	ANI_this_region	ANI_threshold	%_query_coverage
+T	CAIZXV010000467.1	CONTIG	2145	2740	9974	BMUL01000003.1	519769	520364	GCA_014650175.1	Streptomyces termitum	79.1045	96	5.97554
+T	CAIZXV010000597.1	CONTIG	468	890	2115	VFMN01000001.1	4358959	4359381	GCA_006715055.1	Lapillicoccus jejuensis	77.5463	96	20
+T	CAIZXV010000673.1	CONTIG	132	1833	2136	BMUL01000008.1	98166	99867	GCA_014650175.1	Streptomyces termitum	79.7564	96	79.6816
+T	CAIZXV010000688.1	CONTIG	2308	2494	2947	BMUL01000010.1	173539	173725	GCA_014650175.1	Streptomyces termitum	77.0619	96	6.34544
+T	CAIZXV010000688.1	CONTIG	2495	2688	2947	BMUL01000003.1	153529	153722	GCA_014650175.1	Streptomyces termitum	77.0619	96	6.58297
+T	CAIZXV010000695.1	CONTIG	582	1143	2910	BMUL01000012.1	219673	220234	GCA_014650175.1	Streptomyces termitum	80.531	96	19.3127

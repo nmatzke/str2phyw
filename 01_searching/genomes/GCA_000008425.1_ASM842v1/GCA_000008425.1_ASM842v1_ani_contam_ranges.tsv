@@ -1,0 +1,15 @@
+# ANI ranges report for assembly: GCA_000008425.1
+# Submitted organism: Bacillus licheniformis DSM 13 = ATCC 14580 (taxid = 279010, rank = no rank, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Bacillus)
+# Submitted Organism Has Type Assembly: Yes
+# Best match: Bacillus licheniformis (taxid = 1402, rank = species, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Bacillus)
+# Status: CONFIRMED
+# Confidence: HIGH
+# Recommended actions legend:
+#     - (dash) - No action, query nucleotide is not contaminated
+#     S        - query nucleotide range is contaminated from within the same genus and could be considered for trimming, but it is still a valid component of assembly after trimming
+#     T        - query nucleotide range is contaminated and needs to be trimmed, but it is still a valid component of assembly after trimming
+#recommended_action	input_sequence_identifier	input_sequence_type	sequence_start	sequence_stop	sequence_length	typestrain_sequence	typestrain_sequence_start	typestrain_sequence_stop	typestrain_assembly_accession	typestrain_organism	ANI_this_region	ANI_threshold	%_query_coverage
+-	AE017333.1	CIRCULAR	1	310	4222645	CP187612.1	4229521	4229830	GCA_029857595.2	Bacillus licheniformis	99.9948	96	0.00734137
+-	AE017333.1	CIRCULAR	311	99845	4222645	CP187612.1	1	99535	GCA_029857595.2	Bacillus licheniformis	99.9948	96	2.35717
+-	AE017333.1	CIRCULAR	99846	750665	4222645	CP187612.1	105428	756248	GCA_029857595.2	Bacillus licheniformis	99.9948	96	15.4126
+-	AE017333.1	CIRCULAR	750666	4222645	4222645	CP187612.1	757538	4229520	GCA_029857595.2	Bacillus licheniformis	99.9948	96	82.2229

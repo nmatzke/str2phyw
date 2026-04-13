@@ -1,0 +1,8 @@
+d6b27f0ffd60760ed641babf93922dbd  ./annotation_hashes.txt
+053818e7c036802f035fdaf2414665bb  ./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_assembly_report.txt
+ca7786735be0f685aacc6f02003e26ae  ./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_assembly_stats.txt
+c70800bd3eabca804da52b6fca9bb7e5  ./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_fcs_report.txt
+6b8c6bf50cccdeee4e43c69329ab3075  ./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_feature_count.txt
+3212dc3259cd299a54ca44c04ef0e6bc  ./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_genomic.fna.gz
+210afc5c4afe51fc98dc25eae14c8655  ./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_genomic.gbff.gz
+add381856d4eec317d68dab289989df6  ./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_wgsmaster.gbff.gz

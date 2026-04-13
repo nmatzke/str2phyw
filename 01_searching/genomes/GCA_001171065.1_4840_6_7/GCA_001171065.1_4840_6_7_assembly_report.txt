@@ -1,0 +1,105 @@
+# Assembly name:  4840_6#7
+# Organism name:  Yersinia frederiksenii (enterobacteria)
+# Infraspecific name:  strain=RS-42
+# Taxid:          29484
+# BioSample:      SAMEA859974
+# BioProject:     PRJEB2117
+# Submitter:      SC
+# Date:           2015-07-17
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    CQDT01
+# Assembly method: Prokka
+# Genome coverage: 100x
+# Sequencing technology: SLX
+# Excluded from RefSeq: unverified source organism
+# Assembly anomaly: unverified source organism
+# GenBank assembly accession: GCA_001171065.1
+# RefSeq assembly accession: GCF_001171065.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001171075.1	GCF_001171075.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+CQDT01000001	unplaced-scaffold	na	na	CQDT01000001.1	=	NZ_CQDT01000001.1	Primary Assembly	405179	na
+CQDT01000002	unplaced-scaffold	na	na	CQDT01000002.1	=	NZ_CQDT01000002.1	Primary Assembly	307220	na
+CQDT01000003	unplaced-scaffold	na	na	CQDT01000003.1	=	NZ_CQDT01000003.1	Primary Assembly	256034	na
+CQDT01000004	unplaced-scaffold	na	na	CQDT01000004.1	=	NZ_CQDT01000004.1	Primary Assembly	241416	na
+CQDT01000005	unplaced-scaffold	na	na	CQDT01000005.1	=	NZ_CQDT01000005.1	Primary Assembly	240618	na
+CQDT01000006	unplaced-scaffold	na	na	CQDT01000006.1	=	NZ_CQDT01000006.1	Primary Assembly	199190	na
+CQDT01000007	unplaced-scaffold	na	na	CQDT01000007.1	=	NZ_CQDT01000007.1	Primary Assembly	192225	na
+CQDT01000008	unplaced-scaffold	na	na	CQDT01000008.1	=	NZ_CQDT01000008.1	Primary Assembly	175610	na
+CQDT01000009	unplaced-scaffold	na	na	CQDT01000009.1	=	NZ_CQDT01000009.1	Primary Assembly	173930	na
+CQDT01000010	unplaced-scaffold	na	na	CQDT01000010.1	=	NZ_CQDT01000010.1	Primary Assembly	163148	na
+CQDT01000011	unplaced-scaffold	na	na	CQDT01000011.1	=	NZ_CQDT01000011.1	Primary Assembly	156456	na
+CQDT01000012	unplaced-scaffold	na	na	CQDT01000012.1	=	NZ_CQDT01000012.1	Primary Assembly	153212	na
+CQDT01000013	unplaced-scaffold	na	na	CQDT01000013.1	=	NZ_CQDT01000013.1	Primary Assembly	137596	na
+CQDT01000014	unplaced-scaffold	na	na	CQDT01000014.1	=	NZ_CQDT01000014.1	Primary Assembly	131237	na
+CQDT01000015	unplaced-scaffold	na	na	CQDT01000015.1	=	NZ_CQDT01000015.1	Primary Assembly	127463	na
+CQDT01000016	unplaced-scaffold	na	na	CQDT01000016.1	=	NZ_CQDT01000016.1	Primary Assembly	124860	na
+CQDT01000017	unplaced-scaffold	na	na	CQDT01000017.1	=	NZ_CQDT01000017.1	Primary Assembly	119986	na
+CQDT01000018	unplaced-scaffold	na	na	CQDT01000018.1	=	NZ_CQDT01000018.1	Primary Assembly	107002	na
+CQDT01000019	unplaced-scaffold	na	na	CQDT01000019.1	=	NZ_CQDT01000019.1	Primary Assembly	102658	na
+CQDT01000020	unplaced-scaffold	na	na	CQDT01000020.1	=	NZ_CQDT01000020.1	Primary Assembly	96230	na
+CQDT01000021	unplaced-scaffold	na	na	CQDT01000021.1	=	NZ_CQDT01000021.1	Primary Assembly	93160	na
+CQDT01000022	unplaced-scaffold	na	na	CQDT01000022.1	=	NZ_CQDT01000022.1	Primary Assembly	87553	na
+CQDT01000023	unplaced-scaffold	na	na	CQDT01000023.1	=	NZ_CQDT01000023.1	Primary Assembly	86912	na
+CQDT01000024	unplaced-scaffold	na	na	CQDT01000024.1	=	NZ_CQDT01000024.1	Primary Assembly	78997	na
+CQDT01000025	unplaced-scaffold	na	na	CQDT01000025.1	=	NZ_CQDT01000025.1	Primary Assembly	72107	na
+CQDT01000026	unplaced-scaffold	na	na	CQDT01000026.1	=	NZ_CQDT01000026.1	Primary Assembly	65886	na
+CQDT01000027	unplaced-scaffold	na	na	CQDT01000027.1	=	NZ_CQDT01000027.1	Primary Assembly	64180	na
+CQDT01000028	unplaced-scaffold	na	na	CQDT01000028.1	=	NZ_CQDT01000028.1	Primary Assembly	57983	na
+CQDT01000029	unplaced-scaffold	na	na	CQDT01000029.1	=	NZ_CQDT01000029.1	Primary Assembly	56176	na
+CQDT01000030	unplaced-scaffold	na	na	CQDT01000030.1	=	NZ_CQDT01000030.1	Primary Assembly	54893	na
+CQDT01000031	unplaced-scaffold	na	na	CQDT01000031.1	=	NZ_CQDT01000031.1	Primary Assembly	54366	na
+CQDT01000032	unplaced-scaffold	na	na	CQDT01000032.1	=	NZ_CQDT01000032.1	Primary Assembly	53588	na
+CQDT01000033	unplaced-scaffold	na	na	CQDT01000033.1	=	NZ_CQDT01000033.1	Primary Assembly	51698	na
+CQDT01000034	unplaced-scaffold	na	na	CQDT01000034.1	=	NZ_CQDT01000034.1	Primary Assembly	46645	na
+CQDT01000035	unplaced-scaffold	na	na	CQDT01000035.1	=	NZ_CQDT01000035.1	Primary Assembly	39370	na
+CQDT01000036	unplaced-scaffold	na	na	CQDT01000036.1	=	NZ_CQDT01000036.1	Primary Assembly	37488	na
+CQDT01000037	unplaced-scaffold	na	na	CQDT01000037.1	=	NZ_CQDT01000037.1	Primary Assembly	34290	na
+CQDT01000038	unplaced-scaffold	na	na	CQDT01000038.1	=	NZ_CQDT01000038.1	Primary Assembly	33343	na
+CQDT01000039	unplaced-scaffold	na	na	CQDT01000039.1	=	NZ_CQDT01000039.1	Primary Assembly	33105	na
+CQDT01000040	unplaced-scaffold	na	na	CQDT01000040.1	=	NZ_CQDT01000040.1	Primary Assembly	27117	na
+CQDT01000041	unplaced-scaffold	na	na	CQDT01000041.1	=	NZ_CQDT01000041.1	Primary Assembly	25359	na
+CQDT01000042	unplaced-scaffold	na	na	CQDT01000042.1	=	NZ_CQDT01000042.1	Primary Assembly	25304	na
+CQDT01000043	unplaced-scaffold	na	na	CQDT01000043.1	=	NZ_CQDT01000043.1	Primary Assembly	24744	na
+CQDT01000044	unplaced-scaffold	na	na	CQDT01000044.1	=	NZ_CQDT01000044.1	Primary Assembly	23362	na
+CQDT01000045	unplaced-scaffold	na	na	CQDT01000045.1	=	NZ_CQDT01000045.1	Primary Assembly	23332	na
+CQDT01000046	unplaced-scaffold	na	na	CQDT01000046.1	=	NZ_CQDT01000046.1	Primary Assembly	20221	na
+CQDT01000047	unplaced-scaffold	na	na	CQDT01000047.1	=	NZ_CQDT01000047.1	Primary Assembly	18921	na
+CQDT01000048	unplaced-scaffold	na	na	CQDT01000048.1	=	NZ_CQDT01000048.1	Primary Assembly	15838	na
+CQDT01000049	unplaced-scaffold	na	na	CQDT01000049.1	=	NZ_CQDT01000049.1	Primary Assembly	13498	na
+CQDT01000050	unplaced-scaffold	na	na	CQDT01000050.1	=	NZ_CQDT01000050.1	Primary Assembly	13055	na
+CQDT01000051	unplaced-scaffold	na	na	CQDT01000051.1	=	NZ_CQDT01000051.1	Primary Assembly	12786	na
+CQDT01000052	unplaced-scaffold	na	na	CQDT01000052.1	=	NZ_CQDT01000052.1	Primary Assembly	9565	na
+CQDT01000053	unplaced-scaffold	na	na	CQDT01000053.1	=	NZ_CQDT01000053.1	Primary Assembly	6959	na
+CQDT01000054	unplaced-scaffold	na	na	CQDT01000054.1	=	NZ_CQDT01000054.1	Primary Assembly	6740	na
+CQDT01000055	unplaced-scaffold	na	na	CQDT01000055.1	=	NZ_CQDT01000055.1	Primary Assembly	4653	na
+CQDT01000056	unplaced-scaffold	na	na	CQDT01000056.1	=	NZ_CQDT01000056.1	Primary Assembly	4256	na
+CQDT01000057	unplaced-scaffold	na	na	CQDT01000057.1	=	NZ_CQDT01000057.1	Primary Assembly	4256	na
+CQDT01000058	unplaced-scaffold	na	na	CQDT01000058.1	=	NZ_CQDT01000058.1	Primary Assembly	4066	na
+CQDT01000059	unplaced-scaffold	na	na	CQDT01000059.1	=	NZ_CQDT01000059.1	Primary Assembly	3615	na
+CQDT01000060	unplaced-scaffold	na	na	CQDT01000060.1	=	NZ_CQDT01000060.1	Primary Assembly	3485	na
+CQDT01000061	unplaced-scaffold	na	na	CQDT01000061.1	=	NZ_CQDT01000061.1	Primary Assembly	2685	na
+CQDT01000062	unplaced-scaffold	na	na	CQDT01000062.1	=	NZ_CQDT01000062.1	Primary Assembly	2597	na
+CQDT01000063	unplaced-scaffold	na	na	CQDT01000063.1	=	NZ_CQDT01000063.1	Primary Assembly	2578	na
+CQDT01000064	unplaced-scaffold	na	na	CQDT01000064.1	=	NZ_CQDT01000064.1	Primary Assembly	2183	na
+CQDT01000065	unplaced-scaffold	na	na	CQDT01000065.1	=	NZ_CQDT01000065.1	Primary Assembly	2018	na
+CQDT01000066	unplaced-scaffold	na	na	CQDT01000066.1	=	NZ_CQDT01000066.1	Primary Assembly	1939	na
+CQDT01000067	unplaced-scaffold	na	na	CQDT01000067.1	=	NZ_CQDT01000067.1	Primary Assembly	1934	na
+CQDT01000068	unplaced-scaffold	na	na	CQDT01000068.1	=	NZ_CQDT01000068.1	Primary Assembly	1331	na
+CQDT01000069	unplaced-scaffold	na	na	CQDT01000069.1	=	NZ_CQDT01000069.1	Primary Assembly	1091	na
+CQDT01000070	unplaced-scaffold	na	na	CQDT01000070.1	=	NZ_CQDT01000070.1	Primary Assembly	577	na
+CQDT01000071	unplaced-scaffold	na	na	CQDT01000071.1	=	NZ_CQDT01000071.1	Primary Assembly	491	na
+CQDT01000072	unplaced-scaffold	na	na	CQDT01000072.1	=	NZ_CQDT01000072.1	Primary Assembly	486	na
+CQDT01000073	unplaced-scaffold	na	na	CQDT01000073.1	=	NZ_CQDT01000073.1	Primary Assembly	330	na

@@ -1,0 +1,20 @@
+ANI report for assembly: GCA_038745945.1
+Submitted organism: Cyanobacteria bacterium P01_H01_bin.74 (taxid = 3023322, rank = species, lineage = Bacteria; Bacillati; Cyanobacteriota)
+Best match: (none)
+Submitted organism has type: No
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 98.205 (   .0    .0)        0        0   3673178     Vampirovibrio chlorellavorus (GCA_001858525.1, ASM185852v1)

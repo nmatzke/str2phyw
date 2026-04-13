@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_001753085.1
+Submitted organism: Legionella pneumophila (trusted species) (taxid = 446, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Legionellales; Legionellaceae; Legionella)
+Best match: Legionella pneumophila (trusted species) (taxid = 446, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Legionellales; Legionellaceae; Legionella)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 99.784 ( 95.1  97.8)  3325947  3325947   3959558   T Legionella pneumophila (GCA_001941585.1, ASM194158v1)
+ 99.774 ( 92.3  97.7)     1628     1628   2934058   T Legionella pneumophila (GCA_001582475.1, ASM158247v1)
+ 99.782 ( 94.8  97.8)      150      150      9288   T Legionella pneumophila subsp. pneumophila str. Philadelphia 1 (GCA_000008485.1, ASM848v1)
+ 99.705 ( 94.1  97.8)        0        0    960878   T Legionella pneumophila subsp. pneumophila (GCA_000586375.1, ATCC_33152)
+ 99.708 ( 95.1  96.3)        0        0   5909938   T Legionella pneumophila subsp. pneumophila (GCA_002082955.2, ASM208295v2)
+ 99.783 ( 95.1  97.6)        0        0   6982968   T Legionella pneumophila (GCA_900452735.1, 34410_A01)
+ 99.710 ( 95.1  97.8)        0        0  11348588   T Legionella pneumophila (GCA_006364635.1, ASM636463v1)
+ 99.709 ( 95.1  97.8)        0        0  32656028   T Legionella pneumophila subsp. pneumophila (GCA_022870105.1, ASM2287010v1)
+ 99.704 ( 94.1  97.7)        0        0  79280758   T Legionella pneumophila (GCA_053755195.1, ASM5375519v1)
+ 99.685 ( 93.9  96.8)     1056     1056    988198   T Legionella pneumophila subsp. pneumophila JCM 7571 (GCA_000614785.1, ASM61478v1)
+ 92.108 ( 83.4  83.6)     2914     2914   8462098   T Legionella pneumophila subsp. fraseri (GCA_900639965.1, Leg_pneumophila_Los_Angeles_1.v1)
+ 92.107 ( 83.3  84.2)     1942        0    960818   T Legionella pneumophila subsp. fraseri (GCA_000586315.1, ATCC_33156)
+ 91.921 ( 83.1  82.1)    11298    11298   6234758   T Legionella pneumophila subsp. raphaeli (GCA_003003555.1, ASM300355v1)
+ 91.936 ( 82.6  82.6)        0        0   3144658   T Legionella pneumophila subsp. raphaeli (GCA_001600975.1, ASM160097v1)
+ 91.407 ( 85.2  86.3)    11047    11047   8123338   T Legionella pneumophila subsp. pascullei (GCA_900637585.1, 52067_F01)
+ 91.389 ( 84.7  86.5)        0        0    960758   T Legionella pneumophila subsp. pascullei (GCA_000586255.1, ATCC_33737)
+ 91.382 ( 84.7  86.4)        0        0  77707108   T Legionella pneumophila subsp. pascullei (GCA_052712945.1, PDT002924818.1)
+ 83.544 ( 16.9  19.3)     4405     4405   1367078     Legionella norrlandica (GCA_000770585.1, ASM77058v1)
+ 92.605 (  2.0   2.6)     2061        0   8173388     Legionella septentrionalis (GCA_003989745.1, ASM398974v1)
+ 89.575 (  6.4   5.3)    25562      438  37405158     Legionella sheltonii (GCA_026191355.1, ASM2619135v1)
+ 89.274 (  7.9   6.1)     2550        0   5910458     Legionella anisa (GCA_002082905.2, ASM208290v2)
+ 89.278 (  7.9   6.2)     1967        0  28798658     Legionella anisa (GCA_019930885.1, ASM1993088v1)
+ 89.174 (  6.9   5.5)        0        0   2724018     Legionella anisa (GCA_001467525.1, ASM146752v1)
+ 88.925 (  7.0   6.2)      799      799   7000768     Legionella gratiana (GCA_900452545.1, 53550_A01)
+ 89.088 (  7.6   6.0)        0        0  70251258     Legionella anisa (GCA_965135615.1, CIP103870T)
+ 88.785 (  6.4   5.4)     4130     4130   6999408     Legionella parisiensis (GCA_900461585.1, 51485_C01)
+ 88.870 (  6.7   6.0)      113        0   2724178     Legionella gratiana (GCA_001467695.1, ASM146769v1)
+ 88.719 (  6.1   5.1)        0        0   2724428     Legionella parisiensis (GCA_001467945.1, ASM146794v1)
+ 88.733 (  3.7   4.0)        0        0   4899588     Legionella clemsonensis (GCA_002240035.1, ASM224003v1)
+ 88.767 (  6.8   6.0)        0        0   8461938     Legionella gratiana (GCA_900639855.1, Leg_gratiana_Lyon_8420412.v1)
+ 88.720 (  6.1   5.1)        0        0   8462078     Legionella parisiensis (GCA_900639925.1, Leg_parisiensis_PF-209C-C2.v1)
+ 88.606 (  6.2   5.2)        0        0   3457908     Legionella parisiensis (GCA_001736145.1, ASM173614v1)
+ 87.541 (  5.5   4.8)        0        0   6998688     Legionella steigerwaltii (GCA_900452835.1, 50592_D01)
+ 87.571 (  6.4   5.1)        0        0   8461758     Legionella anisa (GCA_900639785.1, Leg_anisa_WA-316-C3.v1)
+ 87.314 (  5.2   4.6)        0        0   8462238     Legionella steigerwaltii (GCA_900640025.1, Leg_steigerwaltii_SC-18-C9.v1)
+ 87.293 (  5.2   4.6)    27202        0   2724538     Legionella steigerwaltii (GCA_001468065.1, ASM146806v1)
+ 87.297 (  5.2   4.6)        0        0  70251038     Legionella steigerwaltii (GCA_965135705.1, CIP103851T)
+ 86.836 (  5.8   4.9)     3851     3851   6997728     Fluoribacter dumoffii (GCA_900450695.1, 48903_A01)
+ 86.583 (  8.0   6.7)    24794        0  24809368     Legionella bononiensis (GCA_016786415.1, ASM1678641v1)
+ 82.912 (  7.0   6.2)        0        0  33697198     Legionella maioricensis (GCA_023618015.1, ASM2361801v1)

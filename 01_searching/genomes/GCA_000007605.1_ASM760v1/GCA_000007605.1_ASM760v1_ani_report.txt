@@ -1,0 +1,32 @@
+ANI report for assembly: GCA_000007605.1
+Submitted organism: Chlamydia caviae GPIC (taxid = 227941, rank = no rank, lineage = Bacteria; Pseudomonadati; Chlamydiota; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia/Chlamydophila group; Chlamydia)
+Best match: Chlamydia crocodili (taxid = 2766982, rank = species, lineage = Bacteria; Pseudomonadati; Chlamydiota; Chlamydiia; Chlamydiales; Chlamydiaceae; Chlamydia/Chlamydophila group; Chlamydia)
+Submitted organism has type: Yes
+Status: INCONCLUSIVE
+Confidence: LOW
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 86.839 ( 91.7  88.1)  1071503  1065440  26691258     Chlamydia crocodili (GCA_018343815.1, ASM1834381v1)
+ 86.872 ( 89.9  91.3)    15339    14926   7187028     Chlamydia poikilotherma (GCA_900239975.1, Chlamydia sp. S15-834K)
+ 83.123 ( 79.2  81.6)     3773     3773   8658968     Chlamydia buteonis (GCA_900634605.1, RSHA)
+ 82.916 ( 78.6  80.0)     1424        0  11391648     Chlamydophila parapsittaci (GCA_006385615.1, ASM638561v1)
+ 82.965 ( 79.2  79.4)      255      255    266488     Chlamydia psittaci 6BC (GCA_000204255.1, ASM20425v1)
+ 82.963 ( 79.2  79.4)        0        0    249058     Chlamydia psittaci 6BC (GCA_000191925.1, ASM19192v1)
+ 82.515 ( 78.4  80.9)        0        0   5921458     Chlamydia abortus (GCA_002895085.1, ASM289508v1)
+ 80.840 ( 66.0  58.5)     1179     1179  70432948     Chlamydia vaughanii (GCA_964023145.2, Cvaug_1)
+ 78.730 ( 10.6  11.0)        0        0    764488  E  Chlamydia ibidis 10-1398/6 (GCA_000454725.1, ibidis.assembly)
+ 78.264 ( 19.5  21.9)        0        0    958228     Chlamydia avium 10DC88 (GCA_000583875.1, ASM58387v1)
+ 78.012 ( 20.1  22.2)        0        0   3272358     Chlamydia gallinacea 08-1274/3 (GCA_000471025.2, ASM47102v2)
+ 78.881 (  6.4   6.2)      166      166   6452498  E  Chlamydia serpentis (GCA_900239945.1, Chlamydia sp. nov. H15-1957-10C)
+ 78.308 (  5.8   6.2)        0        0    266348     Chlamydia pecorum E58 (GCA_000204135.1, ASM20413v1)

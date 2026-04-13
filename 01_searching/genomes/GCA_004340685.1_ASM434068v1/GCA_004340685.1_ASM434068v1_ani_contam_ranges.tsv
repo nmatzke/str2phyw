@@ -1,0 +1,13 @@
+# ANI ranges report for assembly: GCA_004340685.1
+# Submitted organism: Hydrogenispora ethanolica (taxid = 1082276, rank = species, lineage = Bacteria; Bacillati; Bacillota; Hydrogenispora)
+# Submitted Organism Has Type Assembly: Yes
+# Best match: (none)
+# Status: INCONCLUSIVE
+# Confidence: LOW
+# Recommended actions legend:
+#     - (dash) - No action, query nucleotide is not contaminated
+#     S        - query nucleotide range is contaminated from within the same genus and could be considered for trimming, but it is still a valid component of assembly after trimming
+#     T        - query nucleotide range is contaminated and needs to be trimmed, but it is still a valid component of assembly after trimming
+#recommended_action	input_sequence_identifier	input_sequence_type	sequence_start	sequence_stop	sequence_length	typestrain_sequence	typestrain_sequence_start	typestrain_sequence_stop	typestrain_assembly_accession	typestrain_organism	ANI_this_region	ANI_threshold	%_query_coverage
+T	SLUN01000006.1	CONTIG	140	1273	204969	JACHIN010000040.1	9	1145	GCA_014203235.1	Nonomuraea endophytica	80.7659	96	0.553254
+T	SLUN01000101.1	CONTIG	10	1014	1021	JACHIN010000044.1	1	1014	GCA_014203235.1	Nonomuraea endophytica	83.0078	96	98.4329

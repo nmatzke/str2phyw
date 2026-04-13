@@ -1,0 +1,24 @@
+ANI report for assembly: GCA_000008605.1
+Submitted organism: Treponema pallidum subsp. pallidum str. Nichols (taxid = 243276, rank = no rank, lineage = Bacteria; Pseudomonadati; Spirochaetota; Spirochaetia; Spirochaetales; Treponemataceae; Treponema)
+Best match: Treponema pallidum (taxid = 160, rank = species, lineage = Bacteria; Pseudomonadati; Spirochaetota; Spirochaetia; Spirochaetales; Treponemataceae; Treponema)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 99.979 (100.0  99.8)  1137916  1137916    726188     Treponema pallidum subsp. pallidum str. Nichols (GCA_000410535.2, ASM41053v2)
+ 99.945 ( 98.3  99.8)        0        0  76899818     Treponema pallidum (GCA_052161665.1, ASM5216166v1)
+ 99.017 ( 98.9  99.3)        0        0    288808     Treponema paraluiscuniculi Cuniculi A (GCA_000217655.1, ASM21765v1)
+ 89.940 (   .5    .2)        0        0  13479638     Treponema phagedenis (GCA_008153345.1, ASM815334v1)
+ 80.540 (   .2    .1)        0        0  13281338     Vogesella mureinivorans (GCA_007644035.2, ASM764403v2)

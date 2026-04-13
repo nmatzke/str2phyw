@@ -1,0 +1,60 @@
+ANI report for assembly: GCA_000284615.1
+Submitted organism: Marinobacter nauticus ATCC 49840 (taxid = 1163748, rank = no rank, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Marinobacteraceae; Marinobacter)
+Best match: Marinobacter nauticus (taxid = 2743, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Marinobacteraceae; Marinobacter)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+CntmSeqANI : ANI value of the CntmSeq portion against the type
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  CntmSeqANI Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- ---------- --------- --- --------------------------------------------------------------------
+ 97.641 ( 90.0  90.3)  3538072  3538072         98   7561678     Marinobacter nauticus (GCA_003634635.1, ASM363463v1)
+ 97.068 ( 85.5  71.4)   182858   179881         98     16168     Marinobacter nauticus VT8 (GCA_000015365.1, ASM1536v1)
+ 83.903 ( 42.7  44.4)    21145    21145         93   4936928     Marinobacter vinifirmus (GCA_002258215.1, ASM225821v1)
+ 83.787 ( 14.2  14.1)        0        0          0   5608788     Marinobacter profundi (GCA_002744715.1, ASM274471v1)
+ 82.785 ( 14.4  11.7)        0        0          0  14203308     Marinobacter denitrificans (GCA_008795955.1, ASM879595v1)
+ 82.657 ( 44.4  43.1)    12101    12101         98  74553448  E  Marinobacter alkaliphilus (GCA_050709175.1, ASM5070917v1)
+ 82.584 ( 17.7  17.8)      111      111         98  32999748     Marinobacter goseongensis (GCA_023156235.1, ASM2315623v1)
+ 82.668 ( 44.4  43.0)        0        0          0  82118588  E  Marinobacter alkaliphilus (GCA_055394375.1, ASM5539437v1)
+ 82.145 ( 46.2  44.1)    13382    13382         80   6251088     Marinobacter shengliensis (GCA_003007715.1, ASM300771v1)
+ 82.202 ( 36.5  35.3)     8740     8740         98   6251068     Marinobacter fuscus (GCA_003007675.1, ASM300767v1)
+ 82.227 ( 45.7  39.2)     1008     1008         91  10723708     Marinobacter shengliensis subsp. alexandrii (GCA_005871095.1, ASM587109v1)
+ 82.120 ( 20.7  26.2)        0        0          0   3701588     Marinobacter persicus (GCA_900114155.1, IMG-taxon 2651870104 annotated assembly)
+ 82.127 ( 20.7  26.2)        0        0          0  22195498     Marinobacter persicus (GCA_014652295.1, ASM1465229v1)
+ 82.101 ( 20.6  26.1)        0        0          0  62627838     Marinobacter persicus (GCA_042434535.1, ASM4243453v1)
+ 82.061 ( 24.3  21.7)     9302     9302         95   7017228     Marinobacter flavimaris (GCA_003363485.1, ASM336348v1)
+ 82.056 ( 23.7  24.9)     5997     5997         86   3707728     Marinobacter pelagius (GCA_900114925.1, IMG-taxon 2619618995 annotated assembly)
+ 82.063 ( 24.1  21.6)        0        0          0   6029078     Marinobacter flavimaris (GCA_002933295.1, ASM293329v1)
+ 81.866 ( 58.3  60.7)    22177    22177         92    729568     Marinobacter daepoensis DSM 16072 (GCA_000421165.1, ASM42116v1)
+ 81.814 ( 19.5  17.6)        0        0          0  56206118  E  Marinobacter metalliresistant (GCA_038098645.1, ASM3809864v1)
+ 81.515 ( 18.7  17.6)     7167     7167         93  13706938     Marinobacter salinexigens (GCA_008370345.1, ASM837034v1)
+ 81.555 ( 24.1  20.7)      607      607         85    201788     Marinobacter adhaerens HP15 (GCA_000166295.1, ASM16629v1)
+ 81.540 ( 21.8  19.5)      333      333         88   1853648  E  Marinobacter subterrani (GCA_001045555.1, ASM104555v1)
+ 81.673 ( 13.5  11.7)        0        0          0   1508958     Marinobacter salarius (GCA_000831005.1, ASM83100v1)
+ 81.571 ( 22.8  23.7)        0        0          0   3709008     Marinobacter gudaonensis (GCA_900115175.1, IMG-taxon 2617270919 annotated assembly)
+ 81.643 ( 22.0  22.0)        0        0          0  51400208     Marinobacter qingdaonensis (GCA_034555935.1, ASM3455593v1)
+ 81.329 ( 21.8  23.4)     3186     3186         90  62867588     Marinobacter oulmenensis (GCA_042651385.1, ASM4265138v1)
+ 81.327 ( 21.8  23.4)        0        0          0  21606068     Marinobacter oulmenensis (GCA_014201735.1, ASM1420173v1)
+ 81.154 ( 19.1  18.5)     1038     1038         92  27911738     Marinobacter arenosus (GCA_019264345.1, ASM1926434v1)
+ 81.197 ( 16.0  16.0)        0        0          0   1508938     Marinobacter similis (GCA_000830985.1, ASM83098v1)
+ 81.293 ( 24.1  22.2)        0        0          0   6029058     Marinobacter maroccanus (GCA_002933275.1, ASM293327v1)
+ 81.176 ( 17.4  18.4)        0        0          0  32999808     Marinobacter koreensis (GCA_023156285.1, ASM2315628v1)
+ 81.269 ( 16.3  17.2)        0        0          0  43585008     Marinobacter apostichopi (GCA_030297175.1, ASM3029717v1)
+ 81.007 ( 36.3  37.0)      167      167         89   6251058     Marinobacter halophilus (GCA_003007685.1, ASM300768v1)
+ 81.024 ( 21.4  19.1)        0        0          0   5608808     Marinobacter guineae (GCA_002744735.1, ASM274473v1)
+ 80.969 ( 36.1  37.0)        0        0          0  22180998     Marinobacter halophilus (GCA_014637865.1, ASM1463786v1)
+ 81.053 ( 16.7  17.9)        0        0          0  24908188     Marinobacter sediminum (GCA_016820575.1, ASM1682057v1)
+ 80.979 ( 20.1  19.9)        0        0          0  28092768  E  Marinobacter liaoningensis (GCA_019392195.1, ASM1939219v1)
+ 80.887 ( 19.6  18.8)      568      568         96  43282588     Marinobacter albus (GCA_030238305.1, ASM3023830v1)
+ 80.894 ( 17.5  18.0)        0        0          0   1132898     Marinobacter nitratireducens (GCA_000708045.1, Marinobacter sp. AK21)
+ 80.496 ( 23.2  26.9)     1121     1121         94   6943158     Marinobacter litoralis (GCA_003336705.1, ASM333670v1)

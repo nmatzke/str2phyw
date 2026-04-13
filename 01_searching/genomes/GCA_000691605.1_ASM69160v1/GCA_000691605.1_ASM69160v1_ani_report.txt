@@ -1,0 +1,25 @@
+ANI report for assembly: GCA_000691605.1
+Submitted organism: Bdellovibrio bacteriovorus (taxid = 959, rank = species, lineage = Bacteria; Pseudomonadati; Bdellovibrionota; Bdellovibrionia; Bdellovibrionales; Pseudobdellovibrionaceae; Bdellovibrio)
+Best match: Bdellovibrio bacteriovorus (taxid = 959, rank = species, lineage = Bacteria; Pseudomonadati; Bdellovibrionota; Bdellovibrionia; Bdellovibrionales; Pseudobdellovibrionaceae; Bdellovibrio)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+CntmSeqANI : ANI value of the CntmSeq portion against the type
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  CntmSeqANI Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- ---------- --------- --- --------------------------------------------------------------------
+ 98.882 ( 95.3  96.5)  3650724  3650724         99    256998     Bdellovibrio bacteriovorus HD100 (GCA_000196175.1, ASM19617v1)
+ 79.903 ( 14.2  15.1)      531      531         91  43204618     Bdellovibrio bacteriopascens (GCA_030169785.1, ASM3016978v1)
+ 86.464 (   .3    .4)        0        0          0    560888     Pseudobdellovibrio exovorus JSS (GCA_000348725.1, ASM34872v1)
+ 80.765 (  6.5   6.4)      109      109         89  41862738     Bdellovibrio svalbardensis (GCA_029531655.1, ASM2953165v1)
+ 80.032 (  7.9   8.4)       99       99         82  32587768     Bdellovibrio reynosensis (GCA_022814725.1, ASM2281472v1)

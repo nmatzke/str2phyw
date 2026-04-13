@@ -1,0 +1,12 @@
+# ANI ranges report for assembly: GCA_000009045.1
+# Submitted organism: Bacillus subtilis subsp. subtilis str. 168 (taxid = 224308, rank = no rank, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Bacillus)
+# Submitted Organism Has Type Assembly: Yes
+# Best match: Bacillus subtilis (taxid = 1423, rank = species, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Bacillus)
+# Status: CONFIRMED
+# Confidence: HIGH
+# Recommended actions legend:
+#     - (dash) - No action, query nucleotide is not contaminated
+#     S        - query nucleotide range is contaminated from within the same genus and could be considered for trimming, but it is still a valid component of assembly after trimming
+#     T        - query nucleotide range is contaminated and needs to be trimmed, but it is still a valid component of assembly after trimming
+#recommended_action	input_sequence_identifier	input_sequence_type	sequence_start	sequence_stop	sequence_length	typestrain_sequence	typestrain_sequence_start	typestrain_sequence_stop	typestrain_assembly_accession	typestrain_organism	ANI_this_region	ANI_threshold	%_query_coverage
+-	AL009126.3	CIRCULAR	1	4215606	4215606	CP003329.1	1	4215610	GCA_000344745.1	Bacillus subtilis	99.997	96	100

@@ -1,0 +1,29 @@
+# Assembly name:  ASM175308v1
+# Organism name:  Legionella pneumophila (g-proteobacteria)
+# Infraspecific name:  strain=C9_S
+# Taxid:          446
+# BioSample:      SAMN05180030
+# BioProject:     PRJNA323476
+# Submitter:      Centers for Disease Control and Prevention
+# Date:           2016-10-06
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# GenBank assembly accession: GCA_001753085.1
+# RefSeq assembly accession: GCF_001753085.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001753095.1	GCF_001753095.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+CP015941.1	assembled-molecule	na	Chromosome	CP015941.1	=	NZ_CP015941.1	Primary Assembly	3397139	na
+unnamed1	assembled-molecule	unnamed1	Plasmid	CP015942.1	=	NZ_CP015942.1	Primary Assembly	33359	na
+unamed2	assembled-molecule	unamed2	Plasmid	CP015943.1	=	NZ_CP015943.1	Primary Assembly	73576	na

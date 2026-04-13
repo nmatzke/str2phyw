@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_001997065.1
+Submitted organism: Escherichia coli ATCC 8739 (taxid = 481805, rank = no rank, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia)
+Best match: Escherichia coli (taxid = 562, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 99.133 ( 92.6  81.2)  2053882  2051354    273038     Escherichia coli ETEC H10407 (GCA_000210475.1, ASM21047v1)
+ 98.684 ( 92.2  81.8)   946896   946896    769098     Escherichia coli HVH 200 (4-4449924) (GCA_000459055.1, Esch_coli_HVH_200_4-4449924_V1)
+ 98.610 ( 91.0  82.5)   225888   225888     11188     Escherichia coli SE11 (GCA_000010385.1, ASM1038v1)
+ 98.607 ( 91.3  81.1)   202416   202416    381598     Escherichia coli O103:H25 str. CVM9340 (GCA_000263895.1, ASM26389v1)
+ 98.203 ( 90.1  77.3)   156562   156562   3687138     Escherichia coli (GCA_001865905.1, ASM186590v1)
+ 98.104 ( 88.7  78.2)   148499   148499   2313628     Escherichia coli (GCA_001281725.1, ASM128172v1)
+ 97.621 ( 88.7  78.7)   142302   142302    568768     Escherichia coli KTE26 (GCA_000350825.1, Esch_coli_KTE26_V1)
+ 97.423 ( 88.8  79.5)    40479    40257     20448     Escherichia coli SMS-3-5 (GCA_000019645.1, ASM1964v1)
+ 97.484 ( 86.6  78.6)    33327    33327   5832578     Escherichia coli (GCA_002853715.1, ASM285371v1)
+ 97.166 ( 83.9  75.7)    41853    41853     14068     Escherichia coli UTI89 (GCA_000013265.1, ASM1326v1)
+ 97.132 ( 85.3  74.6)     9273     9273  35029748     Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775 (GCA_024519395.1, ASM2451939v1)
+ 97.224 ( 84.5  78.4)     3955     3955   1070318     Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775 (GCA_000690815.1, ASM69081v1)
+ 97.200 ( 84.3  80.3)     1702     1702    987198     Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775 (GCA_000613265.1, ASM61326v1)
+ 97.225 ( 84.5  78.4)     1094     1094   8110158     Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775 (GCA_003697165.2, ASM369716v2)
+ 97.227 ( 84.4  79.2)        0        0   1180448     Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775 (GCA_000734955.1, ASM73495v1)
+ 97.118 ( 84.4  78.3)        0        0   9896418     Escherichia coli (GCA_900706755.1, 27731_A01)
+ 97.228 ( 84.4  79.3)        0        0  70248238     Escherichia coli (GCA_965137265.1, CIP54.8T)
+ 98.546 ( 85.4  78.4)   277519   277519   6980428     Shigella sonnei (GCA_900457155.1, 57940_C01)
+ 98.542 ( 85.4  79.9)   121306   121306   6095388     Shigella sonnei (GCA_002950395.1, ASM295039v1)
+ 98.502 ( 79.3  81.5)   110461   110337  24675748     Shigella boydii (GCA_016726285.1, ASM1672628v1)
+ 98.527 ( 79.0  89.8)        0        0   7450908     Shigella boydii (GCA_003572535.1, ASM357253v1)
+ 98.523 ( 78.9  89.0)        0        0  70313368     Shigella boydii (GCA_965139055.1, CIP82.50T)
+ 98.491 ( 79.3  81.9)    51486    51486   6090268     Shigella boydii (GCA_002946735.1, ASM294673v1)
+ 98.344 ( 81.3  76.9)     3094     3094   6095088     Shigella flexneri 2a (GCA_002950215.1, ASM295021v1)
+ 98.344 ( 81.3  80.5)     1589     1589   1895858     Shigella flexneri 2a (GCA_001078805.1, 14928_1#79)
+ 98.498 ( 79.1  73.6)      719      719   6756548     Shigella boydii (GCA_900457095.1, 57940_F01)
+ 98.039 ( 74.5  73.3)      729      729   6756528     Shigella dysenteriae (GCA_900457215.1, 57940_E01)
+ 98.039 ( 74.5  76.0)      317      317   6093968     Shigella dysenteriae (GCA_002949675.1, ASM294967v1)
+ 92.831 ( 80.0  78.4)        0        0  23264548     Escherichia ruysiae (GCA_902498915.1, OPT1704)
+ 91.840 ( 80.8  83.0)     5993     5993  22430298     Escherichia whittamii (GCA_014836715.1, ASM1483671v1)
+ 91.355 ( 77.3  80.4)     1608     1608   1488578   T Escherichia marmotae (GCA_000807695.3, ASM80769v3)
+ 91.345 ( 79.3  75.7)     1018     1018   5934678   T Escherichia marmotae (GCA_002900365.1, ASM290036v1)
+ 91.180 ( 65.7  66.1)      867      867     27028   T Escherichia fergusonii ATCC 35469 (GCA_000026225.1, ASM2622v1)
+ 91.169 ( 65.8  66.2)      294      294  28992518   T Escherichia fergusonii (GCA_020097475.1, ASM2009747v1)
+ 91.166 ( 65.8  66.1)        0        0   6981248   T Escherichia fergusonii (GCA_900450565.1, 28869_D01)
+ 90.383 ( 72.9  77.0)     1107     1107   1316218   T Escherichia albertii NBRC 107761 = DSM 17582 (GCA_000759775.1, ASM75977v1)
+ 90.379 ( 73.2  72.1)      341      341  32610988   T Escherichia albertii NBRC 107761 = DSM 17582 (GCA_022833075.1, EaTS)
+ 83.734 ( 45.5  45.6)     1809     1809   6756988   T Citrobacter koseri (GCA_900446925.1, 31340_G02)
+ 83.482 ( 45.7  40.0)     5677     5677  14211428     Citrobacter cronae (GCA_008802955.1, ASM880295v1)
+ 83.765 ( 46.5  45.9)        0        0   7042458   T Citrobacter koseri (GCA_900461075.1, 31530_B01)

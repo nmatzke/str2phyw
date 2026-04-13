@@ -1,0 +1,157 @@
+# Assembly name:  ASM23891v2
+# Organism name:  Arthrobacter globiformis NBRC 12137 (high G+C Gram-positive bacteria)
+# Infraspecific name:  strain=NBRC 12137
+# Taxid:          1077972
+# BioSample:      SAMD00041813
+# BioProject:     PRJDA71847
+# Submitter:      National Institute of Technology and Evaluation
+# Date:           2011-12-02
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    BAEG01
+# Assembly method: Newbler v. 2.3
+# Genome coverage: 17x
+# Sequencing technology: Roche 454
+# Relation to type material: assembly from type material
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_000238915.2
+# RefSeq assembly accession: GCF_000238915.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000238925.2	GCF_000238925.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+BAEG01000001.1	unplaced-scaffold	na	na	BAEG01000001.1	=	NZ_BAEG01000001.1	Primary Assembly	551	na
+BAEG01000002.1	unplaced-scaffold	na	na	BAEG01000002.1	=	NZ_BAEG01000002.1	Primary Assembly	314	na
+BAEG01000003.1	unplaced-scaffold	na	na	BAEG01000003.1	=	NZ_BAEG01000003.1	Primary Assembly	4566	na
+BAEG01000004.1	unplaced-scaffold	na	na	BAEG01000004.1	=	NZ_BAEG01000004.1	Primary Assembly	1879	na
+BAEG01000005.1	unplaced-scaffold	na	na	BAEG01000005.1	=	NZ_BAEG01000005.1	Primary Assembly	47624	na
+BAEG01000006.1	unplaced-scaffold	na	na	BAEG01000006.1	=	NZ_BAEG01000006.1	Primary Assembly	515	na
+BAEG01000007.1	unplaced-scaffold	na	na	BAEG01000007.1	=	NZ_BAEG01000007.1	Primary Assembly	470	na
+BAEG01000008.1	unplaced-scaffold	na	na	BAEG01000008.1	=	NZ_BAEG01000008.1	Primary Assembly	196513	na
+BAEG01000009.1	unplaced-scaffold	na	na	BAEG01000009.1	=	NZ_BAEG01000009.1	Primary Assembly	5738	na
+BAEG01000010.1	unplaced-scaffold	na	na	BAEG01000010.1	=	NZ_BAEG01000010.1	Primary Assembly	118158	na
+BAEG01000011.1	unplaced-scaffold	na	na	BAEG01000011.1	=	NZ_BAEG01000011.1	Primary Assembly	39967	na
+BAEG01000012.1	unplaced-scaffold	na	na	BAEG01000012.1	=	NZ_BAEG01000012.1	Primary Assembly	65380	na
+BAEG01000013.1	unplaced-scaffold	na	na	BAEG01000013.1	=	NZ_BAEG01000013.1	Primary Assembly	13457	na
+BAEG01000014.1	unplaced-scaffold	na	na	BAEG01000014.1	=	NZ_BAEG01000014.1	Primary Assembly	82220	na
+BAEG01000015.1	unplaced-scaffold	na	na	BAEG01000015.1	=	NZ_BAEG01000015.1	Primary Assembly	57614	na
+BAEG01000016.1	unplaced-scaffold	na	na	BAEG01000016.1	=	NZ_BAEG01000016.1	Primary Assembly	89913	na
+BAEG01000017.1	unplaced-scaffold	na	na	BAEG01000017.1	=	NZ_BAEG01000017.1	Primary Assembly	511	na
+BAEG01000018.1	unplaced-scaffold	na	na	BAEG01000018.1	=	NZ_BAEG01000018.1	Primary Assembly	1315	na
+BAEG01000019.1	unplaced-scaffold	na	na	BAEG01000019.1	=	NZ_BAEG01000019.1	Primary Assembly	1753	na
+BAEG01000020.1	unplaced-scaffold	na	na	BAEG01000020.1	=	NZ_BAEG01000020.1	Primary Assembly	41057	na
+BAEG01000021.1	unplaced-scaffold	na	na	BAEG01000021.1	=	NZ_BAEG01000021.1	Primary Assembly	801	na
+BAEG01000022.1	unplaced-scaffold	na	na	BAEG01000022.1	=	NZ_BAEG01000022.1	Primary Assembly	2700	na
+BAEG01000023.1	unplaced-scaffold	na	na	BAEG01000023.1	=	NZ_BAEG01000023.1	Primary Assembly	34112	na
+BAEG01000024.1	unplaced-scaffold	na	na	BAEG01000024.1	=	NZ_BAEG01000024.1	Primary Assembly	1094	na
+BAEG01000025.1	unplaced-scaffold	na	na	BAEG01000025.1	=	NZ_BAEG01000025.1	Primary Assembly	9628	na
+BAEG01000026.1	unplaced-scaffold	na	na	BAEG01000026.1	=	NZ_BAEG01000026.1	Primary Assembly	1456	na
+BAEG01000027.1	unplaced-scaffold	na	na	BAEG01000027.1	=	NZ_BAEG01000027.1	Primary Assembly	212937	na
+BAEG01000028.1	unplaced-scaffold	na	na	BAEG01000028.1	=	NZ_BAEG01000028.1	Primary Assembly	40983	na
+BAEG01000029.1	unplaced-scaffold	na	na	BAEG01000029.1	=	NZ_BAEG01000029.1	Primary Assembly	10401	na
+BAEG01000030.1	unplaced-scaffold	na	na	BAEG01000030.1	=	NZ_BAEG01000030.1	Primary Assembly	19064	na
+BAEG01000031.1	unplaced-scaffold	na	na	BAEG01000031.1	=	NZ_BAEG01000031.1	Primary Assembly	1060	na
+BAEG01000032.1	unplaced-scaffold	na	na	BAEG01000032.1	=	NZ_BAEG01000032.1	Primary Assembly	68825	na
+BAEG01000033.1	unplaced-scaffold	na	na	BAEG01000033.1	=	NZ_BAEG01000033.1	Primary Assembly	11596	na
+BAEG01000034.1	unplaced-scaffold	na	na	BAEG01000034.1	=	NZ_BAEG01000034.1	Primary Assembly	1439	na
+BAEG01000035.1	unplaced-scaffold	na	na	BAEG01000035.1	=	NZ_BAEG01000035.1	Primary Assembly	67846	na
+BAEG01000036.1	unplaced-scaffold	na	na	BAEG01000036.1	=	NZ_BAEG01000036.1	Primary Assembly	44333	na
+BAEG01000037.1	unplaced-scaffold	na	na	BAEG01000037.1	=	NZ_BAEG01000037.1	Primary Assembly	258877	na
+BAEG01000038.1	unplaced-scaffold	na	na	BAEG01000038.1	=	NZ_BAEG01000038.1	Primary Assembly	17618	na
+BAEG01000039.1	unplaced-scaffold	na	na	BAEG01000039.1	=	NZ_BAEG01000039.1	Primary Assembly	144036	na
+BAEG01000040.1	unplaced-scaffold	na	na	BAEG01000040.1	=	NZ_BAEG01000040.1	Primary Assembly	44590	na
+BAEG01000041.1	unplaced-scaffold	na	na	BAEG01000041.1	=	NZ_BAEG01000041.1	Primary Assembly	778	na
+BAEG01000042.1	unplaced-scaffold	na	na	BAEG01000042.1	=	NZ_BAEG01000042.1	Primary Assembly	21206	na
+BAEG01000043.1	unplaced-scaffold	na	na	BAEG01000043.1	=	NZ_BAEG01000043.1	Primary Assembly	18080	na
+BAEG01000044.1	unplaced-scaffold	na	na	BAEG01000044.1	=	NZ_BAEG01000044.1	Primary Assembly	3738	na
+BAEG01000045.1	unplaced-scaffold	na	na	BAEG01000045.1	=	NZ_BAEG01000045.1	Primary Assembly	22588	na
+BAEG01000046.1	unplaced-scaffold	na	na	BAEG01000046.1	=	NZ_BAEG01000046.1	Primary Assembly	15099	na
+BAEG01000047.1	unplaced-scaffold	na	na	BAEG01000047.1	=	NZ_BAEG01000047.1	Primary Assembly	142377	na
+BAEG01000048.1	unplaced-scaffold	na	na	BAEG01000048.1	=	NZ_BAEG01000048.1	Primary Assembly	22638	na
+BAEG01000049.1	unplaced-scaffold	na	na	BAEG01000049.1	=	NZ_BAEG01000049.1	Primary Assembly	508	na
+BAEG01000050.1	unplaced-scaffold	na	na	BAEG01000050.1	=	NZ_BAEG01000050.1	Primary Assembly	28855	na
+BAEG01000051.1	unplaced-scaffold	na	na	BAEG01000051.1	=	NZ_BAEG01000051.1	Primary Assembly	197943	na
+BAEG01000052.1	unplaced-scaffold	na	na	BAEG01000052.1	=	NZ_BAEG01000052.1	Primary Assembly	512	na
+BAEG01000053.1	unplaced-scaffold	na	na	BAEG01000053.1	=	NZ_BAEG01000053.1	Primary Assembly	525	na
+BAEG01000054.1	unplaced-scaffold	na	na	BAEG01000054.1	=	NZ_BAEG01000054.1	Primary Assembly	128976	na
+BAEG01000055.1	unplaced-scaffold	na	na	BAEG01000055.1	=	NZ_BAEG01000055.1	Primary Assembly	9604	na
+BAEG01000056.1	unplaced-scaffold	na	na	BAEG01000056.1	=	NZ_BAEG01000056.1	Primary Assembly	8006	na
+BAEG01000057.1	unplaced-scaffold	na	na	BAEG01000057.1	=	NZ_BAEG01000057.1	Primary Assembly	144	na
+BAEG01000058.1	unplaced-scaffold	na	na	BAEG01000058.1	=	NZ_BAEG01000058.1	Primary Assembly	104642	na
+BAEG01000059.1	unplaced-scaffold	na	na	BAEG01000059.1	=	NZ_BAEG01000059.1	Primary Assembly	18332	na
+BAEG01000060.1	unplaced-scaffold	na	na	BAEG01000060.1	=	NZ_BAEG01000060.1	Primary Assembly	1058	na
+BAEG01000061.1	unplaced-scaffold	na	na	BAEG01000061.1	=	NZ_BAEG01000061.1	Primary Assembly	1567	na
+BAEG01000062.1	unplaced-scaffold	na	na	BAEG01000062.1	=	NZ_BAEG01000062.1	Primary Assembly	407	na
+BAEG01000063.1	unplaced-scaffold	na	na	BAEG01000063.1	=	NZ_BAEG01000063.1	Primary Assembly	476	na
+BAEG01000064.1	unplaced-scaffold	na	na	BAEG01000064.1	=	NZ_BAEG01000064.1	Primary Assembly	123910	na
+BAEG01000065.1	unplaced-scaffold	na	na	BAEG01000065.1	=	NZ_BAEG01000065.1	Primary Assembly	22583	na
+BAEG01000066.1	unplaced-scaffold	na	na	BAEG01000066.1	=	NZ_BAEG01000066.1	Primary Assembly	824	na
+BAEG01000067.1	unplaced-scaffold	na	na	BAEG01000067.1	=	NZ_BAEG01000067.1	Primary Assembly	523	na
+BAEG01000068.1	unplaced-scaffold	na	na	BAEG01000068.1	=	NZ_BAEG01000068.1	Primary Assembly	551	na
+BAEG01000069.1	unplaced-scaffold	na	na	BAEG01000069.1	=	NZ_BAEG01000069.1	Primary Assembly	87514	na
+BAEG01000070.1	unplaced-scaffold	na	na	BAEG01000070.1	=	NZ_BAEG01000070.1	Primary Assembly	15854	na
+BAEG01000071.1	unplaced-scaffold	na	na	BAEG01000071.1	=	NZ_BAEG01000071.1	Primary Assembly	116	na
+BAEG01000072.1	unplaced-scaffold	na	na	BAEG01000072.1	=	NZ_BAEG01000072.1	Primary Assembly	5495	na
+BAEG01000073.1	unplaced-scaffold	na	na	BAEG01000073.1	=	NZ_BAEG01000073.1	Primary Assembly	198261	na
+BAEG01000074.1	unplaced-scaffold	na	na	BAEG01000074.1	=	NZ_BAEG01000074.1	Primary Assembly	68652	na
+BAEG01000075.1	unplaced-scaffold	na	na	BAEG01000075.1	=	NZ_BAEG01000075.1	Primary Assembly	79186	na
+BAEG01000076.1	unplaced-scaffold	na	na	BAEG01000076.1	=	NZ_BAEG01000076.1	Primary Assembly	933	na
+BAEG01000077.1	unplaced-scaffold	na	na	BAEG01000077.1	=	NZ_BAEG01000077.1	Primary Assembly	38109	na
+BAEG01000078.1	unplaced-scaffold	na	na	BAEG01000078.1	=	NZ_BAEG01000078.1	Primary Assembly	105269	na
+BAEG01000079.1	unplaced-scaffold	na	na	BAEG01000079.1	=	NZ_BAEG01000079.1	Primary Assembly	2110	na
+BAEG01000080.1	unplaced-scaffold	na	na	BAEG01000080.1	=	NZ_BAEG01000080.1	Primary Assembly	199783	na
+BAEG01000081.1	unplaced-scaffold	na	na	BAEG01000081.1	=	NZ_BAEG01000081.1	Primary Assembly	2634	na
+BAEG01000082.1	unplaced-scaffold	na	na	BAEG01000082.1	=	NZ_BAEG01000082.1	Primary Assembly	971	na
+BAEG01000083.1	unplaced-scaffold	na	na	BAEG01000083.1	=	NZ_BAEG01000083.1	Primary Assembly	218026	na
+BAEG01000084.1	unplaced-scaffold	na	na	BAEG01000084.1	=	NZ_BAEG01000084.1	Primary Assembly	1541	na
+BAEG01000085.1	unplaced-scaffold	na	na	BAEG01000085.1	=	NZ_BAEG01000085.1	Primary Assembly	378214	na
+BAEG01000086.1	unplaced-scaffold	na	na	BAEG01000086.1	=	NZ_BAEG01000086.1	Primary Assembly	127	na
+BAEG01000087.1	unplaced-scaffold	na	na	BAEG01000087.1	=	NZ_BAEG01000087.1	Primary Assembly	962	na
+BAEG01000088.1	unplaced-scaffold	na	na	BAEG01000088.1	=	NZ_BAEG01000088.1	Primary Assembly	269	na
+BAEG01000089.1	unplaced-scaffold	na	na	BAEG01000089.1	=	NZ_BAEG01000089.1	Primary Assembly	998	na
+BAEG01000090.1	unplaced-scaffold	na	na	BAEG01000090.1	=	NZ_BAEG01000090.1	Primary Assembly	758	na
+BAEG01000091.1	unplaced-scaffold	na	na	BAEG01000091.1	=	NZ_BAEG01000091.1	Primary Assembly	121132	na
+BAEG01000092.1	unplaced-scaffold	na	na	BAEG01000092.1	=	NZ_BAEG01000092.1	Primary Assembly	101416	na
+BAEG01000093.1	unplaced-scaffold	na	na	BAEG01000093.1	=	NZ_BAEG01000093.1	Primary Assembly	19794	na
+BAEG01000094.1	unplaced-scaffold	na	na	BAEG01000094.1	=	NZ_BAEG01000094.1	Primary Assembly	76675	na
+BAEG01000095.1	unplaced-scaffold	na	na	BAEG01000095.1	=	NZ_BAEG01000095.1	Primary Assembly	620	na
+BAEG01000096.1	unplaced-scaffold	na	na	BAEG01000096.1	=	NZ_BAEG01000096.1	Primary Assembly	49031	na
+BAEG01000097.1	unplaced-scaffold	na	na	BAEG01000097.1	=	NZ_BAEG01000097.1	Primary Assembly	4649	na
+BAEG01000098.1	unplaced-scaffold	na	na	BAEG01000098.1	=	NZ_BAEG01000098.1	Primary Assembly	45923	na
+BAEG01000099.1	unplaced-scaffold	na	na	BAEG01000099.1	=	NZ_BAEG01000099.1	Primary Assembly	504	na
+BAEG01000100.1	unplaced-scaffold	na	na	BAEG01000100.1	=	NZ_BAEG01000100.1	Primary Assembly	625	na
+BAEG01000101.1	unplaced-scaffold	na	na	BAEG01000101.1	=	NZ_BAEG01000101.1	Primary Assembly	14211	na
+BAEG01000102.1	unplaced-scaffold	na	na	BAEG01000102.1	=	NZ_BAEG01000102.1	Primary Assembly	165	na
+BAEG01000103.1	unplaced-scaffold	na	na	BAEG01000103.1	=	NZ_BAEG01000103.1	Primary Assembly	121	na
+BAEG01000104.1	unplaced-scaffold	na	na	BAEG01000104.1	=	NZ_BAEG01000104.1	Primary Assembly	108	na
+BAEG01000105.1	unplaced-scaffold	na	na	BAEG01000105.1	=	NZ_BAEG01000105.1	Primary Assembly	136	na
+BAEG01000106.1	unplaced-scaffold	na	na	BAEG01000106.1	=	NZ_BAEG01000106.1	Primary Assembly	351	na
+BAEG01000107.1	unplaced-scaffold	na	na	BAEG01000107.1	=	NZ_BAEG01000107.1	Primary Assembly	726	na
+BAEG01000108.1	unplaced-scaffold	na	na	BAEG01000108.1	=	NZ_BAEG01000108.1	Primary Assembly	1101	na
+BAEG01000109.1	unplaced-scaffold	na	na	BAEG01000109.1	=	NZ_BAEG01000109.1	Primary Assembly	284	na
+BAEG01000110.1	unplaced-scaffold	na	na	BAEG01000110.1	=	NZ_BAEG01000110.1	Primary Assembly	63402	na
+BAEG01000111.1	unplaced-scaffold	na	na	BAEG01000111.1	=	NZ_BAEG01000111.1	Primary Assembly	53589	na
+BAEG01000112.1	unplaced-scaffold	na	na	BAEG01000112.1	=	NZ_BAEG01000112.1	Primary Assembly	3940	na
+BAEG01000113.1	unplaced-scaffold	na	na	BAEG01000113.1	=	NZ_BAEG01000113.1	Primary Assembly	104579	na
+BAEG01000114.1	unplaced-scaffold	na	na	BAEG01000114.1	=	NZ_BAEG01000114.1	Primary Assembly	18116	na
+BAEG01000115.1	unplaced-scaffold	na	na	BAEG01000115.1	=	NZ_BAEG01000115.1	Primary Assembly	1555	na
+BAEG01000116.1	unplaced-scaffold	na	na	BAEG01000116.1	=	NZ_BAEG01000116.1	Primary Assembly	85500	na
+BAEG01000117.1	unplaced-scaffold	na	na	BAEG01000117.1	=	NZ_BAEG01000117.1	Primary Assembly	474	na
+BAEG01000118.1	unplaced-scaffold	na	na	BAEG01000118.1	=	NZ_BAEG01000118.1	Primary Assembly	117292	na
+BAEG01000119.1	unplaced-scaffold	na	na	BAEG01000119.1	=	NZ_BAEG01000119.1	Primary Assembly	947	na
+BAEG01000120.1	unplaced-scaffold	na	na	BAEG01000120.1	=	NZ_BAEG01000120.1	Primary Assembly	511	na
+BAEG01000121.1	unplaced-scaffold	na	na	BAEG01000121.1	=	NZ_BAEG01000121.1	Primary Assembly	106	na
+BAEG01000122.1	unplaced-scaffold	na	na	BAEG01000122.1	=	NZ_BAEG01000122.1	Primary Assembly	705	na
+BAEG01000123.1	unplaced-scaffold	na	na	BAEG01000123.1	=	NZ_BAEG01000123.1	Primary Assembly	146	na
+BAEG01000124.1	unplaced-scaffold	na	na	BAEG01000124.1	=	NZ_BAEG01000124.1	Primary Assembly	129	na
+BAEG01000125.1	unplaced-scaffold	na	na	BAEG01000125.1	=	NZ_BAEG01000125.1	Primary Assembly	704	na

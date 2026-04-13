@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_000006945.2
+Submitted organism: Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 (trusted species) (taxid = 99287, rank = no rank, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella)
+Best match: Salmonella enterica (trusted species) (taxid = 28901, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 99.999 (100.0 100.0)  4951381  4857448   6151598   T Salmonella enterica (GCA_001558355.2, ASM155835v2)
+ 99.998 ( 98.8 100.0)        0        0   4996228   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_002289225.1, ASM228922v1)
+ 99.961 ( 99.9  99.5)        0        0   6982048   T Salmonella enterica subsp. enterica (GCA_900456445.1, 31340_A02)
+ 99.999 (100.0  99.9)        0        0  11349288   T Salmonella enterica (GCA_006365335.1, ASM636533v1)
+ 99.998 ( 98.3 100.0)        0        0  16289628   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_010191885.1, PDT000436920.1)
+100.000 ( 98.7  99.9)        0        0  16795618   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_010649825.1, PDT000127621.2)
+100.000 ( 98.6 100.0)        0        0  16873118   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_010726345.1, PDT000002030.7)
+ 99.999 ( 98.1 100.0)        0        0  21837838   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_014334155.1, ASM1433415v1)
+ 99.996 (100.0  99.6)        0        0  23872078   T Salmonella enterica (GCA_016028495.1, ASM1602849v1)
+ 99.999 (100.0 100.0)        0        0  32655888   T Salmonella enterica subsp. enterica (GCA_022869965.1, ASM2286996v1)
+100.000 ( 98.8 100.0)        0        0  59876478   T Salmonella enterica subsp. enterica (GCA_040365735.1, ASM4036573v1)
+ 99.993 (100.0 100.0)        0        0  60879288   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_041080895.1, ASM4108089v1)
+ 96.307 ( 81.7  86.5)        0        0  14066738   T Salmonella enterica subsp. salamae (GCA_008692775.1, ASM869277v1)
+ 96.307 ( 81.6  83.8)        0        0  23872688   T Salmonella enterica subsp. salamae (GCA_016029065.1, PDT000910284.1)
+ 96.287 ( 82.2  86.2)        0        0   8119548   T Salmonella enterica subsp. salamae (GCA_900635535.1, 30316_A02)
+ 99.918 ( 94.2  98.2)        0        0    987978   T Salmonella enterica subsp. enterica serovar Typhimurium str. JCM 1652 (GCA_000614485.1, ASM61448v1)
+ 99.952 ( 95.7  98.1)        0        0   1191238   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_000743055.1, ASM74305v1)
+ 99.937 ( 95.7  98.1)        0        0   6981128   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_900456755.1, 28265_A01)
+ 99.959 ( 95.1  97.9)        0        0  70219758   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_047688675.1, ASM4768867v1)
+ 98.898 ( 89.6  94.8)        0        0   6612328   T Salmonella enterica (GCA_003201315.1, ASM320131v1)
+ 98.887 ( 91.5  93.9)        0        0   6980488   T Salmonella enterica subsp. enterica serovar Choleraesuis (GCA_900456705.1, 57940_H01)
+ 98.884 ( 90.5  93.4)        0        0  23990048   T Salmonella enterica (GCA_016117835.1, ASM1611783v1)
+ 98.897 ( 90.6  94.8)        0        0  58727858   T Salmonella enterica subsp. enterica (GCA_039544975.1, ASM3954497v1)
+ 98.507 ( 87.2  90.1)        0        0      8348   T Salmonella enterica subsp. enterica serovar Typhi str. Ty2 (GCA_000007545.1, ASM754v1)
+ 98.508 ( 87.2  89.4)        0        0   6980468   T Salmonella enterica subsp. enterica serovar Typhi (GCA_900456745.1, 57940_G01)
+ 98.481 ( 86.9  92.7)        0        0  23288578   T Salmonella enterica subsp. enterica serovar Typhimurium (GCA_015565735.1, ASM1556573v1)
+ 95.820 ( 81.5  81.9)        0        0   6981088   T Salmonella enterica subsp. indica (GCA_900456865.1, 28265_D01)
+ 95.818 ( 80.3  78.8)        0        0  26331528   T Salmonella enterica subsp. indica (GCA_018033035.1, PDT000909609.1)
+ 95.326 ( 77.8  76.9)        0        0   6983768   T Salmonella enterica subsp. diarizonae (GCA_900456375.1, 36005_B01)
+ 95.372 ( 77.3  77.6)        0        0  14066748   T Salmonella enterica subsp. diarizonae (GCA_008692785.1, ASM869278v1)
+ 95.365 ( 77.2  73.3)        0        0  23873688   T Salmonella enterica subsp. diarizonae (GCA_016030095.1, PDT000909608.1)
+ 95.129 ( 77.2  80.8)        0        0   9303268   T Salmonella enterica subsp. houtenae (GCA_900706745.1, 28193_E01)
+ 95.136 ( 76.7  82.0)        0        0  14066718   T Salmonella enterica subsp. houtenae (GCA_008692755.1, ASM869275v1)
+ 93.523 ( 74.4  82.0)        0        0  14066788   T Salmonella enterica subsp. arizonae (GCA_008692845.1, ASM869284v1)
+ 93.515 ( 74.3  79.3)        0        0  23872978   T Salmonella enterica subsp. arizonae (GCA_016029385.1, PDT000910268.1)
+ 93.561 ( 73.8  83.2)        0        0  70306918   T Salmonella enterica subsp. arizonae (GCA_965138065.1, CIP82.30T)
+ 93.436 ( 74.8  81.5)        0        0   6981848   T Salmonella enterica subsp. arizonae (GCA_900456225.1, 31180_C01)
+ 90.058 ( 74.6  82.8)        0        0    362708     Salmonella bongori NCTC 12419 (GCA_000252995.1, ASM25299v1)
+ 89.920 ( 74.6  82.7)        0        0   8119448     Salmonella bongori (GCA_900635485.1, 29751_D01)
+ 90.025 ( 74.1  83.2)        0        0  70306998     Salmonella bongori (GCA_965138075.1, CIP82.33T)

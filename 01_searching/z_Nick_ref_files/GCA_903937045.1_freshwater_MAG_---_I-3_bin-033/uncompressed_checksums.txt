@@ -1,0 +1,7 @@
+#file	md5sum	crc32	size
+./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_ani_contam_ranges.tsv	c6383ecd1034b2d3ee2f809fc3d5b879	6a37d701	1855
+./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_ani_report.txt	8cda49fdcda59138a4ffe381a5641054	bd109ffe	1782
+./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_assembly_report.txt	053818e7c036802f035fdaf2414665bb	4025f63f	60411
+./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_fcs_report.txt	c70800bd3eabca804da52b6fca9bb7e5	7ce3d7d8	1204
+./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_genomic.fna	72d79d0f7a3d999329a05158378cd155	aabe6342	2028370
+./GCA_903937045.1_freshwater_MAG_---_I-3_bin-033_genomic.gbff	7489587d140fdaefa1753be959153aa6	98829b9b	3375185
