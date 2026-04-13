@@ -5,15 +5,15 @@
 # # ./attach_genomeIDs_to_protIDs_v4.sh
 
 run_cmds='
-cd ~/GitHub/str2phyw/01_searching/genomes/
+cd ~/GitHub/str2phyw/01_searching/
 chmod a+x *.sh
 ./attach_genomeIDs_to_protIDs_v4.sh
 ' # END 
 # Overall directory
 starting_dir="$HOME/GitHub/str2phyw/01_searching/genomes/"
 # Output file
-outfn1="$HOME/GitHub/str2phyw/01_searching/genomes/all_seqnames.txt"
-outfn2="$HOME/GitHub/str2phyw/01_searching/genomes/all_seqIDs.txt"
+outfn1="$HOME/GitHub/str2phyw/01_searching/genomes/all_seqnames2.txt"
+outfn2="$HOME/GitHub/str2phyw/01_searching/genomes/all_seqIDs2.txt"
 
 # Delete the old files
 rm $outfn1
@@ -52,24 +52,26 @@ rm 34_genomes_AAs.fasta
 rm 34_genomes_AAs.fasta.ssi
 
 # Test a message
-fn="GCA_000005825.2_ASM582v2/GCA_000005825.2_ASM582v2_protein.faa"
+fn="./GCA_000005845.2_ASM584v2/GCA_000005845.2_ASM584v2_protein.faa"
 echo "while loop is starting to accumulate protein FASTA files, with the genomeID| appended before proteinID. Listing files processed..."
 
-cd ~/GitHub/str2phyw/01_searching/
-
+cd ~/GitHub/str2phyw/01_searching/genomes/
+head faa_names.txt
 
 # While loop
 while read fn; do
 	#echo $fn
 	
-	# Extract the genome ID, add "|"
-  string_to_add="$(echo $fn | cut -d'_' -f1,2)"
+	# Extract the genome ID, cut "./", add "|"
+	string_to_add="$(echo $fn | sed 's#./##g')"
+	echo $string_to_add
+  string_to_add="$(echo $string_to_add | cut -d'_' -f1,2)"
   string_to_add="${string_to_add}|"
   echo $string_to_add
 	
 	# Add the genomeID to the front of every headers
 	# output to tmpfn.txt
-	sed "s/^>/>$string_to_add/" $fn > tmpfn.txt
+	sed "s#^>#>$string_to_add#" $fn > tmpfn.txt
 	
 	#echo "This is a sample line." | sed "s/^\([^ ]*\)/\1 $string_to_add/"
 	#sed "s/^\([^ ]*\)/\1 $string_to_add/" $fn > tmpfn.txt
@@ -84,11 +86,10 @@ while read fn; do
 	#cat $fn >> 34_genomes_AAs.fasta
 	
 	# Remove temporary file
-	rm tmpfn.txt 
-done <genomes/faa_names.txt
-echo "...Done!"
+	#rm tmpfn.txt 
+done <faa_names.txt
+echo "...Done"
 
-cd genomes
 head 34_genomes_AAs.fasta
 
 wc 34_genomes_AAs.fasta
@@ -96,12 +97,12 @@ wc faa_names.txt
 wc $outfn1
 wc $outfn2
 
-stop
 
-# 9304779 20314984 713894367 34_genomes_AAs.fasta
-#        494     494   33088 faa_names.txt
-# 1690668 12700874 158107802 /Users/nmat471/DropboxUoA/flag/Full_genomes/genomes/34_genomes_AAs_all_seqnames.txt
-#  1690668 1690668  46295900 /Users/nmat471/DropboxUoA/flag/Full_genomes/genomes/34_genomes_AAs_all_seqIDs.txt
+
+#      34      34    2312 faa_names.txt
+#  693734 1616102 53630340 34_genomes_AAs.fasta
+#  127995 1050363 12277565 /Users/nmat471/GitHub/str2phyw/01_searching/genomes/all_seqnames.txt
+#  127995  127995 3473617 /Users/nmat471/GitHub/str2phyw/01_searching/genomes/all_seqIDs.txt
 
 
 #######################################################
@@ -119,18 +120,18 @@ esl-sfetch --index 34_genomes_AAs.fasta
 # cp 34_genomes_AAs_all_seqnames.txt ~/Downloads/
 # cp 34_genomes_AAs_all_seqIDs.txt ~/Downloads/ # for fast grepping
 
-grep -c WP_444497551.1 34_genomes_AAs_all_seqnames.txt
-grep WP_444497551.1 34_genomes_AAs_all_seqnames.txt
+grep -c AAC73118.1 all_seqnames2.txt
+grep AAC73118.1 all_seqnames2.txt
 
-# Failed to write keys to ssi file /Users/nickm/Downloads/34_genomes_AAs.fasta.ssi:
+# If you get: Failed to write keys to ssi file /Users/nickm/Downloads/34_genomes_AAs.fasta.ssi:
 #  primary keys not unique: 'WP_000135199.1' occurs more than once
-grep -c WP_000135199.1 34_genomes_AAs_all_seqnames.txt
-grep WP_000135199.1 34_genomes_AAs_all_seqnames.txt
+#grep -c WP_000135199.1 all_seqnames.txt
+#grep WP_000135199.1 all_seqnames.txt
 # GCF_000264275.1|WP_000135199.1 MULTISPECIES: 30S ribosomal protein S18 [Gammaproteobacteria]
 # GCF_000264785.1|WP_000135199.1 MULTISPECIES: 30S ribosomal protein S18 [Gammaproteobacteria]
 # GCF_000439895.1|WP_000135199.1 MULTISPECIES: 30S ribosomal protein S18 [Gammaproteobacteria]
 # GCF_905331265.2|WP_000135199.1 MULTISPECIES: 30S ribosomal protein S18 [Gammaproteobacteria]
-grep WP_000135199.1 34_genomes_AAs_all_seqIDs.txt
+#grep WP_000135199.1 all_seqIDs2.txt
 
 
 
@@ -142,10 +143,16 @@ grep WP_000135199.1 34_genomes_AAs_all_seqIDs.txt
 
 # R script
 cmds='
-wd = "~/DropboxUoA/flag/Full_genomes/genomes"
+wd = "~/GitHub/str2phyw/01_searching/genomes/"
 setwd(wd)
-df = read.table("all_seqIDs.txt", header=FALSE)
-dim(df)
-nrow(df) 							# 1686098 
-length(unique(df$V2)) # 1679155
+df1 = read.table("all_seqIDs2.txt", header=FALSE)
+dim(df1)
+nrow(df1) 							# 1686098 
+
+df2 = read.table(file="all_seqnames2.txt", header=FALSE, sep="\t", quote="", row.names=NULL, fill=TRUE, strip.white=TRUE, blank.lines.skip=TRUE, stringsAsFactors=FALSE)
+dim(df2)								# 127995      2
+nrow(df2) 							# 127995
+length(unique(df2$V2)) # 127995
+
+
 '

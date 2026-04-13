@@ -1,0 +1,19 @@
+# Search the 34 genomes for the flagella stuff (for reference)
+cd ~/GitHub/str2phyw/01_searching/ 
+hmmsearch -E 0.31 --tblout MotA_ExbB_TolQ_fromAll_seqHitsTable.txt IPR002898_AQB.hmm ~/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta
+hmmsearch -E 0.31 --tblout MotB_ExbD_TolR_fromAll_seqHitsTable.txt IPR003400_ExbD_TolR.hmm ~/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta
+
+
+# JackHMMER (to build profile from scratch)
+# jackhmmer --domtblout AQBs_wLitLinks_HitsTable.txt -A AQBs_wLitLinks_aln.fasta motA_homologs_compSamp3_noHypotheticals.fasta genomes_wLitLinks.fasta | tee screenoutput.txt &
+
+# Basic
+# hmmsearch motA_homologs_compSamp3_noHypotheticals.hmm genomes_wLitLinks.fasta
+# hmmsearch --tblout -E 0.31 AQBs_wLitLinks_seqHitsTable.txt motA_homologs_compSamp3_noHypotheticals.hmm genomes_wLitLinks.fasta  
+
+grep -v "^#" MotA_ExbB_TolQ_fromAll_seqHitsTable.txt | awk '{print $1}' | esl-sfetch -f ~/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta - > AQBs_wLitLinks_aln.fasta
+grep -v "^#" MotB_ExbD_TolR_fromAll_seqHitsTable.txt | awk '{print $1}' | esl-sfetch -f ~/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta - > BRDs_wLitLinks_aln.fasta
+
+head AQBs_wLitLinks_aln.fasta
+head BRDs_wLitLinks_aln.fasta
+

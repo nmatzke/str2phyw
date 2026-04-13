@@ -1,0 +1,7 @@
+For a basic tutorial on downloading individual sequence IDs, converting to 3Dis, and aligning:
+
+See ~/GitHub/AA_to_3Di/
+
+01_get_seqs
+02_get_alphafolds
+

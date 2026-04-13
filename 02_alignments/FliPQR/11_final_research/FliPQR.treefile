@@ -1,0 +1,517 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=415;
+	taxlabels
+	'AAC07711.1_FliP_Aquifex_aeolicus_VF5'
+	'AAC07731.1_FliQ_Aquifex_aeolicus_VF5'
+	'AAC07732.1_FliR_Aquifex_aeolicus_VF5'
+	'AAC68164.1_YopR_Chlamydia_trachomatis_D-UW-3-CX'
+	'AAC68165.1_YopS_Chlamydia_trachomatis_D-UW-3-CX'
+	'AAC68166.1_YopT_Chlamydia_trachomatis_D-UW-3-CX'
+	'AAC75015.1_FliP_Escherichia_coli_str_K-12_substr_MG1655'
+	'AAC75016.1_FliQ_Escherichia_coli_str_K-12_substr_MG1655'
+	'AAC75017.1_FliR_Escherichia_coli_str_K-12_substr_MG1655'
+	'AAG04835.1_FliP_Pseudomonas_aeruginosa_PAO1'
+	'AAG04836.1_FliQ_Pseudomonas_aeruginosa_PAO1'
+	'AAG04837.1_FliR_Pseudomonas_aeruginosa_PAO1'
+	'AAG05080.1_T3SS_Pseudomonas_aeruginosa_PAO1'
+	'AAG05081.1_T3SS_Pseudomonas_aeruginosa_PAO1'
+	'AAG05082.1_T3SS_Pseudomonas_aeruginosa_PAO1'
+	'AAP98781.1_YopT_Chlamydia_pneumoniae_TW-183'
+	'AAP98782.1_S_Chlamydia_pneumoniae_TW-183'
+	'AAP98783.1_YscR_Chlamydia_pneumoniae_TW-183'
+	'AAR33755.1_FliP_Geobacter_sulfurreducens_PCA'
+	'AAR33756.1_FliQ_Geobacter_sulfurreducens_PCA'
+	'AAR33757.1_FliR_Geobacter_sulfurreducens_PCA'
+	'ABA04392.1_FliP_Nitrobacter_winogradskyi_Nb-255'
+	'ABA04397.1_FliQ_Nitrobacter_winogradskyi_Nb-255'
+	'ABA04398.1_FliR_Nitrobacter_winogradskyi_Nb-255'
+	'ABC77214.1_flag_Syntrophus_aciditrophicus_SB'
+	'ABC77215.1_flag_Syntrophus_aciditrophicus_SB'
+	'ABC77216.1_flag_Syntrophus_aciditrophicus_SB'
+	'ABD81430.1_FliR_Saccharophagus_degradans_2-40'
+	'ABD81431.1_FliQ_Saccharophagus_degradans_2-40'
+	'ABD81432.1_FliP_Saccharophagus_degradans_2-40'
+	'ABF86537.1_FliQ_MopD_SpaQ_Myxococcus_xanthus_DK_1622'
+	'ABF86995.1_FliR_MopE_SpaR_Myxococcus_xanthus_DK_1622'
+	'ABF87286.1_FliR_MopE_SpaR_Myxococcus_xanthus_DK_1622'
+	'ABF87970.1_YscR_HrcR_Myxococcus_xanthus_DK_1622'
+	'ABF90292.1_T3SS_Myxococcus_xanthus_DK_1622'
+	'ABF92172.1_FliP_MopC_SpaP_Myxococcus_xanthus_DK_1622'
+	'ABQ62201.1_FliR_Brucella_ovis_ATCC_25840'
+	'ABQ62510.1_FliP_Brucella_ovis_ATCC_25840'
+	'ABQ62922.1_FliQ_Brucella_ovis_ATCC_25840'
+	'ABY94893.1_FliR_Thermoanaerobacter_pseudethanolicus_ATCC_33223'
+	'ABY94894.1_FliQ_Thermoanaerobacter_pseudethanolicus_ATCC_33223'
+	'ABY94895.1_FliP_Thermoanaerobacter_pseudethanolicus_ATCC_33223'
+	'ACB73697.1_T3SS-R_Opitutus_terrae_PB90-1'
+	'ACB73698.1_FliQ-3_Opitutus_terrae_PB90-1'
+	'ACB73699.1_FliP_Opitutus_terrae_PB90-1'
+	'ACI20273.1_flag_Thermodesulfovibrio_yellowstonii_DSM_11347'
+	'ACI20465.1_FliP_Thermodesulfovibrio_yellowstonii_DSM_11347'
+	'ACI21424.1_FliQ_Thermodesulfovibrio_yellowstonii_DSM_11347'
+	'ACL22145.1_FliR_Desulfitobacterium_hafniense_DCB-2'
+	'ACL22146.1_FliP_Desulfitobacterium_hafniense_DCB-2'
+	'ACL64092.1_T3SS-R_Anaeromyxobacter_dehalogenans_2CP-1'
+	'ACL64093.1_HrpO_Anaeromyxobacter_dehalogenans_2CP-1'
+	'ACL64094.1_T3SS-P_Anaeromyxobacter_dehalogenans_2CP-1'
+	'ACL65928.1_FliP_Anaeromyxobacter_dehalogenans_2CP-1'
+	'ACL65929.1_FliQ-3_Anaeromyxobacter_dehalogenans_2CP-1'
+	'ACL65930.1_T3SS-R_Anaeromyxobacter_dehalogenans_2CP-1'
+	'ACL94467.1_FliP_Caulobacter_vibrioides_NA1000'
+	'ACL94594.1_FliQ_Caulobacter_vibrioides_NA1000'
+	'ACL94595.1_FliR_Caulobacter_vibrioides_NA1000'
+	'ACO32173.1_FliQ_Acidobacterium_capsulatum_ATCC_51196'
+	'ACO33794.1_FliR_Acidobacterium_capsulatum_ATCC_51196'
+	'ACO34562.1_FliP_Acidobacterium_capsulatum_ATCC_51196'
+	'ADB19002.1_FliP_Pirellula_staleyi_DSM_6068'
+	'ADB19003.1_FliQ-3_Pirellula_staleyi_DSM_6068'
+	'ADB19004.1_T3SS-R_Pirellula_staleyi_DSM_6068'
+	'ADC89762.1_FliP_Thermocrinis_albus_DSM_14484'
+	'ADC89763.1_FliQ_Thermocrinis_albus_DSM_14484'
+	'ADC89764.1_FliR_Thermocrinis_albus_DSM_14484'
+	'ADD67095.1_FliP_Denitrovibrio_acetiphilus_DSM_12809'
+	'ADD67096.1_FliQ_Denitrovibrio_acetiphilus_DSM_12809'
+	'ADD69592.1_FliR_Denitrovibrio_acetiphilus_DSM_12809'
+	'ADE83822.1_FliR_Rhodobacter_capsulatus_SB_1003'
+	'ADE87203.1_FliP_Rhodobacter_capsulatus_SB_1003'
+	'ADE87241.1_FliQ_Rhodobacter_capsulatus_SB_1003'
+	'ADG93598.1_FliP_Arcobacter_nitrofigilis_DSM_7299'
+	'ADG94129.1_T3SS-R_Arcobacter_nitrofigilis_DSM_7299'
+	'ADG94527.1_FliQ-3_Arcobacter_nitrofigilis_DSM_7299'
+	'ADL02302.1_FliP_Brevundimonas_subvibrioides_ATCC_15264'
+	'ADL02325.1_FliR_Brevundimonas_subvibrioides_ATCC_15264'
+	'ADL02326.1_FliQ_Brevundimonas_subvibrioides_ATCC_15264'
+	'ADL43203.1_FliR_Caldicellulosiruptor_obsidiansis_OB47'
+	'ADL43204.1_FliQ_Caldicellulosiruptor_obsidiansis_OB47'
+	'ADL43205.1_FliP_Caldicellulosiruptor_obsidiansis_OB47'
+	'ADN08153.1_FliQ_Sulfurimonas_autotrophica_DSM_16294'
+	'ADN08452.1_FliR_Sulfurimonas_autotrophica_DSM_16294'
+	'ADN09319.1_FliP_Sulfurimonas_autotrophica_DSM_16294'
+	'ADO70838.1_T3SS-P_Stigmatella_aurantiaca_DW4-3-1'
+	'ADO70839.1_FliQ-3_Stigmatella_aurantiaca_DW4-3-1'
+	'ADO70840.1_T3SS-R_Stigmatella_aurantiaca_DW4-3-1'
+	'ADO74083.1_T3SS_Stigmatella_aurantiaca_DW4-3-1'
+	'ADO74084.1_FliQ-3_Stigmatella_aurantiaca_DW4-3-1'
+	'ADO74085.1_YscR_HrcR_Stigmatella_aurantiaca_DW4-3-1'
+	'ADV62895.1_FliR_Isospaera_pallida_ATCC_43644'
+	'ADV62896.1_FliQ-3_Isospaera_pallida_ATCC_43644'
+	'ADV62897.1_T3SS-P_Isospaera_pallida_ATCC_43644'
+	'ADY60073.1_FliP_Rubinispaera_brasiliensis_DSM_5305'
+	'ADY60074.1_FliQ_Rubinispaera_brasiliensis_DSM_5305'
+	'ADY60075.1_T3SS-R_Rubinispaera_brasiliensis_DSM_5305'
+	'AEI88618.1_FliR_Midichloria_mitochondrii_IricVA'
+	'AEI88748.1_FliP_Midichloria_mitochondrii_IricVA'
+	'AEM21950.1_FliP_Brachyspra_intermedia_PWS-A'
+	'AEM21951.1_FliQ_Brachyspra_intermedia_PWS-A'
+	'AEM21952.1_FliR_Brachyspra_intermedia_PWS-A'
+	'AEO49357.1_FliR_Rhodosprillum_rubrum_F11'
+	'AEO49358.1_FliQ_Rhodosprillum_rubrum_F11'
+	'AEO49365.1_FliP_Rhodosprillum_rubrum_F11'
+	'AFE06766.1_FliR_MopE_SpaR_transport_Corallococcus_coralloides_DSM_2259'
+	'AFE08796.1_T3SS_Corallococcus_coralloides_DSM_2259'
+	'AFE08797.1_T3SS_Corallococcus_coralloides_DSM_2259'
+	'AFE08798.1_FliQ_MopD_SpaQ_Corallococcus_coralloides_DSM_2259'
+	'AFE08799.1_T3SS_Corallococcus_coralloides_DSM_2259'
+	'AFE08800.1_FliR_MopE_SpaR_Corallococcus_coralloides_DSM_2259'
+	'AFL88130.1_FliP_Terriglobus_roseus_DSM_18391'
+	'AFL88131.1_FliQ_Terriglobus_roseus_DSM_18391'
+	'AFL88132.1_FliR_Terriglobus_roseus_DSM_18391'
+	'AGW38365.1_T3SS_Chlamydia_pecorum_PV3056-3'
+	'AGW38366.1_T3SS_Chlamydia_pecorum_PV3056-3'
+	'AGW38367.1_T3SS_Chlamydia_pecorum_PV3056-3'
+	'AHE96679.1_FliR_Thermocrinis_ruber'
+	'AHE96680.1_FliQ_Thermocrinis_ruber'
+	'AHE96681.1_FliP_Thermocrinis_ruber'
+	'AHZ83693.1_FliR_Bdellovibrio_bacteriovorus'
+	'AHZ83694.1_FliQ_Bdellovibrio_bacteriovorus'
+	'AHZ83695.1_FliP_Bdellovibrio_bacteriovorus'
+	'AIK95852.1_FliQ_Odyssella_acanthamoebae'
+	'AIK95853.1_HYP_ID47_02525_Odyssella_acanthamoebae'
+	'AIK97187.1_FliP_Odyssella_acanthamoebae'
+	'AIQ89832.1_FliP_Methylobacterium_oryzae_CBMB20'
+	'AIQ89850.1_FliR_Methylobacterium_oryzae_CBMB20'
+	'AIQ89852.1_FliQ_Methylobacterium_oryzae_CBMB20'
+	'AIQ90402.1_FliR_Methylobacterium_oryzae_CBMB20'
+	'AIQ90403.1_FliQ_Methylobacterium_oryzae_CBMB20'
+	'AIQ93508.1_FliP_Methylobacterium_oryzae_CBMB20'
+	'AJH77645.1_FliP_Heyndrickxia_coagulans_DSM_1_EQ_ATCC_7050'
+	'AJH78796.1_FliQ_Heyndrickxia_coagulans_DSM_1_EQ_ATCC_7050'
+	'AJH79084.1_FliR_Heyndrickxia_coagulans_DSM_1_EQ_ATCC_7050'
+	'AJJ29686.1_HrpO_plasmid_Yersinia_pestis'
+	'AJJ29688.1_YscR_HrcR_plasmid_Yersinia_pestis'
+	'AJJ29725.1_SpaR_YscT_HrcT_plasmid_Yersinia_pestis'
+	'AJJ29977.1_FliP_Yersinia_pestis'
+	'AJJ30275.1_FliQ_Yersinia_pestis'
+	'AJJ30310.1_FliR_Yersinia_pestis'
+	'AJJ30925.1_FliR_Yersinia_pestis'
+	'AJJ31160.1_YscR_HrcR_Yersinia_pestis'
+	'AJJ32087.1_HrpO_Yersinia_pestis'
+	'AJJ32967.1_FliQ_Yersinia_pestis'
+	'AJJ33265.1_FliP_Yersinia_pestis'
+	'AJJ33845.1_SpaR_YscT_HrcT_Yersinia_pestis'
+	'AJJ53100.1_SpaR_YscT_HrcT_plasmid_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ53113.1_HrpO_plasmid_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ53126.1_YscR_HrcR_plasmid_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ53241.1_FliR_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ53600.1_FliQ_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ53956.1_FliP_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ54970.1_SpaR_YscT_HrcT_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ55627.1_YscR_HrcR_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ55710.1_HrpO_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ55743.1_FliP_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ55932.1_FliR_Yersinia_pseudotuberculosis_IP_32953'
+	'AJJ56036.1_FliQ_Yersinia_pseudotuberculosis_IP_32953'
+	'ALA58613.1_FliR_Nitrospra_moscoviensis'
+	'ALA58614.1_flag_Nitrospra_moscoviensis'
+	'ALA58615.1_flag_Nitrospra_moscoviensis'
+	'ALF47867.1_FliP_Campylobacter_concisus'
+	'ALF48145.1_FliR_Campylobacter_concisus'
+	'ALF48308.1_FliQ_Campylobacter_concisus'
+	'ALJ56894.1_FliR_Xiphinematobacter_sp_Idaho_Grape'
+	'ALJ56895.1_FliQ_Xiphinematobacter_sp_Idaho_Grape'
+	'ALJ56896.1_FliP_precursor_Xiphinematobacter_sp_Idaho_Grape'
+	'ALU37469.1_FliP_Clostridium_autoethanogenum_DSM_10061'
+	'ALU37470.1_FliQ_Clostridium_autoethanogenum_DSM_10061'
+	'ALU37471.1_FliR_FlhB_Clostridium_autoethanogenum_DSM_10061'
+	'AMW03980.1_HYP_GEMMAAP_02300_Gemmatimonas_phototrophica'
+	'AMW03981.1_transport_Gemmatimonas_phototrophica'
+	'AMW06486.1_FliP_Gemmatimonas_phototrophica'
+	'AOO64348.1_FliR_Sulfurosprillum_haloresprans_DSM_13726'
+	'AOO65163.1_FliP_Sulfurosprillum_haloresprans_DSM_13726'
+	'AOO66689.1_FliQ_Sulfurosprillum_haloresprans_DSM_13726'
+	'APC07906.1_FliP_precursor_Neomoorella_thermoacetica'
+	'APC07907.1_FliQ_Neomoorella_thermoacetica'
+	'APC07908.1_FliR_Neomoorella_thermoacetica'
+	'APW41634.1_FliP_Rhodoferax_saidenbachensis'
+	'APW41635.1_FliQ_Rhodoferax_saidenbachensis'
+	'APW41636.1_FliR_Rhodoferax_saidenbachensis'
+	'ARU41577.1_HYP_CCB80_10675_Armatimonadetes_bacterium_Uphvl-Ar1'
+	'ARU41578.1_FliQ_Armatimonadetes_bacterium_Uphvl-Ar1'
+	'ARU41579.1_FliP_Armatimonadetes_bacterium_Uphvl-Ar1'
+	'ATC63660.1_T3SS_Nibricoccus_aquaticus'
+	'ATC63661.1_FliQ_Nibricoccus_aquaticus'
+	'ATC63662.1_FliP_Nibricoccus_aquaticus'
+	'ATO47941.1_FliR_Brevibacillus_laterosprus_DSM_25'
+	'ATO47942.1_EscS_YscS_HrcS_Brevibacillus_laterosprus_DSM_25'
+	'ATO47943.1_FliP_Brevibacillus_laterosprus_DSM_25'
+	'ATU63988.1_FliQ_Piscinibacter_gummiphilus'
+	'ATU63989.1_T3SS_Piscinibacter_gummiphilus'
+	'ATU64010.1_FliP_Piscinibacter_gummiphilus'
+	'ATU65457.1_EscT_YscT_HrcT_Piscinibacter_gummiphilus'
+	'ATU65465.1_EscR_YscR_HrcR_Piscinibacter_gummiphilus'
+	'ATU65466.1_EscS_YscS_HrcS_Piscinibacter_gummiphilus'
+	'ATU65932.1_T3SS_Piscinibacter_gummiphilus'
+	'ATU65933.1_FliQ_Piscinibacter_gummiphilus'
+	'ATU65934.1_FliP_Piscinibacter_gummiphilus'
+	'ATU66732.1_FliR_Piscinibacter_gummiphilus'
+	'ATU66733.1_FliQ_Piscinibacter_gummiphilus'
+	'ATU66734.1_FliP_Piscinibacter_gummiphilus'
+	'ATU68234.1_EscT_YscT_HrcT_Piscinibacter_gummiphilus'
+	'ATU68235.1_EscR_YscR_HrcR_Piscinibacter_gummiphilus'
+	'ATU68785.1_EscS_YscS_HrcS_Piscinibacter_gummiphilus'
+	'ATX78572.1_FliP_Mariprofundus_aestuarium'
+	'ATX78595.1_FliQ_Mariprofundus_aestuarium'
+	'ATX78596.1_FliR_Mariprofundus_aestuarium'
+	'ATX82907.1_FliP_Mariprofundus_ferrinatatus'
+	'ATX82931.1_FliQ_Mariprofundus_ferrinatatus'
+	'ATX82932.1_FliR_Mariprofundus_ferrinatatus'
+	'AVM88573.1_EscR_YscR_HrcR_Chlamydia_muridarum_str_Nigg'
+	'AVM88574.1_EscS_YscS_HrcS_Chlamydia_muridarum_str_Nigg'
+	'AVM88575.1_EscT_YscT_HrcT_Chlamydia_muridarum_str_Nigg'
+	'AWG41578.1_IIISP_Treponema_pallidum_subsp_pertenue'
+	'AWG41579.1_IIISP_Treponema_pallidum_subsp_pertenue'
+	'AWG41580.1_IIISP_Treponema_pallidum_subsp_pertenue'
+	'AWV90982.1_EscR_YscR_HrcR_Bradymonas_sediminis'
+	'AWV90983.1_FliQ_Bradymonas_sediminis'
+	'AWV90984.1_HYP_DN745_17290_Bradymonas_sediminis'
+	'BAB12802.1_FliP_Buchnera_aphidicola_str_APS_Acyrthosiphon_pisum'
+	'BAB12803.1_FliQ_Buchnera_aphidicola_str_APS_Acyrthosiphon_pisum'
+	'BAB12804.1_FliR_Buchnera_aphidicola_str_APS_Acyrthosiphon_pisum'
+	'BAC59935.1_T3SS_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC59936.1_T3SS_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC59937.1_T3SS_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC60500.1_polar_FliR_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC60501.1_polar_FliQ_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC60502.1_polar_FliP_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC62678.1_protein_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC62685.1_Spa24_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC62885.1_putative_flag_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC62886.1_flag_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAC62887.1_FliR_Vibrio_parahaemolyticus_RIMD_2210633'
+	'BAD41972.1_flag_Symbiobacterium_thermophilum_IAM_14863'
+	'BAD41973.1_flag_Symbiobacterium_thermophilum_IAM_14863'
+	'BAD41974.1_flag_Symbiobacterium_thermophilum_IAM_14863'
+	'BAH37358.1_FliR_Gemmatimonas_aurantiaca_T-27'
+	'BAH37359.1_FliQ_Gemmatimonas_aurantiaca_T-27'
+	'BAH37361.1_FliP_Gemmatimonas_aurantiaca_T-27'
+	'BAM06004.1_flag_Leptosprillum_ferrooxidans_C2-3'
+	'BAM06005.1_putative_flag_Leptosprillum_ferrooxidans_C2-3'
+	'BAM06006.1_putative_flag_Leptosprillum_ferrooxidans_C2-3'
+	'BAS27513.1_FliP_Limnochorda_pilosa'
+	'BAS27514.1_FliQ_Limnochorda_pilosa'
+	'BAS27515.1_FliR_Limnochorda_pilosa'
+	'BCB96459.1_flag_Dissulfurispra_thermophila'
+	'BCB96460.1_FliQ_Dissulfurispra_thermophila'
+	'BCB96461.1_FliP_Dissulfurispra_thermophila'
+	'CAB13508.1_flag_Bacillus_subtilis_subsp_subtilis_str_168'
+	'CAB13509.1_flag_Bacillus_subtilis_subsp_subtilis_str_168'
+	'CAB13510.2_flag_Bacillus_subtilis_subsp_subtilis_str_168'
+	'CAD72041.1_FliP_Rhodopirellula_baltica_SH_1'
+	'CAD72042.1_FliQ_Rhodopirellula_baltica_SH_1'
+	'CAD72043.1_FliR_Rhodopirellula_baltica_SH_1'
+	'CAG37400.1_FliP_Desulfotalea_psychrophila_LSv54'
+	'CAG37401.1_FliQ_Desulfotalea_psychrophila_LSv54'
+	'CAG37402.1_FliR_Desulfotalea_psychrophila_LSv54'
+	'CAL34948.1_flag_Campylobacter_jejuni_subsp_jejuni_NCTC_11168_EQ_ATCC_700819'
+	'CAL35294.1_flag_Campylobacter_jejuni_subsp_jejuni_NCTC_11168_EQ_ATCC_700819'
+	'CAL35771.1_flag_Campylobacter_jejuni_subsp_jejuni_NCTC_11168_EQ_ATCC_700819'
+	'CCB85096.1_T3SS_Parachlamydia_acanthamoebae_UV-7'
+	'CCB85097.1_T3SS_Parachlamydia_acanthamoebae_UV-7'
+	'CCB85098.1_T3SS_Parachlamydia_acanthamoebae_UV-7'
+	'CCG56693.1_FliP_Brachyspra_pilosicoli_WesB'
+	'CCG56694.1_FliO_FliZ_Brachyspra_pilosicoli_WesB'
+	'CCG56695.1_FliR_Brachyspra_pilosicoli_WesB'
+	'CCW33867.1_FliR_Chthonomonas_calidirosea_T49'
+	'CCW33868.1_FliQ_Chthonomonas_calidirosea_T49'
+	'CCW34439.1_FliP_Chthonomonas_calidirosea_T49'
+	'CDL00191.1_FliP_Magnetosprillum_gryphiswaldense_MSR-1_v2'
+	'CDL00198.1_FliQ_Magnetosprillum_gryphiswaldense_MSR-1_v2'
+	'CDL00199.1_FliR_Magnetosprillum_gryphiswaldense_MSR-1_v2'
+	'DGBBEKCF.02477_HYP_Verrucomicrobium_spVER_PRJEB386810_CAISZB01'
+	'DGBBEKCF.02478_HYP_Verrucomicrobium_spVER_PRJEB386810_CAISZB01'
+	'DGBBEKCF.02479_HYP_Verrucomicrobium_spVER_PRJEB386810_CAISZB01'
+	'EKT88252.1_FliR_Leptospra_santarosai_Shermani_str_LT_821'
+	'EKT88253.1_FliQ_Leptospra_santarosai_Shermani_str_LT_821'
+	'EKT88254.1_FliP_Leptospra_santarosai_Shermani_str_LT_821'
+	'MBG59824.1_HYP_CMJ16_05135_partial_Peredibacter_sp'
+	'MBG60108.1_FliP_Peredibacter_sp'
+	'MBG60109.1_FliQ_Peredibacter_sp'
+	'MBU2985830.1_FliR_Saccharophagus_degradans'
+	'MBU2985831.1_FliQ_Saccharophagus_degradans'
+	'MBU2985832.1_FliP_Saccharophagus_degradans'
+	'PKPEBJJI.00942_HYP_Verrucomicrobium_spPRJEB38680_CAIZXV01'
+	'PKPEBJJI.00943_HYP_Verrucomicrobium_spPRJEB38680_CAIZXV01'
+	'QAR32390.1_FliP_Geovibrio_thiophilus'
+	'QAR32391.1_FliQ_Geovibrio_thiophilus'
+	'QAR34354.1_FliR_Geovibrio_thiophilus'
+	'QAT61621.1_FliP_Acidilutibacter_cellobiosedens'
+	'QAT61622.1_FliQ_Acidilutibacter_cellobiosedens'
+	'QAT61623.1_FliR_Acidilutibacter_cellobiosedens'
+	'QDU29148.1_FliR_Anatilimnocola_aggregata'
+	'QDU29149.1_FliQ_Anatilimnocola_aggregata'
+	'QDU29150.1_FliP_precursor_Anatilimnocola_aggregata'
+	'QDU97598.1_FliP_precursor_Lignipirellula_cremea'
+	'QDU97599.1_FliQ_Lignipirellula_cremea'
+	'QDU97600.1_FliR_Lignipirellula_cremea'
+	'QEI19398.1_FliQ_Cellvibrio_japonicus'
+	'QEI21294.1_FliP_Cellvibrio_japonicus'
+	'QEI21295.1_FliR_Cellvibrio_japonicus'
+	'QEO40738.1_FliP_Vibrio_cholerae'
+	'QEO40739.1_FliQ_Vibrio_cholerae'
+	'QEO40740.1_FliR_Vibrio_cholerae'
+	'QEO42644.1_EscR_YscR_HrcR_Vibrio_cholerae'
+	'QEO42645.1_FliQ_Vibrio_cholerae'
+	'QFG02528.1_FliR_Tepidiforma_bonchosmolovskayae'
+	'QFG02529.1_FliQ_Tepidiforma_bonchosmolovskayae'
+	'QFG04306.1_FliP_Tepidiforma_bonchosmolovskayae'
+	'QJR36460.1_FliP_Gemmatimonas_groenlandica'
+	'QJR36467.1_FliQ_Gemmatimonas_groenlandica'
+	'QJR36468.1_FliR_Gemmatimonas_groenlandica'
+	'QKS28379.1_FliR_Accumulibacter_similis'
+	'QKS28380.1_FliQ_Accumulibacter_similis'
+	'QKS28381.1_FliP_Accumulibacter_similis'
+	'QKY94997.1_EscR_YscR_HrcR_Shigella_sonnei'
+	'QKY94998.1_EscS_YscS_HrcS_Shigella_sonnei'
+	'QKY94999.1_SctT_Shigella_sonnei'
+	'QKY95792.1_FliR_Shigella_sonnei'
+	'QKY95793.1_FliQ_Shigella_sonnei'
+	'QKY95794.1_FliP_Shigella_sonnei'
+	'QNQ09308.1_FliR_spingomonas_alpina'
+	'QNQ09309.1_FliQ_spingomonas_alpina'
+	'QNQ09310.1_FliP_spingomonas_alpina'
+	'QOY87590.1_FliQ_Paludibaculum_fermentans'
+	'QOY87591.1_FliR_Paludibaculum_fermentans'
+	'QOY88838.1_FliR_Paludibaculum_fermentans'
+	'QOY88839.1_FliQ_Paludibaculum_fermentans'
+	'QOY88840.1_FliP_Paludibaculum_fermentans'
+	'QOY92236.1_FliP_Paludibaculum_fermentans'
+	'QQS03554.1_FliR_Fibrobacterota_bacterium'
+	'QQS03555.1_FliQ_Fibrobacterota_bacterium'
+	'QQS03556.1_FliP_Fibrobacterota_bacterium'
+	'QTD51120.1_SctT_Sulfidibacter_corallicola'
+	'QTD51121.1_SctS_Sulfidibacter_corallicola'
+	'QTD52430.1_FliR_Sulfidibacter_corallicola'
+	'QTD52431.1_FliQ_Sulfidibacter_corallicola'
+	'QTD54373.1_SctR_Sulfidibacter_corallicola'
+	'QTD54383.1_FliP_Sulfidibacter_corallicola'
+	'QUV79994.1_FliQ_Chloracidobacterium_thermophilum'
+	'QUV80008.1_SctT_Chloracidobacterium_thermophilum'
+	'QUV80704.1_SctR_Chloracidobacterium_thermophilum'
+	'QXB11708.1_FliR_Klebsiella_aerogenes'
+	'QXB11709.1_FliQ_Klebsiella_aerogenes'
+	'QXB12564.1_FliP_Klebsiella_aerogenes'
+	'SCA58998.1_Pathogenicity-related_ORF2_Chlamydiales_bacterium_SCGC_AB-751-O23'
+	'SCA58999.1_FliQ_Chlamydiales_bacterium_SCGC_AB-751-O23'
+	'SCA59000.1_UNK_AB751O23_BV_00040_Chlamydiales_bacterium_SCGC_AB-751-O23'
+	'SCA63765.1_FliP_Chlamydiales_bacterium_SCGC_AG-110-M15'
+	'SCA63767.1_FliQ_Chlamydiales_bacterium_SCGC_AG-110-M15'
+	'SCA63769.1_FliR_Chlamydiales_bacterium_SCGC_AG-110-M15'
+	'SCA64032.1_FliR_Chlamydiales_bacterium_SCGC_AG-110-P3'
+	'SCA64033.1_FliQ_Chlamydiales_bacterium_SCGC_AG-110-P3'
+	'SCA64034.1_FliP_Chlamydiales_bacterium_SCGC_AG-110-P3'
+	'UBQ04391.1_FliP_Tepidimonas_taiwanensis'
+	'UBQ04392.1_FliQ_Tepidimonas_taiwanensis'
+	'UBQ04393.1_FliR_Tepidimonas_taiwanensis'
+	'UEO02654.1_FliR_Myxococcus_xanthus_DZ2'
+	'UEO02655.1_FliQ_Myxococcus_xanthus_DZ2'
+	'UEO02656.1_SctR_Myxococcus_xanthus_DZ2'
+	'UEO06733.1_SctR_Myxococcus_xanthus_DZ2'
+	'UEO06734.1_FliQ_Myxococcus_xanthus_DZ2'
+	'UEO06735.1_FliR_Myxococcus_xanthus_DZ2'
+	'UOY13867.1_FliR_Treponema_pallidum_subsp_pallidum'
+	'UOY13868.1_FliQ_Treponema_pallidum_subsp_pallidum'
+	'UOY13869.1_FliP_Treponema_pallidum_subsp_pallidum'
+	'UPH48247.1_FliP_Listeria_innocua'
+	'UPH48248.1_FliQ_Listeria_innocua'
+	'UPH48249.1_FliR_Listeria_innocua'
+	'USF23670.1_HYP_N508_000736_Mucisprillum_schaedleri_ASF457'
+	'USF23671.1_HYP_N508_000737_Mucisprillum_schaedleri_ASF457'
+	'USF24587.1_FliR_Mucisprillum_schaedleri_ASF457'
+	'WP_002634453.1_EscT_YscT_HrcT_Myxococcus_hansupus'
+	'WP_002634454.1_FliQ_Myxococcus_hansupus'
+	'WP_002634455.1_SctR_Myxococcus_hansupus'
+	'WP_002637060.1_FliR_Myxococcus_hansupus'
+	'WP_002637061.1_FliQ_Pseudomonadati'
+	'WP_009563344.1_FliP_Cereibacter_spaeroides'
+	'WP_009563969.1_FliR_Cereibacter_spaeroides'
+	'WP_011338882.1_FliQ_Cereibacter'
+	'WP_011383053.1_FliP_Paramagnetosprillum_magneticum'
+	'WP_011383060.1_FliQ_Paramagnetosprillum_magneticum'
+	'WP_011383061.1_FliR_Paramagnetosprillum_magneticum'
+	'WP_015348415.1_SctR_Myxococcus_stipitatus'
+	'WP_015348416.1_FliQ_Myxococcus'
+	'WP_015348417.1_FliR_Myxococcus_stipitatus'
+	'WP_015351765.1_EscT_YscT_HrcT_Myxococcus_stipitatus'
+	'WP_015351766.1_FliQ_Myxococcus_stipitatus'
+	'WP_015469320.1_FliP_Pseudobdellovibrio_exovorus'
+	'WP_015469321.1_FliQ_Pseudobdellovibrio_exovorus'
+	'WP_015469322.1_FliR_Pseudobdellovibrio_exovorus'
+	'WP_015921619.1_FliR_Cereibacter_spaeroides'
+	'WP_041669494.1_FliQ_Cereibacter_spaeroides'
+	'WP_066578646.1_FliR_spingomonas_koreensis'
+	'WP_066581078.1_FliQ_spingomonas_koreensis'
+	'WP_066581080.1_FliR_spingomonas_koreensis'
+	'WP_075150637.1_FliP_spingomonas_koreensis'
+	'WP_075151395.1_FliP_spingomonas_koreensis'
+	'WP_075151398.1_FliQ_spingomonas_koreensis'
+	'WP_102244742.1_FliR_Bacteriovorax_stolpii'
+	'WP_102244743.1_FliQ_Bacteriovorax_stolpii'
+	'WP_142409005.1_FliP_Bacteriovorax_stolpii'
+	'WP_142701533.1_FliR_Bdellovibrio_sp_ZAP7'
+	'WP_142701534.1_FliQ_Bdellovibrio'
+	'WP_142701535.1_FliP_Bdellovibrio'
+	'WP_174893317.1_FliP_Cereibacter_spaeroides'
+	'WP_226993957.1_SctR_Myxococcus_hansupus'
+	'WP_233278013.1_SctR_Myxococcus_stipitatus'
+	'WP_243537129.1_FliQ_Bdellovibrio_reynosensis'
+	'WP_243537130.1_FliR_Bdellovibrio_reynosensis'
+	'WP_243540791.1_FliP_Bdellovibrio_reynosensis'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('BAC60502.1_polar_FliP_Vibrio_parahaemolyticus_RIMD_2210633':0.080117,'QEO40738.1_FliP_Vibrio_cholerae':0.043155,('AAG04835.1_FliP_Pseudomonas_aeruginosa_PAO1':0.155472,((('ABD81432.1_FliP_Saccharophagus_degradans_2-40':2.0E-6,'MBU2985832.1_FliP_Saccharophagus_degradans':2.0E-6)[&label=100]:0.156521,'QEI21294.1_FliP_Cellvibrio_japonicus':0.147822)[&label=77]:0.053107,(((('AJJ33265.1_FliP_Yersinia_pestis':2.0E-6,'AJJ55743.1_FliP_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.238795,'ATU65934.1_FliP_Piscinibacter_gummiphilus':0.336793)[&label=86]:0.104863,'BAC62885.1_putative_flag_Vibrio_parahaemolyticus_RIMD_2210633':0.182437)[&label=100]:0.16695,((('QNQ09310.1_FliP_spingomonas_alpina':0.1212,'WP_075150637.1_FliP_spingomonas_koreensis':0.09618)[&label=100]:0.176526,'WP_174893317.1_FliP_Cereibacter_spaeroides':0.34062)[&label=92]:0.108667,((((('AAC75015.1_FliP_Escherichia_coli_str_K-12_substr_MG1655':2.0E-6,'QKY95794.1_FliP_Shigella_sonnei':2.0E-6)[&label=100]:0.067535,(('BAB12802.1_FliP_Buchnera_aphidicola_str_APS_Acyrthosiphon_pisum':0.329611,('AJJ29977.1_FliP_Yersinia_pestis':2.0E-6,'AJJ53956.1_FliP_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.033463)[&label=61]:0.037824,'QXB12564.1_FliP_Klebsiella_aerogenes':0.022217)[&label=61]:0.067029)[&label=100]:0.166646,'QKS28381.1_FliP_Accumulibacter_similis':0.21698)[&label=61]:0.051277,('APW41634.1_FliP_Rhodoferax_saidenbachensis':0.113225,('UBQ04391.1_FliP_Tepidimonas_taiwanensis':0.192214,'ATU66734.1_FliP_Piscinibacter_gummiphilus':0.122909)[&label=76]:0.05568)[&label=100]:0.189152)[&label=93]:0.076553,((((((('ACI20465.1_FliP_Thermodesulfovibrio_yellowstonii_DSM_11347':0.173556,'BCB96461.1_FliP_Dissulfurispra_thermophila':0.162597)[&label=100]:0.145198,(('ADC89762.1_FliP_Thermocrinis_albus_DSM_14484':0.156072,'AHE96681.1_FliP_Thermocrinis_ruber':0.213667)[&label=99]:0.151968,'AAC07711.1_FliP_Aquifex_aeolicus_VF5':0.192477)[&label=100]:0.302975)[&label=85]:0.070438,('ACL65928.1_FliP_Anaeromyxobacter_dehalogenans_2CP-1':0.38728,'ATU64010.1_FliP_Piscinibacter_gummiphilus':0.629281)[&label=95]:0.145552)[&label=87]:0.076509,('ARU41579.1_FliP_Armatimonadetes_bacterium_Uphvl-Ar1':0.342509,('SCA63765.1_FliP_Chlamydiales_bacterium_SCGC_AG-110-M15':0.219446,'SCA64034.1_FliP_Chlamydiales_bacterium_SCGC_AG-110-P3':0.1633)[&label=100]:0.470861)[&label=92]:0.118964)[&label=81]:0.053236,((((('ACL94467.1_FliP_Caulobacter_vibrioides_NA1000':0.087448,'ADL02302.1_FliP_Brevundimonas_subvibrioides_ATCC_15264':0.151247)[&label=100]:0.226694,('ABA04392.1_FliP_Nitrobacter_winogradskyi_Nb-255':0.157914,('AIQ93508.1_FliP_Methylobacterium_oryzae_CBMB20':0.213905,(((((((('ABF92172.1_FliP_MopC_SpaP_Myxococcus_xanthus_DK_1622':0.01247,'UEO02656.1_SctR_Myxococcus_xanthus_DZ2':0.008381)[&label=68]:0.018293,'WP_226993957.1_SctR_Myxococcus_hansupus':0.022732)[&label=95]:0.031416,'WP_015348415.1_SctR_Myxococcus_stipitatus':0.078056)[&label=95]:0.036662,('AFE08796.1_T3SS_Corallococcus_coralloides_DSM_2259':0.104402,'ADO70838.1_T3SS-P_Stigmatella_aurantiaca_DW4-3-1':0.094026)[&label=79]:0.03484)[&label=100]:0.189857,'AWV90982.1_EscR_YscR_HrcR_Bradymonas_sediminis':0.523785)[&label=67]:0.067618,'QUV80704.1_SctR_Chloracidobacterium_thermophilum':0.490396)[&label=47]:0.078058,((((('AAC68164.1_YopR_Chlamydia_trachomatis_D-UW-3-CX':0.048559,'AVM88573.1_EscR_YscR_HrcR_Chlamydia_muridarum_str_Nigg':0.039659)[&label=86]:0.017326,('AAP98783.1_YscR_Chlamydia_pneumoniae_TW-183':0.045758,'AGW38365.1_T3SS_Chlamydia_pecorum_PV3056-3':0.038857)[&label=100]:0.066088)[&label=100]:0.305348,'CCB85096.1_T3SS_Parachlamydia_acanthamoebae_UV-7':0.403805)[&label=62]:0.09786,'SCA58998.1_Pathogenicity-related_ORF2_Chlamydiales_bacterium_SCGC_AB-751-O23':0.354401)[&label=100]:0.250353,('ATU68235.1_EscR_YscR_HrcR_Piscinibacter_gummiphilus':0.385995,('ATU65465.1_EscR_YscR_HrcR_Piscinibacter_gummiphilus':0.617332,('ALJ56896.1_FliP_precursor_Xiphinematobacter_sp_Idaho_Grape':0.496253,('QTD54373.1_SctR_Sulfidibacter_corallicola':0.312646,((('AJJ29688.1_YscR_HrcR_plasmid_Yersinia_pestis':2.0E-6,'AJJ53126.1_YscR_HrcR_plasmid_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.1061,('AAG05082.1_T3SS_Pseudomonas_aeruginosa_PAO1':0.103307,'BAC59935.1_T3SS_Vibrio_parahaemolyticus_RIMD_2210633':0.169137)[&label=63]:0.064436)[&label=95]:0.172263,('QKY94997.1_EscR_YscR_HrcR_Shigella_sonnei':0.88253,('AJJ31160.1_YscR_HrcR_Yersinia_pestis':2.0E-6,'AJJ55627.1_YscR_HrcR_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.522018)[&label=64]:0.14574)[&label=100]:0.265225)[&label=74]:0.105328)[&label=87]:0.144843)[&label=62]:0.066741)[&label=51]:0.110951)[&label=95]:0.163805)[&label=73]:0.108538,('ACL64094.1_T3SS-P_Anaeromyxobacter_dehalogenans_2CP-1':0.641248,(((('ABF87970.1_YscR_HrcR_Myxococcus_xanthus_DK_1622':0.028052,'UEO06733.1_SctR_Myxococcus_xanthus_DZ2':0.022667)[&label=57]:0.02373,'WP_002634455.1_SctR_Myxococcus_hansupus':0.026097)[&label=84]:0.035525,('WP_233278013.1_SctR_Myxococcus_stipitatus':0.083273,'AFE08797.1_T3SS_Corallococcus_coralloides_DSM_2259':0.088256)[&label=87]:0.037921)[&label=74]:0.071037,'ADO74085.1_YscR_HrcR_Stigmatella_aurantiaca_DW4-3-1':0.134485)[&label=100]:0.249374)[&label=71]:0.114392)[&label=100]:0.528846)[&label=79]:0.097326)[&label=44]:0.038406)[&label=50]:0.056185,(('ADE87203.1_FliP_Rhodobacter_capsulatus_SB_1003':0.225658,'WP_009563344.1_FliP_Cereibacter_spaeroides':0.237436)[&label=100]:0.363955,'AIK97187.1_FliP_Odyssella_acanthamoebae':0.243891)[&label=48]:0.071782)[&label=73]:0.046707,'AEI88748.1_FliP_Midichloria_mitochondrii_IricVA':0.610846)[&label=36]:0.027383,((('CDL00191.1_FliP_Magnetosprillum_gryphiswaldense_MSR-1_v2':0.145874,'WP_011383053.1_FliP_Paramagnetosprillum_magneticum':0.181122)[&label=97]:0.124538,'AEO49365.1_FliP_Rhodosprillum_rubrum_F11':0.224055)[&label=49]:0.04253,(((('ABQ62510.1_FliP_Brucella_ovis_ATCC_25840':0.301836,(((((((((((((((((((((((((((((((((('AJJ29686.1_HrpO_plasmid_Yersinia_pestis':2.0E-6,'AJJ53113.1_HrpO_plasmid_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.132416,'AAG05081.1_T3SS_Pseudomonas_aeruginosa_PAO1':0.289674)[&label=69]:0.064371,'BAC59936.1_T3SS_Vibrio_parahaemolyticus_RIMD_2210633':0.347437)[&label=88]:0.20181,(('AJJ32087.1_HrpO_Yersinia_pestis':2.0E-6,'AJJ55710.1_HrpO_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.676572,'QTD51121.1_SctS_Sulfidibacter_corallicola':0.482542)[&label=78]:0.218692)[&label=50]:0.077299,'ATU65466.1_EscS_YscS_HrcS_Piscinibacter_gummiphilus':1.094426)[&label=45]:0.061604,'ATU68785.1_EscS_YscS_HrcS_Piscinibacter_gummiphilus':0.683681)[&label=56]:0.076953,('ALJ56895.1_FliQ_Xiphinematobacter_sp_Idaho_Grape':0.802036,'QKY94998.1_EscS_YscS_HrcS_Shigella_sonnei':1.105931)[&label=61]:0.139334)[&label=52]:0.122226,((((('AAC68165.1_YopS_Chlamydia_trachomatis_D-UW-3-CX':0.009715,'AVM88574.1_EscS_YscS_HrcS_Chlamydia_muridarum_str_Nigg':0.02273)[&label=85]:0.084751,'AGW38366.1_T3SS_Chlamydia_pecorum_PV3056-3':0.029515)[&label=74]:0.054281,'AAP98782.1_S_Chlamydia_pneumoniae_TW-183':2.0E-6)[&label=100]:0.728523,'SCA58999.1_FliQ_Chlamydiales_bacterium_SCGC_AB-751-O23':0.266764)[&label=76]:0.155537,'CCB85097.1_T3SS_Parachlamydia_acanthamoebae_UV-7':0.300918)[&label=84]:0.291825)[&label=97]:0.355356,((((((('ABF86537.1_FliQ_MopD_SpaQ_Myxococcus_xanthus_DK_1622':0.0,'UEO02655.1_FliQ_Myxococcus_xanthus_DZ2':0.0):2.0E-6,'WP_002637061.1_FliQ_Pseudomonadati':2.0E-6)[&label=100]:0.083888,'WP_015348416.1_FliQ_Myxococcus':0.024581)[&label=85]:0.090884,'AFE08798.1_FliQ_MopD_SpaQ_Corallococcus_coralloides_DSM_2259':0.035258)[&label=80]:0.074101,'ADO70839.1_FliQ-3_Stigmatella_aurantiaca_DW4-3-1':0.179153)[&label=100]:0.448983,'AWV90983.1_FliQ_Bradymonas_sediminis':0.283495)[&label=74]:0.159953,(((((('ABF90292.1_T3SS_Myxococcus_xanthus_DK_1622':2.0E-6,'UEO06734.1_FliQ_Myxococcus_xanthus_DZ2':2.0E-6)[&label=100]:0.048738,'AFE08799.1_T3SS_Corallococcus_coralloides_DSM_2259':0.072155)[&label=46]:0.035321,'ADO74084.1_FliQ-3_Stigmatella_aurantiaca_DW4-3-1':0.157937)[&label=33]:0.026675,'WP_015351766.1_FliQ_Myxococcus_stipitatus':0.109529)[&label=70]:0.0717,'WP_002634454.1_FliQ_Myxococcus_hansupus':0.012206)[&label=100]:0.644012,'ACL64093.1_HrpO_Anaeromyxobacter_dehalogenans_2CP-1':0.640415)[&label=70]:0.192679)[&label=77]:0.246197)[&label=68]:0.192161,'QUV79994.1_FliQ_Chloracidobacterium_thermophilum':0.890424)[&label=56]:0.156571,((('QNQ09309.1_FliQ_spingomonas_alpina':0.196651,'WP_066581078.1_FliQ_spingomonas_koreensis':0.079995)[&label=100]:0.780018,('DGBBEKCF.02478_HYP_Verrucomicrobium_spVER_PRJEB386810_CAISZB01':2.0E-6,'PKPEBJJI.00942_HYP_Verrucomicrobium_spPRJEB38680_CAIZXV01':2.0E-6)[&label=100]:1.055567)[&label=38]:0.094754,(((('CCW33868.1_FliQ_Chthonomonas_calidirosea_T49':0.742357,'AAR33756.1_FliQ_Geobacter_sulfurreducens_PCA':0.425694)[&label=66]:0.110311,((('AHZ83694.1_FliQ_Bdellovibrio_bacteriovorus':0.059361,'WP_243537129.1_FliQ_Bdellovibrio_reynosensis':0.034128)[&label=93]:0.038993,'WP_142701534.1_FliQ_Bdellovibrio':0.08041)[&label=94]:0.139245,'WP_015469321.1_FliQ_Pseudobdellovibrio_exovorus':0.246802)[&label=100]:0.359068)[&label=26]:0.04329,(('ACL65929.1_FliQ-3_Anaeromyxobacter_dehalogenans_2CP-1':1.122366,'QFG02529.1_FliQ_Tepidiforma_bonchosmolovskayae':0.277797)[&label=93]:0.250496,'ALA58614.1_flag_Nitrospra_moscoviensis':0.674825)[&label=41]:0.090854)[&label=62]:0.075471,('WP_102244743.1_FliQ_Bacteriovorax_stolpii':0.261782,'MBG60109.1_FliQ_Peredibacter_sp':0.334249)[&label=97]:0.368313)[&label=48]:0.068858)[&label=39]:0.119193)[&label=22]:2.0E-6,'ARU41578.1_FliQ_Armatimonadetes_bacterium_Uphvl-Ar1':0.866308)[&label=22]:0.039549,((((((((('AJJ32967.1_FliQ_Yersinia_pestis':2.0E-6,'AJJ53600.1_FliQ_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.102941,'QXB11709.1_FliQ_Klebsiella_aerogenes':0.070309)[&label=84]:0.07707,('AAC75016.1_FliQ_Escherichia_coli_str_K-12_substr_MG1655':2.0E-6,'QKY95793.1_FliQ_Shigella_sonnei':2.0E-6)[&label=100]:0.159289)[&label=77]:0.117466,'BAB12803.1_FliQ_Buchnera_aphidicola_str_APS_Acyrthosiphon_pisum':0.458555)[&label=50]:0.1412,'QKS28380.1_FliQ_Accumulibacter_similis':0.379757)[&label=86]:0.234156,('BAM06005.1_putative_flag_Leptosprillum_ferrooxidans_C2-3':0.582804,(((((('ABD81431.1_FliQ_Saccharophagus_degradans_2-40':2.0E-6,'MBU2985831.1_FliQ_Saccharophagus_degradans':2.0E-6)[&label=100]:0.275565,'QEI19398.1_FliQ_Cellvibrio_japonicus':0.215499)[&label=92]:0.259644,'BAC62886.1_flag_Vibrio_parahaemolyticus_RIMD_2210633':0.294284)[&label=53]:0.120541,('BAC60501.1_polar_FliQ_Vibrio_parahaemolyticus_RIMD_2210633':0.036272,'QEO40739.1_FliQ_Vibrio_cholerae':0.148556)[&label=100]:0.470503)[&label=34]:0.055321,('ATU65933.1_FliQ_Piscinibacter_gummiphilus':0.279068,('AJJ30275.1_FliQ_Yersinia_pestis':2.0E-6,'AJJ56036.1_FliQ_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.628759)[&label=97]:0.344966)[&label=51]:0.083225,'AAG04836.1_FliQ_Pseudomonas_aeruginosa_PAO1':0.168453)[&label=100]:0.496031)[&label=55]:0.114533)[&label=65]:0.119771,((('QAR32391.1_FliQ_Geovibrio_thiophilus':0.181802,'ADD67096.1_FliQ_Denitrovibrio_acetiphilus_DSM_12809':0.458246)[&label=75]:0.070309,(('ADV62896.1_FliQ-3_Isospaera_pallida_ATCC_43644':0.901196,('QOY87590.1_FliQ_Paludibaculum_fermentans':0.756519,'QOY88839.1_FliQ_Paludibaculum_fermentans':0.314628)[&label=35]:0.130921)[&label=55]:0.230823,('ATU63988.1_FliQ_Piscinibacter_gummiphilus':0.399236,('BAC62678.1_protein_Vibrio_parahaemolyticus_RIMD_2210633':0.083609,'QEO42645.1_FliQ_Vibrio_cholerae':2.0E-6)[&label=100]:2.780074)[&label=52]:0.286668)[&label=89]:0.293177)[&label=57]:0.084166,(('ADC89763.1_FliQ_Thermocrinis_albus_DSM_14484':0.234131,('AHE96680.1_FliQ_Thermocrinis_ruber':0.24117,'AAC07731.1_FliQ_Aquifex_aeolicus_VF5':0.422335)[&label=56]:0.063355)[&label=98]:0.488897,'USF23670.1_HYP_N508_000736_Mucisprillum_schaedleri_ASF457':0.568822)[&label=56]:0.159898)[&label=45]:0.082253)[&label=43]:0.083006,('UPH48248.1_FliQ_Listeria_innocua':1.526738,('ACB73698.1_FliQ-3_Opitutus_terrae_PB90-1':0.316598,'ATC63661.1_FliQ_Nibricoccus_aquaticus':0.432146)[&label=95]:0.681486)[&label=45]:0.17743)[&label=36]:0.063202,((((('ALF48308.1_FliQ_Campylobacter_concisus':0.233581,('AOO66689.1_FliQ_Sulfurosprillum_haloresprans_DSM_13726':0.156495,'ADN08153.1_FliQ_Sulfurimonas_autotrophica_DSM_16294':0.550758)[&label=66]:0.104654)[&label=65]:0.05944,'CAL35771.1_flag_Campylobacter_jejuni_subsp_jejuni_NCTC_11168_EQ_ATCC_700819':0.159176)[&label=100]:0.529453,'ABY94894.1_FliQ_Thermoanaerobacter_pseudethanolicus_ATCC_33223':0.401225)[&label=49]:0.040048,(((('QAT61622.1_FliQ_Acidilutibacter_cellobiosedens':0.442689,((('ACI21424.1_FliQ_Thermodesulfovibrio_yellowstonii_DSM_11347':0.276725,'BCB96460.1_FliQ_Dissulfurispra_thermophila':0.156321)[&label=100]:0.386239,'ABC77215.1_flag_Syntrophus_aciditrophicus_SB':0.500609)[&label=77]:0.103374,'QTD52431.1_FliQ_Sulfidibacter_corallicola':0.720554)[&label=50]:0.12415)[&label=28]:0.067612,('ADL43204.1_FliQ_Caldicellulosiruptor_obsidiansis_OB47':0.478384,'CAG37401.1_FliQ_Desulfotalea_psychrophila_LSv54':0.567966)[&label=54]:0.123208)[&label=15]:0.036619,'ALU37470.1_FliQ_Clostridium_autoethanogenum_DSM_10061':0.5035)[&label=32]:0.082987,'APC07907.1_FliQ_Neomoorella_thermoacetica':0.473188)[&label=46]:0.086961)[&label=55]:0.063955,((('ATO47942.1_EscS_YscS_HrcS_Brevibacillus_laterosprus_DSM_25':0.357361,'BAD41973.1_flag_Symbiobacterium_thermophilum_IAM_14863':0.610182)[&label=57]:0.112326,('CAB13509.1_flag_Bacillus_subtilis_subsp_subtilis_str_168':0.145401,'AJH78796.1_FliQ_Heyndrickxia_coagulans_DSM_1_EQ_ATCC_7050':0.306914)[&label=86]:0.228683)[&label=39]:0.045894,'BAS27514.1_FliQ_Limnochorda_pilosa':0.790052)[&label=47]:0.148335)[&label=31]:0.047468)[&label=22]:0.106594)[&label=30]:0.048227,((((('AEM21951.1_FliQ_Brachyspra_intermedia_PWS-A':0.059048,'CCG56694.1_FliO_FliZ_Brachyspra_pilosicoli_WesB':0.077337)[&label=100]:0.460817,('WP_041669494.1_FliQ_Cereibacter_spaeroides':0.869856,'EKT88253.1_FliQ_Leptospra_santarosai_Shermani_str_LT_821':0.655009)[&label=65]:0.121374)[&label=52]:0.045713,('AWG41579.1_IIISP_Treponema_pallidum_subsp_pertenue':2.0E-6,'UOY13868.1_FliQ_Treponema_pallidum_subsp_pallidum':2.0E-6)[&label=100]:0.77203)[&label=89]:0.202764,('APW41635.1_FliQ_Rhodoferax_saidenbachensis':0.262488,('UBQ04392.1_FliQ_Tepidimonas_taiwanensis':0.248349,'ATU66733.1_FliQ_Piscinibacter_gummiphilus':0.332751)[&label=59]:0.081944)[&label=99]:0.277334)[&label=41]:0.070754,('ATX78595.1_FliQ_Mariprofundus_aestuarium':0.050862,'ATX82931.1_FliQ_Mariprofundus_ferrinatatus':0.350296)[&label=100]:0.53705)[&label=70]:0.150098)[&label=46]:0.071686,(('QQS03555.1_FliQ_Fibrobacterota_bacterium':0.860205,(('AMW03981.1_transport_Gemmatimonas_phototrophica':0.032789,'BAH37359.1_FliQ_Gemmatimonas_aurantiaca_T-27':0.137695)[&label=98]:0.129297,'QJR36467.1_FliQ_Gemmatimonas_groenlandica':0.07618)[&label=100]:0.559592)[&label=69]:0.132623,(((((('ABQ62922.1_FliQ_Brucella_ovis_ATCC_25840':0.450804,'AIQ89852.1_FliQ_Methylobacterium_oryzae_CBMB20':0.478513)[&label=89]:0.196048,'WP_075151398.1_FliQ_spingomonas_koreensis':0.49478)[&label=74]:0.204681,('ADE87241.1_FliQ_Rhodobacter_capsulatus_SB_1003':0.208427,'WP_011338882.1_FliQ_Cereibacter':0.285993)[&label=100]:0.812115)[&label=60]:0.134947,'AIK95852.1_FliQ_Odyssella_acanthamoebae':0.887524)[&label=35]:0.077132,(('ABA04397.1_FliQ_Nitrobacter_winogradskyi_Nb-255':0.437121,'AIQ90403.1_FliQ_Methylobacterium_oryzae_CBMB20':0.616222)[&label=53]:0.112807,('ACL94594.1_FliQ_Caulobacter_vibrioides_NA1000':0.257391,'ADL02326.1_FliQ_Brevundimonas_subvibrioides_ATCC_15264':0.245318)[&label=83]:0.262455)[&label=77]:0.190631)[&label=56]:0.119105,(('AEO49358.1_FliQ_Rhodosprillum_rubrum_F11':0.879152,'CDL00198.1_FliQ_Magnetosprillum_gryphiswaldense_MSR-1_v2':0.266249)[&label=51]:0.105104,'WP_011383060.1_FliQ_Paramagnetosprillum_magneticum':0.25223)[&label=92]:0.320677)[&label=79]:0.255941)[&label=32]:0.035886)[&label=32]:0.102835,('SCA63767.1_FliQ_Chlamydiales_bacterium_SCGC_AG-110-M15':0.440875,'SCA64033.1_FliQ_Chlamydiales_bacterium_SCGC_AG-110-P3':0.311065)[&label=100]:0.587928)[&label=66]:0.208484,'ADY60074.1_FliQ_Rubinispaera_brasiliensis_DSM_5305':0.764989)[&label=38]:0.125398,'QDU97599.1_FliQ_Lignipirellula_cremea':0.786236)[&label=50]:0.110242,'CAD72042.1_FliQ_Rhodopirellula_baltica_SH_1':0.542662)[&label=28]:0.02096,('ADG94527.1_FliQ-3_Arcobacter_nitrofigilis_DSM_7299':1.523023,('ACO32173.1_FliQ_Acidobacterium_capsulatum_ATCC_51196':0.890345,'AFL88131.1_FliQ_Terriglobus_roseus_DSM_18391':0.403214)[&label=77]:0.510077)[&label=82]:0.284631)[&label=29]:0.030016,('ADB19003.1_FliQ-3_Pirellula_staleyi_DSM_6068':0.272481,'QDU29149.1_FliQ_Anatilimnocola_aggregata':0.217039)[&label=90]:0.217748)[&label=100]:1.735353,'ADV62895.1_FliR_Isospaera_pallida_ATCC_43644':1.479164)[&label=52]:0.114804,'ADY60075.1_T3SS-R_Rubinispaera_brasiliensis_DSM_5305':1.211693)[&label=31]:0.136348,'ACL65930.1_T3SS-R_Anaeromyxobacter_dehalogenans_2CP-1':1.442704)[&label=56]:0.212516,(((('ADB19004.1_T3SS-R_Pirellula_staleyi_DSM_6068':0.32341,'QDU29148.1_FliR_Anatilimnocola_aggregata':0.336239)[&label=100]:0.349006,'QDU97600.1_FliR_Lignipirellula_cremea':0.753603)[&label=55]:0.111313,'CAD72043.1_FliR_Rhodopirellula_baltica_SH_1':0.72031)[&label=100]:0.41235,'QQS03554.1_FliR_Fibrobacterota_bacterium':1.121989)[&label=39]:0.106676)[&label=75]:0.195602,(((((((((((('AJJ30310.1_FliR_Yersinia_pestis':0.022604,'AJJ55932.1_FliR_Yersinia_pseudotuberculosis_IP_32953':0.021188)[&label=100]:0.125441,'QXB11708.1_FliR_Klebsiella_aerogenes':0.149038)[&label=100]:0.176899,('AAC75017.1_FliR_Escherichia_coli_str_K-12_substr_MG1655':0.040838,'QKY95792.1_FliR_Shigella_sonnei':0.038129)[&label=99]:0.155306)[&label=99]:0.197829,'BAB12804.1_FliR_Buchnera_aphidicola_str_APS_Acyrthosiphon_pisum':0.585185)[&label=99]:0.273807,((((('AJJ30925.1_FliR_Yersinia_pestis':2.0E-6,'AJJ53241.1_FliR_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.670587,'ATU65932.1_T3SS_Piscinibacter_gummiphilus':0.946926)[&label=96]:0.341065,'BAC62887.1_FliR_Vibrio_parahaemolyticus_RIMD_2210633':0.547827)[&label=74]:0.269173,'AAG04837.1_FliR_Pseudomonas_aeruginosa_PAO1':0.495587)[&label=36]:0.091996,(('BAC60500.1_polar_FliR_Vibrio_parahaemolyticus_RIMD_2210633':0.099935,'QEO40740.1_FliR_Vibrio_cholerae':0.158444)[&label=100]:0.672555,(('ABD81430.1_FliR_Saccharophagus_degradans_2-40':2.0E-6,'MBU2985830.1_FliR_Saccharophagus_degradans':2.0E-6)[&label=100]:0.450988,'QEI21295.1_FliR_Cellvibrio_japonicus':0.449831)[&label=93]:0.208434)[&label=41]:0.071422)[&label=96]:0.261255)[&label=80]:0.144204,(('APW41636.1_FliR_Rhodoferax_saidenbachensis':0.322129,'ATU66732.1_FliR_Piscinibacter_gummiphilus':0.452675)[&label=79]:0.122139,'UBQ04393.1_FliR_Tepidimonas_taiwanensis':0.345661)[&label=100]:0.449127)[&label=73]:0.06786,'QKS28379.1_FliR_Accumulibacter_similis':0.659101)[&label=97]:0.263816,(('QNQ09308.1_FliR_spingomonas_alpina':0.196193,'WP_066581080.1_FliR_spingomonas_koreensis':0.273629)[&label=100]:0.707549,'WP_009563969.1_FliR_Cereibacter_spaeroides':1.071414)[&label=37]:0.101113)[&label=99]:0.290369,(('AHZ83693.1_FliR_Bdellovibrio_bacteriovorus':0.06437,('WP_243537130.1_FliR_Bdellovibrio_reynosensis':0.106121,'WP_142701533.1_FliR_Bdellovibrio_sp_ZAP7':0.176612)[&label=90]:0.069479)[&label=100]:0.272429,'WP_015469322.1_FliR_Pseudobdellovibrio_exovorus':0.472186)[&label=100]:0.633958)[&label=50]:0.072551,(((((((('AEM21952.1_FliR_Brachyspra_intermedia_PWS-A':0.115511,'CCG56695.1_FliR_Brachyspra_pilosicoli_WesB':0.136019)[&label=100]:0.66407,'EKT88252.1_FliR_Leptospra_santarosai_Shermani_str_LT_821':0.915864)[&label=41]:0.116556,('AWG41578.1_IIISP_Treponema_pallidum_subsp_pertenue':2.0E-6,'UOY13867.1_FliR_Treponema_pallidum_subsp_pallidum':2.0E-6)[&label=100]:1.394004)[&label=92]:0.324695,'BAD41972.1_flag_Symbiobacterium_thermophilum_IAM_14863':1.063344)[&label=51]:0.145517,('ACL22145.1_FliR_Desulfitobacterium_hafniense_DCB-2':0.97347,'CCW33867.1_FliR_Chthonomonas_calidirosea_T49':1.19034)[&label=50]:0.173177)[&label=46]:0.073128,(('ABY94893.1_FliR_Thermoanaerobacter_pseudethanolicus_ATCC_33223':0.675595,'ADL43203.1_FliR_Caldicellulosiruptor_obsidiansis_OB47':0.660901)[&label=61]:0.120678,('QAT61623.1_FliR_Acidilutibacter_cellobiosedens':0.76161,(('AJH79084.1_FliR_Heyndrickxia_coagulans_DSM_1_EQ_ATCC_7050':0.356484,'CAB13510.2_flag_Bacillus_subtilis_subsp_subtilis_str_168':0.476035)[&label=89]:0.221889,'ATO47941.1_FliR_Brevibacillus_laterosprus_DSM_25':0.735662)[&label=99]:0.309363)[&label=68]:0.110823)[&label=87]:0.171511)[&label=58]:0.143634,(('BAM06006.1_putative_flag_Leptosprillum_ferrooxidans_C2-3':1.10578,'QTD52430.1_FliR_Sulfidibacter_corallicola':0.863244)[&label=50]:0.140169,'ALA58613.1_FliR_Nitrospra_moscoviensis':0.98503)[&label=72]:0.168511)[&label=57]:0.098683,(((((('ADN08452.1_FliR_Sulfurimonas_autotrophica_DSM_16294':0.49871,('ALF48145.1_FliR_Campylobacter_concisus':0.522789,'CAL35294.1_flag_Campylobacter_jejuni_subsp_jejuni_NCTC_11168_EQ_ATCC_700819':0.331376)[&label=46]:0.103737)[&label=57]:0.088295,'AOO64348.1_FliR_Sulfurosprillum_haloresprans_DSM_13726':0.41292)[&label=93]:0.29722,'ADG94129.1_T3SS-R_Arcobacter_nitrofigilis_DSM_7299':1.259192)[&label=100]:0.418611,(('ADC89764.1_FliR_Thermocrinis_albus_DSM_14484':0.511109,'AHE96679.1_FliR_Thermocrinis_ruber':0.462866)[&label=99]:0.254412,'AAC07732.1_FliR_Aquifex_aeolicus_VF5':0.565205)[&label=100]:0.503175)[&label=57]:0.173406,(('ADD69592.1_FliR_Denitrovibrio_acetiphilus_DSM_12809':0.59082,'QAR34354.1_FliR_Geovibrio_thiophilus':0.402158)[&label=100]:0.340643,'USF24587.1_FliR_Mucisprillum_schaedleri_ASF457':0.592417)[&label=98]:0.232765)[&label=56]:0.106021,((('UPH48249.1_FliR_Listeria_innocua':1.37377,'BAS27515.1_FliR_Limnochorda_pilosa':0.834607)[&label=48]:0.267662,'APC07908.1_FliR_Neomoorella_thermoacetica':0.797482)[&label=33]:0.10209,(('MBG59824.1_HYP_CMJ16_05135_partial_Peredibacter_sp':0.916888,'WP_102244742.1_FliR_Bacteriovorax_stolpii':0.226801)[&label=100]:1.191694,'ARU41577.1_HYP_CCB80_10675_Armatimonadetes_bacterium_Uphvl-Ar1':0.957693)[&label=85]:0.354822)[&label=44]:0.079214)[&label=35]:0.068342)[&label=31]:0.045065)[&label=43]:0.084181,(('ACB73697.1_T3SS-R_Opitutus_terrae_PB90-1':0.466951,'ATC63660.1_T3SS_Nibricoccus_aquaticus':0.476156)[&label=100]:0.89057,'DGBBEKCF.02479_HYP_Verrucomicrobium_spVER_PRJEB386810_CAISZB01':1.403344)[&label=60]:0.184446)[&label=28]:0.028179,((('SCA63769.1_FliR_Chlamydiales_bacterium_SCGC_AG-110-M15':0.422546,'SCA64032.1_FliR_Chlamydiales_bacterium_SCGC_AG-110-P3':0.528811)[&label=100]:0.71753,('AAR33757.1_FliR_Geobacter_sulfurreducens_PCA':0.661069,'CAG37402.1_FliR_Desulfotalea_psychrophila_LSv54':0.749865)[&label=78]:0.15093)[&label=81]:0.1726,('QFG02528.1_FliR_Tepidiforma_bonchosmolovskayae':1.082136,((('ATX78596.1_FliR_Mariprofundus_aestuarium':0.124692,'ATX82932.1_FliR_Mariprofundus_ferrinatatus':0.121563)[&label=100]:0.695221,'ABC77216.1_flag_Syntrophus_aciditrophicus_SB':0.652251)[&label=88]:0.20158,'ALU37471.1_FliR_FlhB_Clostridium_autoethanogenum_DSM_10061':1.016727)[&label=39]:0.074305)[&label=61]:0.089917)[&label=45]:0.097571)[&label=33]:0.101548)[&label=42]:0.089019,((((('ACO33794.1_FliR_Acidobacterium_capsulatum_ATCC_51196':0.469033,'AFL88132.1_FliR_Terriglobus_roseus_DSM_18391':0.675592)[&label=100]:0.475294,('QOY87591.1_FliR_Paludibaculum_fermentans':0.597434,'QOY88838.1_FliR_Paludibaculum_fermentans':0.736864)[&label=100]:0.639747)[&label=54]:0.070066,(('AMW03980.1_HYP_GEMMAAP_02300_Gemmatimonas_phototrophica':0.320314,'QJR36468.1_FliR_Gemmatimonas_groenlandica':0.19206)[&label=69]:0.089302,'BAH37358.1_FliR_Gemmatimonas_aurantiaca_T-27':0.160078)[&label=100]:0.946195)[&label=69]:0.17103,'ATU63989.1_T3SS_Piscinibacter_gummiphilus':1.320148)[&label=47]:0.142397,(((((((('AJJ29725.1_SpaR_YscT_HrcT_plasmid_Yersinia_pestis':2.0E-6,'AJJ53100.1_SpaR_YscT_HrcT_plasmid_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.319816,'AAG05080.1_T3SS_Pseudomonas_aeruginosa_PAO1':0.254221)[&label=81]:0.142425,'BAC59937.1_T3SS_Vibrio_parahaemolyticus_RIMD_2210633':0.381703)[&label=94]:0.302265,('AJJ33845.1_SpaR_YscT_HrcT_Yersinia_pestis':2.0E-6,'AJJ54970.1_SpaR_YscT_HrcT_Yersinia_pseudotuberculosis_IP_32953':2.0E-6)[&label=100]:0.97674)[&label=76]:0.254614,(('ATU65457.1_EscT_YscT_HrcT_Piscinibacter_gummiphilus':0.844091,'ATU68234.1_EscT_YscT_HrcT_Piscinibacter_gummiphilus':0.996981)[&label=95]:0.310001,('QTD51120.1_SctT_Sulfidibacter_corallicola':0.593742,'ALJ56894.1_FliR_Xiphinematobacter_sp_Idaho_Grape':0.974627)[&label=62]:0.104544)[&label=40]:0.141702)[&label=45]:0.135369,'QKY94999.1_SctT_Shigella_sonnei':1.370145)[&label=99]:0.24974,(((('AAC68166.1_YopT_Chlamydia_trachomatis_D-UW-3-CX':0.129872,'AVM88575.1_EscT_YscT_HrcT_Chlamydia_muridarum_str_Nigg':0.03206)[&label=94]:0.134644,'AAP98781.1_YopT_Chlamydia_pneumoniae_TW-183':0.126019)[&label=61]:0.043555,'AGW38367.1_T3SS_Chlamydia_pecorum_PV3056-3':0.087313)[&label=100]:0.657766,('CCB85098.1_T3SS_Parachlamydia_acanthamoebae_UV-7':0.677709,'SCA59000.1_UNK_AB751O23_BV_00040_Chlamydiales_bacterium_SCGC_AB-751-O23':0.508379)[&label=99]:0.375254)[&label=100]:0.530369)[&label=84]:0.187567,(((((((('ABF86995.1_FliR_MopE_SpaR_Myxococcus_xanthus_DK_1622':2.0E-6,'UEO06735.1_FliR_Myxococcus_xanthus_DZ2':2.0E-6)[&label=100]:0.112387,'WP_002634453.1_EscT_YscT_HrcT_Myxococcus_hansupus':0.125634)[&label=77]:0.078283,'WP_015351765.1_EscT_YscT_HrcT_Myxococcus_stipitatus':0.228294)[&label=70]:0.069918,'AFE06766.1_FliR_MopE_SpaR_transport_Corallococcus_coralloides_DSM_2259':0.124781)[&label=67]:0.065993,'ADO74083.1_T3SS_Stigmatella_aurantiaca_DW4-3-1':0.220758)[&label=100]:0.928753,'ACL64092.1_T3SS-R_Anaeromyxobacter_dehalogenans_2CP-1':0.997559)[&label=96]:0.317072,'AWV90984.1_HYP_DN745_17290_Bradymonas_sediminis':0.668838)[&label=73]:0.210053,((((('ABF87286.1_FliR_MopE_SpaR_Myxococcus_xanthus_DK_1622':2.0E-6,'UEO02654.1_FliR_Myxococcus_xanthus_DZ2':2.0E-6)[&label=100]:0.040843,'WP_002637060.1_FliR_Myxococcus_hansupus':0.10042)[&label=99]:0.1588,'WP_015348417.1_FliR_Myxococcus_stipitatus':0.071987)[&label=49]:0.073483,('AFE08800.1_FliR_MopE_SpaR_Corallococcus_coralloides_DSM_2259':0.201905,'ADO70840.1_T3SS-R_Stigmatella_aurantiaca_DW4-3-1':0.305837)[&label=52]:0.084253)[&label=100]:0.705667,'QUV80008.1_SctT_Chloracidobacterium_thermophilum':0.781438)[&label=66]:0.139583)[&label=90]:0.219876)[&label=98]:0.292429)[&label=47]:0.101031)[&label=68]:0.158693,('ACI20273.1_flag_Thermodesulfovibrio_yellowstonii_DSM_11347':0.542579,'BCB96459.1_flag_Dissulfurispra_thermophila':0.433302)[&label=100]:0.729147)[&label=98]:0.457776,((('ACL94595.1_FliR_Caulobacter_vibrioides_NA1000':0.330429,'ADL02325.1_FliR_Brevundimonas_subvibrioides_ATCC_15264':0.423693)[&label=100]:0.34155,'AIK95853.1_HYP_ID47_02525_Odyssella_acanthamoebae':0.822573)[&label=56]:0.134459,('ABA04398.1_FliR_Nitrobacter_winogradskyi_Nb-255':0.569586,'AIQ90402.1_FliR_Methylobacterium_oryzae_CBMB20':0.589293)[&label=96]:0.294963)[&label=72]:0.107256)[&label=57]:0.059786,'AEI88618.1_FliR_Midichloria_mitochondrii_IricVA':1.946599)[&label=67]:0.0729,((('CDL00199.1_FliR_Magnetosprillum_gryphiswaldense_MSR-1_v2':0.261648,'WP_011383061.1_FliR_Paramagnetosprillum_magneticum':0.384662)[&label=97]:0.277162,'AEO49357.1_FliR_Rhodosprillum_rubrum_F11':0.647131)[&label=68]:0.268367,'WP_066578646.1_FliR_spingomonas_koreensis':1.074631)[&label=63]:0.139296)[&label=60]:0.278623,('ABQ62201.1_FliR_Brucella_ovis_ATCC_25840':1.004134,'AIQ89850.1_FliR_Methylobacterium_oryzae_CBMB20':0.668221)[&label=100]:0.581309)[&label=66]:0.610787,'ADE83822.1_FliR_Rhodobacter_capsulatus_SB_1003':0.458933)[&label=50]:0.277415,'WP_015921619.1_FliR_Cereibacter_spaeroides':0.252033)[&label=100]:8.08759)[&label=47]:0.07124,'AIQ89832.1_FliP_Methylobacterium_oryzae_CBMB20':0.163451)[&label=63]:0.142898,('BAC62685.1_Spa24_Vibrio_parahaemolyticus_RIMD_2210633':0.063335,'QEO42644.1_EscR_YscR_HrcR_Vibrio_cholerae':0.038299)[&label=98]:2.305413)[&label=73]:0.115991,'WP_075151395.1_FliP_spingomonas_koreensis':0.367843)[&label=82]:0.134352)[&label=42]:0.044921)[&label=98]:0.166857)[&label=53]:0.016631,(((('DGBBEKCF.02477_HYP_Verrucomicrobium_spVER_PRJEB386810_CAISZB01':2.0E-6,'PKPEBJJI.00943_HYP_Verrucomicrobium_spPRJEB38680_CAIZXV01':2.0E-6)[&label=100]:0.444852,'UPH48247.1_FliP_Listeria_innocua':1.027515)[&label=66]:0.079496,(('ACO34562.1_FliP_Acidobacterium_capsulatum_ATCC_51196':0.158424,'AFL88130.1_FliP_Terriglobus_roseus_DSM_18391':0.293202)[&label=100]:0.304414,('QOY88840.1_FliP_Paludibaculum_fermentans':0.21526,'QOY92236.1_FliP_Paludibaculum_fermentans':0.376158)[&label=100]:0.245258)[&label=99]:0.179582)[&label=61]:0.059866,'QTD54383.1_FliP_Sulfidibacter_corallicola':0.381699)[&label=68]:0.046362)[&label=61]:0.032353,(((((((('AMW06486.1_FliP_Gemmatimonas_phototrophica':0.036513,('BAH37361.1_FliP_Gemmatimonas_aurantiaca_T-27':0.060882,'QJR36460.1_FliP_Gemmatimonas_groenlandica':0.081147)[&label=99]:0.066145)[&label=100]:0.398702,(('ADD67095.1_FliP_Denitrovibrio_acetiphilus_DSM_12809':0.222795,'QAR32390.1_FliP_Geovibrio_thiophilus':0.150485)[&label=92]:0.099863,'USF23671.1_HYP_N508_000737_Mucisprillum_schaedleri_ASF457':0.260225)[&label=99]:0.135253)[&label=65]:0.03707,'QQS03556.1_FliP_Fibrobacterota_bacterium':0.380295)[&label=46]:0.069707,(((('QFG04306.1_FliP_Tepidiforma_bonchosmolovskayae':0.301844,('APC07906.1_FliP_precursor_Neomoorella_thermoacetica':0.184978,'BAS27513.1_FliP_Limnochorda_pilosa':0.27699)[&label=89]:0.077509)[&label=44]:0.034774,'ACL22146.1_FliP_Desulfitobacterium_hafniense_DCB-2':0.191271)[&label=73]:0.053402,(((('WP_015469320.1_FliP_Pseudobdellovibrio_exovorus':0.175012,'WP_142701535.1_FliP_Bdellovibrio':0.04051)[&label=71]:0.042126,'WP_243540791.1_FliP_Bdellovibrio_reynosensis':0.034829)[&label=68]:0.025023,'AHZ83695.1_FliP_Bdellovibrio_bacteriovorus':0.015535)[&label=100]:0.212981,'AAR33755.1_FliP_Geobacter_sulfurreducens_PCA':0.238274)[&label=68]:0.043342)[&label=63]:0.033137,'CAG37400.1_FliP_Desulfotalea_psychrophila_LSv54':0.357498)[&label=44]:0.029095)[&label=55]:0.055915,(('BAD41974.1_flag_Symbiobacterium_thermophilum_IAM_14863':0.342502,'CCW34439.1_FliP_Chthonomonas_calidirosea_T49':0.293035)[&label=77]:0.098967,'BAM06004.1_flag_Leptosprillum_ferrooxidans_C2-3':0.311537)[&label=28]:0.03449)[&label=43]:0.026951,(((((('AEM21950.1_FliP_Brachyspra_intermedia_PWS-A':0.012841,'CCG56693.1_FliP_Brachyspra_pilosicoli_WesB':0.05601)[&label=100]:0.396932,'EKT88254.1_FliP_Leptospra_santarosai_Shermani_str_LT_821':0.327029)[&label=36]:0.073153,('AWG41580.1_IIISP_Treponema_pallidum_subsp_pertenue':2.0E-6,'UOY13869.1_FliP_Treponema_pallidum_subsp_pallidum':2.0E-6)[&label=100]:0.42574)[&label=97]:0.22163,('QAT61621.1_FliP_Acidilutibacter_cellobiosedens':0.278933,((('AOO65163.1_FliP_Sulfurosprillum_haloresprans_DSM_13726':0.113733,'CAL34948.1_flag_Campylobacter_jejuni_subsp_jejuni_NCTC_11168_EQ_ATCC_700819':0.129555)[&label=85]:0.072844,'ALF47867.1_FliP_Campylobacter_concisus':0.17363)[&label=93]:0.046631,('ADN09319.1_FliP_Sulfurimonas_autotrophica_DSM_16294':0.224804,'ADG93598.1_FliP_Arcobacter_nitrofigilis_DSM_7299':0.266783)[&label=62]:0.040787)[&label=100]:0.218392)[&label=44]:0.019107)[&label=30]:0.034126,(((('ACB73699.1_FliP_Opitutus_terrae_PB90-1':0.165896,'ATC63662.1_FliP_Nibricoccus_aquaticus':0.15935)[&label=100]:0.230812,'ADL43205.1_FliP_Caldicellulosiruptor_obsidiansis_OB47':0.167126)[&label=88]:0.098496,('ABY94895.1_FliP_Thermoanaerobacter_pseudethanolicus_ATCC_33223':0.156546,'ALU37469.1_FliP_Clostridium_autoethanogenum_DSM_10061':0.42603)[&label=68]:0.058439)[&label=58]:0.046878,(('AJH77645.1_FliP_Heyndrickxia_coagulans_DSM_1_EQ_ATCC_7050':0.190197,'CAB13508.1_flag_Bacillus_subtilis_subsp_subtilis_str_168':0.124296)[&label=91]:0.071704,'ATO47943.1_FliP_Brevibacillus_laterosprus_DSM_25':0.180044)[&label=100]:0.14724)[&label=51]:0.035791)[&label=48]:0.019526,('ATX78572.1_FliP_Mariprofundus_aestuarium':0.048721,'ATX82907.1_FliP_Mariprofundus_ferrinatatus':0.00721)[&label=100]:0.285828)[&label=60]:0.038402)[&label=58]:0.043921,'ABC77214.1_flag_Syntrophus_aciditrophicus_SB':0.285905)[&label=55]:0.032036,((('MBG60108.1_FliP_Peredibacter_sp':0.165351,'WP_142409005.1_FliP_Bacteriovorax_stolpii':0.077822)[&label=100]:0.295917,'ALA58615.1_flag_Nitrospra_moscoviensis':0.255282)[&label=85]:0.07489,(((('ADB19002.1_FliP_Pirellula_staleyi_DSM_6068':0.165789,'QDU29150.1_FliP_precursor_Anatilimnocola_aggregata':0.152069)[&label=91]:0.090756,'QDU97598.1_FliP_precursor_Lignipirellula_cremea':0.359014)[&label=91]:0.091559,'CAD72041.1_FliP_Rhodopirellula_baltica_SH_1':0.34353)[&label=81]:0.081327,('ADY60073.1_FliP_Rubinispaera_brasiliensis_DSM_5305':0.450534,'ADV62897.1_T3SS-P_Isospaera_pallida_ATCC_43644':0.878499)[&label=51]:0.04143)[&label=100]:0.261888)[&label=66]:0.049881)[&label=80]:0.070159)[&label=99]:0.118809)[&label=89]:0.081847)[&label=73]:0.07003)[&label=79]:0.049142)[&label=86]:0.073941)[&label=100]:0.234522);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

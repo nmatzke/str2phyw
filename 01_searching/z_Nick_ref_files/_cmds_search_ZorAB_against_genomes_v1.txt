@@ -1,0 +1,601 @@
+
+# Unzip all of the protein files in a bunch of downloaded directories
+# https://stackoverflow.com/questions/32307136/unzip-files-in-subdirectories-bash
+
+cd ~/Downloads/z_genomes_wLitLinks_processing 
+
+# Find the protein zipfiles
+find ~/Downloads/z_genomes_wLitLinks/GCA_* -name "*protein.faa.gz"
+
+# Find the files and unzip
+find ~/Downloads/z_genomes_wLitLinks/GCA_* -name "*protein.faa.gz" -execdir gunzip '{}' \;
+
+# Concatenate (cat) the unzipped protein files
+find ~/Downloads/z_genomes_wLitLinks/GCA_* -name "*protein.faa" -execdir cat '{}' \; > genomes_wLitLinks.fasta
+
+
+
+
+
+
+
+#######################################################
+# We will search against:
+# ~/Downloads/z_genomes_wLitLinks_processing/genomes_wLitLinks+4+22.fasta 
+#######################################################
+
+# Make an alignment of the downloaded / known ZorA sequences; align against the MotA/TolQ/ExbB profile: IPR002898_AQB.hmm
+cd /GitHub/str2phy/ex/ZorAB/hmmer_profile_search/
+hmmalign --amino --informat fasta --outformat stockholm -o ZorA_genBank_starters_hmmaligned.sto IPR002898_AQB.hmm ZorA_genBank_starters.fasta | tee ZorA_genBank_starters_hmmaligned_so.txt &
+
+
+# Convert to aligned clustal format
+esl-reformat --informat stockholm clustal ZorA_genBank_starters_hmmaligned.sto | tee ZorA_genBank_starters_hmmaligned.clustal
+
+# Save to FASTA in AliView...
+ZorA_genBank_starters_hmmaligned.fasta
+
+# Realign outside the core HMM region
+
+setting5.txt
+==========
+1   524  realign --maxiterate 1000             # Comment can be added after #.
+525  624  preserve                             # Preserve sites 10-24
+625  1266  realign --maxiterate 1000           # Use transmembrane model for sites 25-60
+treeoption --reorder --localpair --thread -1            # "--thread -1" is applicable only on Linux and Mac.
+==========
+
+ruby regionalrealignment.rb setting5.txt ZorA_genBank_starters_hmmaligned.fasta > ZorA_genBank_starters_hmmaligned_mafftMiddleConstrained.fasta | tee ZorA_genBank_starters_hmmaligned_mafftMiddleConstrained.txt &
+
+# After manual alignment fixes to core edges, the core region is:
+430-586, producing:
+ZorA_genBank_starters_hmmaligned_mafftMiddleConstrained_v2core.fasta
+
+
+# Convert previous alignment to a profile
+hmmbuild --amino ZorA_genBank_starters_hmmaligned_mafftMiddleConstrained_v2core.hmm ZorA_genBank_starters_hmmaligned_mafftMiddleConstrained_v2core.fasta
+
+# Search against genomes
+cd /GitHub/str2phy/ex/ZorAB/hmmer_profile_search/
+
+# Search, and extract proteins:
+# http://cryptogenomicon.org/extracting-hmmer-results-to-sequence-files-easel-miniapplications.html
+
+# Create an SSI binary index for "genomes_wLitLinks.fasta"
+# (requires removal of any repeated GIDs; but very fast
+
+# Remove duplicates
+grep -c ">" ~/Downloads/z_genomes_wLitLinks_processing/genomes_wLitLinks+4+22.fasta 
+awk '/^>/{f=!d[$1];d[$1]=1}f' ~/Downloads/z_genomes_wLitLinks_processing/genomes_wLitLinks+4+22.fasta  > noDups.fasta
+grep -c ">" noDups.fasta
+
+
+esl-sfetch --index noDups.fasta
+# SSI index written to file noDups.fasta.ssi
+
+hmmsearch -E 0.31 --tblout ZorA_seqHitsTable.txt ZorA_genBank_starters_hmmaligned_mafftMiddleConstrained_v2core.hmm noDups.fasta | tee ZorA_seqHitsTable_so.txt
+
+grep -v "^#" ZorA_seqHitsTable.txt | awk '{print $1}' | esl-sfetch -f noDups.fasta - > ZorA_seqHitsTable.fasta
+
+
+~/Downloads/z_genomes_wLitLinks_processing/genomes_wLitLinks+4+22.fasta 
+
+
+
+# Use the ZorAB HMMs from Hu et al. 2024 to search for ZorAB1-3
+cd ~/GitHub/str2phy/ex/ZorAB/Taylor_etal_2023_ZorAB/PADLOC_for_HMMs 
+hmmsearch -E 0.31 --tblout ZorA1_00001_seqHitsTable.txt ZorA1_00001_PDLC00595.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00001_seqHitsTable.txt ZorA1_00001_PDLC00595.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00002_seqHitsTable.txt ZorA1_00002_PDLC00596.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00003_seqHitsTable.txt ZorA1_00003_PDLC00597.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00004_seqHitsTable.txt ZorA1_00004_PDLC00598.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00005_seqHitsTable.txt ZorA1_00005_PDLC00599.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00006_seqHitsTable.txt ZorA1_00006_PDLC00600.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00007_seqHitsTable.txt ZorA1_00007_PDLC00601.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00008_seqHitsTable.txt ZorA1_00008_PDLC00602.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00009_seqHitsTable.txt ZorA1_00009_PDLC00603.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00010_seqHitsTable.txt ZorA1_00010_PDLC00604.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00011_seqHitsTable.txt ZorA1_00011_PDLC00605.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00012_seqHitsTable.txt ZorA1_00012_PDLC00606.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00013_seqHitsTable.txt ZorA1_00013_PDLC00607.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00001_seqHitsTable.txt ZorB1_00001_PDLC00608.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00002_seqHitsTable.txt ZorB1_00002_PDLC00609.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00003_seqHitsTable.txt ZorB1_00003_PDLC00610.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00004_seqHitsTable.txt ZorB1_00004_PDLC00611.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00005_seqHitsTable.txt ZorB1_00005_PDLC00612.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+
+hmmsearch -E 0.31 --tblout ZorA2_00001_seqHitsTable.txt ZorA2_00001_PDLC00635.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00002_seqHitsTable.txt ZorA2_00002_PDLC00636.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00003_seqHitsTable.txt ZorA2_00003_PDLC00637.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00004_seqHitsTable.txt ZorA2_00004_PDLC00638.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00005_seqHitsTable.txt ZorA2_00005_PDLC00639.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00006_seqHitsTable.txt ZorA2_00006_PDLC00640.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorB2_00001_seqHitsTable.txt ZorB2_00001_PDLC00641.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+
+hmmsearch -E 0.31 --tblout ZorA3_00001_seqHitsTable.txt ZorA3_00001_PDLC00647.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA3_00002_seqHitsTable.txt ZorA3_00002_PDLC00648.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA3_00003_seqHitsTable.txt ZorA3_00003_PDLC00649.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorA3_00004_seqHitsTable.txt ZorA3_00004_PDLC00650.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout ZorB3_00001_seqHitsTable.txt ZorB3_00001_PDLC00651.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+
+
+# Search the old genomes for the flagella stuff (for reference)
+cd ~/GitHub/str2phy/ex/ZorAB/Taylor_etal_2023_ZorAB/PADLOC_for_HMMs 
+hmmsearch -E 0.31 --tblout MotA_ExbB_TolQ_fromAll_seqHitsTable.txt IPR002898_AQB.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+hmmsearch -E 0.31 --tblout MotB_ExbD_TolR_fromAll_seqHitsTable.txt IPR003400_ExbD_TolR.hmm ~/GitHub/str2phy/ex/ZorAB/hmmer_profile_search/noDups.fasta 
+
+
+
+ | tee ZorA_seqHitsTable_so.txt
+
+
+
+
+Add example genomes from Doron (2018):
+
+Zorya Type I	zorya_type_I		
+GCF_000017745.1
+
+ZORA_ECO24               729 aa            linear   BCT 24-JAN-2024
+DEFINITION  RecName: Full=Zorya protein ZorA.
+ACCESSION   A7ZI10
+VERSION     A7ZI10.2
+ZORA_ECO24, A7ZI10.2
+ABV17222.1 hypothetical protein EcE24377A_0285 [Escherichia coli O139:H28 str. E24377A]
+
+zorya_type_I	ZorB1	WP_000467667.1	OmpA family protein [Enterobacteriaceae]	NC_009801.1	304333	305073	-	265
+zorya_type_I	ZorA1	WP_000118667.1	anti-phage defense ZorAB system protein ZorA [Enterobacteriaceae]	NC_009801.1	305087	307276	-	266
+
+ZORB_ECO24               246 aa            linear   BCT 24-JAN-2024
+DEFINITION  RecName: Full=Zorya protein ZorB.
+ACCESSION   A7ZI09
+VERSION     A7ZI09.1
+ZORB_ECO24, A7ZI09.1, ABV17786.1 hypothetical protein EcE24377A_0284 [Escherichia coli O139:H28 str. E24377A]
+
+
+
+Zorya Type II	zorya_type_II		
+GCF_001997065.1
+
+
+
+zorya_type_II	ZorE2	WP_000777276.1	HNH endonuclease [Enterobacteriaceae]	NZ_MTFT01000019.1	2125	3228	-	4
+zorya_type_II	ZorB2	WP_000357805.1	OmpA family protein [Escherichia coli]	NZ_MTFT01000019.1	3232	3939	-	5
+zorya_type_II	ZorA2	WP_000880884.1	MotA/TolQ/ExbB proton channel family protein [Enterobacteriaceae]	NZ_MTFT01000019.1	3946	5598	-	6
+
+
+ZORA_ECOLC, P0DW01.1, OOC68711.1 hypothetical protein BWP13_12405 ZorA2 [Escherichia coli ATCC 8739]
+
+
+ZORB_ECOLC               235 aa            linear   BCT 28-JUN-2023
+DEFINITION  RecName: Full=Zorya protein ZorB.
+ACCESSION   P0DW02
+VERSION     P0DW02.1
+
+ZORB_ECOLC, P0DW02.1 OOC68710.1 cell envelope biogenesis protein OmpA ZorB2 ZORB_ECOLC P0DW02.1 [Escherichia coli ATCC 8739]
+
+Zorya Type III	zorya_type_III		
+GCF_000011705.1
+
+zorya_type_III	ZorA3	WP_004198084.1	DUF802 domain-containing protein [Burkholderia mallei]	NC_006349.2	1162186	1165002	+	1026
+zorya_type_III	ZorB3	WP_004198085.1	OmpA family protein [Burkholderia]	NC_006349.2	1164999	1165646	+	1027
+
+
+DUF802 domain-containing protein [Burkholderia mallei]
+NCBI Reference Sequence: WP_004198084.1
+>AAY59196.1 conserved hypothetical protein [Burkholderia mallei ATCC 23344]
+
+
+LOCUS       WP_004198085             215 aa            linear   BCT 22-MAY-2021
+DEFINITION  MULTISPECIES: OmpA family protein [Burkholderia].
+>AAU46288.1 ompA family protein [Burkholderia mallei ATCC 23344]
+
+>AAY59196.1 conserved hypothetical protein ZorA3	WP_004198084.1 [Burkholderia mallei ATCC 23344]
+MSRFHVHLVVFFAGLAAVCWIGAGYAVSNPVALAVTLVIAACYLAGALELRRYRQATSTLAQAVAALSEPPAALGAWLER
+LHPSLRHAVRVRVEGERVALPGPALTPYLVGLLVLLGMLGTLIGMVMTLRGTGAALESSTDLQAIRASLAAPVKGLGFAF
+GTSIAGVATSAMLGLLSALCRRERLDAAQALDAKIATTLRVHSHAHQRDETFRLLQRQADLMPTLVERLQAMMHSLEQQS
+AASAERQIAGQQAFLGKAEETYARLASSVGQSLTDSVAESARVAGSALQPVMETTMAGLARETAALHDALTQAVQRQLDG
+LSAGFETTAAQVADVWRHALADHQRSSDALAQRLHGSIDRIVESFDRRSADLLDGVRARLDATASSVSDAWRGALAQQEQ
+ANEAHAERNRQALETAAATFERHSAALLRTMSESHSALQATLESRDEQRLATWTDSLGSIAAKLGTEWAQTSAQAANRQQ
+TICDALAHTARDLSAQATAFEQHTAALLRAMSESHSALQATLESRDEQRLATWTDSLGSIAAKLGTEWAQTSAQAANRQQ
+AICDALAHTARDLSAQATAFEQHTAALLRAMSESHSALQATLESRDEQRLATWTDSLGSIAAKLGTEWEQTSAQAANRQQ
+AIYDALAHTARDLSAQATAFEQHTAALLRAMSESHSALQATLESRDEQRLATWTDSLGSIAAKLGTEWEQTSAQAANRQQ
+AIYDALAHTARDLSAHTQAHASATIAEISQLVQAASEAPRVAAEVVAELRQKLSDSMVRDTAMLEERNRMLAPLETLLDA
+VNHASSEQRAAVDALVATSSALLQRVGTQFTDEVGTQTDRLGGVAAQITGSAVEIASLGDALGAAVQSFGESNDKLVAHL
+QRIEAALDKSLARSDEQLAYYVAQAREVIDLSMMSQKQIIEELQRVGGERASAGAAAA
+>AAU46288.1 ompA family protein ZorB3	WP_004198085.1 [Burkholderia mallei ATCC 23344]
+MSDEIDGGIEQTAPIWAAFGDLMSVLLGAFVLILVGVIGVQLELSSKLDAEVRQRQLESQRRKTLEQALAAPLAAGRVTL
+VNGRIGISGSVLFALNSDELQPAGRDLLKSLAGPLAAYLNANHEILMVSGFADDLQVRAGNRRFADNWELSAKRALTVTR
+AFIDEGVPASSVFAAAFGSEQPVSPNSNDAGRAKNRRVEIAPVPRPTTGDGERRG
+
+
+
+# Added these new genomes to:
+/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+
+cd ~/GitHub/str2phy/ex/ZorAB/Taylor_etal_2023_ZorAB/PADLOC_for_HMMs 
+hmmsearch -E 0.31 --tblout ZorA1_00001_seqHitsTable2.txt ZorA1_00001_PDLC00595.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00001_seqHitsTable2.txt ZorA1_00001_PDLC00595.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00002_seqHitsTable2.txt ZorA1_00002_PDLC00596.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00003_seqHitsTable2.txt ZorA1_00003_PDLC00597.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00004_seqHitsTable2.txt ZorA1_00004_PDLC00598.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00005_seqHitsTable2.txt ZorA1_00005_PDLC00599.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00006_seqHitsTable2.txt ZorA1_00006_PDLC00600.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00007_seqHitsTable2.txt ZorA1_00007_PDLC00601.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00008_seqHitsTable2.txt ZorA1_00008_PDLC00602.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00009_seqHitsTable2.txt ZorA1_00009_PDLC00603.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00010_seqHitsTable2.txt ZorA1_00010_PDLC00604.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00011_seqHitsTable2.txt ZorA1_00011_PDLC00605.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00012_seqHitsTable2.txt ZorA1_00012_PDLC00606.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA1_00013_seqHitsTable2.txt ZorA1_00013_PDLC00607.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00001_seqHitsTable2.txt ZorB1_00001_PDLC00608.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00002_seqHitsTable2.txt ZorB1_00002_PDLC00609.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00003_seqHitsTable2.txt ZorB1_00003_PDLC00610.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00004_seqHitsTable2.txt ZorB1_00004_PDLC00611.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorB1_00005_seqHitsTable2.txt ZorB1_00005_PDLC00612.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+
+hmmsearch -E 0.31 --tblout ZorA2_00001_seqHitsTable2.txt ZorA2_00001_PDLC00635.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00002_seqHitsTable2.txt ZorA2_00002_PDLC00636.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00003_seqHitsTable2.txt ZorA2_00003_PDLC00637.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00004_seqHitsTable2.txt ZorA2_00004_PDLC00638.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00005_seqHitsTable2.txt ZorA2_00005_PDLC00639.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA2_00006_seqHitsTable2.txt ZorA2_00006_PDLC00640.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorB2_00001_seqHitsTable2.txt ZorB2_00001_PDLC00641.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+
+hmmsearch -E 0.31 --tblout ZorA3_00001_seqHitsTable2.txt ZorA3_00001_PDLC00647.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA3_00002_seqHitsTable2.txt ZorA3_00002_PDLC00648.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA3_00003_seqHitsTable2.txt ZorA3_00003_PDLC00649.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorA3_00004_seqHitsTable2.txt ZorA3_00004_PDLC00650.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout ZorB3_00001_seqHitsTable2.txt ZorB3_00001_PDLC00651.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+
+
+# Search the new genomes for the flagella stuff
+cd ~/GitHub/str2phy/ex/ZorAB/Taylor_etal_2023_ZorAB/PADLOC_for_HMMs 
+hmmsearch -E 0.31 --tblout MotA_ExbB_TolQ_seqHitsTable3.txt IPR002898_AQB.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+hmmsearch -E 0.31 --tblout MotB_ExbD_TolR_seqHitsTable3.txt IPR003400_ExbD_TolR.hmm ~/Downloads/z_genomes_wLitLinks_adding/2024-02-04_proteomes_new/2024-02-04_new_genomes.fasta 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zorya (other)	zorya_other		
+
+
+
+
+
+
+
+
+# JackHMMER (to build profile from scratch)
+# jackhmmer --domtblout AQBs_wLitLinks_HitsTable.txt -A AQBs_wLitLinks_aln.fasta motA_homologs_compSamp3_noHypotheticals.fasta genomes_wLitLinks.fasta | tee screenoutput.txt &
+
+# Basic
+# hmmsearch motA_homologs_compSamp3_noHypotheticals.hmm genomes_wLitLinks.fasta
+
+hmmsearch --tblout -E 0.31 AQBs_wLitLinks_seqHitsTable.txt motA_homologs_compSamp3_noHypotheticals.hmm genomes_wLitLinks.fasta  
+
+grep -v "^#" AQBs_wLitLinks_seqHitsTable.txt | awk '{print $1}' | esl-sfetch -f genomes_wLitLinks.fasta - > AQBs_wLitLinks_aln.fasta
+
+genomes_wLitLinks+4+22.fasta
+
+
+
+
+# Advanced -- search proteins w LitLinks against profile
+# -o <f>           : direct output to file <f>, not stdout
+# -A <f>           : save multiple alignment of all hits to file <f>
+# --domtblout <f>  : save parseable table of per-domain hits to file <f>
+hmmsearch -o hmmsearch_wLitLinks_output.txt -A AQBs_wLitLinks_aln.sto --domtblout AQBs_wLitLinks_domainHitsTable.txt motA_homologs_compSamp3_noHypotheticals.hmm genomes_wLitLinks.fasta | tee hmmsearch_screenoutput.txt &
+
+# still outputs a stokholm output (boo)
+hmmsearch --noali -A AQBs_wLitLinks_aln.fasta --domtblout AQBs_wLitLinks_domainHitsTable.txt motA_homologs_compSamp3_noHypotheticals.hmm genomes_wLitLinks.fasta | tee hmmsearch_screenoutput.txt &
+
+hmmsearch --noali -A AQBs_wLitLinks_aln.fasta --tblout AQBs_wLitLinks_seqHitsTable.txt motA_homologs_compSamp3_noHypotheticals.hmm genomes_wLitLinks.fasta | tee hmmsearch_screenoutput.txt &
+
+
+
+grep -v "^#" AQBs_wLitLinks_seqHitsTable.txt | awk '{print $1}' | esl-sfetch -f genomes_wLitLinks.fasta - > AQBs_wLitLinks_aln.fasta
+
+
+
+# Linearize the fasta:
+# https://www.biostars.org/p/319099/
+# (one sequence per line)
+awk '/^>/ {printf("%s%s\t",(N>0?"\n":""),$0);N++;next;} {printf("%s",$0);} END {printf("\n");}' < genomes_wLitLinks.fasta > genomes_wLitLinks_linear.fasta
+
+# Extract the IDs from the hits table
+grep -v "^#" AQBs_wLitLinks_seqHitsTable.txt | awk '{print $1}' > AQBs_wLitLinks_seqHitsTable_IDs.txt
+
+# Works but slow
+while read IDS ; do grep "\b$IDS\b" genomes_wLitLinks_linear.fasta ; done < AQBs_wLitLinks_seqHitsTable_IDs.txt > AQBs_wLitLinks.fasta | tee so1.txt %
+
+# FAST BUT CAN'T GET TO WORK
+# https://www.biostars.org/p/319099/
+# cd ~/Downloads/z_genomes_wLitLinks_processing 
+# 
+# seqkit grep -n -f id.txt seqs.fq.gz -C
+# 
+# seqkit grep -n -f AQBs_wLitLinks_seqHitsTable_IDs.txt genomes_wLitLinks_linear.fasta > AQBs_wLitLinks2_linear.fasta
+# seqkit grep -r -f AQBs_wLitLinks_seqHitsTable_IDs.txt genomes_wLitLinks_linear.fasta -C
+# seqkit grep --id-ncbi -f AQBs_wLitLinks_seqHitsTable_IDs.txt genomes_wLitLinks_linear.fasta -C
+
+
+
+
+Merged the old and new AQB sequences in:
+1221_seqs_merged.fasta
+
+# Align sequences to precalculated InterPro profile:
+
+cd /Users/nmat471/Downloads/iqtree_genomes_wLitLinks/
+
+hmmalign --amino --outformat stockholm -o 1221_seqs_merged.sto IPR002898_AQB.hmm 1221_seqs_merged.fasta | tee so1221.txt &
+
+
+# Convert to aligned clustal format
+esl-reformat --informat stockholm clustal 1221_seqs_merged.sto | tee 1221_seqs_merged.clustal
+
+# I cut obviously weak sequences, 1214 left
+
+# Align outside of 
+481-671
+1214_seqs_merged.fasta
+
+#################################################
+# Try a mafft regional re-alignment
+#################################################
+# https://mafft.cbrc.jp/alignment/software/regionalrealignment.html
+
+ruby regionalrealignment.rb setting4.txt 1214_seqs_merged.fasta > 1214_seqs_merged_mafftMiddleConstrained2.fasta | tee 1214_seqs_merged_mafftMiddleConstrained2.txt &
+
+
+
+
+
+
+# Manually cut to core alignment
+cd /Users/nmat471/Downloads/iqtree_genomes_wLitLinks 
+
+iqtree -t BIONJ -s 1214_seqs_hmmcore.fasta -m LG+F+G --ufboot 1000 -bnni | tee 1214_seqs_hmmcore_so1.txt &
+
+
+# Mafft, middle-constrained alignment
+cd /Users/nmat471/Downloads/iqtree_genomes_wLitLinks 
+
+iqtree -t BIONJ -s 1214_seqs_merged_mafftMiddleConstrained2.fasta -m LG+F+G --ufboot 1000 -bnni | tee 1214_seqs_merged_mafftMiddleConstrained2_so1.txt &
+
+
+
+
+
+
+
+
+
+
+
+
+# Copy protein fasta files to a new directory
+
+# Archive example codes...
+# Find the unzipped protein files
+# find ~/Downloads/z_genomes_wLitLinks/GCA_* -name "*protein.faa" -execdir cat '{}' \; > genomes_wLitLinks.fasta
+# awk '/>/{sub(">","&"FILENAME"_");sub(/\.fasta/,x)}1' sample_1.fasta
+
+
+# Copy proteomes of flag1-5 to z_proteomes_wFns
+cd ~/Downloads/z_genomes_wLitLinks/
+find ~/Downloads/z_genomes_wLitLinks/GCA_* -name "*protein.faa" -execdir cp '{}' ~/Downloads/z_proteomes_wFns \;
+
+# Copy proteomes of original genomes to z_proteomes_wFns
+cd ~/Downloads/Full_genomes/genomes 
+
+# Find all gzips and unzip
+
+# Find
+find . -type f -name "*.faa.gz"
+find . -type f -name "*.faa"
+
+# Zip the few you find, for backup
+find . -type f -name "*.faa" -execdir gzip '{}' \;
+
+# Unzip all
+find . -type f -name "*.faa.gz" -execdir gunzip '{}' \;
+
+# Copy all to huge directory
+cd /Users/nmat471/Downloads/Full_genomes/genomes
+find . -type f -name "*_protein.faa" | wc -l
+#find . -type f -name "*.faa" -execdir cat '{}' \; > ~/Downloads/proteomes_orig.fasta
+find . -type f -name "*_protein.faa" -execdir cp '{}' ~/Downloads/z_proteomes_wFns \;
+
+
+
+# WORKS: put filename at the front of every fasta entry; cat to "proteins_orig_plus_flag1-5_wFNs.fasta"
+# (NOTE: the filename is repeated MANY TIMES, until you get to the NEXT GENOME)
+cd /Users/nmat471/Downloads/z_proteomes_wFns 
+for f in *.faa; do awk '/>/{sub(">","&"FILENAME"|");sub(/\.faa/,x)}1' "$f"; done > proteins_orig_plus_flag1-5_wFNs.fasta
+
+
+# DOESN'T WORK: https://stackoverflow.com/questions/64558318/add-filename-to-fasta-headers-in-a-loop-with-awk
+# for f in *.faa; do sed -i "s/^>/>${f%.faa}/g" "${f}"; done
+# DOESN'T WORK
+
+#######################################################################
+# Cut down to the entries with matching GIDs - new flag1-5 hits
+#######################################################################
+# Search, and extract proteins:
+# http://cryptogenomicon.org/extracting-hmmer-results-to-sequence-files-easel-miniapplications.html
+
+# Create an SSI binary index for "genomes_wLitLinks.fasta"
+# (requires removal of any repeated GIDs; but very fast
+cd ~/Downloads/z_proteomes_wFns/
+
+# Index (ensures there are no duplicate entries)
+esl-sfetch --index genomes_wLitLinks.fasta
+
+# Linearize the fasta:
+# https://www.biostars.org/p/319099/
+# (one sequence per line)
+awk '/^>/ {printf("%s%s\t",(N>0?"\n":""),$0);N++;next;} {printf("%s",$0);} END {printf("\n");}' < proteins_orig_plus_flag1-5_wFNs.fasta > proteins_orig_plus_flag1-5_wFNs_linear.fasta
+
+# Extract the IDs from the hits table
+#grep -v "^#" AQBs_wLitLinks_seqHitsTable.txt | awk '{print $1}' > AQBs_wLitLinks_seqHitsTable_IDs.txt
+
+# Extract the NEW hmmer hits to the flag1-5 dataset
+# Works but slow: match each ID from AQBs_wLitLinks_seqHitsTable.txt 
+while read IDS ; do grep "\b$IDS\b" proteins_orig_plus_flag1-5_wFNs_linear.fasta ; done < AQBs_wLitLinks_seqHitsTable_IDs.txt > AQBs_flag1-5_wLitLinks.fasta | tee so1.txt %
+
+
+#######################################################################
+# Cut down to the entries with matching GIDs - ORIGINAL hits
+#######################################################################
+# Extract the OLD, ORIGINAL hmmer hits to orig
+# Works but slow: match each ID from AQBs_wLitLinks_seqHitsTable.txt 
+# R:
+library(seqinr)				# for read.fasta
+wd = "~/Downloads/z_proteomes_wFns/"
+setwd(wd)
+fn = "580_seqs_merged.fasta"
+seqs = seqinr::read.fasta(fn)
+seq_gids = names(aln)
+length(seq_gids)
+write(x=seq_gids, file="AQBs_orig_IDs.txt", sep="\n")
+
+cd ~/Downloads/z_proteomes_wFns/
+while read IDS ; do grep "\b$IDS\b" proteins_orig_plus_flag1-5_wFNs_linear.fasta ; done < AQBs_orig_IDs.txt > AQBs_orig_wLitLinks.fasta | tee so1.txt %
+
+# De-linearize (or, de-linearize by find-replace tabs with returns in BBedit, i.e. \t to \n )
+cp AQBs_orig_wLitLinks.fasta AQBs_orig_wLitLinks_Linear.fasta
+awk '/^>/ {printf("%s%s\n",(N>0?"\t":""),$0);N++;next;} {printf("%s",$0);} END {printf("\n");}' < AQBs_orig_wLitLinks_Linear.fasta > AQBs_orig_wLitLinks.fasta
+
+
+
+
+# (then, paste in the original matches dataset)
+cd ~/Downloads/z_proteomes_wFns/
+cp AQBs_wLitLinks.fasta ~/Downloads/iqtree_genomes_wLitLinks/
+cp AQBs_orig_wLitLinks.fasta ~/Downloads/iqtree_genomes_wLitLinks/
+cd ~/Downloads/iqtree_genomes_wLitLinks/
+cat AQBs_orig_wLitLinks.fasta AQBs_wLitLinks.fasta  > AQBs_Orig+wLitLinks.fasta
+
+
+#######################################################
+# R code: extract these labels
+#######################################################
+# Setup
+library(ape)
+library(phytools)
+library(seqinr)				# for read.fasta
+library(BioGeoBEARS)	# for cls.df
+library(gdata)				# for trim
+library(stringr) 			# for regmatches
+library(seqinr) 			# for read.fasta
+library(openxlsx)			# for openxlsx::read.xlsx
+
+sourceall("/GitHub/bioinfRhints/Rsrc/") # for protein_bioinf_v1.R
+
+wd = "~/Downloads/iqtree_genomes_wLitLinks/"
+setwd(wd)
+
+seqsfn = "AQBs_orig+flag1-5_wLitLinks.fasta"
+
+seqs = seqinr::read.fasta(seqsfn, seqtype="AA")
+fullnames = fullnames_from_readFasta(seqs)
+seq_gids = names(seqs)
+length(seq_gids)
+
+# Parse the info
+fns = rep("", times=length(fullnames))
+genome_id = rep("", times=length(fullnames))
+assembly_id = rep("", times=length(fullnames))
+gids = rep("", times=length(fullnames))
+desc = rep("", times=length(fullnames))
+taxon = rep("", times=length(fullnames))
+genus = rep("", times=length(fullnames))
+species = rep("", times=length(fullnames))
+strain = rep("", times=length(fullnames))
+
+fullnames2 = unname(fullnames)
+
+i = 1
+cat("\nProcessing ", length(fullnames2), " sequence names: ")
+for (i in 1:length(fullnames2))
+	{
+	cat(i, ",", sep="")
+	words = strsplit(x=fullnames2[i], split="\\|")[[1]]
+	fns[i] = words[1]
+	
+	tmpword = sub("_", "|", fns[i])
+	tmpword = sub("Verrucomicrobium_sp", "VerrucomicrobiumSp", tmpword)
+	
+	fns_words = strsplit(x=tmpword, split="\\_")[[1]]
+	genome_id[i] = fns_words[1]
+	genome_id[i] = sub("\\|", "_", genome_id[i])
+	genome_id[i] = sub("VerrucomicrobiumSp", "Verrucomicrobium_sp", genome_id[i])
+	assembly_id[i] = fns_words[2]
+	
+	rest = words[2]
+	gid_words = strsplit(x=rest, split=" ")[[1]]
+	gids[i] = gid_words[1]
+	string_to_strip = paste0(fns[i], "\\|", gids[i], " ")
+	remainder = gsub(pattern=string_to_strip, replacement="", x=fullnames2[i])
+	remainder
+	
+	if (grepl(pattern="Verrucomicrobium_sp", x=genome_id[i]) == TRUE)
+		{
+		remainder = paste0(remainder, " [Verrucomicrobium sp uncultured]")
+		}
+	
+	remainder_words = strsplit(x=remainder, split="\\[")[[1]]
+	desc[i] = gdata::trim(remainder_words[1])
+	taxon[i] = gdata::trim(remainder_words[2])
+	taxon[i] = gdata::trim(gsub(pattern="\\]", replacement="", x=taxon[i]))
+	
+	taxon_words = strsplit(x=taxon[i], split=" ")[[1]]
+	genus[i] = taxon_words[1]
+	species[i] = taxon_words[2]
+	if (length(taxon_words) > 2)
+		{
+		strain[i] = paste(taxon_words[3:length(taxon_words)], sep="", collapse=" ")
+		}
+	}
+cat("...done.\n")
+
+translate_table = cbind(fullnames, fns, genome_id, assembly_id, gids, desc, taxon, genus, species, strain)
+translate_df = as.data.frame(translate_table, stringsAsFactors=FALSE)
+names(translate_df) = c("fullnames", "fns", "genome_id", "assembly_id", "gids", "desc", "taxon", "genus", "species", "strain")
+row.names(translate_df) = NULL
+head(translate_df)
+tail(translate_df)
+
+TF = grepl(pattern="Verruco", x=translate_df$fullnames)
+translate_df[TF,]
+
+TF = grepl(pattern="Chlam", x=translate_df$fullnames)
+translate_df[TF,]
+
+
+
+#######################################################
+# Save to table
+#######################################################
+outfn = "AQBs_orig+flag1-5_wLitLinks_table.txt"
+write.table(x=translate_df, file=outfn, quote=FALSE, sep="\t", row.names=FALSE, col.names=TRUE)
+
+# Hopefully no duplicates
+TF = translate_df$gids == "AEP30903.1"
+translate_df[TF,]
+
+
+
+
+
