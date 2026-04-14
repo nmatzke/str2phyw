@@ -95,11 +95,11 @@ GCA_000008425.1|AAU42359.1     -          ExbD                 PF02472.19      0
 GCA_003019855.1|AVQ87025.1     -          ExbD                 PF02472.19      0.28   14.0   0.0       2.4   11.0   0.0   2.0   2   0   0   2   2   2   0 pseudaminic acid synthase [Plesiomonas shigelloides]
 #
 # Program:         hmmsearch
-# Version:         3.4 (Aug 2023)
+# Version:         3.3.2 (Nov 2020)
 # Pipeline mode:   SEARCH
 # Query file:      IPR003400_ExbD_TolR.hmm
-# Target file:     /Users/nmat471/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta
-# Option settings: hmmsearch --tblout MotB_ExbD_TolR_fromAll_seqHitsTable.txt -E 0.31 IPR003400_ExbD_TolR.hmm /Users/nmat471/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta 
-# Current dir:     /Users/nmat471/Documents/GitHub/str2phyw/01_searching
-# Date:            Tue Apr 14 09:41:41 2026
+# Target file:     /Users/nickm/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta
+# Option settings: hmmsearch --tblout MotB_ExbD_TolR_fromAll_seqHitsTable.txt -E 0.31 IPR003400_ExbD_TolR.hmm /Users/nickm/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta 
+# Current dir:     /System/Volumes/Data/GitHub/str2phyw/01_searching
+# Date:            Tue Apr 14 15:16:24 2026
 # [ok]

@@ -153,11 +153,11 @@ GCA_000016265.1|ACM29267.1     -          MotA_ExbB            PF01618.19      0
 GCA_000021005.1|ACM00472.1     -          MotA_ExbB            PF01618.19       0.3   13.6   3.9      0.48   12.9   0.8   2.8   2   1   0   2   2   1   0 Hypothetical Protein RSKD131_0612 [Cereibacter sphaeroides KD131]
 #
 # Program:         hmmsearch
-# Version:         3.4 (Aug 2023)
+# Version:         3.3.2 (Nov 2020)
 # Pipeline mode:   SEARCH
 # Query file:      IPR002898_AQB.hmm
-# Target file:     /Users/nmat471/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta
-# Option settings: hmmsearch --tblout MotA_ExbB_TolQ_fromAll_seqHitsTable.txt -E 0.31 IPR002898_AQB.hmm /Users/nmat471/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta 
-# Current dir:     /Users/nmat471/Documents/GitHub/str2phyw/01_searching
-# Date:            Tue Apr 14 09:41:36 2026
+# Target file:     /Users/nickm/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta
+# Option settings: hmmsearch --tblout MotA_ExbB_TolQ_fromAll_seqHitsTable.txt -E 0.31 IPR002898_AQB.hmm /Users/nickm/GitHub/str2phyw/01_searching/genomes/34_genomes_AAs.fasta 
+# Current dir:     /System/Volumes/Data/GitHub/str2phyw/01_searching
+# Date:            Tue Apr 14 15:16:42 2026
 # [ok]

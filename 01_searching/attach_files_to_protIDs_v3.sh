@@ -60,7 +60,7 @@ while read d; do
   grep "^>" "$filename" | sed "s/^>/$d2f\\t/" >> $outfn1
 done <dirslist.txt
 
-echo "...Done!"
+echo "...Done"
 
 # Change back to home directory
 cd "$starting_dir" || { echo "Error: Could not change to starting_dir=$starting_dir"; exit 1; }

@@ -152,6 +152,7 @@ nrow(df1) 							# 1686098
 df2 = read.table(file="all_seqnames2.txt", header=FALSE, sep="\t", quote="", row.names=NULL, fill=TRUE, strip.white=TRUE, blank.lines.skip=TRUE, stringsAsFactors=FALSE)
 dim(df2)								# 127995      2
 nrow(df2) 							# 127995
+head(df2)
 length(unique(df2$V2)) # 127995
 
 

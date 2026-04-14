@@ -29,7 +29,7 @@ while read genomeID; do
 	echo $genomeID
 	ftp_url=""
 
-	# GCA_ genomes from GebBank
+	# GCA_ genomes from GenBank
 	if [[ $genomeID == GCA_* ]]; then 
 		echo "esearch is looking for the FTP url for the GCA_ genome"
 
