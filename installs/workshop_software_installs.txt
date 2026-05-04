@@ -54,18 +54,50 @@ Foldseek - https://github.com/steineggerlab/foldseek
 #######################################################
 # Sequence manipulation
 #######################################################
-mmseqs2 - https://dev.mmseqs.com/latest/
-seqkit - https://bioinf.shenwei.me/seqkit/
-Meme Suite - https://meme-suite.org/meme/doc/download.html (eg for clustalw2fasta)
-easel (ESL) - https://github.com/EddyRivasLab/easel
+# mmseqs2 - https://dev.mmseqs.com/latest/
+# (faster than BLASTp, e.g. for local search)
+
+# macOS (universal, works on Apple Silicon and Intel Macs)
+cd ~/Downloads/z_installs/
+wget https://mmseqs.com/latest/mmseqs-osx-universal.tar.gz
+tar xvfz mmseqs-osx-universal.tar.gz
+cd mmseqs/bin
+./mmseqs version
+
+sudo cp mmseqs /usr/local/bin/
+mmseqs version
+mmseqs easy-search -h
+
+# Pre-compute index for a FASTA file target database
+mmseqs createdb examples/DB.fasta targetDB
+mmseqs createindex targetDB tmp
+mmseqs easy-search examples/QUERY.fasta targetDB alnRes.m8 tmp
+
+
+
+# seqkit - https://bioinf.shenwei.me/seqkit/
+seqkit -h
+
+
+# Meme Suite - https://meme-suite.org/meme/doc/download.html (eg for clustalw2fasta)
+meme -version
+
+# easel (ESL) - https://github.com/EddyRivasLab/easel
+easel --version
 
 # NCBI/genbank NCBI Datasets command-line tools:
 https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/
 # (includes dataformat, datasets )
+dataformat -h
+datasets --version
+datasets -h
+
 
 # esearch 
 # (from Edirect -- Entrez Direct: E-utilities on the Unix Command Line )
 # https://www.ncbi.nlm.nih.gov/books/NBK179288/
+esearch -h
+# elink, esearch, efetch, xtract
 
 
 # Format changing
